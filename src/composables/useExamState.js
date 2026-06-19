@@ -87,12 +87,13 @@ async function loadExamList() {
   allCorrections.value = loadAllCorrections()
   customExamList.value = loadCustomExams()
 
-  const res = await fetch('/data/index.json')
+  const base = import.meta.env.BASE_URL
+  const res = await fetch(`${base}data/index.json`)
   const files = await res.json()
 
   fileExamList.value = await Promise.all(
     files.map(async (file) => {
-      const r = await fetch(`/data/${file}`)
+      const r = await fetch(`${base}data/${file}`)
       const data = await r.json()
       const exam = Array.isArray(data) ? {} : (data.exam ?? {})
       const qs   = Array.isArray(data) ? data : (data.questions ?? [])
@@ -103,7 +104,7 @@ async function loadExamList() {
 
 /** Open a file-based exam. */
 async function openExam(file) {
-  const res = await fetch(`/data/${file}`)
+  const res = await fetch(`${import.meta.env.BASE_URL}data/${file}`)
   const data = await res.json()
   rawQuestions.value = Array.isArray(data) ? data : (data.questions ?? [])
   examInfo.value      = Array.isArray(data) ? {} : (data.exam ?? {})
