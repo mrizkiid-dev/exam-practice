@@ -1,0 +1,955 @@
+{
+  "exam": {
+    "name": "Ujian Akhir Semester",
+    "matkul": "Kewirausahaan di Era Digital",
+    "semester": "4",
+    "prodi": "Teknik Informatika"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "Salah satu wujud karakteristik unggul seorang wirausaha adalah memiliki empati, yaitu…",
+      "options": ["Kemampuan menginspirasi orang lain", "Kemampuan mengendalikan diri seperti orang lain", "Kemampuan menempatkan diri pada posisi orang lain", "Kebiasaan berfikir sebelum bertindak"],
+      "answer": 2,
+      "explanation": "Empati adalah kemampuan menempatkan diri pada posisi orang lain untuk memahami perasaan dan sudut pandang mereka."
+    },
+    {
+      "id": 2,
+      "question": "Karakter dari badan usaha perseorangan adalah…",
+      "options": ["Tugas dan tanggung jawab terbatas", "Berakhir jika salah satu anggota meninggal", "Dapat dipindahtangankan swaktu-waktu", "Modal lebih cepat cair"],
+      "answer": 2,
+      "explanation": "Badan usaha perseorangan dapat dipindahtangankan kapan saja karena dimiliki oleh satu orang."
+    },
+    {
+      "id": 3,
+      "question": "Terdapat lima tahapan yang harus dilakukan seseorang saat memulai aktivitas kewirausahaan. Salah satu tahapan tersebut merekomendasikan wirausaha untuk melakukan penelaahan atas peristiwa yang terjadi pada bisnisnya. Tahapan yang menggambarkan fenomena tersebut adalah…",
+      "options": ["Mengembangkan rencana bisnis", "Merancang konsep bisnis berbasis kemandirian", "Memulai menjalankan ide bisnis", "Meraih kesuksesan atau mengalami kegagalan"],
+      "answer": 3,
+      "explanation": "Tahap meraih kesuksesan atau mengalami kegagalan adalah saat wirausaha melakukan penelaahan atas peristiwa yang terjadi pada bisnisnya."
+    },
+    {
+      "id": 4,
+      "question": "Contoh peluang usaha menjual melalui toko online adalah…",
+      "options": ["Tokopedia", "Mengolah dan mencari data secara online", "Endorse di Instagram yang memiliki banyak follower", "Membuat konten video ulasan produk"],
+      "answer": 0,
+      "explanation": "Tokopedia adalah platform toko online tempat wirausaha dapat berjualan produk secara digital."
+    },
+    {
+      "id": 5,
+      "question": "Nilai waktu hidup dalam pendekatan lean canvas dalam model bisnis merupakan bagian dari…",
+      "options": ["Life time value", "Key metrics", "Channels", "Customer segment"],
+      "answer": 1,
+      "explanation": "Life time value (nilai waktu hidup pelanggan) merupakan bagian dari Key Metrics dalam lean canvas."
+    },
+    {
+      "id": 6,
+      "question": "Efektuasi adalah seperangkat prinsip pengambilan keputusan yang dilakukan wirausaha dalam menghadapi situasi yang tidak pasti. Salah satu prinsipnya adalah prinsip lemonade yaitu…",
+      "options": ["Kemampuan seorang wirausaha untuk mengubah hal yang menyulitkan menjadi sesuatu yang menyenangkan", "Kesiapan wirausaha menanggung kerugian atas usaha yang didirikannya", "Kemampuan mengenal diri pribadi dan orang-orang yang dikenal yang bermanfaat bagi usaha", "Kreativitas dalam mengubah hal-hal yang tidak menyenangkan menjadi satu hal yang menarik"],
+      "answer": 0,
+      "explanation": "Prinsip lemonade adalah kemampuan wirausaha mengubah hal yang menyulitkan (seperti lemon) menjadi sesuatu yang menyenangkan (seperti lemonade)."
+    },
+    {
+      "id": 7,
+      "question": "Prinsip effectuation apa saja yang kita miliki adalah prinsip…",
+      "options": ["Crazi Quit", "Bird in Hand", "Pilot in The Plane", "Affrodable loss"],
+      "answer": 1,
+      "explanation": "Bird in Hand adalah prinsip effectuation yang berkaitan dengan menggunakan sumber daya yang sudah dimiliki (apa yang kita punya)."
+    },
+    {
+      "id": 8,
+      "question": "Memiliki model bisnis dapat memberikan sejumlah manfaat bagi wirausaha yang ingin mengelola usahanya secara sukses dan dapat bertahan dalam jangka panjang. Berikut ini yang tidak termasuk peran model bisnis dalam pendirian usaha adalah…",
+      "options": ["Menciptakan keunggulan bersaing", "Menjaga keberlanjutan keuangan", "Membantu penyediaan modal bisnis", "Memberikan informasi kepada investor"],
+      "answer": 2,
+      "explanation": "Model bisnis tidak berperan langsung dalam membantu penyediaan modal bisnis. Peran model bisnis adalah menciptakan keunggulan bersaing, menjaga keberlanjutan keuangan, dan memberikan informasi kepada investor."
+    },
+    {
+      "id": 9,
+      "question": "Seorang wirausaha harus memiliki karakter kepercayaan diri yang tinggi, ciri dari karakter ini adalah…",
+      "options": ["Berani menerima tantangan", "Berani berbaur dengan orang baru", "Belajar dan bangkit dari kegagalan", "Berani promosi produk baru ke pelanggan"],
+      "answer": 0,
+      "explanation": "Ciri kepercayaan diri yang tinggi pada wirausaha adalah berani menerima tantangan."
+    },
+    {
+      "id": 10,
+      "question": "Shared leadership digunakan dalam pengelolaan usaha yang akan memberikan manfaat kepada wirausaha. Berikut ini adalah manfaat dari shared leadership, KECUALI…",
+      "options": ["Tujuan menjadi jelas", "Memberikan pengakuan kepada orang lain", "Mendorong orang lain mencapai tujuan", "Badan usaha terbagi"],
+      "answer": 3,
+      "explanation": "Badan usaha terbagi bukan merupakan manfaat dari shared leadership. Shared leadership bertujuan untuk tujuan yang jelas, pengakuan kepada orang lain, dan mendorong pencapaian tujuan."
+    },
+    {
+      "id": 11,
+      "question": "Aturan mendasar saat membuat elemen ringkasan pekerjaan dalam menyusun job description adalah…",
+      "options": ["Menggunakan kalimat pasif", "Menjelaskan persyaratan jabatan", "Menggunakan kata kerja khusus", "Menjelaskan persyaratan pekerjaan yang diperlukan"],
+      "answer": 2,
+      "explanation": "Aturan mendasar dalam membuat ringkasan pekerjaan job description adalah menggunakan kata kerja khusus yang menggambarkan tugas secara tepat."
+    },
+    {
+      "id": 12,
+      "question": "Banyak wirausaha yang berhasil meraih kesuksesan dalam menjalankan usahanya karena mampu menata diri sehingga memperoleh penerimaan dari masyarakat. Termasuk klasifikasi manakah sikap wirausaha tersebut?",
+      "options": ["Etos kerja", "Kepribadian", "Kemampuan dasar", "Mental wirausaha"],
+      "answer": 1,
+      "explanation": "Kemampuan menata diri untuk memperoleh penerimaan masyarakat merupakan bagian dari kepribadian wirausaha."
+    },
+    {
+      "id": 13,
+      "question": "Menemukan flow dapat membawa efek positif bagi wirausaha di masa mendatang. Berikut ini adalah pernyataan yang terkait dengan Flow, KECUALI…",
+      "options": ["Menandai adanya penyerapan secara total apa yang dilakukan seseorang", "Kondisinya dipengaruhi oleh keseimbangan antara kapasitas dan peluang", "Dapat digunakan untuk mengembangkan potensi diri", "Dapat dilepaskan dengan lingkungannya"],
+      "answer": 3,
+      "explanation": "Flow tidak dapat dilepaskan dari lingkungannya; justru flow terjadi dalam konteks interaksi antara kapasitas individu dan tantangan lingkungan."
+    },
+    {
+      "id": 14,
+      "question": "Kemampuan membuat kombinasi baru antara unsur, data atau variabel yang sudah ada sebelumnya, dapat menjadi ide awal pengembangan kewirausahaan di era digital. Kata yang tepat untuk menggambarkan kalimat tersebut adalah…",
+      "options": ["Inovasi", "Produk baru", "Kepribadian", "Kreativitas"],
+      "answer": 3,
+      "explanation": "Kreativitas adalah kemampuan membuat kombinasi baru dari unsur, data, atau variabel yang sudah ada sebelumnya."
+    },
+    {
+      "id": 15,
+      "question": "Berikut ini yang termasuk manfaat segmentasi pasar menurut Porter (1991) adalah…",
+      "options": ["Mengetahui sifat masing-masing segmen", "Dapat menentukan kampanye dan periklanan yang efektif", "Memilih konsumen yang akan dijadikan sasaran", "Mencari potensi pasar yang paling besar"],
+      "answer": 0,
+      "explanation": "Menurut Porter (1991), manfaat segmentasi pasar adalah mengetahui sifat masing-masing segmen untuk menentukan strategi yang tepat."
+    },
+    {
+      "id": 16,
+      "question": "Berikut ini tips yang harus diperhatikan oleh pemimpin organisasi di era digital kecuali…",
+      "options": ["Terbuka berdialog dengan tim", "Menginformasikan ide baru", "Berdiskusi dengan tim setiap melakukan perubahan", "Memberi kesempatan pada tim berkomunikasi formal"],
+      "answer": 3,
+      "explanation": "Di era digital, pemimpin harus mendorong komunikasi informal dan terbuka, bukan hanya formal. Memberi kesempatan komunikasi formal bukan tips yang tepat untuk era digital."
+    },
+    {
+      "id": 17,
+      "question": "Berdasarkan framework kepemimpinan efektif yang tidak termasuk bagian dari The leader's traits adalah…",
+      "options": ["Knowledge", "Abilities", "Personality", "Motivation"],
+      "answer": 0,
+      "explanation": "Knowledge (pengetahuan) tidak termasuk dalam The leader's traits. Traits mencakup karakteristik bawaan seperti kepribadian, kemampuan, dan motivasi."
+    },
+    {
+      "id": 18,
+      "question": "Salah satu ciri pasar konkret adalah…",
+      "options": ["Transaksi dilandasi oleh rasa saling percaya", "Transaksi dilakukan dalam partai besar", "Barang hanya contoh", "Transaksi dilakukan secara tunai"],
+      "answer": 3,
+      "explanation": "Pasar konkret memiliki ciri transaksi dilakukan secara tunai dan barang tersedia secara fisik di tempat transaksi."
+    },
+    {
+      "id": 19,
+      "question": "Product-market fit adalah keberhasilan dari sebuah produk yang telah memasuki pasar yang cocok. Terdapat tiga tahapan penting dalam penyusunan product-market fit. Tahapan manakah yang akan memandu wirausaha menentukan waktu yang dibutuhkan untuk menyelesaikan proses…",
+      "options": ["Map The Problem", "Reach The Market", "Identify The Value", "Plan The Project"],
+      "answer": 3,
+      "explanation": "Plan The Project adalah tahapan yang memandu wirausaha menentukan waktu dan sumber daya yang dibutuhkan untuk menyelesaikan proses product-market fit."
+    },
+    {
+      "id": 20,
+      "question": "Design thinking merupakan proses penyelesaian masalah berbasis…",
+      "options": ["Pengalaman sebelumnya", "Logika", "Strategi", "Solusi"],
+      "answer": 3,
+      "explanation": "Design thinking merupakan proses penyelesaian masalah yang berfokus pada pencarian solusi yang berpusat pada pengguna."
+    },
+    {
+      "id": 21,
+      "question": "Era digital telah mengubah perilaku konsumen. Sebelumnya dikenal istilah konsumen adalah raja. Saat ini wirausaha harus memahami bahwa konsumen adalah partner bisnis. Melalui konsumen, bisnis dapat berkembang atau terpuruk. Hal ini disebabkan karena adanya…",
+      "options": ["Konsumen menetapkan tolak ukur sendiri", "Konsumen memiliki kekuatan word-of-mouth", "Konsumen selalu bereksperimen", "Konsumen mudah berpindah"],
+      "answer": 1,
+      "explanation": "Di era digital, konsumen memiliki kekuatan word-of-mouth yang besar melalui media sosial, sehingga bisa membuat bisnis berkembang atau terpuruk."
+    },
+    {
+      "id": 22,
+      "question": "Peluncuran produk baru dengan strategi slow skimming adalah…",
+      "options": ["Peluncuran produk baru dengan harga tinggi dan promosi cepat", "Peluncuran produk baru dengan harga rendah, biaya promosi tinggi", "Peluncuran produk baru dengan harga yang sangat tinggi dan promosi cepat", "Peluncuran produk baru dengan harga tinggi dan promosi lambat"],
+      "answer": 3,
+      "explanation": "Slow skimming adalah strategi peluncuran produk dengan harga tinggi namun promosi dilakukan secara lambat/terbatas."
+    },
+    {
+      "id": 23,
+      "question": "Pendekatan sistematik perubahan pola pikir dengan pendekatan sistematik Blue Ocean Strategy untuk mencegah over delivery kepada pelanggan adalah…",
+      "options": ["Tingkatan", "Ciptakan", "Hapuskan", "Kurangi"],
+      "answer": 3,
+      "explanation": "Dalam kerangka Blue Ocean Strategy, 'Kurangi' digunakan untuk mencegah over delivery dengan mengurangi faktor yang telah melebihi standar industri."
+    },
+    {
+      "id": 24,
+      "question": "Gabungan penghilang rasa sakit dan pencipta nilai adalah…",
+      "options": ["Meningkatkan keuntungan pelanggan dari solusi sekarang", "Produk dan layanan", "Menghapus hal negatif yang dialami pelanggan", "Resiko yang ditakuti oleh pelanggan"],
+      "answer": 1,
+      "explanation": "Produk dan layanan merupakan gabungan dari pain relievers (penghilang rasa sakit) dan gain creators (pencipta nilai) dalam Value Proposition Canvas."
+    },
+    {
+      "id": 25,
+      "question": "Semakin kuat energi empati di dalam sebuah perusahaan, semakin kuat kreativitas dan inovasi yang selaras dengan impian dan harapan masyarakat. Mengapa hal tersebut terjadi…",
+      "options": ["Menghasilkan ide bisnis yang baru", "Meningkatkan pangsa pasar", "Mampu menciptakan peluang usaha", "Mampu memahami realitas konsumen"],
+      "answer": 3,
+      "explanation": "Empati yang kuat memungkinkan perusahaan mampu memahami realitas konsumen, sehingga kreativitas dan inovasi yang dihasilkan lebih selaras dengan kebutuhan nyata masyarakat."
+    },
+    {
+      "id": 26,
+      "question": "Terdapat 26 juta orang aktif menjalankan e-commerce. Fakta tersebut telah menjadi bagian dari fenomena masyarakat di era digital. Ada dua hal yang mempresentasikan dari fakta tersebut, yaitu…",
+      "options": ["Perubahan Trend dan persaingan", "Peluang dan kekuatan", "Peluang dan harapan", "Persaingan dan peluang"],
+      "answer": 3,
+      "explanation": "Tingginya jumlah pengguna e-commerce menunjukkan adanya persaingan yang ketat sekaligus peluang bisnis yang besar."
+    },
+    {
+      "id": 27,
+      "question": "Dalam template value proposition canvas yang merupakan bagian dari value proposition adalah…",
+      "options": ["Gains", "Pains", "Gain creators", "Customer job"],
+      "answer": 2,
+      "explanation": "Gain creators (pencipta nilai) merupakan bagian dari value proposition, sedangkan Gains, Pains, dan Customer job adalah bagian dari customer profile."
+    },
+    {
+      "id": 28,
+      "question": "Lean canvas merupakan suatu pemodelan bisnis yang terdiri dari 9 blok yang dapat ditindaklanjuti dan berfokus pada wirausaha. Langkah ketiga dari lean canvas adalah unique value propositions berupa nilai yang harus disampaikan kepada pelanggan. Hal-hal yang harus diterapkan untuk membuat unique value propositions adalah…",
+      "options": ["Targetlah pembeli pertama", "Pilihlah kata-kata yang digunakan dengan cermat", "Jawablah pertanyaan apa, siapa dan mengapa?", "Semua jawaban benar"],
+      "answer": 3,
+      "explanation": "Semua jawaban benar karena membuat unique value proposition memerlukan menargetkan pembeli pertama, memilih kata dengan cermat, dan menjawab pertanyaan apa, siapa, dan mengapa."
+    },
+    {
+      "id": 29,
+      "question": "Video memberikan layanan gratis dengan fitur terbatas dan memberikan fasilitas berjenjang tergantung langganan yang pelanggan bayar. Model bisnis yang dilakukan video adalah…",
+      "options": ["Freemium", "Margin", "Presentase dari setiap transaksi", "Basis harga rendah"],
+      "answer": 0,
+      "explanation": "Freemium adalah model bisnis yang menawarkan layanan dasar secara gratis dengan opsi berbayar untuk fitur premium."
+    },
+    {
+      "id": 30,
+      "question": "Untuk mendukung penerapan strategi Blue Ocean strategy, wirausaha dapat menggunakan kanvas problem-solution fit untuk…",
+      "options": ["Mengidentifikasi permasalahan dan mencari solusi tepat", "Merencanakan langkah bisnis di tengah persaingan", "Mendorong kegiatan promosi untuk mencapai pasar sasaran", "Memperluas potensi bisnis"],
+      "answer": 0,
+      "explanation": "Kanvas problem-solution fit digunakan untuk mengidentifikasi permasalahan pelanggan dan mencari solusi yang tepat."
+    },
+    {
+      "id": 31,
+      "question": "Minimum viable product (MVP) merupakan sebuah produk yang memiliki cukup fitur untuk dicoba apakah dapat diterima di pasar. Berikut ini adalah manfaat yang dapat diperoleh wirausaha ketika memutuskan untuk membuat MVP, KECUALI…",
+      "options": ["Membantu wirausaha mendapatkan feedback dari konsumen", "Menjadi senjata andalan untuk menarik perhatian pelanggan", "Memberikan perspektif yang benar-benar baru bagi tim produk dari sisi konsumen", "Tidak ada jawaban yang benar"],
+      "answer": 3,
+      "explanation": "Semua pilihan A, B, dan C merupakan manfaat MVP, sehingga 'Tidak ada jawaban yang benar' adalah jawaban yang tepat untuk pertanyaan KECUALI ini."
+    },
+    {
+      "id": 32,
+      "question": "Salah satu aplikasi online yang menerapkan model bisnis penghasilan adalah presentasi dari setiap transaksi adalah…",
+      "options": ["Facebook", "Amazon", "Traveloka", "Lazada"],
+      "answer": 2,
+      "explanation": "Traveloka menerapkan model bisnis dengan mengambil persentase dari setiap transaksi pemesanan tiket atau hotel."
+    },
+    {
+      "id": 33,
+      "question": "Sesuatu yang membantu calon pelamar untuk mendapatkan gambaran tentang kondisi perusahaan disebut dengan…",
+      "options": ["Ringkasan pekerjaan", "Kewajiban perusahaan", "Informasi perusahaan", "Identifikasi perusahaan"],
+      "answer": 2,
+      "explanation": "Informasi perusahaan adalah bagian dalam job description yang memberikan gambaran tentang kondisi dan profil perusahaan kepada calon pelamar."
+    },
+    {
+      "id": 34,
+      "question": "Berikut ini adalah hal-hal yang menjadi bagian dari proses kewirausahaan, KECUALI…",
+      "options": ["Menghasilkan nilai tambah", "Mengkombinasikan faktor-faktor produksi", "Meningkatkan taraf hidup masyarakat", "Menghasilkan nilai yang lebih tinggi berbasis kreativitas"],
+      "answer": 2,
+      "explanation": "Meningkatkan taraf hidup masyarakat adalah dampak dari kewirausahaan, bukan bagian dari proses kewirausahaan itu sendiri."
+    },
+    {
+      "id": 35,
+      "question": "Terdapat kelebihan yang dapat dirasakan oleh wirausaha jika menjalankan usaha berbentuk persekutuan komanditer, yaitu…",
+      "options": ["Belum dikenal pajak oleh pemerintah", "Kelangsungan hidup perusahaan terjamin", "Jaminan rahasia perusahaan terjamin", "Lebih fleksibel"],
+      "answer": 1,
+      "explanation": "Kelebihan persekutuan komanditer (CV) adalah kelangsungan hidup perusahaan lebih terjamin karena ada pemisahan antara sekutu aktif dan sekutu pasif."
+    },
+    {
+      "id": 36,
+      "question": "Manfaat sebenarnya yang diperlukan dan akan dikonsumsi setiap produk disebut dengan produk…",
+      "options": ["Potensial", "Pelengkap", "Generik", "Utama"],
+      "answer": 3,
+      "explanation": "Produk utama (core product) adalah manfaat sebenarnya yang diperlukan dan dikonsumsi oleh pelanggan dari setiap produk."
+    },
+    {
+      "id": 37,
+      "question": "Era digital tidak sekadar menghasilkan produk digital, namun juga harus transformasi bisnis dari konvensional ke digital. Berikut ini yang dilakukan wirausaha agar dapat bersaing di era digital kecuali…",
+      "options": ["Beradaptasi", "Kolaborasi", "Berani mengambil resiko", "Stabil"],
+      "answer": 3,
+      "explanation": "Stabil bukanlah sikap yang tepat di era digital yang terus berubah. Wirausaha harus beradaptasi, berkolaborasi, dan berani mengambil risiko."
+    },
+    {
+      "id": 38,
+      "question": "Langkah penting yang harus dilakukan wirausaha setelah menetapkan strategi positioning adalah…",
+      "options": ["Menetapkan kalimat tagline", "Mengkomunikasikan diferensial produk", "Mengkomunikasikan posisi produk di pasar", "Mengembangkan keunggulan bersaing"],
+      "answer": 2,
+      "explanation": "Setelah menetapkan strategi positioning, wirausaha harus mengkomunikasikan posisi produk di pasar kepada konsumen."
+    },
+    {
+      "id": 39,
+      "question": "Membangun merek yang kuat di era digital memerlukan strategi jitu dari wirausaha keunikan konsumen di era digital membuat pelaku bisnis mesti berhati-hati dalam mengembangkan merek. Akselerasi pengembangan merek dapat didorong lebih cepat dengan…",
+      "options": ["Memperkuat ekuitas merek pada produk yang dipasarkan", "Berinvestasi lebih besar untuk mengembangkan merek", "Menyediakan layanan konsumen atas keluhan terhadap merek", "Tidak ada jawaban yang benar"],
+      "answer": 0,
+      "explanation": "Akselerasi pengembangan merek dapat didorong dengan memperkuat ekuitas merek pada produk yang dipasarkan."
+    },
+    {
+      "id": 40,
+      "question": "Peningkatan omzet bisnis di era digital diantaranya dengan memahami perilaku konsumen melalui forum atau sosial media, kecuali…",
+      "options": ["Facebook", "Kaskus", "Aplikasi", "Instagram"],
+      "answer": 2,
+      "explanation": "Aplikasi secara umum bukan merupakan forum atau sosial media untuk memahami perilaku konsumen. Facebook, Kaskus, dan Instagram adalah platform komunitas/sosial media."
+    },
+    {
+      "id": 41,
+      "question": "Kewirausahaan telah mengalami perkembangan dari waktu ke waktu dengan karakteristik yang berbeda. Pada abad keberapakah inovasi dari teknologi digital melekat erat pada wirausaha?",
+      "options": ["Abad pertengahan", "Abad 18", "Abad 19", "Abad 20"],
+      "answer": 3,
+      "explanation": "Inovasi dari teknologi digital mulai melekat erat pada wirausaha pada abad ke-20, seiring perkembangan komputer dan internet."
+    },
+    {
+      "id": 42,
+      "question": "Perkiraan seluruh jumlah konsumen yang dapat menggunakan produk dalam rencana penjualan dikenal dengan istilah…",
+      "options": ["Segmen pasar", "Strategi pasar", "Pasar produk", "Pangsa pasar"],
+      "answer": 3,
+      "explanation": "Pangsa pasar (market share) adalah perkiraan seluruh jumlah konsumen yang dapat menggunakan produk dalam rencana penjualan."
+    },
+    {
+      "id": 43,
+      "question": "Terdapat 5 (lima) peranan mendasar teknologi informasi di sebuah perusahaan, salah satunya adalah fungsi perencanaan dan pengambilan keputusan yang bertujuan…",
+      "options": ["Memuat struktur organisasi menjadi lebih ramping", "Mengangkat teknologi informasi ke tataran peran yang lebih strategis", "Memaksa perusahaan untuk melakukan kolaborasi dengan sejumlah perusahaan lain", "Menjadi bagian tak terpisahkan dengan aktivitas manajerial"],
+      "answer": 3,
+      "explanation": "Fungsi TI dalam perencanaan dan pengambilan keputusan bertujuan menjadi bagian tak terpisahkan dari aktivitas manajerial perusahaan."
+    },
+    {
+      "id": 44,
+      "question": "Perilaku bisnis e-commerce harus dapat menawarkan keunggulan berbelanja online dari segi…",
+      "options": ["Kepraktisan", "Harga murah", "Menyenangkan", "Semua jawaban benar"],
+      "answer": 3,
+      "explanation": "E-commerce harus menawarkan keunggulan dari segi kepraktisan, harga murah, dan pengalaman yang menyenangkan sekaligus."
+    },
+    {
+      "id": 45,
+      "question": "Berikut ini kelebihan dari strategi pull dalam saluran pemasaran di era digital kecuali…",
+      "options": ["Tidak ada batasan konten", "Kebebasan konten", "Teknologi sederhana", "Aktif"],
+      "answer": 2,
+      "explanation": "Teknologi sederhana bukan kelebihan strategi pull. Strategi pull justru membutuhkan teknologi digital yang canggih untuk menarik konsumen."
+    },
+    {
+      "id": 46,
+      "question": "Keteguhan menjalankan usaha dan pantang menyerah merupakan salah satu wujud karakteristik unggul seorang wirausaha, yaitu…",
+      "options": ["Visioner", "Memiliki dorongan kuat", "Kedisiplinan yang tinggi", "Memiliki empati"],
+      "answer": 1,
+      "explanation": "Keteguhan dan pantang menyerah mencerminkan karakteristik memiliki dorongan kuat (strong drive) dalam diri wirausaha."
+    },
+    {
+      "id": 47,
+      "question": "Wirausaha yang menjalani bisnisnya dikerjakan di rumah dengan menggunakan fasilitas yang ada sebagai modal berusaha, sering disebut dengan istilah…",
+      "options": ["Wirausaha muda", "Wirausaha wanita", "Wirausaha rumah tangga", "Wirausaha paruh waktu"],
+      "answer": 2,
+      "explanation": "Wirausaha rumah tangga (homebased entrepreneur) adalah wirausaha yang menjalankan bisnis dari rumah menggunakan fasilitas yang tersedia."
+    },
+    {
+      "id": 48,
+      "question": "Tahapan kedua dalam memulai aktivitas kewirausahaan adalah…",
+      "options": ["Meningkatkan pendanaan usaha", "Mendapatkan pelanggan pertama", "Mengembangkan rencana bisnis", "Menemukan ide yang tepat"],
+      "answer": 2,
+      "explanation": "Tahapan kedua dalam memulai aktivitas kewirausahaan adalah mengembangkan rencana bisnis setelah menemukan ide."
+    },
+    {
+      "id": 49,
+      "question": "Berikut ini yang termasuk peluang usaha di era digital menjadi pekerja online paruh waktu adalah…",
+      "options": ["Youtuber", "Food bloger", "Reseller", "Mengolah dan penelitian"],
+      "answer": 3,
+      "explanation": "Mengolah dan melakukan penelitian secara online merupakan contoh peluang usaha sebagai pekerja online paruh waktu."
+    },
+    {
+      "id": 50,
+      "question": "Terdapat sembilan blok elemen dalam kanvas model bisnis. Elemen manakah yang dapat digunakan untuk mewujudkan value proposition?",
+      "options": ["Key activities", "Key resources", "Key partnership", "Customer segments"],
+      "answer": 0,
+      "explanation": "Key activities (kegiatan utama) adalah elemen dalam business model canvas yang digunakan untuk mewujudkan value proposition."
+    },
+    {
+      "id": 51,
+      "question": "Efektuasi adalah seperangkat prinsip pengambilan keputusan yang dilakukan wirausaha dalam menghadapi situasi yang tidak pasti. Salah satu prinsipnya adalah prinsip crazy quit, yaitu…",
+      "options": ["Kemampuan seorang wirausaha untuk membangun jejaring dengan pihak lain dan menggabungkannya menjadi satu usaha yang bermanfaat", "Kesiapan wirausaha menanggung kerugian atas usaha yang didirikannya", "Kemampuan mengenal diri pribadi dan orang-orang yang dikenal yang bermanfaat bagi usaha", "Kreativitas dalam mengubah hal-hal yang tidak menyenangkan menjadi satu hal yang menarik"],
+      "answer": 0,
+      "explanation": "Prinsip crazy quit adalah kemampuan wirausaha membangun jejaring dengan pihak lain dan menggabungkannya menjadi satu usaha yang bermanfaat."
+    },
+    {
+      "id": 52,
+      "question": "Menemukan flow pada diri pribadi akan memberikan manfaat wirausaha. Terdapat lima langkah yang dapat dilakukan wirausaha untuk menemukan flow. Membuat tujuan yang lebih sulit di dalam wirausaha adalah termasuk langkah…",
+      "options": ["Benamkan diri pribadi pada saat ini", "Tetapkan tujuan yang jelas", "Pilih kegiatan", "Hilangkan gangguan dan bingkai pengalaman anda"],
+      "answer": 1,
+      "explanation": "Membuat tujuan yang lebih sulit termasuk dalam langkah menetapkan tujuan yang jelas untuk menemukan flow."
+    },
+    {
+      "id": 53,
+      "question": "Produsen handphone mengeluarkan 3 varian saat memproduksi handphone baru, untuk kebutuhan anak sekolah, youtuber dan pekerja profesional. Dalam kerangka kanvas bisnis model penentuan varian dilakukan pada langkah…",
+      "options": ["Key partner", "Customer segment", "Channels", "Value proposition"],
+      "answer": 1,
+      "explanation": "Penentuan varian berdasarkan segmentasi pengguna (anak sekolah, youtuber, pekerja profesional) dilakukan pada langkah Customer Segment."
+    },
+    {
+      "id": 54,
+      "question": "Karakteristik kunci wirausaha ini mampu mengubah setiap tantangan menjadi peluang bisnis yang menguntungkan. Sebutkan istilah yang tepat dari karakteristik tersebut…",
+      "options": ["Visionary", "Positive thinking", "Genuine thinking", "Goal oriented"],
+      "answer": 1,
+      "explanation": "Positive thinking adalah karakteristik yang memampukan wirausaha mengubah setiap tantangan menjadi peluang bisnis yang menguntungkan."
+    },
+    {
+      "id": 55,
+      "question": "Shared leadership digunakan dalam pengelolaan usaha yang akan memberikan manfaat kepada wirausaha. Salah satu manfaatnya adalah…",
+      "options": ["Pengelolaan dalam usaha", "Pengambilan keputusan", "Badan usaha terbagi", "Eksploitasi kekayaan talenta dalam perusahaan"],
+      "answer": 3,
+      "explanation": "Salah satu manfaat shared leadership adalah eksploitasi kekayaan talenta dalam perusahaan secara optimal."
+    },
+    {
+      "id": 56,
+      "question": "Berhasil membangun tim yang efektif akan memberikan manfaat besar bagi pengembangan wirausaha di era digital. Namun bukan perkara mudah untuk membentuk tim yang efektif tersebut. Tidak sedikit pemimpin wirausaha melakukan kesalahan, diantaranya adalah…",
+      "options": ["Mempekerjakan anggota keluarga", "Rencana yang kompleks yang hanya dipahami pimpinan", "Replikasi kesuksesan sebelumnya", "Tidak ada jawaban yang benar"],
+      "answer": 1,
+      "explanation": "Kesalahan umum pemimpin wirausaha adalah membuat rencana yang kompleks namun hanya dipahami oleh pimpinan, bukan seluruh tim."
+    },
+    {
+      "id": 57,
+      "question": "Wirausaha yang sukses dalam inovasi produk dan teknologi baru adalah wirausaha yang memiliki tingkat… tinggi",
+      "options": ["Abstraksi", "Intelegensi", "Logika", "Naturalis"],
+      "answer": 1,
+      "explanation": "Wirausaha yang sukses dalam inovasi produk dan teknologi baru memiliki tingkat intelegensi yang tinggi."
+    },
+    {
+      "id": 58,
+      "question": "Menemukan flow dapat membawa efek positif bagi wirausaha di masa mendatang. Berikut ini adalah pernyataan yang terkait dengan flow, Kecuali…",
+      "options": ["Gabungan tindakan dan kesadaran", "Distorsi pengalaman temporal", "Konsentrasi dan fokus pada kegiatan yang sedang dilakukan", "Rasa yang dapat mengontrol orang lain"],
+      "answer": 3,
+      "explanation": "Flow bukan tentang mengontrol orang lain, melainkan tentang penguasaan diri dalam keadaan optimal selama menjalankan aktivitas."
+    },
+    {
+      "id": 59,
+      "question": "Umar sedang melakukan langkah-langkah untuk menentukan flow, setelah memilih kegiatan yang harus dilakukan berikutnya adalah…",
+      "options": ["Tetapkan tujuan yang jelas", "Hilangkan gangguan dan bingkai pengalaman anda", "Mengembangkan keterampilan yang mahir", "Benamkan diri anda saat ini"],
+      "answer": 0,
+      "explanation": "Setelah memilih kegiatan, langkah berikutnya dalam menemukan flow adalah menetapkan tujuan yang jelas."
+    },
+    {
+      "id": 60,
+      "question": "Secara sederhana segmentasi pasar merupakan proses membagi pasar berdasarkan karakteristik tertentu. Salah satu manfaat yang dapat diperoleh wirausaha setelah melakukan segmentasi pasar adalah…",
+      "options": ["Menentukan arah strategi pesaing", "Meningkatkan biaya produksi", "Mengarahkan dana promosi", "Tidak ada jawaban yang benar"],
+      "answer": 2,
+      "explanation": "Manfaat segmentasi pasar adalah wirausaha dapat mengarahkan dana promosi secara lebih tepat sasaran kepada segmen yang dituju."
+    },
+    {
+      "id": 61,
+      "question": "Menurut Brazilian institute of coaching berikut ini manfaat dari shared leadership dalam pengelolaan usaha kecil, KECUALI…",
+      "options": ["Mendorong perilaku inovatif", "Membuat tim berkembang", "Menciptakan ikatan saling ketergantungan", "Mendukung kerja tim"],
+      "answer": 2,
+      "explanation": "Menciptakan ikatan saling ketergantungan bukan merupakan manfaat shared leadership. Justru shared leadership mendorong kemandirian dan tanggung jawab bersama."
+    },
+    {
+      "id": 62,
+      "question": "Setiap pemimpin harus memiliki tujuh kunci keterampilan kepemimpinan yang bermanfaat dalam pengembangan wirausaha. Salah satunya akan menjadi sulit untuk dilakukan bagi kebanyakan pemimpin usaha, yaitu…",
+      "options": ["Keterampilan meminta saran", "Keterampilan komunikasi", "Keterampilan menyusun visi strategis", "Keterampilan mempertahankan bakat terbaik"],
+      "answer": 3,
+      "explanation": "Keterampilan mempertahankan bakat terbaik seringkali menjadi tantangan paling sulit bagi pemimpin wirausaha."
+    },
+    {
+      "id": 63,
+      "question": "Pasar dimana barang yang diperjualbelikan tidak tersedia secara langsung, disebut…",
+      "options": ["Pasar abstrak", "Pasar konkret", "Pasar global", "Pasar persaingan tidak sempurna"],
+      "answer": 0,
+      "explanation": "Pasar abstrak adalah pasar di mana barang yang diperjualbelikan tidak tersedia secara fisik/langsung di tempat transaksi."
+    },
+    {
+      "id": 64,
+      "question": "Product-market fit adalah keberhasilan dari sebuah produk yang telah memasuki pasar yang cocok terdapat tiga tahapan penting dalam penyusunan product-market fit. Tahapan manakah yang akan memandu wirausaha dapat memastikan bahwa konsumen menerima harga produk yang ditawarkan…",
+      "options": ["Map The Problem", "Identify The Value", "Reach The Market", "Plan The Project"],
+      "answer": 1,
+      "explanation": "Identify The Value adalah tahapan yang memandu wirausaha memastikan bahwa konsumen menerima dan menghargai harga produk yang ditawarkan."
+    },
+    {
+      "id": 65,
+      "question": "Mengembangkan pemahaman mendalam dari pengguna serta konsep desainnya, pada tahap design thinking terjadi di langkah…",
+      "options": ["Define", "Empathyze", "Ideation", "Prototype"],
+      "answer": 1,
+      "explanation": "Empathize adalah tahap design thinking di mana wirausaha mengembangkan pemahaman mendalam tentang pengguna dan kebutuhan mereka."
+    },
+    {
+      "id": 66,
+      "question": "Suatu produk yang bagus dan lengkap serta dipasarkan dengan harga yang terjangkau belum tentu diminati dan dibeli oleh konsumen. Hal ini disebabkan karena…",
+      "options": ["Konsumen cerdas", "Konsumen memiliki tolak ukur sendiri", "Konsumen selalu bereksperimen", "Konsumen mudah berpindah"],
+      "answer": 1,
+      "explanation": "Konsumen memiliki tolak ukur dan persepsi nilai yang berbeda-beda, sehingga produk bagus dengan harga terjangkau belum tentu sesuai dengan ekspektasi mereka."
+    },
+    {
+      "id": 67,
+      "question": "Peluncuran usaha dan produk baru merupakan upaya yang beresiko. Berikut ini adalah sejumlah kesalahan yang sering dilakukan wirausaha saat meluncurkan produk yang berakibat pada kegagalan, KECUALI…",
+      "options": ["Harga produk yang tidak tepat", "Menggunakan teknologi yang terlalu canggih", "Kebutuhan pelanggan tidak dipahami", "Target pasar yang tidak sesuai"],
+      "answer": 1,
+      "explanation": "Menggunakan teknologi yang terlalu canggih bukan merupakan kesalahan yang menyebabkan kegagalan peluncuran produk."
+    },
+    {
+      "id": 68,
+      "question": "Mana yang harus diciptakan dalam menerapkan Blue Ocean Strategy…",
+      "options": ["Value add", "Value yang ditawarkan pelanggan", "Over value", "Value yang ditawarkan industri saat ini"],
+      "answer": 1,
+      "explanation": "Dalam Blue Ocean Strategy, yang harus diciptakan adalah value baru yang belum ditawarkan industri, yaitu value yang benar-benar diinginkan pelanggan."
+    },
+    {
+      "id": 69,
+      "question": "Berikut ini pertanyaan apa yang dilakukan untuk mengetahui pains dari pelanggan adalah…",
+      "options": ["Apa kebutuhan dasar", "Apa yang diimpikan pelanggan", "Apa yang dicari pelanggan", "Apa yang dianggap terlalu mahal"],
+      "answer": 3,
+      "explanation": "Pertanyaan 'Apa yang dianggap terlalu mahal' digunakan untuk mengetahui pains (rasa sakit/hambatan) yang dialami pelanggan."
+    },
+    {
+      "id": 70,
+      "question": "Proses test terdiri dari 5 tahapan, proses design thinking dilakukan setelah proses…",
+      "options": ["Ideate", "Define", "Empathise", "Prototype"],
+      "answer": 3,
+      "explanation": "Dalam design thinking, tahap Test dilakukan setelah tahap Prototype. Urutan: Empathize → Define → Ideate → Prototype → Test."
+    },
+    {
+      "id": 71,
+      "question": "Berikut ini adalah bidang lain yang dapat menjadi sumber penghasilan uang yang dapat dimanfaatkan di era digital, KECUALI…",
+      "options": ["Penyewaan mobil online", "Pemasaran online", "Penulis lepas", "Semua jawaban salah"],
+      "answer": 3,
+      "explanation": "Semua pilihan A, B, dan C adalah sumber penghasilan di era digital, sehingga jawaban 'Semua jawaban salah' tidak tepat — yang berarti semua bisa menjadi sumber penghasilan."
+    },
+    {
+      "id": 72,
+      "question": "Salah satu permasalahan yang sering dihadapi wirausaha adalah tidak dapat menentukan target pasar dengan benar. Apa yang dapat digunakan wirausaha untuk menetapkan target pasar?",
+      "options": ["Segmentasi pasar", "Positioning pasar", "Harga produk", "Tingkat persaingan"],
+      "answer": 0,
+      "explanation": "Segmentasi pasar digunakan untuk membagi pasar dan menetapkan target pasar yang tepat bagi wirausaha."
+    },
+    {
+      "id": 73,
+      "question": "Penjualan aset, biaya penggunaan, biaya berlangganan, biaya pengiriman dalam lean canvas dalam model bisnis merupakan bagian dari…",
+      "options": ["Channels", "Revenue stream", "Solution", "Problem & existing alternative"],
+      "answer": 1,
+      "explanation": "Penjualan aset, biaya penggunaan, biaya berlangganan, dan biaya pengiriman merupakan bagian dari Revenue Stream (aliran pendapatan) dalam lean canvas."
+    },
+    {
+      "id": 74,
+      "question": "Era digital mendorong terjadinya perubahan model bisnis. Seorang wirausaha menerapkan strategi produk gratis, namun konsumen diminta untuk membayar biaya pelatihan dan pemasangannya. Termasuk model bisnis yang manakah strategi tersebut…",
+      "options": ["Model freemium", "Produk gratis, pendapatan dari iklan", "Harga berjenjang berdasarkan volume", "Harga produk rendah, tetapi dukungan tambahan"],
+      "answer": 3,
+      "explanation": "Strategi produk gratis dengan biaya pelatihan dan pemasangan adalah model bisnis harga produk rendah (atau gratis) tetapi dengan dukungan tambahan berbayar."
+    },
+    {
+      "id": 75,
+      "question": "Berikut ini adalah manfaat yang dapat diambil oleh wirausaha saat menggunakan kanvas problem-solution fit…",
+      "options": ["Alat untuk mengidentifikasi permasalahan dan mencari solusi yang tepat", "Merencanakan langkah bisnis ditengah persaingan", "Mendorong kegiatan promosi untuk mencapai pasar sasaran", "Memperluas potensi bisnis"],
+      "answer": 0,
+      "explanation": "Kanvas problem-solution fit bermanfaat sebagai alat untuk mengidentifikasi permasalahan pelanggan dan mencari solusi yang tepat."
+    },
+    {
+      "id": 76,
+      "question": "Output yang diharapkan dari proses penyusunan minimum viable product (MVP) adalah…",
+      "options": ["Perspektif baru bagi tim produk dari sisi konsumen", "Meminimalkan biaya produksi", "Produk yang berkualitas", "Produk yang bermanfaat"],
+      "answer": 0,
+      "explanation": "Output utama dari penyusunan MVP adalah perspektif baru bagi tim produk dari sudut pandang konsumen nyata."
+    },
+    {
+      "id": 77,
+      "question": "Crowdfunding menjadi cara efektif untuk mendulang dana secara online melalui platform digital semacam media sosial. Salah satu contoh praktek crowdfunding di Indonesia adalah…",
+      "options": ["Greenpeace.com", "Kitabisa.com", "National geographic", "Pandawa"],
+      "answer": 1,
+      "explanation": "Kitabisa.com adalah platform crowdfunding Indonesia yang memungkinkan masyarakat mengumpulkan dana secara online untuk berbagai keperluan."
+    },
+    {
+      "id": 78,
+      "question": "Terdapat beberapa langkah yang perlu diperhatikan dalam menyusun job description. Salah satunya adalah langkah melakukan analisis pekerjaan yang meliputi hal-hal berikut ini, KECUALI…",
+      "options": ["Mengamati pelaksanaan tugas", "Meminta karyawan untuk mengisi lembar kerja", "Informasi perusahaan", "Mewancarai karyawan tentang tugas yang dilakukan"],
+      "answer": 2,
+      "explanation": "Informasi perusahaan bukan bagian dari langkah analisis pekerjaan. Analisis pekerjaan meliputi observasi, lembar kerja, dan wawancara karyawan."
+    },
+    {
+      "id": 79,
+      "question": "Wirausaha memberikan dampak positif bagi perekonomian negara, berikut ini yang tidak termasuk dampak positif wirausaha adalah…",
+      "options": ["Menurunkan inflasi", "Meningkatkan pendapatan", "Menambah lapangan kerja", "Mengurangi kesenjangan ekonomi"],
+      "answer": 0,
+      "explanation": "Menurunkan inflasi bukan merupakan dampak positif langsung dari wirausaha. Dampak positif wirausaha meliputi meningkatkan pendapatan, menambah lapangan kerja, dan mengurangi kesenjangan ekonomi."
+    },
+    {
+      "id": 80,
+      "question": "Berikut ini dampak positif perkembangan kewirausahaan terhadap pertumbuhan ekonomi negara, KECUALI…",
+      "options": ["Meningkatkan kesenjangan sosial dan ekonomi", "Membuka lapangan pekerjaan", "Meningkatkan taraf hidup masyarakat", "Meningkatkan pendapatan nasional"],
+      "answer": 0,
+      "explanation": "Meningkatkan kesenjangan sosial dan ekonomi bukan dampak positif kewirausahaan — justru kewirausahaan bertujuan mengurangi kesenjangan tersebut."
+    },
+    {
+      "id": 81,
+      "question": "Dalam kewirausahaan di era digital, merek memegang peranan penting sebagai identitas produk sekaligus membedakannya dengan produk yang lain. Berikut ini adalah bagian-bagian dari merek, KECUALI…",
+      "options": ["Nama", "Symbol", "Karakter", "Hak cipta"],
+      "answer": 3,
+      "explanation": "Hak cipta bukan merupakan bagian dari merek. Bagian-bagian merek meliputi nama, simbol, dan karakter/desain visual."
+    },
+    {
+      "id": 82,
+      "question": "Berbisnis di era digital bukan perkara yang mudah, namun tidak juga sulit. Terdapat beberapa kunci sukses usaha di era digital, yaitu…",
+      "options": ["Membekali SDM dengan pengetahuan digital", "Mematangkan strategi digital", "Marketing melalui media sosial", "Semua jawaban benar"],
+      "answer": 3,
+      "explanation": "Kunci sukses di era digital mencakup semua aspek: membekali SDM dengan pengetahuan digital, mematangkan strategi digital, dan marketing melalui media sosial."
+    },
+    {
+      "id": 83,
+      "question": "Urutan langkah yang tepat dalam penentuan posisi pasar adalah… keunggulan bersaing",
+      "options": ["Mengidentifikasi, memilih dan mengkomunikasikan", "Memilih, mengidentifikasi dan mengkomunikasikan", "Mengidentifikasi, mengkomunikasikan dan memilih", "Memilih, mengkomunikasikan dan mengidentifikasi"],
+      "answer": 0,
+      "explanation": "Urutan tepat dalam penentuan posisi pasar adalah: Mengidentifikasi keunggulan bersaing → Memilih keunggulan yang tepat → Mengkomunikasikan posisi."
+    },
+    {
+      "id": 84,
+      "question": "Sebuah ukuran ketertarikan konsumen terhadap merek disebut loyalitas merek yang berimplikasi pada…",
+      "options": ["Penolakan pelanggan terhadap produk lain", "Perubahan fitur produk yang ditawarkan kepada konsumen", "Peningkatan harga saham perusahaan", "Tidak ada jawaban yang benar"],
+      "answer": 0,
+      "explanation": "Loyalitas merek berimplikasi pada penolakan pelanggan terhadap produk lain karena mereka setia pada merek tertentu."
+    },
+    {
+      "id": 85,
+      "question": "Perubahan dan perkembangan teknologi digital mendorong terjadinya disrupsi berbagai aktivitas bisnis. Menjadi niscaya bagi wirausaha untuk memiliki tiga kunci sukses menghadapi transformasi bisnis, KECUALI…",
+      "options": ["Melakukan proses konfirmasi atas model bisnis", "Melakukan proses penyesuaian bisnis dengan trend dan perubahan zaman", "Melakukan proses kerjasama, sinergitas dan bermitra dengan berbagai pihak untuk mengembangkan bisnis", "Melakukan proses sharing pengalaman dan pengetahuan dalam menghadapi era digital yang serba terbuka"],
+      "answer": 3,
+      "explanation": "Sharing pengalaman dan pengetahuan bukan merupakan salah satu dari tiga kunci sukses menghadapi transformasi bisnis dalam konteks ini."
+    },
+    {
+      "id": 86,
+      "question": "Berikut ini pernyataan yang tepat tentang perkembangan kewirausahaan pada abad 17 adalah…",
+      "options": ["Keberanian wirausahawan menghadapi resiko", "Wirausahawan mengatur proyek besar", "Pihak aktif dan pasif dalam kewirausahaan", "Kewirausahaan berbasis teknologi digital"],
+      "answer": 0,
+      "explanation": "Pada abad 17, karakteristik utama wirausahawan adalah keberanian menghadapi risiko dalam menjalankan usaha."
+    },
+    {
+      "id": 87,
+      "question": "Dalam rencana penjualan, wirausaha harus menetapkan segmen pasar. Pemetaan segmen pasar ini akan berdampak pada hal-hal berikut ini, KECUALI…",
+      "options": ["Strategi promosi produk", "Strategi harga produk", "Jenis produk yang dipasarkan", "Tidak ada jawaban yang benar"],
+      "answer": 3,
+      "explanation": "Pemetaan segmen pasar berdampak pada strategi promosi, harga, dan jenis produk — semuanya terdampak, sehingga 'Tidak ada jawaban yang benar' adalah jawaban KECUALI."
+    },
+    {
+      "id": 88,
+      "question": "Pengembangan riset unggulan LIPI sehingga masyarakat siap menghadapi teknologi digital adalah…",
+      "options": ["Mobil listrik", "Bahan bakar ramah lingkungan", "Pembangkit listrik tenaga surya", "Varietas tanaman yang lebih berkualitas"],
+      "answer": 0,
+      "explanation": "Pengembangan mobil listrik merupakan salah satu riset unggulan LIPI untuk mempersiapkan masyarakat menghadapi era teknologi digital."
+    },
+    {
+      "id": 89,
+      "question": "Dalam kurun waktu 10 tahun terakhir, banyak UKM yang berhasil go internasional. Faktor utama yang menyebabkan terjadinya fenomena ini adalah…",
+      "options": ["Model bisnis yang mudah", "Usia yang lebih muda dan energik", "Kemudahan akses modal", "Digitalisasi"],
+      "answer": 3,
+      "explanation": "Digitalisasi adalah faktor utama yang memungkinkan UKM Indonesia go internasional dalam 10 tahun terakhir."
+    },
+    {
+      "id": 90,
+      "question": "Kelebihan dari strategi push pada saluran pemasaran di era digital adalah…",
+      "options": ["Teknologi sederhana", "Sasaran konsumen spesifik", "Kebebasan media", "Melibatkan konsumen"],
+      "answer": 1,
+      "explanation": "Kelebihan strategi push adalah sasaran konsumen yang spesifik, karena pesan langsung diarahkan kepada target yang ditentukan."
+    },
+    {
+      "id": 91,
+      "question": "Wirausaha harus memiliki sikap mudah berbaur dengan orang baru, hal tersebut dikenal dengan karakter…",
+      "options": ["Adaptasi", "Supel", "Ramah", "Komunikatif"],
+      "answer": 1,
+      "explanation": "Mudah berbaur dengan orang baru merupakan karakter supel (luwes dalam bersosialisasi)."
+    },
+    {
+      "id": 92,
+      "question": "Wirausaha yang menjalani bisnisnya tanpa meninggalkan pekerjaan utamanya, sering disebut dengan istilah…",
+      "options": ["Wirausaha muda", "Wirausaha wanita", "Wirausaha paruh waktu", "Wirausaha rumah tangga"],
+      "answer": 2,
+      "explanation": "Wirausaha paruh waktu (part-time entrepreneur) adalah wirausaha yang menjalankan bisnis sambil tetap menjalani pekerjaan utamanya."
+    },
+    {
+      "id": 93,
+      "question": "Menemukan ide bisnis yang tepat adalah tahapan penting saat akan memulai suatu usaha. Ide bisnis dapat diperoleh dengan cara…",
+      "options": ["Mengikuti seminar", "Memperhatikan hobby", "Belajar dari keluarga", "Semua jawaban benar"],
+      "answer": 3,
+      "explanation": "Ide bisnis dapat diperoleh dari berbagai sumber: seminar, hobi, belajar dari keluarga, dan banyak lagi."
+    },
+    {
+      "id": 94,
+      "question": "Peluang usaha bagi yang hobi wisata kuliner adalah…",
+      "options": ["Pekerja online tepat waktu", "Food bloger", "Selebgram", "Youtuber"],
+      "answer": 1,
+      "explanation": "Food blogger adalah peluang usaha yang sangat cocok bagi seseorang yang hobi wisata kuliner."
+    },
+    {
+      "id": 95,
+      "question": "Terdapat sembilan blok elemen dalam kanvas model bisnis, salah satu elemennya adalah elemen Channels yang meliputi saluran komunikasi, saluran distribusi dan saluran penjualan. Fungsi manakah dalam elemen channels yang dapat digunakan untuk meningkatkan brand awareness…",
+      "options": ["Menyampaikan value proposition pada pelanggan", "Meningkatkan kesadaran pelanggan atas produk perusahaan", "Menyediakan dukungan pasca pembelian kepada pelanggan", "Membantu pelanggan mengevaluasi value proposition"],
+      "answer": 1,
+      "explanation": "Fungsi meningkatkan kesadaran pelanggan atas produk perusahaan dalam elemen Channels adalah fungsi yang digunakan untuk meningkatkan brand awareness."
+    },
+    {
+      "id": 96,
+      "question": "Ali berani membangun jaringan dengan wirausaha lain untuk memajukan usahanya, prinsip ali dikenal dengan istilah…",
+      "options": ["Lemonade", "Affordable loss", "Bird in hand", "Crazy Quit"],
+      "answer": 3,
+      "explanation": "Crazy Quit adalah prinsip effectuation yang berkaitan dengan kemampuan membangun jejaring dan kolaborasi dengan pihak lain."
+    },
+    {
+      "id": 97,
+      "question": "Kemampuan wirausaha membangun jejaring dengan pihak lain adalah…",
+      "options": ["Crazy Quit", "Bird In Hand", "Pilot in The plane", "Affordable loss"],
+      "answer": 0,
+      "explanation": "Crazy Quit dalam prinsip effectuation merujuk pada kemampuan wirausaha membangun dan menggabungkan jejaring dengan pihak lain."
+    },
+    {
+      "id": 98,
+      "question": "Menentukan jumlah SDM yang dibutuhkan dalam menjalankan bisnis dalam blok model bisnis terdapat pada…",
+      "options": ["Key partner", "Channels", "Key resources", "Key activities"],
+      "answer": 2,
+      "explanation": "Penentuan jumlah SDM yang dibutuhkan merupakan bagian dari Key Resources (sumber daya utama) dalam model bisnis kanvas."
+    },
+    {
+      "id": 99,
+      "question": "Karakteristik kunci wirausaha ini merupakan faktor terbesar yang didengar prospek terhadap perusahaan. Sebutkan istilah yang tepat dari karakteristik tersebut…",
+      "options": ["Visionary", "Ethics", "Genue thinking", "Creative"],
+      "answer": 1,
+      "explanation": "Ethics (etika) adalah karakteristik yang menjadi faktor terbesar yang dipertimbangkan prospek terhadap suatu perusahaan."
+    },
+    {
+      "id": 100,
+      "question": "Dalam membentuk tim efektif dibutuhkan konsensus untuk…",
+      "options": ["Membentuk tim kreatif", "Komunikasi efektif", "Menetapkan tujuan dan pemecahan masalah", "Mencegah kebingungan saat tim bekerja"],
+      "answer": 2,
+      "explanation": "Konsensus dalam tim diperlukan untuk menetapkan tujuan bersama dan menemukan solusi atas masalah yang dihadapi."
+    },
+    {
+      "id": 101,
+      "question": "Pemimpin yang paling efektif akan lebih berfokus pada membangun hubungan kepercayaan dan…",
+      "options": ["Kebersamaan", "Loyalitas", "Pengawasan", "Kekuatan"],
+      "answer": 1,
+      "explanation": "Pemimpin yang paling efektif berfokus pada membangun hubungan kepercayaan dan loyalitas dari anggota timnya."
+    },
+    {
+      "id": 102,
+      "question": "Intelegensia yang berkaitan dengan penggunaan bilangan dan perhitungan adalah…",
+      "options": ["Kinestetik-badani", "Matematis-logis", "Ruang", "Linguistik"],
+      "answer": 1,
+      "explanation": "Intelegensi matematis-logis berkaitan dengan kemampuan menggunakan bilangan, perhitungan, dan logika."
+    },
+    {
+      "id": 103,
+      "question": "Berikut ini adalah pernyataan yang terkait dengan flow, KECUALI…",
+      "options": ["Menandai adanya penyerapan secara total apa yang dilakukan seseorang", "Kondisinya dipengaruhi oleh keseimbangan antara kapasitas dan peluang", "Hanya fokus pada diri pribadi dan tidak terkait pada lingkungan", "Dapat digunakan untuk mengembangkan potensi diri"],
+      "answer": 2,
+      "explanation": "Flow tidak hanya terkait pada diri pribadi; flow terjadi dalam interaksi antara individu dengan tantangan di lingkungannya."
+    },
+    {
+      "id": 104,
+      "question": "Ketepatan komitmen wirausahawan terhadap tugas dan pekerjaannya, disebut…",
+      "options": ["Kreativitas", "Kepercayaan diri", "Kepribadian", "Disiplin diri"],
+      "answer": 3,
+      "explanation": "Disiplin diri adalah ketepatan komitmen wirausahawan dalam menjalankan tugas dan pekerjaannya secara konsisten."
+    },
+    {
+      "id": 105,
+      "question": "Secara sederhana, segmentasi pasar merupakan proses membagi pasar berdasarkan karakteristik tertentu. Seorang pemasar telah melakukan segmentasi pasar menjadi segmen konsumen urban dan konsumen non urban. Strategi segmentasi pasar manakah yang diterapkan pemasar tersebut…",
+      "options": ["Segmentasi demografis", "Segmentasi psikografis", "Segmentasi geografis", "Segmentasi perilaku"],
+      "answer": 2,
+      "explanation": "Segmentasi berdasarkan urban dan non-urban adalah segmentasi geografis karena membagi pasar berdasarkan lokasi tempat tinggal."
+    },
+    {
+      "id": 106,
+      "question": "Pemimpin sukses di era disrupsi, seperti pada deloite dan MIT, mendorong transformasi di area…",
+      "options": ["Cognitive, behavioral, social", "Cognitive, creativity, social", "Cognitive, behavioral, emotional", "Communication, behavioral, emotional"],
+      "answer": 2,
+      "explanation": "Pemimpin sukses di era disrupsi mendorong transformasi di area cognitive (kognitif), behavioral (perilaku), dan emotional (emosional)."
+    },
+    {
+      "id": 107,
+      "question": "Kunci keterampilan seorang pemimpin dalam merencanakan strategi jangka panjang adalah keterampilan…",
+      "options": ["Menyusun visi", "Mendelegasikan tugas", "Melihat dan memperhatikan bakat terbaik", "Komunikasi"],
+      "answer": 0,
+      "explanation": "Kunci keterampilan pemimpin dalam merencanakan strategi jangka panjang adalah menyusun visi yang jelas dan inspiratif."
+    },
+    {
+      "id": 108,
+      "question": "Pasar yang memiliki kekurangan berupa sering terjadi kekacauan karena adanya perang harga antar produsen, yaitu…",
+      "options": ["Pasar oligopoli", "Pasar monopolistik", "Pasar monopsoni", "Pasar oligopsoni"],
+      "answer": 1,
+      "explanation": "Pasar monopolistik memiliki banyak produsen yang menjual produk serupa sehingga sering terjadi perang harga yang dapat menyebabkan kekacauan pasar."
+    },
+    {
+      "id": 109,
+      "question": "Menentukan keunggulan bisnis yang dijalankan dengan pesaing pada tahapan lean product process dilakukan pada tahap…",
+      "options": ["Determine your target customer", "Define your value proposition", "Identify customer need", "Test with customer"],
+      "answer": 1,
+      "explanation": "Menentukan keunggulan bisnis dibandingkan pesaing dilakukan pada tahap Define your value proposition dalam lean product process."
+    },
+    {
+      "id": 110,
+      "question": "Di era digital, design thinking memegang peranan penting. Design thinking ini terdiri dari lima tahapan. Salah satu tahapannya adalah ideation. Kalimat mana yang paling tepat untuk menggambarkan aktivitas pada tahapan ini…",
+      "options": ["Mengembangkan ide menjadi purwarupa", "Melakukan pengujian atas ide yang dicetuskan", "Menghasilkan pemahaman yang holistik dan empatik tentang masalah yang dihadapi konsumen untuk ide bisnis", "Mengumpulkan sebanyak-banyaknya ide sekalipun tidak berkualitas"],
+      "answer": 3,
+      "explanation": "Ideation adalah tahapan mengumpulkan sebanyak-banyaknya ide secara bebas (brainstorming) tanpa menilai kualitasnya terlebih dahulu."
+    },
+    {
+      "id": 111,
+      "question": "Konsumen di era digital fokus pada nilai yang ditawarkan oleh produk saat melakukan pembelian, karakter konsumen tersebut adalah…",
+      "options": ["Bebal", "Cerdas", "Wirausaha", "Sombong"],
+      "answer": 1,
+      "explanation": "Konsumen yang fokus pada nilai produk sebelum membeli merupakan konsumen yang cerdas."
+    },
+    {
+      "id": 112,
+      "question": "Menetapkan harga produk saat dikuncurkan ke pasar, menjadi pekerjaan yang tidak mudah bagi wirausaha. Tiga hal yang harus dipertimbangkan wirausaha saat menerapkan harga produk yaitu nilai produk, kebutuhan dan….",
+      "options": ["Persediaan", "Permintaan", "Ukuran produk", "Tidak ada jawaban yang benar"],
+      "answer": 1,
+      "explanation": "Tiga hal yang harus dipertimbangkan saat menetapkan harga produk adalah nilai produk, kebutuhan, dan permintaan pasar."
+    },
+    {
+      "id": 113,
+      "question": "Blue Ocean Strategy merupakan strategi wirausaha dengan meninggalkan arena persaingan yang ketat lalu menciptakan peluang baru. Berikut ini adalah prinsip formulasi dari blue ocean strategy…",
+      "options": ["Perluas permintaan yang ada", "Menerapkan strategi market challenger", "Bangun eksekusi menjadi strategi", "Perbarui laut biru"],
+      "answer": 2,
+      "explanation": "Bangun eksekusi menjadi strategi adalah salah satu prinsip formulasi Blue Ocean Strategy yang menekankan pelaksanaan nyata dari strategi yang dirancang."
+    },
+    {
+      "id": 114,
+      "question": "Value proposition canvas dikembangkan oleh Alexander Osterwalder. Kerangka kerja tersebut dapat digunakan oleh wirausaha untuk…",
+      "options": ["Memperbaiki produk atau yang sudah ada", "Memperbaiki penawaran layanan yang sudah ada", "Mengembangkan produk baru dari awal", "Semua jawaban benar"],
+      "answer": 3,
+      "explanation": "Value proposition canvas dapat digunakan untuk memperbaiki produk yang ada, memperbaiki layanan, maupun mengembangkan produk baru dari awal."
+    },
+    {
+      "id": 115,
+      "question": "Hal penting dalam menumbuhkan jiwa wirausaha adalah mengembangkan rasa empati terhadap sesama. Berikut ini adalah peran empati dalam usaha, KECUALI:",
+      "options": ["Menghasilkan karya yang menguntungkan sesama", "Meningkatkan ikatan kepercayaan antar sesama stakeholder usaha", "Mampu menghasilkan produk yang sesuai dengan keyakinan dan harapan konsumen", "Tidak ada jawaban yang benar"],
+      "answer": 3,
+      "explanation": "Semua pernyataan A, B, dan C adalah peran nyata empati dalam usaha, sehingga 'Tidak ada jawaban yang benar' adalah jawaban KECUALI."
+    },
+    {
+      "id": 116,
+      "question": "Berikut ini merupakan peranan empati dalam berwirausaha kecuali…",
+      "options": ["Menghasilkan karya yang menguntungkan sesama", "Meningkatkan ikatan kepercayaan", "Mendengarkan sudut pandang yang beragam", "Memperkuat kreativitas, inovasi dan visioner"],
+      "answer": 2,
+      "explanation": "Mendengarkan sudut pandang yang beragam adalah prasyarat untuk berempati, bukan peranan empati itu sendiri dalam konteks kewirausahaan."
+    },
+    {
+      "id": 117,
+      "question": "Elemen customer profile pada template value proposition canvas (VPC) adalah…",
+      "options": ["Product dan services", "Pain relievers", "Gains", "Gain creator"],
+      "answer": 2,
+      "explanation": "Gains (keuntungan yang diharapkan pelanggan) merupakan bagian dari Customer Profile dalam Value Proposition Canvas."
+    },
+    {
+      "id": 118,
+      "question": "Lean canvas merupakan suatu pemodelan bisnis yang terdiri dari 9 (sembilan) blok yang dapat ditindaklanjuti dan berfokus pada wirausaha. Langkah kelima dari lean canvas adalah revenue streams berupa cara-cara potensial untuk menciptakan aliran pendapatan, salah satunya adalah…",
+      "options": ["Harga pembelian produk", "Uang muka pembelian", "Harga jual produk tambahan", "Biaya pemasangan produk"],
+      "answer": 2,
+      "explanation": "Harga jual produk tambahan (upsell/add-on) merupakan salah satu cara potensial untuk menciptakan aliran pendapatan dalam revenue streams."
+    },
+    {
+      "id": 119,
+      "question": "Era digital mendorong terjadinya perubahan model bisnis. Berikut ini adalah bentuk-bentuk model bisnis di era digital, KECUALI…",
+      "options": ["Model freemium", "Produk grafis, pendapatan dari iklan", "Harga berjenjang berdasarkan volume", "Tidak ada jawaban yang benar"],
+      "answer": 3,
+      "explanation": "Semua pilihan A, B, dan C adalah bentuk model bisnis di era digital yang valid, sehingga 'Tidak ada jawaban yang benar' adalah jawaban untuk KECUALI."
+    },
+    {
+      "id": 120,
+      "question": "Memastikan bahwa wirausaha memahami kelompok target, batasan dan solusi yang saat ini tersedia bagi pelanggan, dilakukan pada langkah…",
+      "options": ["Problems", "Customer state fit", "Root cause", "Solution fit"],
+      "answer": 1,
+      "explanation": "Customer state fit adalah langkah untuk memastikan wirausaha memahami kelompok target, batasan, dan solusi yang tersedia saat ini bagi pelanggan."
+    },
+    {
+      "id": 121,
+      "question": "Solusi agar tidak mengasumsikan fitur-fitur apa saja dalam menyusun minimum viable product adalah…",
+      "options": ["Bersihkan catatan anda", "Hilangkan fitur yang tidak optimal", "Mulailah dari masalah nomor satu", "Pertimbangan fitur permintaan pelanggan"],
+      "answer": 2,
+      "explanation": "Mulailah dari masalah nomor satu yang paling kritis untuk menghindari asumsi berlebihan tentang fitur yang dibutuhkan dalam MVP."
+    },
+    {
+      "id": 122,
+      "question": "Untuk meningkatkan estetika produk yang dijual sehingga menarik pelanggan untuk membeli adalah…",
+      "options": ["Membuka toko online", "Sosial media marketing", "Melakukan promosi melalui whatsapp", "Konten visual"],
+      "answer": 3,
+      "explanation": "Konten visual adalah cara yang tepat untuk meningkatkan estetika produk dan menarik perhatian pelanggan secara visual."
+    },
+    {
+      "id": 123,
+      "question": "Terdapat beberapa langkah yang perlu diperhatikan dalam menyusun job description, salah satu prosesnya adalah menyerahkan draf uraian tugas kepada pimpinan perusahaan dan pengawas untuk disetujui. Termasuk langkah manakah proses tersebut?",
+      "options": ["Langkah menganalisis pekerjaan", "Langkah pelibatan pimpinan perusahaan", "Langkah finalisasi", "Langkah menentukan fungsi esensial"],
+      "answer": 1,
+      "explanation": "Menyerahkan draf uraian tugas kepada pimpinan dan pengawas untuk disetujui adalah bagian dari langkah pelibatan pimpinan perusahaan dalam penyusunan job description."
+    },
+    {
+      "id": 124,
+      "question": "Pengusaha dapat meningkatkan added value dari barang ataupun jasa melalui proses…",
+      "options": ["Creative construction", "Initiative destruction", "Creative destruction", "Initiative construction"],
+      "answer": 2,
+      "explanation": "Creative destruction adalah proses inovasi yang menghancurkan yang lama dan menciptakan yang baru untuk meningkatkan added value."
+    },
+    {
+      "id": 125,
+      "question": "Berikut ini yang termasuk tantangan wirausaha adalah…",
+      "options": ["Keuntungan kecil", "Berbagi resiko", "Dana", "Bekerja keras"],
+      "answer": 2,
+      "explanation": "Dana (modal) merupakan tantangan utama yang sering dihadapi oleh wirausaha dalam memulai dan mengelola usaha."
+    },
+    {
+      "id": 126,
+      "question": "Pengelompokan produk berdasarkan daya tahan dikelompokan menjadi…",
+      "options": ["Habis dikonsumsi dan tahan lama", "Material, capital items dan service", "Convenience, speciality, shooping dan unsought goods", "Barang dan jasa"],
+      "answer": 0,
+      "explanation": "Berdasarkan daya tahan, produk dikelompokkan menjadi produk yang habis dikonsumsi (non-durable goods) dan produk tahan lama (durable goods)."
+    },
+    {
+      "id": 127,
+      "question": "Pada bulan maret tahun 2017 Blue Bird dan Go-Jek melakukan kerjasama sehingga menghasilkan produk bernama Go-Bluebird hal tersebut merupakan… dalam melakukan proses transformasi bisnis.",
+      "options": ["Adaptasi", "Berbagi", "Kolaborasi", "Pertemuan bisnis"],
+      "answer": 2,
+      "explanation": "Kerjasama antara Blue Bird dan Go-Jek untuk menghasilkan Go-Bluebird merupakan contoh kolaborasi dalam proses transformasi bisnis."
+    },
+    {
+      "id": 128,
+      "question": "Proses evaluasi segmen pasar akan memunculkan pilihan segmen mana dan berapa banyak segmen yang dilayani disebut dengan…",
+      "options": ["Keunggulan bersaing", "Pasar potensial", "Seleksi pasar sasaran", "Positioning"],
+      "answer": 2,
+      "explanation": "Seleksi pasar sasaran adalah proses memilih segmen mana dan berapa banyak segmen yang akan dilayani setelah evaluasi segmen pasar."
+    },
+    {
+      "id": 129,
+      "question": "Ukuran ketertarikan konsumen pada merek dikenal dengan istilah brand…",
+      "options": ["Awareness", "Image", "Association", "Loyality"],
+      "answer": 3,
+      "explanation": "Brand loyalty (loyalitas merek) adalah ukuran tingkat ketertarikan dan kesetiaan konsumen terhadap suatu merek."
+    },
+    {
+      "id": 130,
+      "question": "Contoh dari meningkatkan customer engagement dengan mengoptimalkan teknologi adalah…",
+      "options": ["Aplikasi chatbot", "Menggunakan twitter", "Menggunakan facebook", "Menggunakan Instagram"],
+      "answer": 0,
+      "explanation": "Aplikasi chatbot adalah contoh pemanfaatan teknologi untuk meningkatkan customer engagement secara otomatis dan efisien."
+    },
+    {
+      "id": 131,
+      "question": "Kewirausahaan terdiri dari pihak pasif sebagai pemilik modal dan pihak aktif sebagai pihak yang menggunakan modal. Merupakan ciri khas kewirausahaan pada masa…",
+      "options": ["Periode awal sejarah", "Abad pertengahan", "Abad 17", "Abad 20"],
+      "answer": 2,
+      "explanation": "Pembagian pihak aktif (pengelola) dan pihak pasif (pemilik modal) dalam kewirausahaan merupakan ciri khas pada abad ke-17."
+    },
+    {
+      "id": 132,
+      "question": "Jejen adalah seorang supervisor marketing sedang membuat rencana penjualan smartphone. Kriteria low end dan high end produk yang akan dijual dalam rencana penjualan dicantumkan di bagian…",
+      "options": ["Segmen pasar", "Pangsa pasar", "Sumber produk", "Distributor produk"],
+      "answer": 0,
+      "explanation": "Kriteria low end dan high end produk mencerminkan pembagian kelompok konsumen berdasarkan kemampuan daya beli, sehingga dicantumkan di bagian segmen pasar."
+    },
+    {
+      "id": 133,
+      "question": "Terdapat 5 (lima) peranan mendasar teknologi informasi di sebuah perusahaan, salah satunya adalah dalam fungsi komunikasi yang bertujuan…",
+      "options": ["Memuat struktur organisasi menjadi lebih ramping", "Sebagai sarana perusahaan melakukan proses berkolaborasi, bekerjasama dan berinteraksi", "Memaksa perusahaan untuk melakukan kolaborasi dengan sejumlah perusahaan lain", "Menjadi bagian tak terpisahkan dengan aktivitas manajerial"],
+      "answer": 1,
+      "explanation": "Fungsi komunikasi TI bertujuan sebagai sarana bagi perusahaan untuk berkolaborasi, bekerjasama, dan berinteraksi secara efisien."
+    },
+    {
+      "id": 134,
+      "question": "Di era digital, mayoritas generasi muda (wirausaha muda) yang mampu memunculkan eksistensi dirinya dalam bisnis dengan membangun start up dan unicorn. Faktor utama yang menyebabkan terjadinya fenomena ini adalah…",
+      "options": ["Model bisnis yang mudah", "Usia yang lebih muda dan energik", "Kemudahan akses modal", "Teknologi informasi"],
+      "answer": 3,
+      "explanation": "Teknologi informasi adalah faktor utama yang memungkinkan generasi muda membangun startup dan unicorn di era digital."
+    },
+    {
+      "id": 135,
+      "question": "Untuk dapat memperkenalkan produk ke pasar, pemanfaatan pemasaran digital harus memperhatikan konsep AIDA sebagai penjelas bahwa komunikasi yang dibangun pelaku usaha berdampak pada konsumen. Berikut ini adalah konsep AIDA, KECUALI…",
+      "options": ["Awareness", "Decision", "Interest", "Action"],
+      "answer": 1,
+      "explanation": "AIDA terdiri dari Awareness, Interest, Desire, dan Action. 'Decision' bukan bagian dari konsep AIDA."
+    }
+  ]
+}

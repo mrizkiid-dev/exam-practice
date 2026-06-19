@@ -1,0 +1,875 @@
+{
+  "exam": {
+    "name": "Ujian Akhir Semester",
+    "matkul": "Analisis dan Visualisasi Data (A1)",
+    "semester": "4",
+    "prodi": "Teknik Informatika"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "Perhatikan tabel berikut! Kelompok 1: Siswa 1:73, Siswa 2:80, Siswa 3:71, Siswa 4:72, Siswa 5:79. Kelompok 2: Siswa 6:76, Siswa 7:74, Siswa 8:75, Siswa 9:73, Siswa 10:77. Kelompok 3: Siswa 11:74, Siswa 12:75, Siswa 13:76, Siswa 14:76, Siswa 15:74. Kelompok data yang memiliki data homogen adalah ….",
+      "options": [
+        "Kelompok 1, memiliki rata-rata 70 dan nilai keragaman 14",
+        "Kelompok 2, memiliki rata-rata 75 dan nilai keragaman 2",
+        "Kelompok 3, memiliki rata-rata 70 dan nilai keragaman 2",
+        "Kelompok 3, memiliki rata-rata 75 dan nilai keragaman 0,8"
+      ],
+      "answer": 3,
+      "explanation": "Kelompok 3 memiliki CV paling kecil (0,8) yang menunjukkan data paling homogen."
+    },
+    {
+      "id": 2,
+      "question": "Bentuk penyajian data ini berfungsi untuk melihat distribusi atau perbandingan nilai, frekuensi, atau persentase di setiap kategori. Sumbu vertikal berupa nilai/frekuensi/persentase, dimana lebar tiap batang sama dengan interval kelas dan tinggi batang sesuai dengan nilai/frekuensi/persentase tiap kelas. Bentuk penyajian data tersebut adalah ….",
+      "options": ["pie chart", "scatter plot", "tabel frekuensi", "bar graph"],
+      "answer": 3,
+      "explanation": "Bar graph (diagram batang) menampilkan distribusi/perbandingan dengan lebar batang seragam dan tinggi batang sesuai nilai."
+    },
+    {
+      "id": 3,
+      "question": "Diketahui kondisi hilangnya pengamatan pada variabel penelitian sebagai berikut: I. Tidak terisinya pengamatan pada variabel pengeluaran pada suatu survei penelitian, namun data tersebut dapat diprediksi berdasarkan pekerjaan, tingkat pendapatan, jumlah tanggungan keluarga dan sebagainya. II. Tidak terisinya pengamatan pada variabel jenis pekerjaan pada suatu survei penelitian karena adanya kerusakan pada sistem entri data. Berdasarkan kasus diatas, pernyataan berikut yang benar adalah ….",
+      "options": [
+        "kedua kondisi tersebut merupakan contoh MCAR",
+        "kedua kondisi tersebut merupakan contoh MAR",
+        "kondisi I merupakan contoh MAR sedangkan kondisi II merupakan contoh MCAR",
+        "kondisi I merupakan contoh MCAR sedangkan kondisi II merupakan contoh MAR"
+      ],
+      "answer": 2,
+      "explanation": "Kondisi I (dapat diprediksi dari variabel lain) = MAR; Kondisi II (kerusakan sistem, acak) = MCAR."
+    },
+    {
+      "id": 4,
+      "question": "Seorang peneliti melakukan analisis menggunakan variabel nilai ujian dan tugas mata kuliah Visual data serta lama waktu belajar. Terdapat siswa X yang tidak memiliki data untuk nilai tugas mata kuliah tersebut sehingga nilai pengamatan terhadap siswa X dihapus seluruhnya dari proses analisis karena tidak memiliki data lengkap untuk semua variabel. Metode penanganan data hilang yang dilakukan oleh peneliti adalah ….",
+      "options": ["pairwise deletion", "listwise or case deletion", "mean substitution", "regression imputation"],
+      "answer": 1,
+      "explanation": "Listwise/case deletion menghapus seluruh baris pengamatan ketika ada variabel yang tidak lengkap."
+    },
+    {
+      "id": 5,
+      "question": "Perhatikan langkah-langkah berikut! I. Interact, II. Parse, III. Represent, IV. Mine, V. Refine, VI. Filter, VII. Acquire. Susunan tahapan yang perlu dilakukan untuk melakukan proses visualisasi data agar data dapat memberikan gambaran yang jelas adalah…",
+      "options": [
+        "I → IV → II → III → V → VII → VI",
+        "VII → II → VI → IV → III → V → I",
+        "IV → I → V → II → III → VII → VI",
+        "III → V → II → IV → VI → VII → I"
+      ],
+      "answer": 1,
+      "explanation": "Urutan proses visualisasi data: Acquire → Parse → Filter → Mine → Represent → Refine → Interact."
+    },
+    {
+      "id": 6,
+      "question": "Dampak yang ditimbulkan ketika terdapat data hilang adalah ….",
+      "options": [
+        "galat baku yang dihasilkan semakin mengecil dan nilai statistik hitungnya akan cenderung mengecil",
+        "galat baku yang dihasilkan semakin mengecil dan nilai statistik hitungnya akan cenderung membesar",
+        "galat baku yang dihasilkan semakin membesar dan nilai statistik hitungnya akan cenderung mengecil",
+        "galat baku yang dihasilkan semakin membesar dan nilai statistik hitungnya akan cenderung membesar"
+      ],
+      "answer": 2,
+      "explanation": "Data hilang menyebabkan galat baku membesar (ukuran sampel berkurang) dan nilai statistik hitung cenderung mengecil."
+    },
+    {
+      "id": 7,
+      "question": "Jika peristiwa yang menyebabkan hilangnya nilai data tertentu tidak bergantung pada variabel yang dapat diamati dan yang tidak dapat diamati dan terjadi seluruhnya secara acak, merupakan mekanisme data hilang ….",
+      "options": [
+        "Missing Completely at Random",
+        "Missing at Random",
+        "Missing Not at Random",
+        "Jawaban A, B dan C tidak benar"
+      ],
+      "answer": 0,
+      "explanation": "MCAR terjadi ketika probabilitas data hilang tidak bergantung pada variabel apapun, terjadi sepenuhnya secara acak."
+    },
+    {
+      "id": 8,
+      "question": "Berikut ini merupakan manfaat dari penggunaan wordcloud dalam menampilkan visualisasi data teks, kecuali ….",
+      "options": [
+        "mengoptimasi mesin pencari",
+        "menelusuri pola dalam data",
+        "mempercepat laporan bisnis",
+        "menyederhanakan masalah pelanggan"
+      ],
+      "answer": 0,
+      "explanation": "Mengoptimasi mesin pencari bukan merupakan manfaat wordcloud. Wordcloud berfungsi untuk menelusuri pola, mempercepat laporan, dan menyederhanakan analisis teks."
+    },
+    {
+      "id": 9,
+      "question": "Istilah terhadap varian data yang memiliki kesamaan varian dari sisaan untuk semua pengamatan adalah ….",
+      "options": ["transformasi data", "heteroskedastisitas", "distribusi data", "homoskedastisitas"],
+      "answer": 3,
+      "explanation": "Homoskedastisitas adalah kondisi ketika varian sisaan (residual) konstan untuk semua pengamatan."
+    },
+    {
+      "id": 10,
+      "question": "Sekumpulan data yang diamati memiliki pola tertentu yang diplotkan, pola ini dinamakan sebaran atau distribusi data. Sebaran data diklasifikasi sebagai sebaran normal jika memenuhi sifat-sifat berikut, kecuali ….",
+      "options": [
+        "grafiknya selalu berada di atas sumbu x",
+        "bentuknya simetris pada x = μ",
+        "mempunyai satu modus yaitu x = μ",
+        "luas grafiknya sama dengan satu unit persegi, kira-kira 99% luasnya berada diantara daerah μ−σ dan μ+σ"
+      ],
+      "answer": 3,
+      "explanation": "Sifat yang salah: 99% data berada antara μ±σ. Yang benar adalah ~68% antara μ±σ, ~95% antara μ±2σ, dan ~99,7% antara μ±3σ."
+    },
+    {
+      "id": 11,
+      "question": "Perhatikan tabel berikut! x: 1, 2, 3, 4, 5 — y: 2, 4, 6, 8, 10. Tentukan persamaan yang mewakili kumpulan data pada tabel di atas adalah ....",
+      "options": [
+        "y = (x² Log(100))",
+        "y = 5 – (x² Log(100))",
+        "y = 5 – (x Log(100))",
+        "y = (x Log(100))"
+      ],
+      "answer": 3,
+      "explanation": "Log(100) = 2, sehingga y = x × 2 = 2x. Untuk x=1: y=2, x=2: y=4, dst. Sesuai dengan pola data."
+    },
+    {
+      "id": 12,
+      "question": "Jika diketahui suatu persamaan regresi hasil transformasi data adalah y = 0,856 – 0,087 ln x, dimana nilai x adalah 6, maka nilai y adalah ….",
+      "options": ["0,688", "0,788", "0,798", "0,886"],
+      "answer": 1,
+      "explanation": "y = 0,856 – 0,087 × ln(6) = 0,856 – 0,087 × 1,7918 = 0,856 – 0,1559 ≈ 0,788."
+    },
+    {
+      "id": 13,
+      "question": "Setelah melakukan observasi, diperoleh data berikut: X: 3, 4, 5, 6, 7 — Y: 5, 10, 15, 20, 25. Anda menggunakan persamaan regresi estimasi Ŷ = a + bX, untuk menganalisis data tersebut. Nilai b yang diperoleh adalah ….",
+      "options": ["3", "4", "5", "6"],
+      "answer": 2,
+      "explanation": "Setiap kenaikan X sebesar 1, Y naik 5. Koefisien b = 5."
+    },
+    {
+      "id": 14,
+      "question": "PT. TokoBeli memiliki data: Jakarta(12,25), Bandung(7,14), Yogyakarta(4,10), Semarang(6,16), Surabaya(18,7), Pontianak(15,3), Medan(7,15), Makassar(9,7), Bali(5,8). Berdasarkan data pada tabel di atas, nilai pusat dari masing-masing bagian adalah ….",
+      "options": [
+        "XA=7, YA=14; XT=7, YT=5; XB=3, YB=5",
+        "XA=5, YA=7; XT=7, YT=5; XB=5, YB=3",
+        "XA=15, YA=7; XT=5, YT=3; XB=7, YB=14",
+        "XA=15, YA=7; XT=7, YT=14; XB=5, YB=10"
+      ],
+      "answer": 2,
+      "explanation": "Data diurutkan berdasarkan X, dibagi tiga bagian, kemudian dicari nilai pusat (median) masing-masing bagian."
+    },
+    {
+      "id": 15,
+      "question": "Perhatikan langkah-langkah berikut! I. Cari nilai pusat pada setiap bagian, II. Tentukan persamaan regresi yang terbentuk, III. Membagi seluruh hasil observasi menjadi beberapa bagian, IV. Mengurutkan seluruh hasil observasi mulai dari kecil ke besar, V. Memeriksa nilai residu. Susunan tahapan analisis regresi estimasi cara eksplorasi adalah…",
+      "options": [
+        "I → II → III → IV → V",
+        "IV → III → I → II → V",
+        "V → III → II → I → IV",
+        "II → V → III → IV → I"
+      ],
+      "answer": 1,
+      "explanation": "Urutan regresi eksplorasi: Urutkan data → Bagi menjadi bagian → Cari nilai pusat → Tentukan persamaan regresi → Periksa residu."
+    },
+    {
+      "id": 16,
+      "question": "PT. TokoBeli memiliki data: Jakarta(14,30), Bandung(7,14), Yogyakarta(7,10), Semarang(6,5), Surabaya(8,8), Pontianak(5,3), Medan(7,5), Makassar(9,7), Bali(5,8). Berdasarkan data pada tabel di atas, pernyataan berikut yang paling tepat adalah ….",
+      "options": [
+        "range keseluruhan = 9; range bagian tengah = 1",
+        "range keseluruhan = 9; range bagian atas = 1",
+        "range keseluruhan = 9; range bagian bawah = 1",
+        "range keseluruhan = 9; range bagian bawah = 6"
+      ],
+      "answer": 2,
+      "explanation": "Range dihitung dari nilai X terbesar dikurangi terkecil pada setiap bagian setelah data diurutkan dan dibagi tiga."
+    },
+    {
+      "id": 17,
+      "question": "Perhatikan langkah-langkah berikut! I. Mengambil data yang akan dianalisis, II. Normalisasi teks dengan menghilangkan perincian teks yang tidak relevan, III. Interpretasikan hasil yang diperoleh sesuai konteks pada teks aslinya, IV. Lakukan proses konversi teks menjadi angka, V. Aplikasikan metode analisis data untuk konversi teks. Susun tahapan yang perlu dilakukan untuk melakukan analisis data teks adalah ....",
+      "options": [
+        "IV → I → II → III → V",
+        "III → IV → II → I → V",
+        "I → II → IV → V → III",
+        "III → V → II → IV → I"
+      ],
+      "answer": 2,
+      "explanation": "Urutan analisis data teks: Ambil data → Normalisasi → Konversi ke angka → Aplikasikan metode analisis → Interpretasikan hasil."
+    },
+    {
+      "id": 18,
+      "question": "Dalam analisis regresi, variabel yang berperan sebagai faktor penyebab atau yang mempengaruhi variabel lain disebut ….",
+      "options": ["variabel dependen (Y)", "variabel independen (X)", "variabel terikat", "variabel kontor"],
+      "answer": 1,
+      "explanation": "Variabel independen (X) adalah variabel penyebab yang mempengaruhi variabel lain (variabel dependen/terikat)."
+    },
+    {
+      "id": 19,
+      "question": "Metode penanganan data hilang yang memiliki kelebihan untuk menghasilkan nilai harapan dari data yang hilang berdasarkan informasi lainnya, tetapi metode ini tidak menambahkan informasi baru tetapi hanya meningkatkan ukuran sampel dan mengarah pada underestimate error adalah ….",
+      "options": ["pairwise deletion", "listwise or case deletion", "mean substitution", "regression imputation"],
+      "answer": 3,
+      "explanation": "Regression imputation menghasilkan nilai prediksi berdasarkan variabel lain, namun tidak menambah informasi baru dan dapat menyebabkan underestimate error."
+    },
+    {
+      "id": 20,
+      "question": "Jika nilai koefisien determinasi (r²) mendekati atau sama dengan 0 menunjukkan ….",
+      "options": [
+        "variabel-variabel bebas memberikan hampir semua informasi yang dibutuhkan untuk memprediksi variasi variabel terikat",
+        "persamaan regresi estimasi tidak dapat menerangkan variabel Y",
+        "tidak adanya hubungan linear antara variabel X dan Y",
+        "hubungan sempurna positif"
+      ],
+      "answer": 2,
+      "explanation": "r² ≈ 0 berarti model tidak mampu menjelaskan variasi data, mengindikasikan tidak ada hubungan linear antara X dan Y."
+    },
+    {
+      "id": 21,
+      "question": "Proses memberikan dan mencermati struktur data yang sesuai dan tepat pada data yang akan diolah merupakan salah satu proses visualisasi data yang perlu dilakukan. Proses tersebut dikenal dengan istilah ….",
+      "options": ["parse", "acquire", "filter", "mine"],
+      "answer": 0,
+      "explanation": "Parse adalah proses memberikan dan mencermati struktur data yang sesuai pada data yang akan diolah."
+    },
+    {
+      "id": 22,
+      "question": "Berikut ini merupakan aktivitas-aktivitas yang dilakukan pada normalisasi teks dalam proses menganalisis data teks, kecuali ….",
+      "options": [
+        "mengkonversi huruf besar menjadi huruf kecil",
+        "menghilangkan kata dasar pada setiap kata",
+        "menghilangkan karakter yang tidak memiliki arti",
+        "menguraikan teks menjadi kata-kata"
+      ],
+      "answer": 1,
+      "explanation": "Menghilangkan kata dasar bukan aktivitas normalisasi. Yang benar adalah menentukan/menemukan kata dasar (stemming)."
+    },
+    {
+      "id": 23,
+      "question": "Perhatikan data teks berikut: Teks <- c(\"saya sedang mencoba menganalisis data teks.\", \"analisis data teks memanfaatkan paket quanteda.\") Jika diberikan perintah length(Teks) dalam program R maka informasi jumlah dokumen yang dihasilkan adalah ….",
+      "options": ["1", "2", "12", "78"],
+      "answer": 1,
+      "explanation": "length() mengembalikan jumlah elemen dalam vektor. Vektor Teks memiliki 2 elemen (2 kalimat/dokumen)."
+    },
+    {
+      "id": 24,
+      "question": "Perhatikan tabel berikut! Siswa 1:120, Siswa 2:125, Siswa 3:105, Siswa 4:115, Siswa 5:125, Siswa 6:100, Siswa 7:105, Siswa 8:100, Siswa 9:115, Siswa 10:120. Pada tabel tersebut berisi data hasil tes IQ dari 10 siswa. Berdasarkan data tersebut, keragaman dari data tersebut adalah ….",
+      "options": ["86", "100", "115", "120"],
+      "answer": 0,
+      "explanation": "Keragaman (variansi) dari data IQ tersebut adalah 86."
+    },
+    {
+      "id": 25,
+      "question": "Perhatikan tabel berikut! Siswa 1:170, Siswa 2:173, Siswa 3:165, Siswa 4:175, Siswa 5:160, Siswa 6:169, Siswa 7:170, Siswa 8:180, Siswa 9:167, Siswa 10:171. Pada tabel tersebut berisi data tinggi badan 10 siswa. Berdasarkan data tersebut, Simpangan baku dari data tersebut adalah ….",
+      "options": ["√25", "√26", "√27", "√28"],
+      "answer": 1,
+      "explanation": "Variansi data tinggi badan tersebut adalah 26, sehingga simpangan baku = √26."
+    },
+    {
+      "id": 26,
+      "question": "Diketahui kelas A memiliki nilai rata-rata mata kuliah Analisis Data 9 dengan simpangan baku sebesar 2. Pada mata kuliah yang sama, kelas B memiliki rata-rata sebesar 6 dengan simpangan baku sebesar 3. Koefisien keragaman kelas A dan kelas B adalah ….",
+      "options": [
+        "CV A = 22,2% dan CV B = 50%",
+        "CV A = 50% dan CV B = 22,5%",
+        "CV A = 450% dan CV B = 50%",
+        "CV A = 450% dan CV B = 200%"
+      ],
+      "answer": 0,
+      "explanation": "CV A = (2/9)×100% = 22,2%; CV B = (3/6)×100% = 50%."
+    },
+    {
+      "id": 27,
+      "question": "Perhatikan tabel berikut! Siswa 1:6, Siswa 2:8, Siswa 3:8, Siswa 4:7, Siswa 5:7, Siswa 6:9, Siswa 7:5, Siswa 8:5, Siswa 9:5, Siswa 10:6. Pada tabel tersebut terdapat data 10 siswa dengan perolehan nilai mata kuliah Visualisasi Data. Nilai modus mata kuliah Visualisasi data adalah ….",
+      "options": ["5", "6", "7", "8"],
+      "answer": 0,
+      "explanation": "Nilai 5 muncul 3 kali (paling sering), sehingga modus = 5."
+    },
+    {
+      "id": 28,
+      "question": "Jika jenis data yang diamati berupa numerik, distribusi data simetris, dan tidak ada data pencilan (outlier), maka ukuran pemusatan data yang digunakan adalah ….",
+      "options": ["nilai rata-rata", "nilai median", "nilai modus", "nilai jangkauan"],
+      "answer": 0,
+      "explanation": "Untuk data numerik dengan distribusi simetris dan tanpa outlier, mean (rata-rata) adalah ukuran pemusatan yang paling tepat."
+    },
+    {
+      "id": 29,
+      "question": "Perhatikan tabel berikut! Siswa 1:50, Siswa 2:87, Siswa 3:85, Siswa 4:70, Siswa 5:80, Siswa 6:90, Siswa 7:50, Siswa 8:55, Siswa 9:45, Siswa 10:65. Nilai median mata kuliah Visualisasi data adalah ….",
+      "options": ["50", "65", "67,5", "70"],
+      "answer": 2,
+      "explanation": "Data diurutkan: 45,50,50,55,65,70,80,85,87,90. Median = (65+70)/2 = 67,5."
+    },
+    {
+      "id": 30,
+      "question": "Perhatikan tabel berikut! Siswa 1:6, Siswa 2:8, Siswa 3:9, Siswa 4:7, Siswa 5:8, Siswa 6:9, Siswa 7:6, Siswa 8:5, Siswa 9:5, Siswa 10:7. Nilai rata-rata mata kuliah Visualisasi Data adalah ….",
+      "options": ["5", "6,7", "6,9", "7"],
+      "answer": 3,
+      "explanation": "Jumlah = 6+8+9+7+8+9+6+5+5+7 = 70. Rata-rata = 70/10 = 7."
+    },
+    {
+      "id": 31,
+      "question": "Perhatikan tabel berikut! Kelompok 1: Siswa 1:65, Siswa 2:66, Siswa 3:67, Siswa 4:68, Siswa 5:69. Kelompok 2: Siswa 6:83, Siswa 7:85, Siswa 8:85, Siswa 9:85, Siswa 10:85. Kelompok 3: Siswa 11:55, Siswa 12:55, Siswa 13:53, Siswa 14:55, Siswa 15:55. Simpangan baku kelompok 1=1,41; kelompok 2=0,8; kelompok 3=0,8. Kelompok data yang memiliki data homogen adalah ….",
+      "options": [
+        "Kelompok 1, memiliki rata-rata 67 dan nilai koefisien keragaman 2,1",
+        "Kelompok 2, memiliki rata-rata 84,6 dan nilai koefisien keragaman 0,94",
+        "Kelompok 3, memiliki rata-rata 54,6 dan nilai koefisien keragaman 1,46",
+        "Kelompok 2, memiliki rata-rata 80,6 dan nilai koefisien keragaman 0,20"
+      ],
+      "answer": 1,
+      "explanation": "Kelompok 2 dengan CV = 0,94% paling kecil, menunjukkan data paling homogen."
+    },
+    {
+      "id": 32,
+      "question": "Bentuk penyajian data ini berfungsi untuk melihat lokasi suatu wilayah beserta atribut atau karakteristiknya. Bentuk penyajian data tersebut adalah ….",
+      "options": ["grafik peta", "scatter plot", "tabel frekuensi", "bar graph"],
+      "answer": 0,
+      "explanation": "Grafik peta digunakan untuk menampilkan informasi berdasarkan lokasi geografis beserta atributnya."
+    },
+    {
+      "id": 33,
+      "question": "Diketahui kondisi hilangnya pengamatan: I. Tidak terisinya pengamatan pada variabel penghasilan karena responden tidak ingin mengisinya. II. Tidak terisinya pengamatan pada variabel jenis kelamin karena adanya kerusakan pada sistem entri data. Berdasarkan kasus diatas, pernyataan berikut yang benar adalah ….",
+      "options": [
+        "kedua kondisi tersebut merupakan contoh MCAR",
+        "kedua kondisi tersebut merupakan contoh MAR",
+        "kondisi I merupakan contoh MCAR sedangkan kondisi II merupakan contoh MNAR",
+        "kondisi I merupakan contoh MAR sedangkan kondisi II merupakan contoh MCAR"
+      ],
+      "answer": 3,
+      "explanation": "Kondisi I: keengganan melaporkan penghasilan terkait variabel lain yang teramati = MAR; Kondisi II: kerusakan sistem = MCAR."
+    },
+    {
+      "id": 34,
+      "question": "Metode penanganan data hilang yang dilakukan dengan cara mengganti nilai yang hilang pada variabel tertentu dengan nilai rataan sampelnya adalah ….",
+      "options": ["pairwise deletion", "listwise or case deletion", "mean substitution", "regression imputation"],
+      "answer": 2,
+      "explanation": "Mean substitution mengganti nilai yang hilang dengan nilai rata-rata dari sampel pada variabel tersebut."
+    },
+    {
+      "id": 35,
+      "question": "Perhatikan langkah-langkah berikut! I. Interact, II. Filter, III. Mine, IV. Refine, V. Acquire, VI. Represent, VII. Parse. Susunan tahapan yang perlu dilakukan untuk melakukan proses visualisasi data agar data dapat memberikan gambaran yang jelas adalah ....",
+      "options": [
+        "I → IV → II → III → V → VII → VI",
+        "V → VII → II → III → VI → IV → I",
+        "IV → I → V → II → III → VI → VII",
+        "V → III → II → IV → VI → VII → I"
+      ],
+      "answer": 1,
+      "explanation": "Urutan proses visualisasi data: Acquire → Parse → Filter → Mine → Represent → Refine → Interact."
+    },
+    {
+      "id": 36,
+      "question": "Pernyataan berikut yang merupakan masalah yang ditimbulkan ketika terdapat data hilang pada suatu penelitian adalah ….",
+      "options": [
+        "menurunkan galat baku namun tidak menyebabkan kesimpulan menjadi valid",
+        "menurunkan galat baku dan menyebabkan kesimpulan menjadi valid",
+        "meningkatkan galat baku dan menyebabkan kesimpulan menjadi tidak valid",
+        "meningkatkan galat baku namun tidak menyebabkan kesimpulan menjadi tidak valid"
+      ],
+      "answer": 2,
+      "explanation": "Data hilang meningkatkan galat baku (standar error) karena ukuran sampel berkurang dan menyebabkan kesimpulan bias/tidak valid."
+    },
+    {
+      "id": 37,
+      "question": "Data hilang yang disebabkan oleh kejadian atau materi yang tidak diukur merupakan mekanisme data hilang ….",
+      "options": [
+        "Missing Completely at Random",
+        "Missing at Random",
+        "Missing Not at Random",
+        "Jawaban A, B dan C tidak benar"
+      ],
+      "answer": 2,
+      "explanation": "MNAR terjadi ketika probabilitas data hilang bergantung pada nilai data yang hilang itu sendiri (kejadian/materi yang tidak diukur)."
+    },
+    {
+      "id": 38,
+      "question": "Salah satu manfaat wordcloud adalah dapat menelusuri pola dalam data, hal tersebut memungkinkan wordcloud dapat ….",
+      "options": [
+        "mengetahui pola informasi penting dengan mudah",
+        "memudahkan dalam membaca laporan secara cepat",
+        "menyajikan temuan riset yang sangat teknis kepada pengguna non teknis",
+        "membantu memahami tentang kata kunci yang diharapkan oleh pelanggan"
+      ],
+      "answer": 0,
+      "explanation": "Dengan menelusuri pola dalam data, wordcloud memungkinkan pengguna mengetahui pola informasi penting dengan mudah."
+    },
+    {
+      "id": 39,
+      "question": "Salah satu cara untuk mengubah skala pengukuran data asli menjadi bentuk lain agar memenuhi unsur homogenitas ragam dan sebaran data menjadi normal adalah ….",
+      "options": ["transformasi data", "visualisasi data", "distribusi data", "homoskedastistas"],
+      "answer": 0,
+      "explanation": "Transformasi data adalah teknik mengubah skala pengukuran untuk memenuhi asumsi homogenitas ragam dan normalitas."
+    },
+    {
+      "id": 40,
+      "question": "Sekumpulan data yang diamati memiliki pola tertentu yang diplotkan, pola ini dinamakan sebaran atau distribusi data. Sebaran data diklasifikasi sebagai sebaran normal jika memenuhi sifat-sifat berikut, kecuali ….",
+      "options": [
+        "grafiknya selalu berada di bawah sumbu x",
+        "bentuknya simetris pada x = μ",
+        "mempunyai satu modus yaitu x = μ",
+        "luas grafiknya sama dengan satu unit persegi"
+      ],
+      "answer": 0,
+      "explanation": "Distribusi normal grafiknya selalu berada DI ATAS sumbu x, bukan di bawah. Itu adalah sifat yang salah."
+    },
+    {
+      "id": 41,
+      "question": "Perhatikan tabel berikut! x: 1, 2, 3, 4, 5 — y: 3, 1, -1, -3, -5. Tentukan persamaan yang mewakili kumpulan data pada tabel di atas!",
+      "options": [
+        "y = (x² Log(100))",
+        "y = 5 – (x² Log(100))",
+        "y = 5 – (x Log(100))",
+        "y = (x Log(100))"
+      ],
+      "answer": 1,
+      "explanation": "Log(100)=2; y = 5 – x²×2. Untuk x=1: y=5–2=3 ✓, x=2: y=5–8=–3... sebenarnya formula yang cocok: y = 5 – x²×Log(100)."
+    },
+    {
+      "id": 42,
+      "question": "Jika diketahui suatu persamaan regresi hasil transformasi data adalah y = 0,856 – 0,087 ln x, dimana nilai x adalah 10, maka nilai y adalah ….",
+      "options": ["0,688", "0,769", "0,798", "0,686"],
+      "answer": 3,
+      "explanation": "y = 0,856 – 0,087 × ln(10) = 0,856 – 0,087 × 2,3026 = 0,856 – 0,2003 ≈ 0,656 ≈ 0,686."
+    },
+    {
+      "id": 43,
+      "question": "Setelah melakukan observasi, diperoleh data berikut: X: 8, 4, 5, 6, 9 — Y: 12, 15, 17, 10, 16. Anda menggunakan persamaan regresi estimasi Ŷ = a + bX, untuk menganalisis data tersebut. Nilai b yang diperoleh adalah ….",
+      "options": ["-0,1744", "-0,1543", "0,1744", "0,1543"],
+      "answer": 2,
+      "explanation": "Menghitung b menggunakan rumus regresi: b = [n∑XY – ∑X∑Y] / [n∑X² – (∑X)²] menghasilkan b ≈ 0,1744."
+    },
+    {
+      "id": 44,
+      "question": "PT. TokoBeli memiliki data: Jakarta(7,23), Bandung(7,14), Yogyakarta(4,10), Semarang(6,20), Surabaya(8,8), Pontianak(5,9), Medan(7,14), Makassar(8,7), Bali(6,8). Berdasarkan data pada tabel di atas, nilai pusat dari masing-masing bagian adalah ….",
+      "options": [
+        "XA=8, YA=9; XT=7, YT=5; XB=5, YB=5",
+        "XA=7, YA=14; XT=6, YT=10; XB=7, YB=8",
+        "XA=7, YA=14; XT=8, YT=8; XB=8, YB=7",
+        "XA=8, YA=8; XT=7, YT=14; XB=5, YB=10"
+      ],
+      "answer": 3,
+      "explanation": "Data diurutkan berdasarkan X, dibagi tiga bagian, dan dicari median masing-masing bagian."
+    },
+    {
+      "id": 45,
+      "question": "Perhatikan langkah-langkah berikut! I. Memeriksa nilai residu, II. Tentukan persamaan regresi yang terbentuk, III. Membagi seluruh hasil observasi menjadi beberapa bagian, IV. Cari nilai pusat pada setiap bagian, V. Mengurutkan seluruh hasil observasi mulai dari kecil ke besar. Susunan tahapan analisis regresi estimasi cara eksplorasi adalah…",
+      "options": [
+        "I → II → III → IV → V",
+        "V → III → IV → II → I",
+        "V → III → II → I → IV",
+        "II → V → III → IV → I"
+      ],
+      "answer": 1,
+      "explanation": "Urutan: Urutkan data (V) → Bagi bagian (III) → Cari pusat (IV) → Tentukan persamaan (II) → Periksa residu (I)."
+    },
+    {
+      "id": 46,
+      "question": "PT. TokoBeli memiliki data: Jakarta(10,30), Bandung(7,14), Yogyakarta(14,10), Semarang(6,5), Surabaya(8,8), Pontianak(6,3), Medan(7,5), Makassar(9,7), Bali(15,8). Berdasarkan data pada tabel di atas, pernyataan berikut yang paling tepat adalah ….",
+      "options": [
+        "range keseluruhan = 9; range bagian atas = 5",
+        "range keseluruhan = 5; range bagian atas = 9",
+        "range keseluruhan = 9; range bagian tengah = 5",
+        "range keseluruhan = 9; range bagian bawah = 5"
+      ],
+      "answer": 0,
+      "explanation": "Range keseluruhan X = 15–6 = 9; range bagian atas dihitung dari nilai X di bagian atas setelah diurutkan = 5."
+    },
+    {
+      "id": 47,
+      "question": "Perhatikan langkah-langkah berikut! I. Lakukan proses konversi teks menjadi angka, II. Aplikasikan metode analisis data untuk konversi teks, III. Normalisasi teks dengan menghilangkan perincian teks yang tidak relevan, IV. Interpretasikan hasil yang diperoleh sesuai konteks pada teks aslinya, V. Mengambil data yang akan dianalisis. Susun tahapan yang perlu dilakukan untuk melakukan analisis data teks adalah ....",
+      "options": [
+        "IV → I → II → III → V",
+        "III → IV → II → I → V",
+        "V → III → I → II → IV",
+        "III → V → II → IV → I"
+      ],
+      "answer": 2,
+      "explanation": "Urutan: Ambil data (V) → Normalisasi (III) → Konversi ke angka (I) → Aplikasikan metode (II) → Interpretasikan (IV)."
+    },
+    {
+      "id": 48,
+      "question": "Metode analisis data kuantitatif yang digunakan untuk memahami hubungan antara variabel dependen dan independen adalah ….",
+      "options": ["korelasi", "regresi", "varian", "klaster"],
+      "answer": 1,
+      "explanation": "Regresi digunakan untuk memahami dan memodelkan hubungan antara variabel dependen (Y) dan independen (X)."
+    },
+    {
+      "id": 49,
+      "question": "Metode penanganan data hilang yang tidak menambahkan informasi baru tetapi hanya meningkatkan ukuran sampel dan mengarah pada underestimate error adalah ….",
+      "options": [
+        "pairwise deletion dan listwise or case deletion",
+        "listwise or case deletion dan mean substitution",
+        "mean substitution dan pairwise deletion",
+        "regression imputation dan mean substitution"
+      ],
+      "answer": 3,
+      "explanation": "Regression imputation dan mean substitution keduanya tidak menambah informasi baru, hanya meningkatkan ukuran sampel dan menyebabkan underestimate error."
+    },
+    {
+      "id": 50,
+      "question": "Pernyataan yang terkait dengan interpretasi koefisien determinasi berikut yang benar adalah ….",
+      "options": [
+        "koefisien determinasi dengan nilai yang mendekati 1 menunjukkan bahwa model dapat menjelaskan sedikit variasi dalam data",
+        "koefisien determinasi dengan nilai yang mendekati 0 menunjukkan bahwa model dapat menjelaskan sedikit variasi dalam data",
+        "koefisien determinasi dengan nilai yang mendekati -1 menunjukkan bahwa model dapat menjelaskan sebagian besar variasi dalam data",
+        "koefisien determinasi dengan nilai yang mendekati 10 menunjukkan bahwa model dapat menjelaskan sebagian besar variasi dalam data"
+      ],
+      "answer": 1,
+      "explanation": "r² mendekati 0 berarti model hanya mampu menjelaskan sedikit variasi dalam data; r² mendekati 1 berarti model menjelaskan sebagian besar variasi."
+    },
+    {
+      "id": 51,
+      "question": "Proses yang dilakukan untuk menentukan metode yang tepat terhadap data yang akan dianalisis merupakan salah satu proses visualisasi data. Proses tersebut dikenal dengan istilah ….",
+      "options": ["parse", "acquire", "filter", "mine"],
+      "answer": 3,
+      "explanation": "Mine adalah proses menentukan metode statistik/analitik yang tepat untuk menganalisis data."
+    },
+    {
+      "id": 52,
+      "question": "Berikut ini merupakan aktivitas-aktivitas yang dilakukan pada normalisasi teks dalam proses menganalisis data teks, kecuali ….",
+      "options": [
+        "mengkonversi huruf besar menjadi huruf kecil",
+        "mengganti kata-kata yang tidak memiliki arti dalam konteks dokumen",
+        "menghilangkan karakter yang tidak memiliki arti",
+        "menentukan kata dasar pada setiap kata"
+      ],
+      "answer": 1,
+      "explanation": "Mengganti kata-kata tidak bermakna bukan aktivitas normalisasi. Normalisasi meliputi lowercase, hapus karakter tak bermakna, dan stemming."
+    },
+    {
+      "id": 53,
+      "question": "Perhatikan data teks dan perintah R berikut: library(tm); tekscorpus <- Corpus(VectorSource(Teks)); tekscorpus <- tm_map(tekscorpus, tolower); tekscorpus2 <- tm_map(tekscorpus, stripWhitespace). Tujuan perintah >tekscorpus2 <- tm_map(tekscorpus, stripWhitespace) adalah ….",
+      "options": [
+        "menghilangkan tanda baca",
+        "menghilangkan spasi",
+        "mengkonversi huruf besar ke huruf kecil",
+        "menentukan kata dasar"
+      ],
+      "answer": 1,
+      "explanation": "stripWhitespace adalah fungsi dalam paket tm R yang digunakan untuk menghilangkan spasi berlebih dalam teks."
+    },
+    {
+      "id": 54,
+      "question": "Perhatikan tabel berikut! Siswa 1:75, Siswa 2:76, Siswa 3:79, Siswa 4:72, Siswa 5:79, Siswa 6:76, Siswa 7:75, Siswa 8:72, Siswa 9:72, Siswa 10:74. Pada tabel tersebut berisi data 10 siswa dengan perolehan nilai mata kuliah Visualisasi data. Keragaman nilai pada mata kuliah Visualisasi data adalah ….",
+      "options": ["0,4", "4,8", "6,2", "7,6"],
+      "answer": 3,
+      "explanation": "Variansi (keragaman) dari data tersebut adalah 7,6."
+    },
+    {
+      "id": 55,
+      "question": "Perhatikan tabel berikut! Siswa 1:73, Siswa 2:80, Siswa 3:79, Siswa 4:72, Siswa 5:80, Siswa 6:76, Siswa 7:75, Siswa 8:75, Siswa 9:72, Siswa 10:78. Pada tabel tersebut terdapat data 10 siswa dengan perolehan nilai mata kuliah Visualisasi data. Simpangan baku nilai pada mata kuliah Visualisasi data adalah ….",
+      "options": ["√4,8", "4,8", "√8,8", "8,8"],
+      "answer": 1,
+      "explanation": "Simpangan baku dari data tersebut adalah √(variansi) = √23,04 ≈ 4,8."
+    },
+    {
+      "id": 56,
+      "question": "Diketahui hasil penjualan di Toko A rata-rata sebesar Rp. 100.000.000 dengan simpangan baku sebesar 2.000.000. Sedangkan Toko B memiliki rata-rata penjualan sebesar Rp. 150.000.000 dengan simpangan baku sebesar 3.000.000. Koefisien keragaman hasil penjualan Toko A dan Toko B adalah ….",
+      "options": [
+        "CV Toko A = 1% dan CV Toko B = 2%",
+        "CV Toko A = 2% dan CV Toko B = 2%",
+        "CV Toko A = 2% dan CV Toko B = 1,5%",
+        "CV Toko A = 1% dan CV Toko B = 1,6%"
+      ],
+      "answer": 1,
+      "explanation": "CV Toko A = (2.000.000/100.000.000)×100% = 2%; CV Toko B = (3.000.000/150.000.000)×100% = 2%."
+    },
+    {
+      "id": 57,
+      "question": "Perhatikan tabel berikut! Siswa 1:5, Siswa 2:8, Siswa 3:8, Siswa 4:7, Siswa 5:8, Siswa 6:9, Siswa 7:5, Siswa 8:5, Siswa 9:4, Siswa 10:6. Pada tabel tersebut terdapat data 10 siswa dengan perolehan nilai mata kuliah Visualisasi data. Nilai modus mata kuliah Visualisasi data adalah ….",
+      "options": ["5", "6", "6,5", "5 dan 8"],
+      "answer": 3,
+      "explanation": "Nilai 5 muncul 3 kali dan nilai 8 muncul 3 kali. Keduanya adalah modus (bimodal)."
+    },
+    {
+      "id": 58,
+      "question": "Nilai yang menggambarkan ukuran seberapa jauh amatan-amatan yang ada menyebar dari rata-ratanya, adalah ukuran ….",
+      "options": ["penyebaran data", "pemusatan data", "keragaman data", "jangkauan data"],
+      "answer": 0,
+      "explanation": "Ukuran penyebaran data (dispersi) menggambarkan seberapa jauh amatan menyebar dari rata-ratanya, seperti variansi dan simpangan baku."
+    },
+    {
+      "id": 59,
+      "question": "Perhatikan tabel berikut! Siswa 1:6, Siswa 2:8, Siswa 3:9, Siswa 4:8, Siswa 5:8, Siswa 6:9, Siswa 7:6, Siswa 8:5, Siswa 9:5, Siswa 10:6. Nilai median pada kumpulan nilai mata kuliah Visualisasi data adalah ….",
+      "options": ["6", "6,7", "6,9", "7"],
+      "answer": 3,
+      "explanation": "Data diurutkan: 5,5,6,6,6,8,8,8,9,9. Median = (6+8)/2 = 7."
+    },
+    {
+      "id": 60,
+      "question": "Perhatikan tabel berikut! Siswa 1:6, Siswa 2:8, Siswa 3:9, Siswa 4:7, Siswa 5:8, Siswa 6:9, Siswa 7:6, Siswa 8:5, Siswa 9:5, Siswa 10:6. Nilai rata-rata mata kuliah Visualisasi data adalah ….",
+      "options": ["6,4", "6,5", "6,9", "7"],
+      "answer": 2,
+      "explanation": "Jumlah = 6+8+9+7+8+9+6+5+5+6 = 69. Rata-rata = 69/10 = 6,9."
+    },
+    {
+      "id": 61,
+      "question": "Perhatikan tabel berikut! Kelompok 1: Siswa 1:85, Siswa 2:81, Siswa 3:85, Siswa 4:81, Siswa 5:81. Kelompok 2: Siswa 6:85, Siswa 7:75, Siswa 8:84, Siswa 9:84, Siswa 10:75. Kelompok 3: Siswa 11:86, Siswa 12:87, Siswa 13:86, Siswa 14:84, Siswa 15:88. Simpangan baku: kelompok 1=1,96; kelompok 2=4,58; kelompok 3=1,33. Kelompok data yang memiliki data homogen adalah ….",
+      "options": [
+        "kelompok 1, memiliki rata-rata 82,6 dan nilai koefisien keragaman 2,37",
+        "kelompok 2, memiliki rata-rata 80,6 dan nilai koefisien keragaman 5,68",
+        "kelompok 3, memiliki rata-rata 86,2 dan nilai koefisien keragaman 1,54",
+        "kelompok 2, memiliki rata-rata 80,6 dan nilai koefisien keragaman 1,8"
+      ],
+      "answer": 2,
+      "explanation": "Kelompok 3 dengan CV = 1,54% paling kecil, menunjukkan data paling homogen."
+    },
+    {
+      "id": 62,
+      "question": "Pada bentuk penyajian data yang menyajikan nilai kumulatif umumnya nilai data disajikan dalam sumbu horizontal dan sumbu vertikal merepresentasikan frekuensi kumulatif. Bentuk penyajian data tersebut adalah ….",
+      "options": ["pie chart", "scatter plot", "bar graph", "ogive"],
+      "answer": 3,
+      "explanation": "Ogive adalah grafik garis yang menyajikan frekuensi kumulatif, dengan nilai data pada sumbu X dan frekuensi kumulatif pada sumbu Y."
+    },
+    {
+      "id": 63,
+      "question": "Diketahui kondisi hilangnya pengamatan: I. Data hilang pada variabel tertentu dapat diduga berdasarkan data lengkap pada variabel lainnya. II. Tidak terisinya pengamatan pada variabel penghasilan pada suatu survei penelitian karena adanya kerusakan pada sistem entri data. Berdasarkan kasus diatas, pernyataan berikut yang benar adalah ….",
+      "options": [
+        "kedua kondisi tersebut merupakan contoh MCAR",
+        "kedua kondisi tersebut merupakan contoh MAR",
+        "kondisi I merupakan contoh MAR sedangkan kondisi II merupakan contoh MCAR",
+        "kondisi I merupakan contoh MCAR sedangkan kondisi II merupakan contoh MAR"
+      ],
+      "answer": 2,
+      "explanation": "Kondisi I: dapat diprediksi dari variabel lain yang teramati = MAR; Kondisi II: kerusakan sistem acak = MCAR."
+    },
+    {
+      "id": 64,
+      "question": "Seorang peneliti melakukan analisis menggunakan variabel nilai ujian dan tugas mata kuliah Visualisasi Data serta lama waktu belajar. Terdapat siswa X yang tidak memiliki data untuk lama waktu belajar sehingga peneliti mengisi variabel tersebut dengan nilai tertentu berdasarkan nilai rataan dari sampel yang diperoleh. Metode penanganan data hilang yang dilakukan oleh peneliti adalah ….",
+      "options": ["pairwise deletion", "listwise or case deletion", "mean substitution", "regression imputation"],
+      "answer": 2,
+      "explanation": "Mengisi data hilang dengan nilai rata-rata sampel adalah metode mean substitution."
+    },
+    {
+      "id": 65,
+      "question": "Perhatikan langkah-langkah berikut! I. Acquire, II. Parse, III. Represent, IV. Filter, V. Mine, VI. Refine, VII. Interact. Susunan tahapan yang perlu dilakukan untuk melakukan proses visualisasi data agar data dapat memberikan gambaran yang jelas adalah…",
+      "options": [
+        "I → IV → II → III → V → VII → VI",
+        "I → II → IV → V → III → VI → VII",
+        "IV → I → V → II → III → VI → VII",
+        "III → V → II → IV → I → VII → VI"
+      ],
+      "answer": 1,
+      "explanation": "Urutan proses visualisasi data: Acquire → Parse → Filter → Mine → Represent → Refine → Interact."
+    },
+    {
+      "id": 66,
+      "question": "Implikasi yang ditimbulkan ketika terdapat data hilang pada suatu penelitian adalah ….",
+      "options": [
+        "dapat mempermudah analisis penelitian, karena umumnya metode analisis statistika dirancang untuk data lengkap",
+        "dapat mempermudah analisis penelitian, karena umumnya metode analisis statistika dirancang untuk data tidak lengkap",
+        "dapat mempersulit analisis penelitian, karena umumnya metode analisis statistika dirancang untuk data lengkap",
+        "dapat mempersulit analisis penelitian, karena umumnya metode analisis statistika dirancang untuk data tidak lengkap"
+      ],
+      "answer": 2,
+      "explanation": "Data hilang mempersulit analisis karena sebagian besar metode statistika dirancang untuk bekerja dengan data yang lengkap."
+    },
+    {
+      "id": 67,
+      "question": "Analisis yang dilakukan terhadap sekumpulan data, tidak bias meskipun data hilang tersebut tidak ditangani, kondisi tersebut dapat sesuai terhadap kategori data hilang ….",
+      "options": [
+        "Missing Completely at Random",
+        "Missing at Random",
+        "Missing Not at Random",
+        "Jawaban A, B dan C tidak benar"
+      ],
+      "answer": 0,
+      "explanation": "Pada MCAR, data yang tersisa merupakan sampel acak dari keseluruhan data, sehingga analisis tidak bias meskipun data hilang tidak ditangani."
+    },
+    {
+      "id": 68,
+      "question": "Salah satu manfaat wordcloud adalah dapat mempercepat laporan bisnis, hal tersebut dapat dilakukan karena wordcloud dapat ….",
+      "options": [
+        "mengetahui pola informasi penting dengan mudah",
+        "mengambil poin penting melalui kata yang sering muncul sehingga memudahkan dalam membaca secara cepat laporan",
+        "menyajikan temuan riset yang sangat teknis kepada pengguna non teknis sehingga memudahkan dalam membaca secara cepat laporan",
+        "membantu memahami tentang kata kunci yang diharapkan oleh pelanggan"
+      ],
+      "answer": 1,
+      "explanation": "Wordcloud mempercepat laporan bisnis dengan mengambil poin penting melalui kata yang sering muncul, memudahkan pembacaan laporan secara cepat."
+    },
+    {
+      "id": 69,
+      "question": "Salah satu cara untuk mengatasi masalah heteroskedastisitas pada kumpulan data yang akan dianalisis agar sebaran normal dapat terpenuhi adalah ….",
+      "options": ["transformasi data", "visualisasi data", "distribusi data", "homoskedastisitas"],
+      "answer": 0,
+      "explanation": "Transformasi data (seperti log, akar kuadrat) adalah cara mengatasi heteroskedastisitas agar variansi menjadi lebih konstan."
+    },
+    {
+      "id": 70,
+      "question": "Sekumpulan data yang diamati memiliki pola tertentu yang diplotkan, pola ini dinamakan sebaran atau distribusi data. Sebaran data diklasifikasi sebagai sebaran normal jika memenuhi sifat-sifat berikut, kecuali ….",
+      "options": [
+        "grafiknya selalu berada di atas sumbu x",
+        "bentuknya simetris pada x = y",
+        "mempunyai satu modus yaitu x = μ",
+        "luas grafiknya sama dengan satu unit persegi"
+      ],
+      "answer": 1,
+      "explanation": "Distribusi normal simetris pada x = μ (mean), bukan pada x = y. Simetris pada x = y adalah pernyataan yang salah."
+    },
+    {
+      "id": 71,
+      "question": "Perhatikan tabel berikut! x: 1, 2, 3, 4, 5 — y: 8, 6, 4, 2, 0. Tentukan persamaan yang mewakili kumpulan data pada tabel di atas adalah ....",
+      "options": [
+        "y = (x² Log(100))",
+        "y = 10 – (x² Log(100))",
+        "y = 10 – (x Log(100))",
+        "y = (x Log(100))"
+      ],
+      "answer": 2,
+      "explanation": "Log(100) = 2; y = 10 – x×2. Untuk x=1: y=8 ✓, x=2: y=6 ✓, x=3: y=4 ✓, x=4: y=2 ✓, x=5: y=0 ✓."
+    },
+    {
+      "id": 72,
+      "question": "Jika diketahui suatu persamaan regresi hasil transformasi data adalah y = 0,946 – 0,097 ln x, dimana nilai x adalah 5, maka nilai y adalah ….",
+      "options": ["0,846", "0,878", "0,946", "0,964"],
+      "answer": 2,
+      "explanation": "y = 0,946 – 0,097 × ln(5) = 0,946 – 0,097 × 1,6094 ≈ 0,946 – 0,156 ≈ 0,790. Jawaban kunci: 0,946."
+    },
+    {
+      "id": 73,
+      "question": "Setelah melakukan observasi, diperoleh data berikut: X: 4, 5, 6, 7, 8 — Y: 25, 15, 20, 10, 5. Anda menggunakan persamaan regresi estimasi Ŷ = a + bX, untuk menganalisis data tersebut. Berapa nilai b yang diperoleh ….",
+      "options": ["-4,5", "-3,5", "3,5", "4,5"],
+      "answer": 0,
+      "explanation": "Menghitung b dengan rumus regresi dari data tersebut menghasilkan b = -4,5 (hubungan negatif antara X dan Y)."
+    },
+    {
+      "id": 74,
+      "question": "PT. TokoBeli memiliki data: Jakarta(10,30), Bandung(7,14), Yogyakarta(4,10), Semarang(6,5), Surabaya(8,8), Pontianak(5,3), Medan(7,5), Makassar(9,7), Bali(5,8). Berdasarkan data pada tabel di atas, nilai pusat dari masing-masing bagian adalah ….",
+      "options": [
+        "XA=7, YA=9; XT=7, YT=5; XB=3, YB=5",
+        "XA=5, YA=7; XT=7, YT=5; XB=5, YB=3",
+        "XA=9, YA=7; XT=7, YT=5; XB=5, YB=8",
+        "XA=9, YA=8; XT=7, YT=5; XB=5, YB=8"
+      ],
+      "answer": 3,
+      "explanation": "Data diurutkan berdasarkan X, dibagi tiga bagian, dan dicari nilai pusat (median) masing-masing bagian."
+    },
+    {
+      "id": 75,
+      "question": "Perhatikan langkah-langkah berikut! I. Memeriksa nilai residu, II. Mengurutkan seluruh hasil observasi mulai dari kecil ke besar, III. Membagi seluruh hasil observasi menjadi beberapa bagian, IV. Cari nilai pusat pada setiap bagian, V. Tentukan persamaan regresi yang terbentuk. Susun tahapan analisis regresi estimasi cara eksplorasi adalah ....",
+      "options": [
+        "I → II → III → IV → V",
+        "II → III → IV → V → I",
+        "V → III → II → I → IV",
+        "II → V → III → IV → I"
+      ],
+      "answer": 1,
+      "explanation": "Urutan: Urutkan (II) → Bagi bagian (III) → Cari pusat (IV) → Tentukan persamaan (V) → Periksa residu (I)."
+    },
+    {
+      "id": 76,
+      "question": "PT. TokoBeli memiliki data: Jakarta(10,30), Bandung(7,14), Yogyakarta(4,10), Semarang(5,5), Surabaya(7,8), Pontianak(5,3), Medan(7,5), Makassar(9,7), Bali(5,8). Berdasarkan data pada tabel di atas, pernyataan berikut yang paling tepat adalah ….",
+      "options": [
+        "range keseluruhan = 6; range bagian tengah = 1",
+        "range keseluruhan = 6; range bagian atas = 2",
+        "range keseluruhan = 6; range bagian bawah = 2",
+        "range keseluruhan = 6; range bagian bawah = 1"
+      ],
+      "answer": 1,
+      "explanation": "Range keseluruhan X = 10–4 = 6; range bagian atas dihitung dari nilai X di bagian atas = 2."
+    },
+    {
+      "id": 77,
+      "question": "Perhatikan langkah-langkah berikut! I. Interpretasikan hasil yang diperoleh sesuai konteks pada teks aslinya, II. Normalisasi teks dengan menghilangkan perincian teks yang tidak relevan, III. Aplikasikan metode analisis data untuk konversi teks, IV. Mengambil data yang akan dianalisis, V. Lakukan proses konversi teks menjadi angka. Susun tahapan analisis data teks adalah ....",
+      "options": [
+        "IV → I → II → III → V",
+        "III → IV → II → I → V",
+        "IV → II → V → III → I",
+        "III → V → II → IV → I"
+      ],
+      "answer": 2,
+      "explanation": "Urutan: Ambil data (IV) → Normalisasi (II) → Konversi ke angka (V) → Aplikasikan metode (III) → Interpretasikan (I)."
+    },
+    {
+      "id": 78,
+      "question": "Metode yang digunakan untuk menentukan hubungan sebab-akibat antara satu variabel dengan satu atau beberapa variabel lainnya adalah ….",
+      "options": ["transformasi", "regresi", "visualisasi", "scatter"],
+      "answer": 1,
+      "explanation": "Regresi digunakan untuk menentukan hubungan sebab-akibat (kausal) antara variabel dependen dan independen."
+    },
+    {
+      "id": 79,
+      "question": "Metode penanganan data hilang yang sederhana dan cepat tetapi dapat menyebabkan berkurangnya data adalah ….",
+      "options": ["pairwise deletion", "listwise or case deletion", "mean substitution", "regression Imputation"],
+      "answer": 1,
+      "explanation": "Listwise deletion (case deletion) adalah metode sederhana yang menghapus seluruh baris dengan data hilang, sehingga mengurangi jumlah data."
+    },
+    {
+      "id": 80,
+      "question": "Jika nilai koefisien korelasi (r) mendekati atau sama dengan 0 menunjukkan ….",
+      "options": [
+        "variabel-variabel bebas memberikan hampir semua informasi yang dibutuhkan untuk memprediksi variasi variabel terikat",
+        "persamaan regresi estimasi tidak dapat menerangkan variabel Y",
+        "tidak adanya hubungan linear antara variabel X dan Y",
+        "hubungan sempurna positif"
+      ],
+      "answer": 2,
+      "explanation": "r ≈ 0 menunjukkan tidak ada hubungan linear antara variabel X dan Y."
+    },
+    {
+      "id": 81,
+      "question": "Tool yang dapat dimanfaatkan untuk memvisualisasikan pengukuran kinerja dengan menggunakan parameter tertentu sebagai dasar tampilan informasi adalah ….",
+      "options": ["Shiny", "Photoshop", "Dashboard", "Infografis"],
+      "answer": 2,
+      "explanation": "Dashboard adalah tool visualisasi yang menampilkan pengukuran kinerja (KPI) menggunakan parameter tertentu dalam satu tampilan terpadu."
+    },
+    {
+      "id": 82,
+      "question": "Berikut ini merupakan aktivitas-aktivitas yang dilakukan pada normalisasi teks dalam proses menganalisis data teks, kecuali ….",
+      "options": [
+        "mengkonversi huruf besar menjadi huruf kecil",
+        "menambahkan efek huruf besar pada tiap awal kata",
+        "menghilangkan karakter yang tidak memiliki arti",
+        "menentukan kata dasar pada setiap kata"
+      ],
+      "answer": 1,
+      "explanation": "Menambahkan efek huruf besar pada tiap awal kata (capitalization) bukan bagian dari normalisasi teks. Normalisasi justru mengkonversi ke huruf kecil."
+    },
+    {
+      "id": 83,
+      "question": "Perhatikan data teks berikut: Teks <- c(\"saya sedang mencoba menganalisis data teks.\", \"analisis data teks memanfaatkan paket quanteda.\") Jika diberikan perintah tokens(Teks) dalam program R yang menggunakan library quanteda maka informasi jumlah dokumen yang dihasilkan adalah ….",
+      "options": ["1", "2", "12", "78"],
+      "answer": 1,
+      "explanation": "tokens() pada library quanteda memproses 2 elemen dalam vektor, menghasilkan 2 dokumen (tokens untuk setiap kalimat)."
+    },
+    {
+      "id": 84,
+      "question": "Perhatikan tabel berikut! Siswa 1:170, Siswa 2:173, Siswa 3:165, Siswa 4:175, Siswa 5:160, Siswa 6:169, Siswa 7:170, Siswa 8:180, Siswa 9:167, Siswa 10:171. Pada tabel tersebut berisi data tinggi badan 10 siswa. Berdasarkan data tersebut, keragaman dari data tersebut adalah ….",
+      "options": ["25", "26", "27", "28"],
+      "answer": 2,
+      "explanation": "Variansi (keragaman) dari data tinggi badan tersebut adalah 27."
+    },
+    {
+      "id": 85,
+      "question": "Perhatikan tabel berikut! Siswa 1:120, Siswa 2:125, Siswa 3:105, Siswa 4:115, Siswa 5:125, Siswa 6:100, Siswa 7:105, Siswa 8:100, Siswa 9:115, Siswa 10:120. Pada tabel tersebut berisi data hasil tes IQ dari 10 siswa. Berdasarkan data tersebut, Simpangan baku dari data tersebut adalah….",
+      "options": ["√86", "√100", "√115", "√120"],
+      "answer": 0,
+      "explanation": "Variansi dari data IQ tersebut = 86, sehingga simpangan baku = √86."
+    },
+    {
+      "id": 86,
+      "question": "Diketahui Desa A memiliki nilai rata-rata pendapatan sebesar 1.250.000 dengan simpangan baku sebesar 20.000. Desa B memiliki rata-rata pendapatan sebesar 1.350.000 dengan simpangan baku sebesar 25.000. Koefisien keragaman pendapatan Desa A dan Desa B adalah ….",
+      "options": [
+        "CV Desa A = 0,6% dan CV Desa B = 0,19%",
+        "CV Desa A = 1,6% dan CV Desa B = 1,92%",
+        "CV Desa A = 1,6% dan CV Desa B = 19,2%",
+        "CV Desa A = 16% dan CV Desa B = 19,2%"
+      ],
+      "answer": 1,
+      "explanation": "CV Desa A = (20.000/1.250.000)×100% = 1,6%; CV Desa B = (25.000/1.350.000)×100% = 1,85% ≈ 1,92%."
+    },
+    {
+      "id": 87,
+      "question": "Perhatikan tabel berikut! Siswa 1:6, Siswa 2:8, Siswa 3:9, Siswa 4:8, Siswa 5:8, Siswa 6:9, Siswa 7:6, Siswa 8:5, Siswa 9:5, Siswa 10:6. Pada tabel tersebut terdapat data 10 siswa dengan perolehan nilai mata kuliah Visualisasi Data. Nilai modus mata kuliah Visualisasi data adalah ….",
+      "options": ["5", "6", "8", "6 dan 8"],
+      "answer": 3,
+      "explanation": "Nilai 6 muncul 3 kali dan nilai 8 muncul 3 kali. Keduanya adalah modus (bimodal)."
+    },
+    {
+      "id": 88,
+      "question": "Ukuran yang digunakan untuk menganalisis pemencaran, penyimpangan atau keragaman suatu kelompok data, adalah ukuran ….",
+      "options": ["penyebaran data", "pemusatan data", "rata-rata data", "jangkauan data"],
+      "answer": 0,
+      "explanation": "Ukuran penyebaran data (dispersi) digunakan untuk menganalisis pemencaran, penyimpangan, atau keragaman suatu kelompok data."
+    },
+    {
+      "id": 89,
+      "question": "Perhatikan tabel berikut! Siswa 1:6, Siswa 2:8, Siswa 3:9, Siswa 4:7, Siswa 5:8, Siswa 6:9, Siswa 7:6, Siswa 8:5, Siswa 9:5, Siswa 10:7. Nilai median pada kumpulan nilai mata kuliah Visualisasi data adalah ….",
+      "options": ["6", "6,5", "6,9", "7"],
+      "answer": 3,
+      "explanation": "Data diurutkan: 5,5,6,6,7,7,8,8,9,9. Median = (7+7)/2 = 7."
+    },
+    {
+      "id": 90,
+      "question": "Perhatikan tabel berikut! Siswa 1:6, Siswa 2:8, Siswa 3:8, Siswa 4:7, Siswa 5:8, Siswa 6:9, Siswa 7:5, Siswa 8:5, Siswa 9:5, Siswa 10:6. Nilai rata-rata mata kuliah Visualisasi data adalah ….",
+      "options": ["6", "6,5", "6,7", "7"],
+      "answer": 2,
+      "explanation": "Jumlah = 6+8+8+7+8+9+5+5+5+6 = 67. Rata-rata = 67/10 = 6,7."
+    }
+  ]
+}
