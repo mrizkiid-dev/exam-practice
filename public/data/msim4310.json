@@ -1,0 +1,711 @@
+{
+  "exam": {
+    "source": "https://soalut.com/soal-ut-msim4310-analisis-dan-visualisasi-data/",
+    "name": "Ujian Akhir Semester",
+    "matkul": "MSIM4310 Analisis dan Visualisasi Data",
+    "semester": "4",
+    "prodi": "Teknik Informatika"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "Seorang peneliti mengamati bahwa data hasil survei kepuasan pelanggan memiliki beberapa nilai yang sangat rendah sehingga distribusi data menjulur ke kiri. Ukuran pemusatan manakah yang paling tepat menggambarkan tendensi sentral data tersebut?",
+      "options": ["Mean", "Median", "Modus", "Simpangan baku"],
+      "answer": 1,
+      "explanation": "Pada distribusi menceng, median lebih tahan terhadap nilai ekstrem dibandingkan mean"
+    },
+    {
+      "id": 2,
+      "question": "Sebuah perusahaan mencatat jumlah produk cacat per hari selama 30 hari. Untuk mengukur seberapa bervariasi jumlah cacat harian terhadap rata-ratanya, ukuran penyebaran yang tepat digunakan adalah?",
+      "options": ["Rentang interkuartil", "Modus", "Simpangan baku", "Median"],
+      "answer": 2,
+      "explanation": "Simpangan baku mengukur rata-rata jarak penyimpangan setiap nilai terhadap mean"
+    },
+    {
+      "id": 3,
+      "question": "Diketahui sekumpulan data nilai ujian: 45, 50, 55, 60, 65, 70, 75, 80, 85, 90. Nilai rentang interkuartil dari data tersebut?",
+      "options": ["20", "25", "30", "35"],
+      "answer": 1,
+      "explanation": "Q1 data ke-3 = 55, Q3 data ke-8 = 80, maka IQR = 25"
+    },
+    {
+      "id": 4,
+      "question": "Manager produksi ingin mengetahui nilai yang paling sering muncul dari data diameter produk hasil mesin bubut untuk memastikan konsistensi proses. Ukuran yang dicari adalah?",
+      "options": ["Mean", "Median", "Modus", "Simpangan baku"],
+      "answer": 2,
+      "explanation": "Modus adalah nilai data dengan frekuensi kemunculan tertinggi"
+    },
+    {
+      "id": 5,
+      "question": "Data tinggi badan 50 siswa memiliki mean 160 cm dan median 158 cm. Kesimpulan yang paling tepat mengenai bentuk distribusi data tersebut adalah?",
+      "options": ["Distribusi simetris sempurna", "Distribusi menceng ke kanan", "Distribusi menceng ke kiri", "Distribusi seragam"],
+      "answer": 1,
+      "explanation": "Ketika mean lebih besar dari median, distribusi cenderung menceng ke kanan"
+    },
+    {
+      "id": 6,
+      "question": "Dalam konteks data deret waktu penjualan bulanan yang memiliki tren kenaikan, ukuran penyebaran manakah yang lebih tepat digunakan untuk menilai konsistensi variasi penjualan dari waktu ke waktu?",
+      "options": ["Mean", "Median", "Rentang interkuartil", "Simpangan baku"],
+      "answer": 3,
+      "explanation": "Simpangan baku mempertimbangkan seluruh penyimpangan data terhadap mean"
+    },
+    {
+      "id": 7,
+      "question": "Seorang analis menghitung bahwa kumpulan data memiliki simpangan baku yang sangat kecil mendekati nol. Interpretasi yang tepat untuk kondisi ini adalah?",
+      "options": ["Data memiliki banyak pencilan", "Data sangat tersebar luas", "Nilai-nilai data hampir seragam", "Distribusi data menceng ekstrem"],
+      "answer": 2,
+      "explanation": "Simpangan baku mendekati nol berarti hampir seluruh nilai data terkonsentrasi di sekitar mean"
+    },
+    {
+      "id": 8,
+      "question": "Dari data gaji karyawan sebuah startup, diketahui Q1 = 5 juta, Q2 = 8 juta, dan Q3 = 12 juta. Berdasarkan ringkasan ini, pernyataan yang tepat adalah?",
+      "options": ["50% karyawan bergaji antara 5 juta hingga 12 juta", "Rata-rata gaji karyawan adalah 8 juta", "Gaji tertinggi adalah 12 juta", "75% karyawan bergaji di bawah 5 juta"],
+      "answer": 0,
+      "explanation": "Rentang interkuartil mencakup data dari Q1 hingga Q3, yang memuat 50% data tengah"
+    },
+    {
+      "id": 9,
+      "question": "Sebuah perusahaan ingin membandingkan kinerja penjualan tiga cabang di kota berbeda selama setahun terakhir. Selain mean penjualan bulanan, analis juga perlu menilai seberapa seragam pencapaian antar cabang. Ukuran perbandingan yang tepat untuk menilai keseragaman tersebut adalah?",
+      "options": ["Perbandingan mean", "Diagram batang berganda", "Perbandingan variansi", "Diagram lingkaran"],
+      "answer": 2,
+      "explanation": "Perbandingan variansi mengukur seberapa seragam penyebaran di masing-masing cabang"
+    },
+    {
+      "id": 10,
+      "question": "Seorang peneliti membandingkan data tinggi badan siswa sekolah dasar di dua kecamatan yang berbeda. Ia ingin mengetahui apakah ada perbedaan keragaman tinggi badan antara kedua kecamatan tersebut. Ukuran statistik yang paling sesuai digunakan adalah?",
+      "options": ["Perbandingan variansi", "Perbandingan mean", "Diagram batang berganda", "Diagram kotak garis"],
+      "answer": 0,
+      "explanation": "Untuk menilai homogenitas penyebaran antar kelompok, digunakan perbandingan variansi"
+    },
+    {
+      "id": 11,
+      "question": "Hasil ujian matematika dari dua kelas paralel dianalisis dengan diagram kotak garis. Terlihat bahwa diagram kotak kelas A memiliki kotak yang jauh lebih pendek dibandingkan kelas B. Kesimpulan yang paling tepat mengenai perbedaan kedua kelas tersebut adalah?",
+      "options": ["Kelas A memiliki pencilan yang lebih ekstrem daripada kelas B", "Kelas A memiliki sebaran nilai 50% tengah yang lebih homogen dibandingkan kelas B", "Nilai median kelas A jauh lebih tinggi daripada kelas B", "Rentang nilai total kelas A lebih kecil daripada kelas B"],
+      "answer": 1,
+      "explanation": "Panjang kotak menunjukkan rentang interkuartil. Kotak lebih pendek mengindikasikan sebaran yang lebih sempit"
+    },
+    {
+      "id": 12,
+      "question": "Dalam membandingkan dua metode pembelajaran, seorang peneliti menghitung rata-rata post-test masing-masing kelompok dan menguji perbedaannya. Informasi mengenai variasi skor di dalam masing-masing kelompok akan lebih terlihat jika peneliti juga menyertakan?",
+      "options": ["Perbandingan simpangan baku", "Perbandingan modus", "Diagram batang berganda", "Perbandingan median"],
+      "answer": 0,
+      "explanation": "Perbandingan simpangan baku mengungkapkan variasi skor di dalam setiap kelompok"
+    },
+    {
+      "id": 13,
+      "question": "Seorang kepala gudang ingin membandingkan stok barang di tiga cabang sekaligus dalam satu penyajian. Ia perlu melihat nilai minimum, kuartil pertama, median, kuartil ketiga, dan maksimum dari jumlah stok masing-masing cabang secara visual. Jenis penyajian yang tepat untuk tujuan ini adalah?",
+      "options": ["Histogram", "Diagram batang berganda", "Diagram kotak garis", "Diagram pencar"],
+      "answer": 2,
+      "explanation": "Diagram kotak garis menyajikan ringkasan lima angka statistik secara bersamaan"
+    },
+    {
+      "id": 14,
+      "question": "Untuk membandingkan frekuensi penggunaan tiga merek deterjen di lima wilayah pemasaran yang berbeda, seorang analis ingin menampilkan data kategori ganda dalam satu gambar agar mudah dibandingkan. Bentuk penyajian yang paling tepat adalah?",
+      "options": ["Diagram pencar", "Diagram lingkaran", "Diagram batang berganda", "Diagram kotak garis"],
+      "answer": 2,
+      "explanation": "Diagram batang berganda dirancang untuk menampilkan beberapa kelompok data kategori secara berdampingan"
+    },
+    {
+      "id": 15,
+      "question": "Ketika membandingkan data penjualan tahunan dua perusahaan, diketahui bahwa rata-rata penjualan keduanya relatif sama namun simpangan baku perusahaan X jauh lebih besar. Pernyataan yang tepat berdasarkan perbandingan tersebut adalah?",
+      "options": ["Perusahaan X lebih konsisten dalam pencapaian penjualannya", "Perusahaan X memiliki fluktuasi penjualan yang lebih tinggi dibandingkan perusahaan Y", "Perusahaan Y memiliki volume penjualan yang lebih tinggi", "Perusahaan Y memiliki median penjualan yang lebih rendah"],
+      "answer": 1,
+      "explanation": "Simpangan baku lebih besar menunjukkan variasi atau fluktuasi yang lebih tinggi"
+    },
+    {
+      "id": 16,
+      "question": "Data curah hujan bulanan selama dua dekade di dua provinsi disajikan dalam diagram kotak garis yang saling bertumpuk (overlaid). Jika median provinsi A lebih rendah dari kuartil pertama provinsi B, maka dapat disimpulkan bahwa?",
+      "options": ["Curah hujan di provinsi B selalu lebih tinggi daripada provinsi A", "Terdapat pencilan ekstrem pada data provinsi A", "Sekurang-kurangnya 75% bulan di provinsi B memiliki curah hujan di atas separuh bulan di provinsi A", "Kedua provinsi memiliki pola musim yang identik"],
+      "answer": 2,
+      "explanation": "Jika median A < Q1 B, setidaknya 75% data B berada di atas 50% data A"
+    },
+    {
+      "id": 17,
+      "question": "Seorang analis data memeriksa histogram hasil survei dan menemukan bahwa puncak distribusi bergeser ke kiri dengan ekor memanjang ke kanan. Distribusi semacam ini dikategorikan memiliki?",
+      "options": ["Skewness negatif", "Stasioneritas tinggi", "Skewness positif", "Normalitas sempurna"],
+      "answer": 2,
+      "explanation": "Ekor ke kanan dan puncak di kiri disebut menceng kanan atau skewness positif"
+    },
+    {
+      "id": 18,
+      "question": "Mengapa banyak metode statistik parametrik mengasumsikan data berdistribusi normal?",
+      "options": ["Karena distribusi normal hanya terjadi pada data simulasi komputer", "Karena normalitas menjamin tidak ada data yang hilang", "Karena distribusi normal tidak memerlukan data numerik", "Karena kurva normal memiliki sifat simetris dan probabilitasnya dapat dihitung dengan tepat menggunakan parameter mean dan variansi"],
+      "answer": 3,
+      "explanation": "Distribusi normal bersifat simetris dan seluruh probabilitasnya ditentukan oleh dua parameter"
+    },
+    {
+      "id": 19,
+      "question": "Suatu proses produksi menghasilkan data pengukuran diameter bearing. Untuk dapat menggunakan uji-t dalam pengendalian kualitas, asumsi dasar yang harus dipenuhi terkait distribusi datanya adalah?",
+      "options": ["Data harus memiliki skewness negatif", "Data harus berdistribusi normal", "Data harus stasioner terhadap waktu", "Data harus mengandung outlier"],
+      "answer": 1,
+      "explanation": "Uji-t merupakan metode parametrik yang mengasumsikan data berdistribusi normal"
+    },
+    {
+      "id": 20,
+      "question": "Data penjualan sebuah produk sepanjang tahun menunjukkan rata-rata yang relatif tetap, namun variasinya membesar di akhir tahun. Berdasarkan karakteristik ini, data penjualan tersebut dikatakan?",
+      "options": ["Tidak stasioner", "Ber-skewness positif", "Terdistribusi normal", "Ber-skewness negatif"],
+      "answer": 0,
+      "explanation": "Membesarnya variansi menunjukkan ketidakstasioneran data deret waktu"
+    },
+    {
+      "id": 21,
+      "question": "Kondisi ketika distribusi data memiliki ekor yang lebih panjang di sisi kiri dan sebagian besar nilai mengumpul di sisi kanan disebut?",
+      "options": ["Skewness positif", "Distribusi bimodal", "Distribusi uniform", "Skewness negatif"],
+      "answer": 3,
+      "explanation": "Ekor panjang di sisi kiri menunjukkan distribusi menceng kiri atau skewness negatif"
+    },
+    {
+      "id": 22,
+      "question": "Seorang analis mengamati data deret waktu harga saham yang memiliki tren naik tajam. Sebelum melakukan pemodelan, ia menyimpulkan data tersebut tidak stasioner. Dasar yang tepat untuk kesimpulan ini adalah?",
+      "options": ["Variansi data sangat kecil", "Data memiliki skewness positif", "Data berdistribusi normal", "Mean data tidak konstan sepanjang waktu"],
+      "answer": 3,
+      "explanation": "Adanya tren naik menunjukkan mean yang berubah, sehingga tidak stasioner"
+    },
+    {
+      "id": 23,
+      "question": "Seorang analis ingin mengidentifikasi bentuk dasar distribusi data pendapatan rumah tangga sebelum memilih metode transformasi yang tepat. Langkah pertama yang paling sesuai adalah memeriksa?",
+      "options": ["Stasioneritas data", "Skewness distribusi", "Jumlah data hilang", "Koefisien determinasi"],
+      "answer": 1,
+      "explanation": "Skewness mengukur kemiringan distribusi dan menjadi indikator awal untuk transformasi"
+    },
+    {
+      "id": 24,
+      "question": "Dalam penelitian yang melibatkan model regresi linear, mengapa seorang peneliti perlu mentransformasi data jika variabel responnya ternyata tidak berdistribusi normal?",
+      "options": ["Untuk menghilangkan semua variabel prediktor", "Untuk meningkatkan jumlah data yang tersedia", "Untuk memastikan data memiliki missing value yang sedikit", "Untuk memenuhi asumsi normalitas yang disyaratkan dalam inferensi statistik parametrik"],
+      "answer": 3,
+      "explanation": "Transformasi membentuk distribusi agar mendekati normal untuk metode parametrik"
+    },
+    {
+      "id": 25,
+      "question": "PT Pangan Sehat mencatat data jumlah komplain pelanggan per bulan yang nilainya kecil-kecil dan variasinya cenderung membesar seiring kenaikan rata-ratanya. Transformasi yang tepat untuk menstabilkan variansi sebelum analisis lebih lanjut adalah?",
+      "options": ["Transformasi akar kuadrat", "Transformasi kuadrat", "Standarisasi Z-score", "Transformasi logaritmik"],
+      "answer": 0,
+      "explanation": "Data count dengan variansi proporsional terhadap mean cocok ditransformasi akar kuadrat"
+    },
+    {
+      "id": 26,
+      "question": "Apa ciri utama dari hasil transformasi Z-score pada suatu variabel?",
+      "options": ["Mean data menjadi 0 dan simpangan baku menjadi 1", "Data berdistribusi normal dengan skewness nol", "Seluruh nilai data menjadi positif", "Rentang data menjadi antara 0 dan 1"],
+      "answer": 0,
+      "explanation": "Z-score menghasilkan distribusi dengan rata-rata nol dan simpangan baku satu"
+    },
+    {
+      "id": 27,
+      "question": "Seorang analis menerapkan transformasi Z-score pada data tinggi badan dan berat badan agar kedua variabel memiliki skala yang sebanding sebelum analisis klaster. Setelah transformasi, karakteristik utama yang dimiliki setiap variabel adalah?",
+      "options": ["Mean sama dengan nol dan simpangan baku sama dengan satu", "Mean sama dengan median dan variansi sama dengan nol", "Nilai minimum nol dan nilai maksimum satu", "Distribusi menjadi normal simetris"],
+      "answer": 0,
+      "explanation": "Standardisasi Z-score menghasilkan rata-rata 0 dan simpangan baku 1"
+    },
+    {
+      "id": 28,
+      "question": "PT Agro Lestari memiliki data hasil panen yang sangat menceng kanan. Analis ingin menerapkan transformasi logaritmik tetapi menemukan beberapa nilai nol dalam data. Langkah paling tepat sebelum melakukan transformasi logaritmik adalah?",
+      "options": ["Mengganti semua nilai nol dengan mean data", "Menambahkan konstanta kecil pada seluruh data sebelum transformasi", "Mengabaikan data yang bernilai nol karena dianggap pencilan", "Menggunakan transformasi kuadrat sebagai pengganti"],
+      "answer": 1,
+      "explanation": "Log(0) tidak terdefinisi, jadi konstanta kecil perlu ditambahkan sebelum transformasi"
+    },
+    {
+      "id": 29,
+      "question": "Data banyaknya telur yang dihasilkan oleh sekelompok ayam petelur per hari memiliki variansi yang cenderung sebanding dengan rata-ratanya. Transformasi yang sesuai untuk menstabilkan variansi data tersebut adalah?",
+      "options": ["Transformasi logaritmik", "Transformasi kuadrat", "Transformasi akar kuadrat", "Transformasi Z-score"],
+      "answer": 2,
+      "explanation": "Data count dengan variansi proporsional terhadap mean cocok dengan akar kuadrat"
+    },
+    {
+      "id": 30,
+      "question": "Data skor motivasi belajar menunjukkan distribusi menceng negatif dengan ekor panjang di sisi kiri. Untuk mengurangi kemencengan tersebut agar distribusi lebih simetris, transformasi yang tepat digunakan adalah?",
+      "options": ["Transformasi kuadrat", "Transformasi akar kuadrat", "Transformasi logaritmik", "Transformasi Z-score"],
+      "answer": 0,
+      "explanation": "Transformasi kuadrat mengurangi kemencengan negatif dengan memperkuat perbedaan di sisi kiri"
+    },
+    {
+      "id": 31,
+      "question": "Perbedaan mendasar antara transformasi logaritmik dan transformasi akar kuadrat dalam menangani data menceng kanan terletak pada?",
+      "options": ["Transformasi logaritmik menstabilkan variansi, sedangkan akar kuadrat hanya mengubah mean", "Transformasi logaritmik lebih kuat menarik ekor kanan dibandingkan akar kuadrat", "Transformasi akar kuadrat menghasilkan distribusi normal, sedangkan logaritmik tidak", "Transformasi logaritmik hanya dapat digunakan pada data negatif"],
+      "answer": 1,
+      "explanation": "Logaritmik memiliki efek kompresi lebih kuat terhadap nilai besar dibandingkan akar kuadrat"
+    },
+    {
+      "id": 32,
+      "question": "Seorang peneliti ingin mentransformasi data pengeluaran rumah tangga yang menceng kanan sekaligus menstabilkan variansi yang membesar seiring kenaikan rata-rata. Ia memilih transformasi logaritmik. Alasan utama pemilihan ini adalah?",
+      "options": ["Transformasi logaritmik mengubah data menjadi berdistribusi seragam", "Logaritma natural menghasilkan mean yang selalu sama dengan median", "Transformasi logaritmik menghilangkan semua pencilan secara otomatis", "Fungsi log dapat mengkompresi nilai besar dan menstabilkan variansi secara simultan"],
+      "answer": 3,
+      "explanation": "Logaritmik mengkompresi skala dan menstabilkan variansi yang bergantung pada mean"
+    },
+    {
+      "id": 33,
+      "question": "Seorang peneliti menemukan bahwa data hasil survei memiliki beberapa pertanyaan yang tidak dijawab oleh responden secara acak, dan ketidaktahuan responden terhadap jawaban tidak memengaruhi keputusan mereka untuk melewatkan pertanyaan tersebut. Kondisi data hilang ini dikategorikan sebagai?",
+      "options": ["Missing Completely At Random (MCAR)", "Missing At Random (MAR)", "Missing Not At Random (MNAR)", "Missing by Design"],
+      "answer": 0,
+      "explanation": "MCAR terjadi ketika probabilitas data hilang tidak bergantung pada data apapun"
+    },
+    {
+      "id": 34,
+      "question": "Dalam studi longitudinal, peneliti mendapati bahwa partisipan dengan pendapatan tinggi cenderung tidak melaporkan jumlah pendapatan mereka, sementara partisipan dengan pendapatan rendah selalu melengkapi data tersebut. Kategori data hilang yang tepat adalah?",
+      "options": ["Missing Completely At Random (MCAR)", "Missing At Random (MAR)", "Missing by Omission", "Missing Not At Random (MNAR)"],
+      "answer": 3,
+      "explanation": "MNAR terjadi ketika probabilitas hilang bergantung pada nilai yang hilang itu sendiri"
+    },
+    {
+      "id": 35,
+      "question": "Seorang analis menemukan bahwa responden perempuan dalam survei kesehatan lebih sering melewatkan pertanyaan tentang berat badan. Setelah diperiksa, probabilitas data hilang hanya bergantung pada variabel jenis kelamin, bukan pada nilai berat badan yang sebenarnya. Ini termasuk?",
+      "options": ["Missing Completely At Random (MCAR)", "Missing Structurally", "Missing Not At Random (MNAR)", "Missing At Random (MAR)"],
+      "answer": 3,
+      "explanation": "MAR terjadi ketika data hilang bergantung pada variabel teramati lain"
+    },
+    {
+      "id": 36,
+      "question": "Perbedaan kunci antara mekanisme MAR dan MNAR terletak pada?",
+      "options": ["Jumlah data yang hilang, MAR memiliki lebih sedikit data hilang", "Jenis variabel yang hilang, MAR hanya terjadi pada variabel numerik", "Ketergantungan data hilang pada nilai variabel yang tidak teramati", "Metode penanganan, MAR hanya bisa ditangani dengan imputasi mean"],
+      "answer": 2,
+      "explanation": "MAR bergantung pada variabel teramati, MNAR bergantung pada nilai yang hilang"
+    },
+    {
+      "id": 37,
+      "question": "Mengapa mekanisme MNAR dianggap paling problematis dalam analisis data?",
+      "options": ["Karena selalu menyebabkan bias yang tidak dapat diperbaiki meskipun dengan metode imputasi apapun", "Karena jumlah data hilang pada MNAR selalu lebih besar dibandingkan mekanisme lainnya", "Karena hanya terjadi pada data kategorik dan memerlukan transformasi khusus", "Karena pola kehilangan bergantung pada nilai yang tidak teramati sehingga sulit dimodelkan"],
+      "answer": 3,
+      "explanation": "MNAR sulit dimodelkan karena bergantung pada nilai yang tidak teramati"
+    },
+    {
+      "id": 38,
+      "question": "Seorang peneliti mendapati bahwa dalam kuesioner online, data hilang terjadi sepenuhnya secara acak akibat gangguan teknis server yang tidak terkait dengan karakteristik responden. Ia menyimpulkan mekanisme data hilang adalah MCAR. Implikasi penting dari kesimpulan ini adalah?",
+      "options": ["Semua data hilang harus dihapus tanpa pengecualian", "Analisis pada data lengkap yang tersisa tidak menghasilkan bias sistematis", "Data hilang hanya bisa ditangani dengan imputasi regresi", "Penelitian harus diulang karena data tidak dapat digunakan"],
+      "answer": 1,
+      "explanation": "MCAR menjamin data lengkap merupakan sampel acak dari dataset utuh"
+    },
+    {
+      "id": 39,
+      "question": "Mekanisme MAR berbeda dari MCAR dalam hal?",
+      "options": ["Probabilitas data hilang pada MAR bergantung pada variabel teramati, sedangkan MCAR tidak", "MAR menghasilkan lebih sedikit data hilang dibandingkan MCAR", "MAR hanya terjadi pada data longitudinal dan MCAR pada data cross-sectional", "MAR memerlukan penghapusan data, sedangkan MCAR memerlukan imputasi"],
+      "answer": 0,
+      "explanation": "MAR bergantung pada variabel teramati lain, MCAR tidak bergantung pada data apapun"
+    },
+    {
+      "id": 40,
+      "question": "Ketika seorang analis menemukan bahwa semua data hilang terkonsentrasi pada satu variabel tertentu saja dan analisis terhadap variabel tersebut tidak esensial, teknik penanganan yang paling tepat adalah?",
+      "options": ["Penghapusan listwise pada semua baris", "Imputasi median pada variabel tersebut", "Penghapusan pairwise untuk analisis yang relevan", "Membiarkan data hilang tanpa penanganan"],
+      "answer": 2,
+      "explanation": "Penghapusan pairwise mempertahankan data untuk analisis lain yang relevan"
+    },
+    {
+      "id": 41,
+      "question": "Seorang analis ingin menangani data hilang pada variabel pendapatan yang mengandung beberapa pencilan ekstrem. Dibandingkan imputasi mean, imputasi median lebih dipilih karena?",
+      "options": ["Median menghasilkan variansi yang lebih besar untuk analisis selanjutnya", "Median tidak dipengaruhi oleh nilai pencilan sehingga imputasi lebih representatif", "Median dapat memulihkan data hilang ke nilai aslinya dengan lebih akurat", "Median selalu menghasilkan distribusi normal setelah imputasi"],
+      "answer": 1,
+      "explanation": "Median resisten terhadap pencilan sehingga imputasi lebih representatif"
+    },
+    {
+      "id": 42,
+      "question": "Sebuah survei menghasilkan dataset dengan 5% data hilang pada variabel usia, dan analis memutuskan menggunakan penghapusan listwise. Risiko utama dari keputusan ini adalah?",
+      "options": ["Kehilangan informasi dari variabel lain yang terisi lengkap pada baris yang dihapus", "Meningkatkan variansi variabel yang tidak memiliki data hilang", "Menghasilkan imputasi yang tidak akurat pada variabel usia", "Mengubah distribusi variabel usia menjadi menceng negatif"],
+      "answer": 0,
+      "explanation": "Penghapusan listwise buang seluruh baris meski hanya satu variabel hilang"
+    },
+    {
+      "id": 43,
+      "question": "Setelah melakukan imputasi mean pada data hilang, seorang analis mengamati bahwa variansi variabel yang diimputasi menurun. Fenomena ini terjadi karena?",
+      "options": ["Imputasi mean secara otomatis menghapus pencilan dalam data", "Nilai mean yang diimputasikan menambah variasi baru ke dalam data", "Mengganti data hilang dengan mean menambahkan nilai identik yang tidak berkontribusi pada variasi", "Data hilang yang diimputasi mengubah distribusi menjadi normal simetris"],
+      "answer": 2,
+      "explanation": "Imputasi mean menambahkan nilai identik yang tidak berkontribusi pada variasi"
+    },
+    {
+      "id": 44,
+      "question": "Seorang analis menemukan bahwa data hilang pada variabel pendapatan hanya terjadi pada responden yang memang memiliki pendapatan sangat rendah dan enggan mengungkapkannya. Teknik penanganan yang paling tepat untuk situasi ini adalah?",
+      "options": ["Imputasi mean karena mudah dihitung", "Penghapusan listwise karena sederhana", "Imputasi median untuk mengurangi pengaruh pencilan", "Imputasi regresi menggunakan variabel prediktor terkait"],
+      "answer": 3,
+      "explanation": "MNAR memerlukan imputasi regresi untuk mengurangi bias"
+    },
+    {
+      "id": 45,
+      "question": "PT Cahaya Nusantara memiliki data survei kepuasan kerja dengan 3% nilai hilang tersebar di banyak variabel. Pimpinan menginginkan analisis dilakukan tanpa kehilangan satu pun baris data. Teknik yang paling sesuai adalah?",
+      "options": ["Penghapusan listwise seluruh baris dengan data hilang", "Menghapus variabel yang memiliki data hilang", "Imputasi mean pada masing-masing variabel", "Membiarkan data hilang dan melanjutkan analisis"],
+      "answer": 2,
+      "explanation": "Imputasi mean mempertahankan semua baris data dengan mengganti nilai hilang"
+    },
+    {
+      "id": 46,
+      "question": "Seorang peneliti mendapati bahwa pada variabel skor tes, imputasi mean justru menurunkan variansi data secara nyata. Fenomena ini terjadi karena?",
+      "options": ["Nilai pengganti yang identik cenderung memusatkan distribusi", "Imputasi mean menambahkan nilai-nilai ekstrem ke dalam data", "Mean selalu lebih kecil daripada median pada data asli", "Prosedur imputasi secara otomatis membuang nilai pencilan"],
+      "answer": 0,
+      "explanation": "Imputasi mean mengisi dengan angka identik sehingga memusatkan distribusi"
+    },
+    {
+      "id": 47,
+      "question": "Ketika menerapkan imputasi regresi untuk menangani data hilang, asumsi penting yang harus dipenuhi adalah?",
+      "options": ["Variabel prediktor dan variabel yang diimputasi memiliki hubungan linear", "Tidak boleh ada pencilan dalam variabel prediktor", "Data hilang harus berdistribusi normal sempurna", "Seluruh variabel dalam dataset harus berskala nominal"],
+      "answer": 0,
+      "explanation": "Imputasi regresi dibangun dari hubungan linear antara variabel"
+    },
+    {
+      "id": 48,
+      "question": "Dalam sebuah studi kesehatan, analis menemukan bahwa data tekanan darah sistolik hilang pada 10% responden. Setelah diperiksa, data hilang cenderung terjadi pada responden berusia di atas 60 tahun. Untuk mempertahankan informasi penting, penanganan yang paling tepat adalah?",
+      "options": ["Penghapusan listwise semua responden dengan data hilang", "Imputasi mean tunggal untuk semua responden", "Mengabaikan variabel tekanan darah dari analisis", "Imputasi median yang dihitung terpisah per kelompok usia"],
+      "answer": 3,
+      "explanation": "Imputasi median per kelompok mempertimbangkan struktur data dan mengurangi bias"
+    },
+    {
+      "id": 49,
+      "question": "Apa perbedaan utama antara analisis regresi cara eksplorasi dan cara konfirmasi?",
+      "options": ["Eksplorasi menekankan pengamatan pola visual, konfirmasi menekankan pengujian statistik", "Eksplorasi menggunakan data kualitatif, konfirmasi menggunakan data kuantitatif", "Eksplorasi hanya untuk satu variabel, konfirmasi untuk dua variabel", "Eksplorasi dilakukan setelah konfirmasi untuk memvalidasi temuan"],
+      "answer": 0,
+      "explanation": "Eksplorasi fokus pada pola visual, konfirmasi pada pengujian statistik formal"
+    },
+    {
+      "id": 50,
+      "question": "Manajer pemasaran mengamati diagram pencar antara biaya iklan dan volume penjualan. Titik-titik data cenderung membentuk pola meninggi dari kiri bawah ke kanan atas. Kesimpulan yang tepat tentang arah hubungan kedua variabel tersebut adalah?",
+      "options": ["Berhubungan negatif, semakin besar biaya iklan semakin rendah penjualan", "Tidak ada hubungan antara biaya iklan dan volume penjualan", "Berhubungan positif, semakin besar biaya iklan semakin tinggi penjualan", "Hubungan bersifat non-linear dan tidak dapat disimpulkan arahnya"],
+      "answer": 2,
+      "explanation": "Pola dari kiri bawah ke kanan atas menunjukkan hubungan positif"
+    },
+    {
+      "id": 51,
+      "question": "Dalam diagram pencar data tinggi badan dan berat badan siswa, seorang analis melihat sebagian besar titik membentuk pola linear, namun ada satu titik yang sangat jauh di atas pola umum. Titik tersebut merupakan?",
+      "options": ["Kesalahan pengukuran yang selalu harus dihapus", "Nilai residual yang selalu bernilai negatif", "Bukti bahwa hubungan kedua variabel tidak linear", "Outlier yang perlu diperiksa lebih lanjut penyebabnya"],
+      "answer": 3,
+      "explanation": "Outlier adalah titik jauh dari pola umum yang perlu diperiksa"
+    },
+    {
+      "id": 52,
+      "question": "Seorang analis mengamati diagram pencar dengan titik-titik yang tersebar sangat melebar dan tidak membentuk pola yang jelas. Interpretasi yang tepat mengenai kekuatan hubungan pada data tersebut adalah?",
+      "options": ["Hubungan sangat kuat karena banyak titik tersebar", "Hubungan lemah karena titik-titik tidak menunjukkan pola tertentu", "Hubungan negatif sempurna terlihat dari sebaran acak", "Hubungan bersifat kuadratik dengan kekuatan tinggi"],
+      "answer": 1,
+      "explanation": "Sebaran yang acak menunjukkan hubungan yang lemah"
+    },
+    {
+      "id": 53,
+      "question": "Dalam memeriksa diagram pencar data jam belajar dan nilai ujian, analis mendapati bahwa pada jam belajar rendah, nilai ujian bervariasi sempit, namun pada jam belajar tinggi variasinya sangat lebar. Karakteristik ini menunjukkan?",
+      "options": ["Hubungan linear dengan kekuatan konstan di semua level", "Hubungan negatif antara jam belajar dan nilai ujian", "Data memiliki distribusi normal baku", "Adanya heteroskedastisitas dalam data"],
+      "answer": 3,
+      "explanation": "Heteroskedastisitas terjadi ketika variabilitas tidak konstan di rentang variabel"
+    },
+    {
+      "id": 54,
+      "question": "PT Agro Sejahtera mengumpulkan data luas lahan dan hasil panen padi dari 100 petani. Pada diagram pencar terlihat bahwa seiring bertambahnya luas lahan, hasil panen juga meningkat namun pertambahannya semakin mengecil. Pola ini menunjukkan?",
+      "options": ["Hubungan non-linear yang mungkin memerlukan transformasi", "Hubungan linear positif antara kedua variabel", "Tidak ada hubungan antara luas lahan dan hasil panen", "Hubungan negatif yang semakin menguat"],
+      "answer": 0,
+      "explanation": "Perubahan yang tidak konstan menunjukkan hubungan non-linear"
+    },
+    {
+      "id": 55,
+      "question": "Setelah menggambar diagram pencar, seorang peneliti ingin mengetahui apakah hubungan yang terlihat antara pengalaman kerja dan kinerja karyawan bukan sekadar kebetulan. Langkah analisis selanjutnya yang tepat adalah?",
+      "options": ["Mengabaikan analisis lebih lanjut karena diagram pencar sudah cukup", "Melakukan analisis regresi cara konfirmasi dengan uji signifikansi", "Menghitung rata-rata kedua variabel secara terpisah", "Mengganti diagram pencar dengan diagram batang"],
+      "answer": 1,
+      "explanation": "Analisis konfirmasi diperlukan untuk menguji signifikansi hubungan secara statistik"
+    },
+    {
+      "id": 56,
+      "question": "Seorang analis mengamati diagram pencar yang menunjukkan titik-titik membentuk kurva U terbalik, yaitu nilai variabel respon meningkat lalu menurun seiring kenaikan variabel prediktor. Bentuk hubungan ini dikategorikan sebagai?",
+      "options": ["Non-linear dengan pola kuadratik", "Linear negatif sempurna", "Linear positif sempurna", "Tidak memiliki hubungan sama sekali"],
+      "answer": 0,
+      "explanation": "Kurva U terbalik menunjukkan hubungan kuadratik"
+    },
+    {
+      "id": 57,
+      "question": "Dalam model regresi Y = a + bX, koefisien b menyatakan?",
+      "options": ["Nilai Y ketika X sama dengan nol", "Perubahan rata-rata pada Y untuk setiap kenaikan satu satuan X", "Proporsi variasi Y yang dijelaskan oleh X", "Korelasi antara variabel X dan Y"],
+      "answer": 1,
+      "explanation": "Koefisien b mengukur perubahan rata-rata Y untuk setiap perubahan satu satuan X"
+    },
+    {
+      "id": 58,
+      "question": "Pada hasil analisis regresi, seorang analis memperoleh koefisien determinasi (R²) sebesar 0,81. Interpretasi yang tepat untuk nilai ini adalah?",
+      "options": ["Korelasi antara X dan Y sebesar 0,81", "81% data berdistribusi normal", "81% variasi pada variabel respon dapat dijelaskan oleh variabel prediktor", "Model regresi memiliki kesalahan sebesar 81%"],
+      "answer": 2,
+      "explanation": "R² menunjukkan proporsi variasi variabel respon yang dijelaskan"
+    },
+    {
+      "id": 59,
+      "question": "Seorang analis menghitung residual dari model regresi dan menemukan bahwa salah satu titik data memiliki residual positif yang sangat besar. Hal ini menunjukkan bahwa?",
+      "options": ["Model regresi memprediksi nilai Y secara sempurna untuk titik tersebut", "Variabel prediktor tidak memengaruhi variabel respon", "Nilai aktual jauh lebih besar dibandingkan nilai prediksi model", "Koefisien regresi pasti bernilai negatif"],
+      "answer": 2,
+      "explanation": "Residual positif besar berarti nilai aktual jauh lebih tinggi dari prediksi"
+    },
+    {
+      "id": 60,
+      "question": "Setelah membangun model regresi antara jam pelatihan dan produktivitas, peneliti ingin menguji apakah koefisien regresi secara statistik berbeda dari nol. Pengujian ini penting karena?",
+      "options": ["Menentukan apakah model regresi dapat digunakan untuk data lain", "Memastikan bahwa variabel prediktor benar-benar memiliki pengaruh signifikan terhadap variabel respon", "Mengukur seberapa besar korelasi antar variabel", "Menggantikan analisis eksplorasi yang telah dilakukan sebelumnya"],
+      "answer": 1,
+      "explanation": "Uji signifikansi menguji apakah pengaruh prediktor signifikan secara statistik"
+    },
+    {
+      "id": 61,
+      "question": "Seorang analis membangun model regresi Y = 3,5 + 2,4X antara biaya iklan (X dalam juta rupiah) dan volume penjualan (Y dalam ratusan unit). Interpretasi yang tepat untuk koefisien 2,4 adalah?",
+      "options": ["Setiap kenaikan biaya iklan Rp1 juta, volume penjualan naik 2,4 unit", "Volume penjualan akan sebesar 2,4 ratus unit saat biaya iklan nol", "Setiap kenaikan biaya iklan Rp1 juta, volume penjualan naik 240 unit", "Setiap kenaikan volume penjualan 100 unit, biaya iklan naik Rp2,4 juta"],
+      "answer": 2,
+      "explanation": "Karena Y dalam ratusan unit, maka 2,4 × 100 = 240 unit"
+    },
+    {
+      "id": 62,
+      "question": "Dari hasil regresi antara jam pelatihan dan produktivitas diperoleh R² = 0,64. Manakah pernyataan berikut yang tepat?",
+      "options": ["Korelasi antara jam pelatihan dan produktivitas adalah 0,64", "64% variasi jam pelatihan dijelaskan oleh produktivitas", "Jam pelatihan memengaruhi produktivitas sebesar 64%", "64% variasi produktivitas dijelaskan oleh jam pelatihan"],
+      "answer": 3,
+      "explanation": "R² menyatakan proporsi variasi variabel respon (produktivitas) yang dijelaskan"
+    },
+    {
+      "id": 63,
+      "question": "PT Makmur Sentosa meregresikan jumlah produksi terhadap jam kerja mesin dan memperoleh residual tidak acak yang membentuk pola tertentu. Masalah apa yang terindikasi dari temuan ini?",
+      "options": ["Asumsi linearitas tidak terpenuhi sehingga model tidak sesuai", "Terdapat pencilan yang memengaruhi garis regresi", "Model regresi sudah tepat karena residual menunjukkan pola sistematis", "Koefisien determinasi pasti sangat rendah"],
+      "answer": 0,
+      "explanation": "Pola sistematis residual menunjukkan asumsi linearitas dilanggar"
+    },
+    {
+      "id": 64,
+      "question": "Peneliti menguji apakah koefisien regresi antara pengalaman kerja dan gaji berbeda signifikan dari nol menggunakan uji-t. Apa konsekuensi jika hasil uji menunjukkan nilai p > 0,05?",
+      "options": ["Koefisien regresi signifikan dan pengalaman kerja berpengaruh terhadap gaji", "Tidak cukup bukti bahwa pengalaman kerja berpengaruh signifikan terhadap gaji", "Model regresi pasti memiliki R² yang rendah", "Data harus ditransformasi logaritmik"],
+      "answer": 1,
+      "explanation": "p > 0,05 berarti tidak cukup bukti pengaruh signifikan"
+    },
+    {
+      "id": 65,
+      "question": "Data teks yang berasal dari unggahan media sosial dan belum melalui proses pengorganisasian ke dalam baris dan kolom tetap disebut sebagai?",
+      "options": ["Data teks tidak terstruktur karena tidak memiliki format baku", "Data semi-terstruktur karena mengandung tag atau metadata", "Data terstruktur dengan format yang telah ditentukan", "Data numerik karena dapat dikonversi menjadi angka"],
+      "answer": 0,
+      "explanation": "Data tanpa format atau organisasi baku adalah data tidak terstruktur"
+    },
+    {
+      "id": 66,
+      "question": "Dalam analisis teks, pengertian tokenisasi adalah?",
+      "options": ["Menghitung jumlah kemunculan setiap kata dalam kumpulan teks", "Mengelompokkan kata-kata berdasarkan kemiripan makna", "Menghapus kata-kata umum yang tidak bermakna", "Memecah teks menjadi unit-unit lebih kecil seperti kata atau frasa"],
+      "answer": 3,
+      "explanation": "Tokenisasi memecah teks menjadi satuan lebih kecil untuk dianalisis"
+    },
+    {
+      "id": 67,
+      "question": "Seorang analis ingin mengetahui kata apa yang paling sering disebut dalam ulasan produk di e-commerce. Teknik paling dasar yang harus dilakukan adalah?",
+      "options": ["Menstandarisasi kata menggunakan Z-score", "Membangun model regresi antara kata dan rating produk", "Membuat diagram pencar dari setiap kata", "Menghitung frekuensi kemunculan setiap kata dalam kumpulan ulasan"],
+      "answer": 3,
+      "explanation": "Frekuensi kata adalah perhitungan dasar untuk identifikasi kata dominan"
+    },
+    {
+      "id": 68,
+      "question": "Sebelum menghitung frekuensi kata, langkah pengolahan yang membagi teks menjadi unit-unit kata individual disebut?",
+      "options": ["Standardisasi teks", "Visualisasi teks", "Tokenisasi teks", "Imputasi teks"],
+      "answer": 2,
+      "explanation": "Tokenisasi memecah teks menjadi unit-unit kecil seperti kata"
+    },
+    {
+      "id": 69,
+      "question": "Mengapa data teks seperti komentar pelanggan di media sosial dikategorikan sebagai tidak terstruktur?",
+      "options": ["Karena mengandung banyak kesalahan penulisan", "Karena tidak dapat dianalisis menggunakan komputer", "Karena tidak memiliki format atau organisasi yang telah ditentukan sebelumnya", "Karena selalu berisi opini subjektif"],
+      "answer": 2,
+      "explanation": "Ciri data tidak terstruktur adalah ketiadaan format atau skema yang baku"
+    },
+    {
+      "id": 70,
+      "question": "PT Media Digital mengelola jutaan ulasan aplikasi dan ingin mengidentifikasi kata-kata yang paling sering muncul. Setelah tokenisasi, langkah berikutnya yang paling mendasar adalah?",
+      "options": ["Membangun diagram pencar antar kata", "Menghitung frekuensi kemunculan setiap kata", "Melakukan transformasi logaritmik pada setiap kata", "Menguji signifikansi koefisien setiap kata"],
+      "answer": 1,
+      "explanation": "Perhitungan frekuensi adalah langkah dasar setelah tokenisasi"
+    },
+    {
+      "id": 71,
+      "question": "Seorang peneliti ingin mengetahui berapa kali kata 'kualitas' muncul dalam transkrip wawancara. Informasi ini disebut?",
+      "options": ["Frekuensi kata kualitas", "Tokenisasi kata kualitas", "Koefisien determinasi kata kualitas", "Transformasi kata kualitas"],
+      "answer": 0,
+      "explanation": "Jumlah kemunculan suatu kata adalah frekuensi kata"
+    },
+    {
+      "id": 72,
+      "question": "Visualisasi yang menampilkan ukuran huruf sebanding dengan frekuensi kemunculan kata dalam kumpulan teks dikenal sebagai?",
+      "options": ["Diagram pencar teks", "Word cloud", "Diagram kotak garis teks", "Histogram frekuensi"],
+      "answer": 1,
+      "explanation": "Word cloud menyajikan kata dengan ukuran proporsional terhadap frekuensi"
+    },
+    {
+      "id": 73,
+      "question": "Seorang manajer ingin melihat 10 keluhan paling umum dari pelanggan berdasarkan data teks tiket bantuan. Ia perlu menampilkan kata-kata kunci yang paling sering muncul secara terurut. Visualisasi yang paling tepat adalah?",
+      "options": ["Word cloud dengan ukuran huruf acak", "Diagram batang frekuensi kata yang diurutkan dari tertinggi", "Network kata yang menghubungkan semua keluhan", "Diagram lingkaran proporsi setiap tiket"],
+      "answer": 1,
+      "explanation": "Diagram batang frekuensi menyajikan kata terurut dari tertinggi"
+    },
+    {
+      "id": 74,
+      "question": "Visualisasi berbentuk graf yang menunjukkan keterkaitan antar kata dalam kumpulan teks disebut?",
+      "options": ["Word cloud", "Diagram batang frekuensi", "Diagram pencar teks", "Network kata"],
+      "answer": 3,
+      "explanation": "Network kata menampilkan hubungan dan keterkaitan antar kata"
+    },
+    {
+      "id": 75,
+      "question": "Perbedaan utama antara word cloud dan diagram batang frekuensi kata dalam menyajikan frekuensi kata adalah?",
+      "options": ["Word cloud menampilkan kata secara proporsional melalui ukuran, sedangkan diagram batang menampilkan tinggi batang", "Word cloud hanya menampilkan satu kata, sedangkan diagram batang menampilkan semua kata", "Diagram batang lebih cocok untuk teks berbahasa Inggris saja", "Word cloud tidak memerlukan perhitungan frekuensi"],
+      "answer": 0,
+      "explanation": "Word cloud gunakan ukuran huruf, diagram batang gunakan tinggi batang"
+    },
+    {
+      "id": 76,
+      "question": "PT Nusantara Logistik menganalisis ribuan keluhan pelanggan dan ingin mengetahui kata-kata yang sering muncul berpasangan, seperti 'pengiriman' dan 'terlambat'. Visualisasi yang tepat untuk tujuan ini adalah?",
+      "options": ["Word cloud yang memperbesar kedua kata tersebut", "Diagram batang frekuensi untuk masing-masing kata", "Network kata yang menunjukkan hubungan antar kata", "Histogram distribusi panjang kata"],
+      "answer": 2,
+      "explanation": "Network kata menampilkan pasangan kata yang sering muncul bersama"
+    },
+    {
+      "id": 77,
+      "question": "Seorang analis ingin menyajikan frekuensi kata dari ulasan aplikasi dengan ukuran huruf yang proporsional terhadap jumlah kemunculannya?",
+      "options": ["Word Cloud", "Diagram Batang Frekuensi Kata", "Network Kata", "Diagram Lingkaran"],
+      "answer": 0,
+      "explanation": "Word cloud menampilkan kata dengan ukuran proporsional terhadap frekuensi"
+    },
+    {
+      "id": 78,
+      "question": "Perbedaan utama antara word cloud dan diagram batang frekuensi kata dalam menyajikan data frekuensi kata adalah?",
+      "options": ["Word cloud tidak dapat menampilkan frekuensi kata secara eksak, sementara diagram batang dapat", "Word cloud hanya untuk data teks bahasa Inggris, sedangkan diagram batang untuk semua bahasa", "Word cloud menggunakan warna, sedangkan diagram batang selalu hitam putih", "Word cloud tidak memerlukan tokenisasi, sedangkan diagram batang memerlukannya"],
+      "answer": 0,
+      "explanation": "Word cloud bersifat visual relatif, diagram batang presisi dengan nilai"
+    },
+    {
+      "id": 79,
+      "question": "PT Media Inspirasi memiliki dasbor yang memungkinkan pengguna memilih kategori produk dan secara otomatis grafik penjualan, peta sebaran, serta tabel rincian ikut berubah sesuai pilihan. Kemampuan ini menunjukkan bahwa visualisasi tersebut bersifat?",
+      "options": ["Statis", "Interaktif", "Deskriptif", "Otomatis"],
+      "answer": 1,
+      "explanation": "Visualisasi interaktif memungkinkan pengguna berinteraksi langsung dengan kontrol dinamis"
+    },
+    {
+      "id": 80,
+      "question": "Seorang manajer menggunakan dasbor penjualan dan mengarahkan kursor ke sebuah batang pada diagram, lalu muncul kotak kecil yang menampilkan angka pasti dan persentase pertumbuhan. Fitur ini disebut?",
+      "options": ["Slicer", "Tooltip", "Drill-down", "Cross-filtering"],
+      "answer": 1,
+      "explanation": "Tooltip adalah informasi tambahan saat pengguna mengarahkan kursor"
+    },
+    {
+      "id": 81,
+      "question": "Apa ciri utama yang membedakan visualisasi interaktif dari visualisasi statis?",
+      "options": ["Visualisasi interaktif selalu berbentuk dashboard", "Visualisasi interaktif memungkinkan pengguna mengubah tampilan data melalui kontrol dinamis", "Visualisasi interaktif hanya digunakan untuk big data", "Visualisasi interaktif selalu dibuat dengan bahasa pemrograman"],
+      "answer": 1,
+      "explanation": "Perbedaan esensial adalah kemampuan pengguna berinteraksi langsung"
+    },
+    {
+      "id": 82,
+      "question": "Seorang analis menampilkan data penjualan tahunan dalam bentuk peta interaktif. Ketika pengguna mengeklik sebuah provinsi, grafik detail penjualan per kota di provinsi tersebut muncul. Fitur ini dikenal sebagai?",
+      "options": ["Filtering Data", "Tooltip", "Drill-down", "Cross-filtering"],
+      "answer": 2,
+      "explanation": "Drill-down adalah menjelajahi dari data agregat ke rinci dengan mengeklik elemen"
+    },
+    {
+      "id": 83,
+      "question": "Di sebuah dasbor sumber daya manusia, pengguna dapat mencentang departemen tertentu pada daftar dan seluruh diagram langsung hanya menampilkan data departemen yang dipilih. Fasilitas ini termasuk ke dalam?",
+      "options": ["Drill-down", "Filtering Data", "Tooltip", "KPI Indicator"],
+      "answer": 1,
+      "explanation": "Filtering data adalah menyaring dan menampilkan subset berdasarkan kriteria pilihan"
+    },
+    {
+      "id": 84,
+      "question": "Mengapa visualisasi interaktif lebih unggul dibandingkan laporan statis dalam konteks eksplorasi data bisnis?",
+      "options": ["Visualisasi interaktif selalu lebih murah dibuat", "Visualisasi interaktif memungkinkan pengguna menggali data sesuai kebutuhan spesifik secara real-time", "Visualisasi interaktif otomatis menghasilkan kesimpulan bisnis", "Visualisasi interaktif tidak memerlukan data yang lengkap"],
+      "answer": 1,
+      "explanation": "Pengguna dapat mengeksplorasi data mandiri sesuai pertanyaan spesifik"
+    },
+    {
+      "id": 85,
+      "question": "Kondisi ketika mean dan variansi data deret waktu tidak berubah sepanjang periode pengamatan merupakan ciri dari?",
+      "options": ["Data stasioner", "Data normal", "Data independent", "Data homogen"],
+      "answer": 0,
+      "explanation": "Stasioneritas mensyaratkan mean dan variansi konstan sepanjang waktu"
+    },
+    {
+      "id": 86,
+      "question": "Seorang kepala cabang memantau kinerja melalui dasbor yang menampilkan beberapa grafik sekaligus dalam satu layar. Ia melihat nilai pendapatan hari ini, grafik tren mingguan, dan tabel produk terlaris dalam satu tampilan terpadu. Tampilan ini disebut?",
+      "options": ["Dashboard", "Slicer", "KPI Indicator", "Diagram Pencar"],
+      "answer": 0,
+      "explanation": "Dashboard menggabungkan beberapa visualisasi dalam satu tampilan"
+    },
+    {
+      "id": 87,
+      "question": "PT Cahaya Abadi memiliki dasbor dengan tiga diagram: diagram batang penjualan per wilayah, diagram lingkaran pangsa pasar, dan tabel daftar produk. Ketika pengguna mengeklik wilayah Jawa Timur pada diagram batang, diagram lingkaran dan tabel langsung berubah hanya menampilkan data Jawa Timur. Fitur ini disebut?",
+      "options": ["Slicer", "Drill-down", "Cross-filtering", "Tooltip"],
+      "answer": 2,
+      "explanation": "Cross-filtering adalah pemilihan pada satu visualisasi otomatis menyaring yang lain"
+    },
+    {
+      "id": 88,
+      "question": "Komponen visual pada dashboard yang menampilkan nilai ringkasan kinerja utama secara langsung dan mencolok, seperti total pendapatan atau jumlah pelanggan baru, disebut?",
+      "options": ["Tooltip", "Slicer", "KPI Indicator", "Diagram Batang"],
+      "answer": 2,
+      "explanation": "KPI Indicator menampilkan nilai ringkasan kinerja utama secara mencolok"
+    },
+    {
+      "id": 89,
+      "question": "Dalam sebuah dashboard pemasaran, terdapat tombol-tombol yang memungkinkan pengguna memilih tahun tertentu sehingga seluruh grafik dalam dashboard langsung menampilkan data tahun tersebut. Kontrol interaktif ini disebut?",
+      "options": ["Tooltip", "Slicer", "KPI Indicator", "Cross-filtering"],
+      "answer": 1,
+      "explanation": "Slicer adalah kontrol interaktif berupa tombol untuk menyaring data di seluruh dashboard"
+    },
+    {
+      "id": 90,
+      "question": "Manakah yang merupakan perbedaan utama antara dashboard dan laporan statis?",
+      "options": ["Dashboard berwarna, laporan statis hitam putih", "Dashboard hanya untuk data keuangan, laporan statis untuk semua jenis data", "Dashboard menggabungkan beberapa visualisasi interaktif dalam satu tampilan, sedangkan laporan statis menyajikan data yang tidak dapat dimanipulasi pengguna", "Dashboard selalu berbasis web, laporan statis selalu dicetak"],
+      "answer": 2,
+      "explanation": "Dashboard bersifat interaktif dengan visualisasi ganda, laporan statis tetap tanpa interaksi"
+    },
+    {
+      "id": 91,
+      "question": "Di dashboard operasional PT Logistik Nusantara, ketika petugas mengeklik batang yang merepresentasikan gudang Surabaya pada diagram stok, diagram pengiriman dan tabel armada otomatis hanya menampilkan data terkait Surabaya. Mekanisme ini disebut cross-filtering karena?",
+      "options": ["Pemilihan pada satu visualisasi memicu penyaringan otomatis pada visualisasi lain", "Pengguna harus menekan tombol filter terpisah", "Data disaring berdasarkan waktu", "Fitur ini hanya bekerja pada diagram batang"],
+      "answer": 0,
+      "explanation": "Cross-filtering terjadi ketika interaksi pada satu visualisasi menyaring yang lain"
+    },
+    {
+      "id": 92,
+      "question": "Seorang analis data keuangan menemukan bahwa data harga penutupan saham selama setahun tidak memenuhi asumsi stasioneritas karena memiliki tren naik yang konsisten. Transformasi apakah yang paling tepat diterapkan terlebih dahulu untuk menghasilkan data yang stasioner?",
+      "options": ["Transformasi Z-score untuk menyetarakan skala", "Transformasi logaritmik untuk menstabilkan variansi", "Transformasi diferensiasi untuk menghilangkan tren", "Transformasi akar kuadrat untuk mengurangi kemencengan"],
+      "answer": 2,
+      "explanation": "Diferensiasi menghilangkan tren dengan menghitung selisih nilai periode berurutan"
+    },
+    {
+      "id": 93,
+      "question": "Sebuah tim data science ingin membangun model untuk memprediksi harga rumah berdasarkan luas bangunan. Sebelum melakukan analisis lebih lanjut, mereka perlu memastikan bahwa metode yang digunakan tepat. Dalam konteks ini, analisis regresi cara eksplorasi berbeda dengan cara konfirmasi dalam hal?",
+      "options": ["Eksplorasi menekankan pada pengujian hipotesis, sedangkan konfirmasi pada pengenalan pola", "Eksplorasi digunakan untuk membangun model prediktif, sedangkan konfirmasi untuk analisis diagnostik", "Eksplorasi berfokus pada penemuan pola dan struktur data, sedangkan konfirmasi pada pengujian hipotesis yang telah dirumuskan", "Eksplorasi memerlukan asumsi normalitas, sedangkan konfirmasi tidak memerlukan asumsi apapun"],
+      "answer": 2,
+      "explanation": "Eksplorasi mencari pola, konfirmasi menguji hipotesis yang sudah dirumuskan"
+    },
+    {
+      "id": 94,
+      "question": "Seorang peneliti ingin membandingkan distribusi pendapatan rumah tangga di tiga desa yang memiliki tingkat kemencengan berbeda-beda. Untuk melihat perbedaan bentuk distribusi, pusat data, dan sebarannya secara visual dalam satu gambar secara ringkas, metode penyajian apa yang paling tepat digunakan?",
+      "options": ["Diagram kotak garis (box plot) secara berdampingan untuk ketiga desa", "Tiga histogram yang ditampilkan dalam satu panel terpisah", "Diagram batang rata-rata pendapatan dengan galat baku", "Tiga diagram lingkaran untuk proporsi kategori pendapatan"],
+      "answer": 0,
+      "explanation": "Box plot berdampingan menampilkan distribusi beberapa kelompok dalam satu tampilan"
+    },
+    {
+      "id": 95,
+      "question": "Seorang analis ingin menerapkan transformasi pada data jumlah kendaraan yang melintas per jam yang memiliki variansi tidak konstan dan cenderung meningkat seiring bertambahnya jam sibuk. Ia memilih transformasi akar kuadrat, tetapi masih menemukan adanya beberapa jam dengan nilai nol. Langkah penanganan paling tepat yang harus dilakukan sebelum transformasi adalah?",
+      "options": ["Menambahkan konstanta kecil pada seluruh data sebelum transformasi", "Mengganti transformasi menjadi transformasi logaritmik", "Menghapus data yang bernilai nol dari kumpulan data", "Membiarkan nilai nol dan langsung menerapkan transformasi akar kuadrat"],
+      "answer": 0,
+      "explanation": "Menambah konstanta kecil menggeser data sehingga semua positif untuk transformasi"
+    },
+    {
+      "id": 96,
+      "question": "Seorang analis data dari sebuah perusahaan e-commerce ingin mengeksplorasi hubungan antara biaya digital ads dan jumlah konversi pembelian untuk menentukan strategi pemasaran selanjutnya tanpa melakukan pengujian hipotesis statistik formal. Pendekatan analisis regresi yang paling sesuai untuk langkah awal ini adalah?",
+      "options": ["Regresi eksplorasi dengan mengamati diagram pencar dan menghitung koefisien korelasi", "Regresi konfirmasi dengan menguji signifikansi koefisien regresi menggunakan uji-t", "Regresi konfirmasi dengan menghitung koefisien determinasi R² dan uji F", "Regresi eksplorasi dengan melakukan imputasi data hilang terlebih dahulu"],
+      "answer": 0,
+      "explanation": "Eksplorasi awal fokus pada pola visual dan korelasi tanpa uji formal"
+    },
+    {
+      "id": 97,
+      "question": "Seorang analis di perusahaan transportasi daring ingin menyelidiki hubungan antara jarak tempuh perjalanan dan biaya yang dibebankan kepada pelanggan. Langkah awal yang paling tepat untuk melihat pola hubungan kedua variabel numerik tersebut secara visual adalah?",
+      "options": ["Membuat diagram pencar (scatter plot) dengan jarak tempuh pada sumbu X dan biaya pada sumbu Y", "Menghitung koefisien korelasi Pearson antara jarak tempuh dan biaya untuk mendapatkan kekuatan hubungan", "Membangun model regresi linear sederhana untuk memprediksi biaya berdasarkan jarak tempuh", "Membuat histogram dari variabel biaya dan jarak tempuh secara terpisah untuk melihat distribusinya"],
+      "answer": 0,
+      "explanation": "Diagram pencar adalah langkah awal fundamental untuk eksplorasi pola visual"
+    },
+    {
+      "id": 98,
+      "question": "Sebuah portal berita ingin menampilkan kumpulan berita trending dalam bentuk visual yang dapat diklik pengguna untuk menyaring berita berdasarkan kategori 'Politik', 'Ekonomi', atau 'Olahraga', yang secara otomatis memperbarui daftar berita yang ditampilkan. Jenis visualisasi data yang tepat untuk keperluan ini disebut?",
+      "options": ["Dasbor interaktif", "Diagram batang bertumpuk", "Diagram lingkaran", "Word cloud"],
+      "answer": 0,
+      "explanation": "Dashboard interaktif memungkinkan interaksi dan pembaruan tampilan otomatis"
+    },
+    {
+      "id": 99,
+      "question": "Seorang analis ingin menyajikan hubungan antara jumlah kata kunci yang muncul dalam ulasan pelanggan dan sentimen ulasan (positif, netral, negatif) untuk melihat bagaimana frekuensi istilah tertentu berkorelasi dengan polaritas sentimen?",
+      "options": ["Diagram pencar antara jumlah kata kunci dan skor sentimen numerik", "Word cloud dengan warna yang menunjukkan sentimen", "Diagram batang bertumpuk frekuensi kata per kategori sentimen", "Grafik jaringan dengan simpul berwarna berdasarkan sentimen"],
+      "answer": 0,
+      "explanation": "Diagram pencar menunjukkan korelasi antara dua variabel numerik"
+    },
+    {
+      "id": 100,
+      "question": "Seorang analis ingin membandingkan distribusi skor kepuasan pelanggan dari tiga platform media sosial yang berbeda menggunakan visualisasi yang mampu menampilkan nilai median, kuartil, dan pencilan secara bersamaan. Visualisasi apakah yang paling tepat digunakan?",
+      "options": ["Diagram kotak garis (box plot) yang diletakkan berdampingan", "Tiga diagram lingkaran yang menunjukkan proporsi kategori kepuasan", "Histogram yang saling bertumpuk dengan derajat transparansi", "Diagram batang yang membandingkan rata-rata skor setiap platform"],
+      "answer": 0,
+      "explanation": "Box plot berdampingan menampilkan ringkasan lima angka dan pencilan sekaligus"
+    }
+  ]
+}

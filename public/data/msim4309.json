@@ -1,0 +1,712 @@
+{
+  "exam": {
+    "source": "https://soalut.com/soal-ut-msim4309-pemrograman-berbasis-web/",
+    "name": "Ujian Akhir Semester",
+    "matkul": "MSIM4309 Pemrograman Berbasis Web",
+    "semester": "4",
+    "prodi": "Teknik Informatika"
+    
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "Apa yang dimaksud dengan website?",
+      "options": ["Halaman yang berisi kode program saja", "Aplikasi yang hanya berjalan di server", "Kumpulan halaman yang saling terhubung dan dapat diakses melalui internet", "Sebuah file teks biasa"],
+      "answer": 2,
+      "explanation": "Koleksi laman yang saling tersambung via hyperlink, dapat diakses browser melalui internet."
+    },
+    {
+      "id": 2,
+      "question": "Protokol yang digunakan untuk mengakses website adalah?",
+      "options": ["HTTP", "SMTP", "FTP", "TCP"],
+      "answer": 0,
+      "explanation": "HTTP adalah protokol utama untuk transmisi data antara server web dan perangkat klien."
+    },
+    {
+      "id": 3,
+      "question": "Fungsi utama dari web browser adalah?",
+      "options": ["Membuat website", "Mengelola database", "Menyimpan data website", "Menampilkan halaman web dari server kepada pengguna"],
+      "answer": 3,
+      "explanation": "Browser menampilkan konten laman yang diambil dari server ke layar pengguna."
+    },
+    {
+      "id": 4,
+      "question": "Contoh dari web server adalah?",
+      "options": ["Apache HTTP Server", "Mozilla Firefox", "Google Chrome", "Safari"],
+      "answer": 0,
+      "explanation": "Apache HTTP Server melayani permintaan dari browser. Chrome, Firefox, Safari adalah browser."
+    },
+    {
+      "id": 5,
+      "question": "HTML adalah singkatan dari?",
+      "options": ["HyperTool Markup Language", "Hyper Transfer Markup Language", "HighText Machine Language", "HyperText Markup Language"],
+      "answer": 3,
+      "explanation": "HTML merupakan singkatan untuk HyperText Markup Language, bahasa struktur laman web."
+    },
+    {
+      "id": 6,
+      "question": "Fungsi utama dari HTML adalah?",
+      "options": ["Membuat tampilan halaman web menjadi indah", "Mendefinisikan struktur konten halaman web", "Menambahkan logika interaktif ke halaman web", "Mengelola basis data di server"],
+      "answer": 1,
+      "explanation": "HTML mendefinisikan struktur konten seperti judul, paragraf, dan gambar."
+    },
+    {
+      "id": 7,
+      "question": "Dibawah ini yang merupakan elemen HTML untuk membuat paragraf adalah?",
+      "options": ["<h1>", "<div>", "<p>", "<span>"],
+      "answer": 2,
+      "explanation": "Tag <p> digunakan untuk membuat paragraf dalam dokumen HTML."
+    },
+    {
+      "id": 8,
+      "question": "Ini adalah contoh dari? <a href='https://contoh.com'>Klik di sini</a>",
+      "options": ["Elemen heading", "Elemen link", "Elemen gambar", "Elemen daftar"],
+      "answer": 1,
+      "explanation": "Kode merupakan elemen anchor (<a>) untuk membuat hyperlink."
+    },
+    {
+      "id": 9,
+      "question": "Apa yang dimaksud dengan tag <img> dalam HTML?",
+      "options": ["Tag untuk menambahkan gambar", "Tag untuk membuat tabel", "Tag untuk membuat daftar", "Tag untuk menambahkan video"],
+      "answer": 0,
+      "explanation": "Tag <img> menyisipkan gambar ke dalam laman web."
+    },
+    {
+      "id": 10,
+      "question": "Apakah fungsi dari atribut 'alt' pada tag <img>?",
+      "options": ["Menentukan ukuran gambar", "Menambahkan efek bayangan", "Menampilkan teks alternatif jika gambar tidak bisa dimuat", "Mengubah warna gambar"],
+      "answer": 2,
+      "explanation": "Atribut 'alt' memberikan teks alternatif saat gambar gagal dimuat."
+    },
+    {
+      "id": 11,
+      "question": "Atribut 'href' pada tag <a> digunakan untuk?",
+      "options": ["Menentukan teks link", "Menentukan ukuran link", "Menentukan warna link", "Menentukan URL tujuan link"],
+      "answer": 3,
+      "explanation": "Atribut 'href' menentukan URL tujuan dari hyperlink."
+    },
+    {
+      "id": 12,
+      "question": "Apa kegunaan dari tag <br> dalam HTML?",
+      "options": ["Membuat baris baru", "Membuat garis horizontal", "Membuat teks tebal", "Membuat teks miring"],
+      "answer": 0,
+      "explanation": "Tag <br> membuat jeda baris atau baris baru dalam paragraf."
+    },
+    {
+      "id": 13,
+      "question": "Apa kepanjangan dari CSS?",
+      "options": ["Cascading Style Sheets", "Computer Style Sheets", "Creative Style Sheets", "Cascading Simple Sheets"],
+      "answer": 0,
+      "explanation": "CSS merupakan singkatan Cascading Style Sheets, bahasa pengatur tampilan laman."
+    },
+    {
+      "id": 14,
+      "question": "Di bawah ini yang merupakan cara menambahkan CSS inline adalah?",
+      "options": ["Menggunakan tag <style> di dalam <head>", "Menambahkan atribut 'style' langsung pada elemen HTML", "Menyimpan CSS di file terpisah dengan ekstensi .css", "Menggunakan tag <link> untuk menghubungkan file CSS"],
+      "answer": 1,
+      "explanation": "CSS inline diterapkan langsung pada elemen via atribut 'style'."
+    },
+    {
+      "id": 15,
+      "question": "Dalam CSS, properti 'color' digunakan untuk mengubah?",
+      "options": ["Warna latar", "Warna teks", "Warna border", "Warna bayangan"],
+      "answer": 1,
+      "explanation": "Properti 'color' mengatur warna teks suatu elemen."
+    },
+    {
+      "id": 16,
+      "question": "CSS selector '.nama-kelas' digunakan untuk menyeleksi elemen berdasarkan?",
+      "options": ["ID elemen", "Nama tag", "Kelas elemen", "Atribut elemen"],
+      "answer": 2,
+      "explanation": "Selector '.nama-kelas' memilih elemen dengan class 'nama-kelas'."
+    },
+    {
+      "id": 17,
+      "question": "Apa fungsi dari JavaScript dalam pengembangan web?",
+      "options": ["Mengatur tata letak halaman", "Mendefinisikan struktur halaman", "Menyimpan data di server", "Menambahkan interaktivitas pada halaman web"],
+      "answer": 3,
+      "explanation": "JavaScript menambahkan interaktivitas seperti validasi form, animasi, manipulasi konten dinamis."
+    },
+    {
+      "id": 18,
+      "question": "Dalam Javascript, method yang digunakan untuk menampilkan pesan dialog kepada pengguna adalah…",
+      "options": ["console.log()", "document.write()", "alert()", "prompt()"],
+      "answer": 2,
+      "explanation": "alert() menampilkan kotak dialog pesan kepada pengguna di browser."
+    },
+    {
+      "id": 19,
+      "question": "Perhatikan kode Javascript berikut: let x = 10; let y = \"10\"; console.log(x == y); Output dari kode tersebut adalah…",
+      "options": ["false", "true", "undefined", "error"],
+      "answer": 1,
+      "explanation": "Operator == membandingkan nilai setelah konversi tipe, sehingga dianggap sama."
+    },
+    {
+      "id": 20,
+      "question": "Fungsi dalam Javascript yang digunakan untuk mengubah string menjadi huruf besar adalah…",
+      "options": ["toLowerCase()", "charAt()", "toUpperCase()", "concat()"],
+      "answer": 2,
+      "explanation": "toUpperCase() mengubah semua karakter string menjadi huruf kapital."
+    },
+    {
+      "id": 21,
+      "question": "Alat yang digunakan untuk menulis kode HTML dan file teks lainnya dalam praktikum adalah…",
+      "options": ["Web browser", "Command prompt", "Database server", "Code editor"],
+      "answer": 3,
+      "explanation": "Code editor digunakan untuk menulis dan mengedit kode HTML, CSS, dan Javascript."
+    },
+    {
+      "id": 22,
+      "question": "Ekstensi file yang benar untuk dokumen HTML adalah…",
+      "options": [".txt", ".html", ".css", ".js"],
+      "answer": 1,
+      "explanation": "File HTML memiliki ekstensi .html atau .htm sesuai standar laman web."
+    },
+    {
+      "id": 23,
+      "question": "Untuk memulai praktikum, alat yang diperlukan untuk melihat hasil HTML adalah…",
+      "options": ["Text editor", "Web browser", "Code compiler", "File manager"],
+      "answer": 1,
+      "explanation": "Web browser merender dan menampilkan laman HTML yang telah dibuat."
+    },
+    {
+      "id": 24,
+      "question": "Salah satu persiapan penting sebelum mengimplementasikan HTML adalah menyiapkan…",
+      "options": ["Domain dan hosting", "Sertifikat SSL", "Akun media sosial", "Struktur folder proyek"],
+      "answer": 3,
+      "explanation": "Struktur folder mengorganisir file HTML, CSS, dan Javascript secara rapi."
+    },
+    {
+      "id": 25,
+      "question": "Tag HTML yang digunakan untuk menampilkan paragraf adalah…",
+      "options": ["<h1>", "<span>", "<div>", "<p>"],
+      "answer": 3,
+      "explanation": "Tag <p> mendefinisikan paragraf dalam dokumen HTML."
+    },
+    {
+      "id": 26,
+      "question": "Atribut pada tag <img> yang digunakan untuk menentukan sumber gambar adalah…",
+      "options": ["alt", "src", "href", "width"],
+      "answer": 1,
+      "explanation": "Atribut src berisi URL atau path file gambar yang ditampilkan."
+    },
+    {
+      "id": 27,
+      "question": "Tag HTML untuk membuat daftar tidak berurutan adalah…",
+      "options": ["<ol>", "<li>", "<ul>", "<dl>"],
+      "answer": 2,
+      "explanation": "Tag <ul> membuat unordered list atau daftar dengan bullet."
+    },
+    {
+      "id": 28,
+      "question": "Struktur dasar HTML yang benar dimulai dengan tag…",
+      "options": ["<!DOCTYPE html>", "<body>", "<head>", "<title>"],
+      "answer": 0,
+      "explanation": "<!DOCTYPE html> adalah deklarasi yang ditulis di awal sebelum tag <html>."
+    },
+    {
+      "id": 29,
+      "question": "Properti CSS yang digunakan untuk mengubah warna teks adalah…",
+      "options": ["background-color", "font-size", "color", "text-align"],
+      "answer": 2,
+      "explanation": "Properti color mengatur warna teks suatu elemen."
+    },
+    {
+      "id": 30,
+      "question": "Cara menambahkan CSS eksternal ke dalam HTML adalah dengan menggunakan tag…",
+      "options": ["<link>", "<style>", "<script>", "<meta>"],
+      "answer": 0,
+      "explanation": "Tag <link> menghubungkan file CSS eksternal ke dokumen HTML."
+    },
+    {
+      "id": 31,
+      "question": "Properti CSS yang digunakan untuk memberikan jarak antara teks dengan tepi elemen di dalam adalah…",
+      "options": ["padding", "margin", "border", "width"],
+      "answer": 0,
+      "explanation": "Padding adalah ruang antara konten elemen dan batas tepi dalam."
+    },
+    {
+      "id": 32,
+      "question": "Nilai properti display yang membuat elemen ditampilkan dalam satu baris dan tidak memulai baris baru adalah…",
+      "options": ["block", "none", "flex", "inline"],
+      "answer": 3,
+      "explanation": "Nilai inline membuat elemen tampil sejajar dalam baris yang sama."
+    },
+    {
+      "id": 33,
+      "question": "Dalam Javascript untuk implementasi web, method yang digunakan untuk mengambil elemen berdasarkan id adalah…",
+      "options": ["getElementById()", "getElementsByClassName()", "getElementsByTagName()", "querySelector()"],
+      "answer": 0,
+      "explanation": "getElementById() mengembalikan elemen dengan atribut id yang spesifik."
+    },
+    {
+      "id": 34,
+      "question": "Untuk mengubah konten teks dari suatu elemen HTML menggunakan Javascript, properti yang digunakan adalah…",
+      "options": ["textContent", "innerHTML", "value", "src"],
+      "answer": 0,
+      "explanation": "textContent mengatur atau mengambil teks dalam elemen tanpa markup HTML."
+    },
+    {
+      "id": 35,
+      "question": "Dalam konteks implementasi Javascript pada halaman web, apa fungsi utama dari method document.getElementById()?",
+      "options": ["Mengubah konten teks pada elemen HTML", "Mengambil referensi elemen HTML berdasarkan atribut id", "Menambahkan elemen baru ke dalam dokumen", "Menghapus elemen dari halaman"],
+      "answer": 1,
+      "explanation": "Method mengambil elemen HTML berdasarkan id sehingga dapat dimanipulasi lebih lanjut."
+    },
+    {
+      "id": 36,
+      "question": "Jika sebuah halaman web memiliki elemen dengan id 'demo', dan kita ingin menampilkan teks 'Halo Dunia' di dalamnya menggunakan Javascript, kode yang tepat adalah?",
+      "options": ["document.getElementById('demo').innerHTML = 'Halo Dunia';", "document.getElementById('demo').text = 'Halo Dunia';", "document.getElementById('demo').innerText = 'Halo Dunia';", "document.getElementById('demo').value = 'Halo Dunia';"],
+      "answer": 0,
+      "explanation": "innerHTML mengatur konten HTML dalam elemen, menampilkan teks di elemen dengan id demo."
+    },
+    {
+      "id": 37,
+      "question": "Dalam Vue.js, apa fungsi utama dari direktif v-bind?",
+      "options": ["Mengikat data ke atribut elemen HTML secara reaktif", "Menambahkan event listener ke elemen", "Menyembunyikan elemen berdasarkan kondisi", "Mengulang elemen untuk setiap item array"],
+      "answer": 0,
+      "explanation": "v-bind mengikat data Vue ke atribut elemen HTML secara reaktif."
+    },
+    {
+      "id": 38,
+      "question": "Bagaimana cara mendeklarasikan sebuah instance Vue yang akan mengelola elemen dengan id 'app'?",
+      "options": ["new Vue({ el: '#app', data: { … } });", "Vue.create({ el: '#app', data: { … } });", "new Vue({ element: '#app', data: { … } });", "Vue.init({ el: '#app', data: { … } });"],
+      "answer": 0,
+      "explanation": "Instance Vue dibuat dengan sintaks new Vue dan properti el untuk elemen target."
+    },
+    {
+      "id": 39,
+      "question": "Dalam Vue.js, properti apa yang digunakan untuk menyimpan data reaktif dalam sebuah instance?",
+      "options": ["methods", "data", "computed", "props"],
+      "answer": 1,
+      "explanation": "Properti data menyimpan data reaktif yang dimonitor oleh Vue dalam template."
+    },
+    {
+      "id": 40,
+      "question": "Apa yang dimaksud dengan 'interpolation' dalam Vue.js?",
+      "options": ["Menyisipkan nilai data ke dalam template menggunakan kurung kurawal ganda {{ }}", "Mengikat event ke metode", "Membuat komponen baru", "Mengatur kondisi tampilan"],
+      "answer": 0,
+      "explanation": "Interpolation menyisipkan nilai data ke dalam HTML menggunakan {{ }}."
+    },
+    {
+      "id": 41,
+      "question": "Bagaimana cara menampilkan daftar item dari array 'buah' berupa elemen <li> dalam Vue.js?",
+      "options": ["<li v-for='item in buah'>{{ item }}</li>", "<li v-repeat='item in buah'>{{ item }}</li>", "<li v-each='item in buah'>{{ item }}</li>", "<li v-list='item in buah'>{{ item }}</li>"],
+      "answer": 0,
+      "explanation": "Direktif v-for mengulang elemen berdasarkan array dengan sintaks 'item in buah'."
+    },
+    {
+      "id": 42,
+      "question": "Jika data Vue memiliki properti 'pesan' dengan nilai 'Selamat Belajar', maka kode template {{ pesan.toUpperCase() }} akan menghasilkan?",
+      "options": ["Selamat Belajar", "selamat belajar", "SELAMAT BELAJAR", "Selamat belajar"],
+      "answer": 2,
+      "explanation": "toUpperCase() mengubah string menjadi huruf kapital semua."
+    },
+    {
+      "id": 43,
+      "question": "Dalam Vue.js, direktif apa yang digunakan untuk menampilkan elemen hanya jika suatu kondisi bernilai true?",
+      "options": ["v-show", "v-if", "v-else", "v-bind"],
+      "answer": 1,
+      "explanation": "v-if menampilkan atau menyembunyikan elemen berdasarkan kondisi boolean."
+    },
+    {
+      "id": 44,
+      "question": "Jika kita memiliki kode Vue: <p v-show='isActive'>Teks</p> dan isActive bernilai false, apa yang terjadi?",
+      "options": ["Elemen <p> tidak di-render sama sekali", "Elemen <p> di-render tetapi disembunyikan (display:none)", "Elemen <p> di-render dengan teks kosong", "Elemen <p> di-render tetapi tidak terlihat (visibility:hidden)"],
+      "answer": 1,
+      "explanation": "v-show menyembunyikan elemen dengan display: none namun tetap ada di DOM."
+    },
+    {
+      "id": 45,
+      "question": "Bagaimana cara menuliskan kondisi v-if yang memeriksa apakah variabel 'nilai' lebih besar dari 70?",
+      "options": ["v-if='nilai > 70'", "v-if='nilai gt 70'", "v-if='nilai lebih besar 70'", "v-if='nilai > 70'"],
+      "answer": 0,
+      "explanation": "Sintaks benar menggunakan operator perbandingan > langsung dalam ekspresi v-if."
+    },
+    {
+      "id": 46,
+      "question": "Dalam Vue.js, direktif apa yang digunakan untuk menampilkan teks alternatif jika kondisi v-if tidak terpenuhi?",
+      "options": ["v-else-if", "v-else", "v-show", "v-else"],
+      "answer": 1,
+      "explanation": "v-else menampilkan konten ketika kondisi v-if bernilai false."
+    },
+    {
+      "id": 47,
+      "question": "Apa yang dimaksud dengan data binding dalam konteks framework seperti Vue.js?",
+      "options": ["Proses menghubungkan data dengan antarmuka pengguna sehingga perubahan data otomatis memperbarui tampilan", "Proses menyimpan data ke database", "Proses mengirim data ke server", "Proses mengubah tipe data"],
+      "answer": 0,
+      "explanation": "Data binding menghubungkan data dengan UI; perubahan data otomatis memperbarui tampilan."
+    },
+    {
+      "id": 48,
+      "question": "Dalam Vue.js, bagaimana cara melakukan data binding dua arah (two-way binding) pada elemen input?",
+      "options": ["Menggunakan direktif v-bind", "Menggunakan direktif v-on", "Menggunakan direktif v-model", "Menggunakan direktif v-text"],
+      "answer": 2,
+      "explanation": "v-model menyediakan two-way binding; perubahan input memperbarui data dan sebaliknya."
+    },
+    {
+      "id": 49,
+      "question": "Jika kita memiliki properti data 'nama' dan ingin menampilkannya dalam sebuah input teks yang dapat diubah, kode mana yang tepat?",
+      "options": ["<input type='text' v-bind='nama'>", "<input type='text' v-on='nama'>", "<input type='text' v-model='nama'>", "<input type='text' v-text='nama'>"],
+      "answer": 2,
+      "explanation": "v-model mengikat nilai input dengan data 'nama' secara dua arah."
+    },
+    {
+      "id": 50,
+      "question": "Saat menggunakan v-model pada elemen <input type='checkbox'>, tipe data apa yang biasanya terikat?",
+      "options": ["String", "Number", "Boolean", "Array"],
+      "answer": 2,
+      "explanation": "Checkbox terikat dengan boolean: true jika dicentang, false jika tidak."
+    },
+    {
+      "id": 51,
+      "question": "Apa fungsi dari properti 'methods' dalam Vue.js?",
+      "options": ["Menyimpan data reaktif", "Mendefinisikan fungsi yang dapat dipanggil dalam template atau dari instance", "Mendefinisikan properti yang dihitung secara otomatis", "Mengamati perubahan data"],
+      "answer": 1,
+      "explanation": "Properti methods berisi fungsi yang dapat dipanggil dalam template atau saat event."
+    },
+    {
+      "id": 52,
+      "question": "Dalam Vue.js, direktif yang digunakan untuk melakukan data binding secara dua arah (two-way data binding) adalah…",
+      "options": ["v-model", "v-bind", "v-on", "v-for"],
+      "answer": 0,
+      "explanation": "v-model menghubungkan data di model dengan elemen input dua arah."
+    },
+    {
+      "id": 53,
+      "question": "Computed properties dalam Vue.js memiliki karakteristik utama yaitu…",
+      "options": ["Dapat digunakan untuk mengubah data asli", "Tidak bisa mengakses data dari komponen lain", "Hanya dapat dipanggil sekali saat komponen dimuat", "Bersifat reaktif dan hasilnya di-cache berdasarkan dependensi"],
+      "answer": 3,
+      "explanation": "Computed properties reaktif dan di-cache; nilai dihitung ulang hanya jika dependensi berubah."
+    },
+    {
+      "id": 54,
+      "question": "Ketika menggunakan computed properties di Vue.js, jika tidak ada perubahan pada data dependensi, maka nilai yang dikembalikan akan…",
+      "options": ["Mengembalikan nilai dari cache tanpa perhitungan ulang", "Dihitung ulang setiap kali diakses", "Menjadi undefined", "Menimbulkan error"],
+      "answer": 0,
+      "explanation": "Computed properties menggunakan cache; nilai di-cache dikembalikan jika dependensi tidak berubah."
+    },
+    {
+      "id": 55,
+      "question": "Manakah dari berikut ini yang merupakan contoh penggunaan computed property yang benar dalam Vue.js?",
+      "options": ["computed: { total() { this.harga * this.jumlah } }", "computed: { total() { return this.harga * this.jumlah } }", "computed: total() { return this.harga * this.jumlah }", "computed: { total() => this.harga * this.jumlah }"],
+      "answer": 1,
+      "explanation": "Sintaks benar menggunakan objek computed dengan fungsi yang return nilai."
+    },
+    {
+      "id": 56,
+      "question": "Perbedaan utama antara computed properties dan methods di Vue.js adalah…",
+      "options": ["Computed properties hanya untuk string, methods untuk angka", "Computed properties tidak bisa menerima parameter, sedangkan methods bisa", "Methods hasilnya di-cache, computed tidak", "Tidak ada perbedaan"],
+      "answer": 1,
+      "explanation": "Computed properties deklaratif tanpa parameter; methods dapat menerima parameter."
+    },
+    {
+      "id": 57,
+      "question": "Methods dalam Vue.js ditulis pada properti methods dan biasanya digunakan untuk…",
+      "options": ["Menampilkan data secara reaktif", "Membuat binding dua arah", "Menyimpan data statis", "Mendefinisikan fungsi yang dipicu oleh event atau dipanggil secara manual"],
+      "answer": 3,
+      "explanation": "Methods berisi fungsi yang dipanggil sebagai event handler atau secara manual."
+    },
+    {
+      "id": 58,
+      "question": "Jika Anda ingin mencegah refresh halaman saat tombol submit diklik, Anda bisa menggunakan methods dengan event…",
+      "options": ["return false", "event.stopPropagation()", "event.preventDefault()", "event.cancelBubble=true"],
+      "answer": 2,
+      "explanation": "preventDefault() mencegah aksi default browser seperti reload halaman submit."
+    },
+    {
+      "id": 59,
+      "question": "Dalam Vue.js, untuk memanggil method saat tombol diklik, direktif yang digunakan adalah…",
+      "options": ["v-model", "v-on:click", "v-bind", "v-show"],
+      "answer": 1,
+      "explanation": "v-on:click atau @click menangani event klik dan memanggil method."
+    },
+    {
+      "id": 60,
+      "question": "Method di Vue.js yang didefinisikan dalam objek methods dapat mengakses data komponen melalui…",
+      "options": ["this.data", "this.$data", "this", "data"],
+      "answer": 2,
+      "explanation": "Keyword this dalam methods merujuk instance Vue; data diakses via this.namaData."
+    },
+    {
+      "id": 61,
+      "question": "Watcher di Vue.js digunakan untuk…",
+      "options": ["Mengikat data ke template", "Menghitung nilai turunan secara otomatis", "Mengawasi perubahan data dan menjalankan fungsi tertentu saat data berubah", "Menangani event klik"],
+      "answer": 2,
+      "explanation": "Watcher dipicu ketika properti berubah; berguna untuk request API atau validasi."
+    },
+    {
+      "id": 62,
+      "question": "Sebuah watcher di Vue.js dapat mendeteksi perubahan pada properti bertipe objek dengan menggunakan opsi…",
+      "options": ["watch: {}", "immediate: true", "handler: function", "deep: true"],
+      "answer": 3,
+      "explanation": "Opsi deep: true memungkinkan pengawasan perubahan nested property dalam objek."
+    },
+    {
+      "id": 63,
+      "question": "Jika ingin watcher dijalankan segera saat komponen dibuat tanpa menunggu perubahan, opsi yang digunakan adalah…",
+      "options": ["deep: true", "lazy: true", "immediate: true", "sync: true"],
+      "answer": 2,
+      "explanation": "immediate: true menjalankan watcher saat inisialisasi komponen."
+    },
+    {
+      "id": 64,
+      "question": "Dalam Vue.js, watcher biasanya didefinisikan di dalam properti…",
+      "options": ["methods", "watch", "computed", "data"],
+      "answer": 1,
+      "explanation": "Watcher didefinisikan dalam properti watch pada objek opsi komponen Vue."
+    },
+    {
+      "id": 65,
+      "question": "Pada praktikum Unit-2 Vue -1, langkah pertama yang biasanya dilakukan adalah…",
+      "options": ["Menginstal Vue.js melalui CDN atau npm", "Membuat komponen induk", "Menulis kode CSS", "Mengatur router"],
+      "answer": 0,
+      "explanation": "Langkah awal praktikum Vue adalah menginstal atau menyertakan Vue.js."
+    },
+    {
+      "id": 66,
+      "question": "Dalam praktikum Unit-2 Vue -1, untuk menampilkan data dari Vue ke halaman HTML, digunakan teknik…",
+      "options": ["Interpolasi dengan kurung kurawal ganda {{ }}", "Interpolasi dengan kurung kurawal tunggal { }", "Menggunakan v-html", "Menggunakan v-text"],
+      "answer": 0,
+      "explanation": "Interpolasi {{ }} adalah cara standar Vue untuk menampilkan data dalam template."
+    },
+    {
+      "id": 67,
+      "question": "Salah satu contoh penggunaan watcher dalam praktikum Unit-2 Vue -1 adalah untuk…",
+      "options": ["Mendefinisikan komponen", "Menghitung jumlah total item", "Mengulang elemen dengan v-for", "Mengupdate judul halaman secara otomatis saat input berubah"],
+      "answer": 3,
+      "explanation": "Watcher merespon perubahan data input dan memperbarui elemen dinamis."
+    },
+    {
+      "id": 68,
+      "question": "Pada praktikum Unit-2 Vue -1, untuk menghubungkan data Vue dengan elemen HTML, digunakan direktif…",
+      "options": ["v-bind", "v-on", "v-model", "v-if"],
+      "answer": 0,
+      "explanation": "v-bind mengikat atribut HTML dengan data Vue."
+    },
+    {
+      "id": 69,
+      "question": "Dalam praktikum unit 2 Vue bagian 2, langkah pertama yang harus dilakukan untuk membuat aplikasi Vue adalah…",
+      "options": ["Membuat file index.html dan menghubungkannya dengan Vue CDN", "Menginstal Node.js dan npm", "Menggunakan Vue CLI untuk membuat proyek baru", "Menulis kode CSS terlebih dahulu"],
+      "answer": 0,
+      "explanation": "Langkah awal membuat file HTML dan menghubungkan dengan Vue dari CDN."
+    },
+    {
+      "id": 70,
+      "question": "Pada praktikum unit 2 Vue bagian 2, sebuah elemen div dengan id 'app' digunakan untuk…",
+      "options": ["Menampilkan judul halaman", "Menampung template Vue", "Menyimpan data array", "Menerapkan gaya CSS"],
+      "answer": 1,
+      "explanation": "Div id 'app' berfungsi sebagai kontainer untuk template yang dikelola Vue."
+    },
+    {
+      "id": 71,
+      "question": "Dalam praktikum, data properti dalam Vue instance digunakan untuk menyimpan…",
+      "options": ["Fungsi kalkulasi", "Event handler", "Variabel yang akan ditampilkan di template", "CSS selector"],
+      "answer": 2,
+      "explanation": "Data properti berisi variabel yang ditampilkan langsung di template via data binding."
+    },
+    {
+      "id": 72,
+      "question": "Saat membuat daftar dinamis di Vue pada praktikum unit 2 bagian 2, direktif yang digunakan untuk perulangan adalah…",
+      "options": ["v-if", "v-model", "v-for", "v-bind"],
+      "answer": 2,
+      "explanation": "v-for melakukan perulangan data array atau objek dalam template Vue."
+    },
+    {
+      "id": 73,
+      "question": "Array dalam Javascript bersifat…",
+      "options": ["Immutable atau tidak bisa diubah", "Mutable atau dapat diubah", "Hanya bisa berisi string", "Tidak memiliki panjang"],
+      "answer": 1,
+      "explanation": "Array Javascript bersifat mutable; elemen dapat ditambah, dihapus, atau diubah."
+    },
+    {
+      "id": 74,
+      "question": "Metode untuk menambahkan satu elemen di akhir array adalah…",
+      "options": ["shift()", "push()", "pop()", "unshift()"],
+      "answer": 1,
+      "explanation": "push() menambahkan elemen ke akhir array dan mengembalikan panjang baru."
+    },
+    {
+      "id": 75,
+      "question": "Untuk mengakses elemen pertama dari array arr, kode yang benar adalah…",
+      "options": ["arr[0]", "arr[1]", "arr[-1]", "arr.first()"],
+      "answer": 0,
+      "explanation": "Indeks array dimulai dari 0; elemen pertama diakses dengan arr[0]."
+    },
+    {
+      "id": 76,
+      "question": "Property pada array yang menyatakan jumlah elemen adalah…",
+      "options": ["size", "count", "length", "index"],
+      "answer": 2,
+      "explanation": "Property length mengembalikan jumlah elemen dalam array."
+    },
+    {
+      "id": 77,
+      "question": "Fungsi filter pada array digunakan untuk…",
+      "options": ["Mengubah setiap elemen array", "Mengurutkan elemen array", "Menyaring elemen yang memenuhi kondisi tertentu", "Menggabungkan dua array"],
+      "answer": 2,
+      "explanation": "filter() membuat array baru berisi elemen yang lolos dari pengujian fungsi."
+    },
+    {
+      "id": 78,
+      "question": "Jika diberikan array [1, 2, 3, 4, 5], maka hasil dari filter bilangan genap adalah…",
+      "options": ["[1, 3, 5]", "[2, 4]", "[1, 2, 3]", "[4, 5]"],
+      "answer": 1,
+      "explanation": "Bilangan genap dalam array adalah 2 dan 4, jadi hasil filter adalah [2, 4]."
+    },
+    {
+      "id": 79,
+      "question": "Metode filter() mengembalikan…",
+      "options": ["Array baru yang telah dimodifikasi", "Array baru yang berisi elemen yang lolos kondisi", "Boolean true jika ada elemen yang lolos", "Jumlah elemen yang lolos"],
+      "answer": 1,
+      "explanation": "filter() mengembalikan array baru berisi elemen yang memenuhi kondisi."
+    },
+    {
+      "id": 80,
+      "question": "Fungsi callback pada filter harus mengembalikan nilai…",
+      "options": ["String", "Number", "Boolean", "Object"],
+      "answer": 2,
+      "explanation": "Fungsi callback harus return boolean: true untuk sertakan, false untuk kecualikan."
+    },
+    {
+      "id": 81,
+      "question": "Event handling di Vue.js menggunakan direktif…",
+      "options": ["v-bind", "v-model", "v-on", "v-if"],
+      "answer": 2,
+      "explanation": "v-on menangani event seperti klik, submit, mouseover di Vue.js."
+    },
+    {
+      "id": 82,
+      "question": "Untuk menjalankan fungsi handleClick saat tombol diklik, kode yang tepat adalah…",
+      "options": ["<button v-on:click='handleClick'>Klik</button>", "<button v-bind:click='handleClick'>Klik</button>", "<button v-model='handleClick'>Klik</button>", "<button v-if='handleClick'>Klik</button>"],
+      "answer": 0,
+      "explanation": "v-on:click menangani event klik dan memanggil fungsi handleClick."
+    },
+    {
+      "id": 83,
+      "question": "Untuk mendapatkan objek event asli dari DOM pada event handler di Vue, parameter yang dapat digunakan adalah…",
+      "options": ["$event", "eventTarget", "nativeEvent", "domEvent"],
+      "answer": 0,
+      "explanation": "Vue menyediakan variabel khusus $event untuk akses objek event asli DOM."
+    },
+    {
+      "id": 84,
+      "question": "Event modifier .prevent pada v-on digunakan untuk…",
+      "options": ["Mencegah event bubbling", "Mencegah aksi default elemen", "Mencegah event capturing", "Mencegah event diproses lebih dari sekali"],
+      "answer": 1,
+      "explanation": "Modifier .prevent memanggil preventDefault() mencegah aksi default elemen."
+    },
+    {
+      "id": 85,
+      "question": "Dalam Vue.js, apa fungsi utama dari komponen (component)?",
+      "options": ["Menyimpan data aplikasi secara global", "Mengatur routing antar halaman", "Membungkus bagian antarmuka yang dapat digunakan kembali", "Mengelola state aplikasi dengan reaktif"],
+      "answer": 2,
+      "explanation": "Komponen Vue membungkus antarmuka yang dapat digunakan kembali secara modular."
+    },
+    {
+      "id": 86,
+      "question": "Bagaimana cara mendefinisikan komponen global di Vue.js?",
+      "options": ["Menggunakan Vue.component(nama, opsi)", "Menggunakan new Vue({el: '#app'})", "Menggunakan v-bind pada elemen", "Menggunakan v-model untuk data binding"],
+      "answer": 0,
+      "explanation": "Vue.component() mendaftarkan komponen secara global untuk seluruh aplikasi."
+    },
+    {
+      "id": 87,
+      "question": "Properti apa yang digunakan dalam komponen Vue untuk menerima data dari komponen induk?",
+      "options": ["data", "methods", "computed", "props"],
+      "answer": 3,
+      "explanation": "Props memungkinkan komponen anak menerima data dari komponen induk."
+    },
+    {
+      "id": 88,
+      "question": "Dalam komponen Vue, bagaimana cara mendefinisikan data lokal yang reaktif?",
+      "options": ["Menggunakan properti data sebagai fungsi yang mengembalikan objek", "Menggunakan properti data sebagai objek biasa", "Menggunakan variabel global di luar komponen", "Menggunakan properti template"],
+      "answer": 0,
+      "explanation": "Data dalam komponen harus berupa fungsi untuk setiap instance independen."
+    },
+    {
+      "id": 89,
+      "question": "Elemen HTML apa yang digunakan untuk menggambar grafik kanvas di halaman web?",
+      "options": ["<graph>", "<canvas>", "<draw>", "<svg>"],
+      "answer": 1,
+      "explanation": "Elemen <canvas> menyediakan area gambar untuk skrip rendering grafik."
+    },
+    {
+      "id": 90,
+      "question": "Metode apa yang digunakan untuk memulai jalur gambar baru di kanvas?",
+      "options": ["moveTo()", "beginPath()", "startPath()", "newPath()"],
+      "answer": 1,
+      "explanation": "beginPath() memulai jalur baru sebelum menggambar bentuk di kanvas."
+    },
+    {
+      "id": 91,
+      "question": "Untuk menggambar lingkaran di kanvas, parameter apa yang digunakan dalam metode arc()?",
+      "options": ["x, y, radius, startAngle, endAngle, counterclockwise", "x, y, lebar, tinggi, sudut", "x1, y1, x2, y2, radius", "x, y, panjang, arah"],
+      "answer": 0,
+      "explanation": "arc() memerlukan koordinat pusat, radius, sudut awal-akhir, dan arah putaran."
+    },
+    {
+      "id": 92,
+      "question": "Fungsi CSS apa yang dapat digunakan untuk membuat animasi pada elemen HTML tanpa JavaScript?",
+      "options": ["@keyframes", "transition", "animation", "@media"],
+      "answer": 0,
+      "explanation": "@keyframes mendefinisikan animasi yang dipanggil dengan properti animation."
+    },
+    {
+      "id": 93,
+      "question": "Properti CSS apa yang digunakan untuk mengontrol kecepatan dan durasi animasi?",
+      "options": ["animation-duration", "animation-delay", "animation-iteration-count", "animation-direction"],
+      "answer": 0,
+      "explanation": "animation-duration menentukan durasi animasi, misalnya 2s untuk dua detik."
+    },
+    {
+      "id": 94,
+      "question": "Bentuk siklus animasi apa yang membuat gerakan bolak-balik?",
+      "options": ["normal", "reverse", "alternate", "alternate-reverse"],
+      "answer": 2,
+      "explanation": "alternate membuat animasi bergerak maju lalu mundur bergantian."
+    },
+    {
+      "id": 95,
+      "question": "Sistem manajemen basis data apa yang umum digunakan untuk menyimpan data aplikasi web?",
+      "options": ["HTML", "CSS", "MySQL", "JavaScript"],
+      "answer": 2,
+      "explanation": "MySQL adalah sistem manajemen basis data relasional populer untuk aplikasi web."
+    },
+    {
+      "id": 96,
+      "question": "Perintah SQL apa yang digunakan untuk mengambil data dari tabel?",
+      "options": ["INSERT", "SELECT", "UPDATE", "DELETE"],
+      "answer": 1,
+      "explanation": "SELECT mengambil data dari satu atau lebih tabel dalam basis data."
+    },
+    {
+      "id": 97,
+      "question": "Apa fungsi utama dari perintah WHERE dalam query SQL?",
+      "options": ["Menggabungkan dua tabel", "Mengurutkan data", "Menyaring baris berdasarkan kondisi", "Menambahkan data baru"],
+      "answer": 2,
+      "explanation": "Klausa WHERE memfilter baris berdasarkan kondisi tertentu."
+    },
+    {
+      "id": 98,
+      "question": "Dalam praktikum unit-3, apa tujuan utama menghubungkan Vue.js dengan basis data?",
+      "options": ["Membuat aplikasi yang responsif", "Menyediakan antarmuka dinamis berdasarkan data", "Mengganti HTML secara langsung", "Mengelola server web secara otomatis"],
+      "answer": 1,
+      "explanation": "Integrasi Vue dengan basis data menampilkan data dinamis interaktif dari server."
+    },
+    {
+      "id": 99,
+      "question": "Metode apa yang digunakan dalam Vue.js untuk mengambil data dari server saat aplikasi dimulai?",
+      "options": ["v-if", "v-for", "mounted()", "v-bind"],
+      "answer": 2,
+      "explanation": "Hook mounted() dipanggil setelah komponen terpasang; cocok untuk request server."
+    },
+    {
+      "id": 100,
+      "question": "Dalam praktikum unit-3, bagaimana cara mengirim data dari form ke basis data?",
+      "options": ["Menggunakan metode GET pada form HTML", "Menggunakan metode POST dengan JavaScript", "Menyimpan data langsung di komponen", "Menggunakan atribut action pada form"],
+      "answer": 1,
+      "explanation": "Metode POST mengirim data form ke server untuk disimpan di basis data."
+    }
+  ]
+}

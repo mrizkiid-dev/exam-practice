@@ -28,7 +28,7 @@ function open() {
 
 function handleDelete(e) {
   e.stopPropagation()
-  if (confirm(`Hapus "${meta.name}"? Data soal akan dihapus dari perangkat ini.`)) {
+  if (confirm(`Hapus "${meta.matkul}"? Data soal akan dihapus dari perangkat ini.`)) {
     removeCustomExam(props.entry.id)
   }
 }
@@ -43,10 +43,10 @@ function handleDelete(e) {
              focus:outline-none focus:ring-2 focus:ring-indigo-400"
       @click="open"
     >
-      <!-- Top row: name + badge -->
+      <!-- Top row: matkul + badge -->
       <div class="flex items-start justify-between gap-3">
         <h2 class="text-base font-bold text-gray-800 leading-snug pr-6">
-          {{ meta.name }}
+          {{ meta.matkul }}
         </h2>
         <span class="shrink-0 text-xs font-semibold bg-indigo-100 text-indigo-700
                      rounded-full px-2.5 py-1 whitespace-nowrap">
@@ -57,7 +57,7 @@ function handleDelete(e) {
       <!-- Detail chips -->
       <div class="flex flex-wrap gap-2">
         <span class="inline-flex items-center gap-1 text-xs bg-gray-100 text-gray-600 rounded-lg px-2.5 py-1">
-          <span class="font-medium text-gray-400">Matkul</span> {{ meta.matkul }}
+          <span class="font-medium text-gray-400">Ujian</span> {{ meta.name }}
         </span>
         <span class="inline-flex items-center gap-1 text-xs bg-gray-100 text-gray-600 rounded-lg px-2.5 py-1">
           <span class="font-medium text-gray-400">Semester</span> {{ meta.semester }}
