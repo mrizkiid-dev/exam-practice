@@ -1,0 +1,77 @@
+{
+  "exam": {
+    "name": "Ujian Tengah Semester",
+    "matkul": "Pemrograman Web",
+    "semester": "4",
+    "prodi": "Teknik Informatika"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which layer of the OSI model is responsible for logical addressing and routing?",
+      "options": ["Data Link", "Network", "Transport", "Session"],
+      "answer": 1,
+      "explanation": "The Network layer (Layer 3) handles logical addressing (IP addresses) and routing packets between different networks."
+    },
+    {
+      "id": 2,
+      "question": "What does CPU stand for?",
+      "options": ["Central Processing Unit", "Core Power Unit", "Central Power Unit", "Core Processing Unit"],
+      "answer": 0,
+      "explanation": "CPU stands for Central Processing Unit — the primary component of a computer that executes instructions."
+    },
+    {
+      "id": 3,
+      "question": "Which data structure uses LIFO ordering?",
+      "options": ["Queue", "Linked List", "Stack", "Tree"],
+      "answer": 2,
+      "explanation": "A Stack uses Last In First Out (LIFO) — the last element pushed is the first to be popped."
+    },
+    {
+      "id": 4,
+      "question": "What is the time complexity of binary search?",
+      "options": ["O(n)", "O(n log n)", "O(log n)", "O(1)"],
+      "answer": 2,
+      "explanation": "Binary search halves the search space on each step, giving O(log n) time complexity."
+    },
+    {
+      "id": 5,
+      "question": "Which HTTP method is idempotent and used to retrieve a resource?",
+      "options": ["POST", "PUT", "DELETE", "GET"],
+      "answer": 3
+    },
+    {
+      "id": 6,
+      "question": "In Vue 3, which function is used to declare reactive state?",
+      "options": ["reactive()", "data()", "ref()", "computed()"],
+      "answer": 2,
+      "explanation": "ref() wraps a value in a reactive reference. computed() derives state, reactive() wraps objects, and data() is Vue 2 Options API."
+    },
+    {
+      "id": 7,
+      "question": "What does SQL stand for?",
+      "options": ["Structured Query Language", "Simple Query Logic", "Sequential Query Language", "Structured Queue Logic"],
+      "answer": 0
+    },
+    {
+      "id": 8,
+      "question": "Which sorting algorithm has the best average-case time complexity?",
+      "options": ["Bubble Sort", "Insertion Sort", "Merge Sort", "Selection Sort"],
+      "answer": 2,
+      "explanation": "Merge Sort has O(n log n) average-case complexity, better than Bubble Sort, Insertion Sort, and Selection Sort which are all O(n²)."
+    },
+    {
+      "id": 9,
+      "question": "What is the purpose of a foreign key in a relational database?",
+      "options": ["To encrypt records", "To uniquely identify each row", "To link two tables together", "To index a column for fast lookup"],
+      "answer": 2
+    },
+    {
+      "id": 10,
+      "question": "Which CSS property controls the space inside an element's border?",
+      "options": ["margin", "border-spacing", "padding", "gap"],
+      "answer": 2,
+      "explanation": "padding controls the space between an element's content and its border. margin controls the space outside the border."
+    }
+  ]
+}

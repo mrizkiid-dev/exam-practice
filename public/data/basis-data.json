@@ -1,0 +1,45 @@
+{
+  "exam": {
+    "name": "Ujian Akhir Semester",
+    "matkul": "Basis Data",
+    "semester": "3",
+    "prodi": "Teknik Informatika"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "Apa kepanjangan dari DBMS?",
+      "options": ["Data Base Management System", "Data Backup Management System", "Digital Base Management System", "Data Base Monitoring System"],
+      "answer": 0,
+      "explanation": "DBMS adalah Database Management System — perangkat lunak untuk membuat, mengelola, dan mengakses basis data secara terstruktur."
+    },
+    {
+      "id": 2,
+      "question": "Perintah SQL yang digunakan untuk mengambil data dari tabel adalah?",
+      "options": ["INSERT", "UPDATE", "SELECT", "DELETE"],
+      "answer": 2,
+      "explanation": "SELECT digunakan untuk membaca/mengambil data. INSERT untuk menambah, UPDATE untuk mengubah, DELETE untuk menghapus data."
+    },
+    {
+      "id": 3,
+      "question": "Constraint yang memastikan nilai kolom unik dan tidak NULL disebut?",
+      "options": ["FOREIGN KEY", "PRIMARY KEY", "CHECK", "DEFAULT"],
+      "answer": 1,
+      "explanation": "PRIMARY KEY menjamin setiap baris memiliki nilai unik dan tidak boleh NULL. FOREIGN KEY digunakan untuk relasi antar tabel."
+    },
+    {
+      "id": 4,
+      "question": "Manakah yang bukan tipe JOIN dalam SQL?",
+      "options": ["INNER JOIN", "OUTER JOIN", "CROSS JOIN", "SIDE JOIN"],
+      "answer": 3,
+      "explanation": "SIDE JOIN tidak ada dalam SQL. Tipe JOIN yang valid: INNER, LEFT/RIGHT/FULL OUTER, dan CROSS JOIN."
+    },
+    {
+      "id": 5,
+      "question": "Normalisasi 3NF mensyaratkan tabel berada di 2NF dan tidak ada?",
+      "options": ["Partial dependency", "Transitive dependency", "Multivalued dependency", "Functional dependency"],
+      "answer": 1,
+      "explanation": "3NF menghilangkan transitive dependency (ketergantungan kolom non-key terhadap kolom non-key lainnya). 2NF menghilangkan partial dependency."
+    }
+  ]
+}
