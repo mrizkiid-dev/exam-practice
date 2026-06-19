@@ -199,3 +199,5 @@ src/
 │   └── useExamState.js   ← state global
 └── App.vue
 ```
+
+<!-- redeploy1 -->
