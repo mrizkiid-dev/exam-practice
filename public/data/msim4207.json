@@ -1,0 +1,1211 @@
+{
+  "exam": {
+    "source": "https://soalut.com/soal-ut-msim4207-sistem-informasi-manajemen/",
+    "name": "Ujian Akhir Semester",
+    "matkul": "MSIM4207 Sistem Informasi Manajemen",
+    "semester": "4",
+    "prodi": "Teknik Informatika"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "Seorang manajer menerima laporan laba rugi bulanan dan menggunakannya untuk memutuskan strategi pemasaran berikutnya. Laporan laba rugi tersebut dalam konteks sistem informasi merupakan…",
+      "options": [
+        "Informasi",
+        "Data",
+        "Pengetahuan",
+        "Sistem"
+      ],
+      "answer": 0,
+      "explanation": "Laporan laba rugi adalah data yang telah diolah menjadi bentuk bermakna dan berguna bagi pengambilan keputusan, sehingga dikategorikan sebagai informasi. Data masih berupa fakta mentah, sedangkan pengetahuan adalah informasi yang telah dianalisis dan dipahami secara lebih mendalam."
+    },
+    {
+      "id": 2,
+      "question": "Fakta mentah yang belum diolah dan belum memiliki makna kontekstual bagi penggunanya disebut…",
+      "options": [
+        "Informasi",
+        "Pengetahuan",
+        "Data",
+        "Sistem"
+      ],
+      "answer": 2,
+      "explanation": "Data didefinisikan sebagai fakta mentah yang belum diolah dan belum memiliki makna kontekstual. Informasi adalah data yang sudah diolah menjadi bermakna, dan pengetahuan adalah informasi yang telah dianalisis dan dapat digunakan untuk tindakan."
+    },
+    {
+      "id": 3,
+      "question": "Seorang analis keuangan tidak hanya menerima data penjualan, tetapi juga memahami pola musiman dan dapat merekomendasikan strategi inventaris. Kemampuan analis tersebut mencerminkan…",
+      "options": [
+        "Data",
+        "Pengetahuan",
+        "Informasi",
+        "Sistem Informasi"
+      ],
+      "answer": 1,
+      "explanation": "Kemampuan memahami pola dan merekomendasikan strategi dari informasi yang ada menunjukkan pengetahuan, yaitu informasi yang telah dianalisis dan dipahami sehingga dapat digunakan untuk tindakan dan pemecahan masalah."
+    },
+    {
+      "id": 4,
+      "question": "Dalam sistem informasi, sekumpulan komponen yang saling terkait untuk mengumpulkan, memproses, menyimpan, dan mendistribusikan informasi bertujuan untuk mendukung…",
+      "options": [
+        "Produksi dan distribusi",
+        "Pemasaran dan penjualan",
+        "Pengambilan keputusan dan pengendalian",
+        "Pengembangan produk dan inovasi"
+      ],
+      "answer": 2,
+      "explanation": "Definisi sistem informasi menekankan bahwa komponen yang saling terkait bertujuan mendukung pengambilan keputusan dan pengendalian dalam organisasi. Pemasaran, produksi, dan inovasi adalah fungsi bisnis spesifik yang didukung oleh sistem informasi, bukan tujuan utamanya."
+    },
+    {
+      "id": 5,
+      "question": "PT Maju Jaya memiliki aplikasi yang terintegrasi mendukung berbagai fungsi bisnis seperti keuangan, SDM, dan produksi dalam satu platform data terpadu. Aplikasi ini disebut…",
+      "options": [
+        "Proses bisnis",
+        "Kolaborasi elektronik",
+        "Transformasi digital",
+        "Sistem perusahaan"
+      ],
+      "answer": 3,
+      "explanation": "Sistem perusahaan adalah aplikasi terintegrasi yang mendukung berbagai fungsi bisnis dan proses di seluruh organisasi dalam satu platform data terpadu. Karakteristik ini tepat menggambarkan aplikasi yang digunakan PT Maju Jaya."
+    },
+    {
+      "id": 6,
+      "question": "Perbedaan mendasar antara data dan informasi terletak pada…",
+      "options": [
+        "Sumber perolehannya",
+        "Volume dan kecepatannya",
+        "Media penyimpanannya",
+        "Tingkat pemrosesan dan kebermaknaan"
+      ],
+      "answer": 3,
+      "explanation": "Data adalah fakta mentah yang belum bermakna, sedangkan informasi adalah data yang telah diproses menjadi bentuk bermakna dan berguna. Perbedaan mendasar ada pada tingkat pemrosesan dan kebermaknaan, bukan pada sumber, media, atau volumenya."
+    },
+    {
+      "id": 7,
+      "question": "Transformasi digital berbeda dari sekadar otomasi proses karena transformasi digital mencakup…",
+      "options": [
+        "Penggunaan perangkat lunak untuk tugas rutin",
+        "Pemasangan komputer di setiap meja kerja",
+        "Perubahan fundamental dalam proses bisnis, budaya, dan pengalaman pelanggan",
+        "Outsourcing departemen TI"
+      ],
+      "answer": 2,
+      "explanation": "Transformasi digital melibatkan perubahan fundamental dalam proses bisnis, budaya, dan pengalaman pelanggan yang didorong oleh TI, bukan sekadar mengotomasi tugas rutin. Otomasi proses hanya mengganti tugas manual dengan sistem tanpa mengubah fundamental bisnis."
+    },
+    {
+      "id": 8,
+      "question": "Ketika sebuah perusahaan ritel mendesain ulang seluruh proses bisnisnya dari pemesanan hingga pengiriman dengan memanfaatkan teknologi digital secara menyeluruh, perusahaan tersebut sedang melakukan…",
+      "options": [
+        "Otomasi proses",
+        "Sistem informasi",
+        "Manajemen pengetahuan",
+        "Transformasi digital"
+      ],
+      "answer": 3,
+      "explanation": "Mendesain ulang seluruh proses bisnis dengan memanfaatkan teknologi digital secara menyeluruh adalah ciri transformasi digital, yaitu perubahan fundamental yang didorong oleh pemanfaatan TI secara menyeluruh, bukan sekadar otomasi atau penerapan sistem informasi biasa."
+    },
+    {
+      "id": 9,
+      "question": "Serangkaian aktivitas terstruktur yang saling terkait untuk mencapai tujuan bisnis tertentu dalam organisasi disebut…",
+      "options": [
+        "Sistem perusahaan",
+        "Proses bisnis",
+        "Rantai nilai",
+        "Strategi generik"
+      ],
+      "answer": 1,
+      "explanation": "Proses bisnis didefinisikan sebagai serangkaian aktivitas terstruktur yang saling terkait untuk mencapai tujuan bisnis tertentu. Rantai nilai adalah konsep berbeda yang mengelompokkan aktivitas penciptaan nilai, sedangkan strategi generik terkait keunggulan kompetitif."
+    },
+    {
+      "id": 10,
+      "question": "PT Inovasi Utama menerapkan sistem yang mendukung fungsi keuangan, SDM, dan produksi dalam satu database terpusat. Penerapan ini paling tepat menggambarkan…",
+      "options": [
+        "Sistem perusahaan",
+        "Proses bisnis",
+        "Kolaborasi elektronik",
+        "Manajemen pengetahuan"
+      ],
+      "answer": 0,
+      "explanation": "Sistem perusahaan adalah aplikasi terintegrasi yang mendukung berbagai fungsi bisnis dalam satu platform data terpadu, tepat seperti yang diterapkan PT Inovasi Utama. Proses bisnis hanya merujuk pada rangkaian aktivitas, bukan aplikasi integratif lintas fungsi."
+    },
+    {
+      "id": 11,
+      "question": "Seorang manajer TI berpendapat bahwa keberhasilan sistem informasi hanya bergantung pada perangkat keras dan lunak terbaru. Pandangan ini keliru karena mengabaikan…",
+      "options": [
+        "Komponen teknis",
+        "Komponen sosial",
+        "Infrastruktur TI",
+        "Keamanan sistem"
+      ],
+      "answer": 1,
+      "explanation": "Pendekatan sosio-teknikal menekankan bahwa kinerja optimal sistem informasi memerlukan penyelarasan komponen teknis dan sosial. Pandangan yang hanya memperhatikan perangkat keras dan lunak mengabaikan komponen sosial seperti manusia, budaya, dan proses kerja."
+    },
+    {
+      "id": 12,
+      "question": "Komponen teknis dalam pendekatan sosio-teknikal meliputi…",
+      "options": [
+        "Perangkat keras, perangkat lunak, dan infrastruktur",
+        "Proses kerja, kebijakan, dan pelatihan",
+        "Manusia, struktur organisasi, dan budaya",
+        "Motivasi, kepuasan kerja, dan komunikasi"
+      ],
+      "answer": 0,
+      "explanation": "Komponen teknis mencakup perangkat keras, perangkat lunak, dan infrastruktur teknologi. Manusia, struktur organisasi, budaya, dan proses kerja termasuk dalam komponen sosial dalam pendekatan sosio-teknikal."
+    },
+    {
+      "id": 13,
+      "question": "Pendekatan sosio-teknikal menekankan bahwa kinerja sistem informasi yang optimal hanya dapat dicapai melalui…",
+      "options": [
+        "Penyelarasan komponen teknis dan sosial",
+        "Perekrutan staf TI yang kompeten",
+        "Investasi pada teknologi terbaru",
+        "Penerapan metodologi pengembangan terkini"
+      ],
+      "answer": 0,
+      "explanation": "Pendekatan sosio-teknikal berperspektif bahwa kinerja optimal dicapai melalui penggabungan dan penyelarasan antara komponen teknis dan sosial dalam organisasi, bukan hanya mengandalkan salah satu aspek saja."
+    },
+    {
+      "id": 14,
+      "question": "Seorang CEO ingin meningkatkan kinerja sistem informasi perusahaan. Ia hanya berfokus pada pembaruan perangkat keras dan pelatihan teknis staf. Berdasarkan pendekatan sosio-teknikal, aspek yang seharusnya juga diperhatikan adalah…",
+      "options": [
+        "Keamanan jaringan",
+        "Kapasitas penyimpanan data",
+        "Struktur organisasi dan budaya kerja",
+        "Kecepatan prosesor"
+      ],
+      "answer": 2,
+      "explanation": "Pendekatan sosio-teknikal menuntut penyelarasan komponen teknis dan sosial. Ketika aspek teknis sudah diperhatikan, struktur organisasi dan budaya kerja sebagai bagian dari komponen sosial juga harus diselaraskan agar kinerja sistem optimal."
+    },
+    {
+      "id": 15,
+      "question": "Budaya organisasi dan proses kerja termasuk dalam komponen…",
+      "options": [
+        "Teknis",
+        "Sosial",
+        "Infrastruktur",
+        "Finansial"
+      ],
+      "answer": 1,
+      "explanation": "Dalam pendekatan sosio-teknikal, komponen sosial mencakup manusia, struktur organisasi, budaya, dan proses kerja yang berinteraksi dengan sistem informasi. Komponen teknis meliputi perangkat keras, perangkat lunak, dan infrastruktur."
+    },
+    {
+      "id": 16,
+      "question": "Ketika sebuah perusahaan mengimplementasikan sistem baru dan mengabaikan resistensi karyawan serta tidak menyesuaikan prosedur kerja, perusahaan tersebut melanggar prinsip…",
+      "options": [
+        "Pendekatan sosio-teknikal",
+        "Manajemen proyek",
+        "Keamanan informasi",
+        "Manajemen risiko"
+      ],
+      "answer": 0,
+      "explanation": "Pendekatan sosio-teknikal mensyaratkan penyelarasan komponen sosial (termasuk resistensi karyawan dan prosedur kerja) dengan komponen teknis. Mengabaikan aspek sosial melanggar prinsip dasar pendekatan ini."
+    },
+    {
+      "id": 17,
+      "question": "Infrastruktur teknologi, perangkat keras, dan aplikasi merupakan wujud dari komponen…",
+      "options": [
+        "Sosial",
+        "Manajerial",
+        "Finansial",
+        "Teknis"
+      ],
+      "answer": 3,
+      "explanation": "Komponen teknis dalam pendekatan sosio-teknikal meliputi perangkat keras, perangkat lunak, dan infrastruktur teknologi yang digunakan dalam sistem informasi. Infrastruktur dan aplikasi termasuk dalam kategori ini."
+    },
+    {
+      "id": 18,
+      "question": "Pendekatan sosio-teknikal memandang bahwa sistem informasi memiliki dua komponen utama yang saling memengaruhi. Komponen tersebut adalah…",
+      "options": [
+        "Perangkat keras dan perangkat lunak",
+        "Data dan prosedur",
+        "Teknologi dan sosial",
+        "Manajemen dan operasional"
+      ],
+      "answer": 2,
+      "explanation": "Pendekatan sosio-teknikal menekankan bahwa kinerja sistem informasi yang optimal hanya dapat dicapai melalui optimalisasi bersama antara komponen teknis (teknologi) dan komponen sosial (manusia, struktur, dan proses organisasi). Kedua komponen ini harus dirancang agar saling menyesuaikan."
+    },
+    {
+      "id": 19,
+      "question": "PT Global Connect menggunakan platform internal untuk memungkinkan karyawan berbagi informasi, berdiskusi, dan berkolaborasi secara informal tanpa batasan hierarki. Platform ini paling tepat disebut…",
+      "options": [
+        "Jaringan sosial perusahaan",
+        "Sistem manajemen pengetahuan",
+        "Sistem manajemen basis data",
+        "Sistem pendukung keputusan"
+      ],
+      "answer": 0,
+      "explanation": "Jaringan sosial perusahaan adalah platform internal organisasi yang memfasilitasi koneksi, berbagi informasi, dan kolaborasi informal antar karyawan."
+    },
+    {
+      "id": 20,
+      "question": "Penggunaan teknologi informasi untuk memfasilitasi kerja sama antar individu atau kelompok tanpa batasan lokasi dan waktu disebut…",
+      "options": [
+        "Komunikasi elektronik",
+        "Manajemen pengetahuan",
+        "Kolaborasi elektronik",
+        "Bisnis elektronik"
+      ],
+      "answer": 2,
+      "explanation": "Kolaborasi elektronik secara spesifik merujuk pada penggunaan TI untuk kerja sama tanpa batasan lokasi dan waktu, berbeda dari komunikasi elektronik yang lebih menekankan pertukaran pesan."
+    },
+    {
+      "id": 21,
+      "question": "Perbedaan utama antara kolaborasi elektronik dan komunikasi elektronik terletak pada…",
+      "options": [
+        "Jenis perangkat yang digunakan",
+        "Tujuan kerja sama interaktif versus pertukaran pesan",
+        "Tingkat keamanan data yang diterapkan",
+        "Biaya implementasi teknologi yang dikeluarkan"
+      ],
+      "answer": 1,
+      "explanation": "Kolaborasi elektronik berorientasi pada kerja sama interaktif untuk mencapai tujuan bersama, sementara komunikasi elektronik lebih fokus pada pertukaran informasi atau pesan."
+    },
+    {
+      "id": 22,
+      "question": "Sebuah perusahaan multinasional menggunakan sistem yang mengumpulkan, menyimpan, dan menyebarkan praktik terbaik serta pelajaran dari proyek sebelumnya agar dapat diakses seluruh cabang. Sistem ini merupakan…",
+      "options": [
+        "Jaringan sosial perusahaan",
+        "Sistem informasi manajemen",
+        "Sistem pendukung keputusan",
+        "Sistem manajemen pengetahuan"
+      ],
+      "answer": 3,
+      "explanation": "Sistem manajemen pengetahuan berfungsi mengumpulkan, menyimpan, dan menyebarkan pengetahuan organisasi untuk mendukung pembelajaran dan inovasi di seluruh bagian organisasi."
+    },
+    {
+      "id": 23,
+      "question": "Ketika tim pemasaran di Jakarta dan tim produksi di Surabaya menggunakan platform bersama untuk menyunting dokumen proposal secara bersamaan secara real-time, aktivitas ini merupakan contoh…",
+      "options": [
+        "Kolaborasi elektronik",
+        "Manajemen rantai pasok",
+        "Komunikasi elektronik",
+        "Business intelligence"
+      ],
+      "answer": 0,
+      "explanation": "Menyunting dokumen bersama secara real-time lintas lokasi mencerminkan kolaborasi elektronik karena melibatkan kerja sama interaktif untuk menghasilkan keluaran bersama."
+    },
+    {
+      "id": 24,
+      "question": "Sistem yang secara khusus mengumpulkan, menyimpan, dan menyebarkan pengetahuan organisasi untuk mendukung pembelajaran dan inovasi disebut…",
+      "options": [
+        "Sistem manajemen pengetahuan",
+        "Sistem pemrosesan transaksi",
+        "Sistem informasi eksekutif",
+        "Sistem pendukung keputusan"
+      ],
+      "answer": 0,
+      "explanation": "Sistem manajemen pengetahuan dirancang khusus untuk menangkap dan menyebarkan pengetahuan organisasi guna mendorong pembelajaran dan inovasi berkelanjutan."
+    },
+    {
+      "id": 25,
+      "question": "PT Nusantara Retail ingin meraih keunggulan kompetitif dengan menawarkan produk berkualitas premium yang berbeda dari pesaing. Berdasarkan kerangka strategi generik Michael Porter, strategi yang diterapkan adalah…",
+      "options": [
+        "Strategi keunggulan biaya",
+        "Strategi diferensiasi",
+        "Strategi fokus",
+        "Strategi integrasi"
+      ],
+      "answer": 1,
+      "explanation": "Strategi diferensiasi bertujuan menciptakan keunggulan kompetitif melalui penawaran produk atau layanan yang unik dan berbeda dari pesaing, seperti kualitas premium."
+    },
+    {
+      "id": 26,
+      "question": "Model lima kekuatan Porter digunakan untuk menganalisis…",
+      "options": [
+        "Daya saing industri dan intensitas persaingan",
+        "Kinerja keuangan internal perusahaan",
+        "Siklus hidup pengembangan sistem informasi",
+        "Kesenjangan digital antar kelompok masyarakat"
+      ],
+      "answer": 0,
+      "explanation": "Model Porter mengidentifikasi lima kekuatan yang membentuk daya saing industri dan memandu perumusan strategi bisnis dalam menghadapi persaingan."
+    },
+    {
+      "id": 27,
+      "question": "Rantai nilai Michael Porter membedakan aktivitas perusahaan menjadi dua kategori utama yaitu…",
+      "options": [
+        "Aktivitas inti dan aktivitas tambahan",
+        "Aktivitas produksi dan aktivitas pemasaran",
+        "Aktivitas utama dan aktivitas pendukung",
+        "Aktivitas teknis dan aktivitas sosial"
+      ],
+      "answer": 2,
+      "explanation": "Rantai nilai Porter mengelompokkan aktivitas perusahaan menjadi aktivitas utama yang langsung menciptakan nilai dan aktivitas pendukung yang menunjang aktivitas utama."
+    },
+    {
+      "id": 28,
+      "question": "Keunggulan kompetitif yang diperoleh melalui penawaran nilai lebih besar kepada pelanggan atau efisiensi biaya yang lebih baik dari pesaing disebut…",
+      "options": [
+        "Strategi diferensiasi",
+        "Strategi keunggulan biaya",
+        "Strategi fokus",
+        "Keunggulan kompetitif"
+      ],
+      "answer": 3,
+      "explanation": "Keunggulan kompetitif adalah konsep yang lebih luas, yaitu posisi unggul atas pesaing yang dapat dicapai melalui strategi diferensiasi, keunggulan biaya, atau fokus."
+    },
+    {
+      "id": 29,
+      "question": "PT Logistik Cepat memutuskan untuk melayani segmen pasar tertentu secara eksklusif dengan layanan yang sangat disesuaikan, alih-alih bersaing di pasar luas. Strategi ini menurut Porter termasuk…",
+      "options": [
+        "Strategi keunggulan biaya",
+        "Strategi fokus",
+        "Strategi diferensiasi",
+        "Strategi rantai nilai"
+      ],
+      "answer": 1,
+      "explanation": "Strategi fokus menargetkan segmen pasar spesifik dan melayani segmen tersebut secara lebih efektif daripada pesaing yang menyasar pasar luas."
+    },
+    {
+      "id": 30,
+      "question": "Rangkaian aktivitas yang dilakukan perusahaan untuk menciptakan nilai bagi pelanggan, dari bahan baku hingga layanan purnajual, dalam kerangka Porter disebut…",
+      "options": [
+        "Model lima kekuatan",
+        "Strategi generik",
+        "Keunggulan kompetitif",
+        "Rantai nilai"
+      ],
+      "answer": 3,
+      "explanation": "Rantai nilai menggambarkan rangkaian aktivitas yang menciptakan nilai bagi pelanggan, terdiri dari aktivitas utama dan aktivitas pendukung yang saling terkait."
+    },
+    {
+      "id": 31,
+      "question": "Hak individu untuk mengendalikan pengumpulan, penggunaan, dan penyebaran informasi pribadi mereka disebut…",
+      "options": [
+        "Kekayaan intelektual",
+        "Keamanan data",
+        "Privasi",
+        "Akuntabilitas"
+      ],
+      "answer": 2,
+      "explanation": "Privasi merupakan hak individu untuk mengontrol informasi pribadi mereka, berbeda dari keamanan data yang berfokus pada perlindungan teknis data dari akses tidak sah."
+    },
+    {
+      "id": 32,
+      "question": "Seorang peneliti mengembangkan algoritma baru dan mendaftarkannya untuk mendapatkan hak paten. Tindakan ini berkaitan dengan perlindungan…",
+      "options": [
+        "Privasi",
+        "Kekayaan intelektual",
+        "Akuntabilitas",
+        "Etika informasi"
+      ],
+      "answer": 1,
+      "explanation": "Hak paten merupakan bentuk perlindungan kekayaan intelektual yang melindungi hasil kreasi pikiran berupa invensi atau inovasi teknologi."
+    },
+    {
+      "id": 33,
+      "question": "Cabang etika yang mengkaji isu moral yang timbul dari pengembangan dan penggunaan sistem informasi serta teknologi informasi disebut…",
+      "options": [
+        "Etika profesional",
+        "Etika bisnis",
+        "Etika informasi",
+        "Etika sosial"
+      ],
+      "answer": 2,
+      "explanation": "Etika informasi secara spesifik mengkaji isu-isu moral yang muncul dalam konteks pengembangan dan penggunaan sistem informasi dan teknologi informasi."
+    },
+    {
+      "id": 34,
+      "question": "Prinsip tanggung jawab, akuntabilitas, dan kewajiban untuk menghindari kerugian terhadap pihak lain termasuk dalam…",
+      "options": [
+        "Prinsip etika dalam sistem informasi",
+        "Kekayaan intelektual",
+        "Kebijakan keamanan sistem",
+        "Privasi data"
+      ],
+      "answer": 0,
+      "explanation": "Prinsip etika dalam sistem informasi mencakup tanggung jawab, akuntabilitas, dan kewajiban menghindari kerugian sebagai pedoman moral dalam pengembangan dan penggunaan sistem informasi."
+    },
+    {
+      "id": 35,
+      "question": "Seorang peretas menelepon staf TI dan berpura-pura sebagai teknisi jaringan untuk meminta kata sandi server perusahaan. Teknik serangan ini paling tepat dikategorikan sebagai…",
+      "options": [
+        "Malware",
+        "Rekayasa sosial",
+        "Kerentanan sistem",
+        "Serangan Denial of Service"
+      ],
+      "answer": 1,
+      "explanation": "Rekayasa sosial adalah manipulasi psikologis terhadap individu untuk mengungkapkan informasi rahasia, seperti berpura-pura menjadi pihak berwenang."
+    },
+    {
+      "id": 36,
+      "question": "Di suatu daerah pedesaan, seorang siswa tidak dapat mengikuti ujian daring karena tidak tersedia jaringan internet yang stabil, sementara siswa di kota dapat mengakses materi pembelajaran interaktif dengan mudah. Situasi ini paling tepat menggambarkan…",
+      "options": [
+        "Kecanduan teknologi",
+        "Ketidakseimbangan kerja-hidup",
+        "Kekayaan intelektual",
+        "Kesenjangan digital"
+      ],
+      "answer": 3,
+      "explanation": "Kesenjangan digital merujuk pada perbedaan akses dan kemampuan memanfaatkan teknologi informasi antara kelompok masyarakat yang berbeda, seperti dalam kasus akses internet di desa dan kota."
+    },
+    {
+      "id": 37,
+      "question": "Seorang karyawan merasa tidak bisa lepas dari ponsel kantornya dan terus-menerus memeriksa email pekerjaan hingga tengah malam, yang akhirnya mengganggu waktu tidur dan hubungan keluarganya. Dampak negatif teknologi yang dialami karyawan ini adalah…",
+      "options": [
+        "Privasi data",
+        "Pelanggaran etika",
+        "Kesenjangan digital",
+        "Kecanduan teknologi"
+      ],
+      "answer": 3,
+      "explanation": "Kecanduan teknologi adalah ketergantungan berlebihan pada perangkat digital yang mengganggu fungsi sosial dan kesehatan mental, seperti tidak mampu melepaskan diri dari perangkat pekerjaan di luar jam kerja."
+    },
+    {
+      "id": 38,
+      "question": "Seorang individu secara sadar membatasi notifikasi aplikasi kantor di ponselnya setelah pukul 18.00 dan tidak membuka email pekerjaan pada akhir pekan untuk melindungi waktu bersama keluarga. Tindakan ini merupakan upaya menjaga…",
+      "options": [
+        "Keamanan informasi",
+        "Etika informasi",
+        "Keseimbangan kerja-hidup",
+        "Kekayaan intelektual"
+      ],
+      "answer": 2,
+      "explanation": "Keseimbangan kerja-hidup dalam konteks TI adalah kemampuan individu menjaga batas antara pekerjaan yang dimungkinkan oleh teknologi dengan kehidupan pribadi, termasuk membatasi akses digital di luar jam kerja."
+    },
+    {
+      "id": 39,
+      "question": "Perbedaan akses dan kemampuan memanfaatkan teknologi informasi antara kelompok masyarakat perkotaan dan perdesaan disebut…",
+      "options": [
+        "Privasi digital",
+        "Kecanduan teknologi",
+        "Kesenjangan digital",
+        "Ketidaksetaraan ekonomi"
+      ],
+      "answer": 2,
+      "explanation": "Kesenjangan digital mengacu pada perbedaan akses dan kemampuan memanfaatkan teknologi informasi antara kelompok masyarakat yang berbeda, termasuk disparitas geografis antara kota dan desa."
+    },
+    {
+      "id": 40,
+      "question": "Seorang karyawan yang selalu terhubung ke internet dan media sosial mulai menunjukkan gejala kecemasan ketika tidak dapat mengakses perangkat digitalnya selama beberapa jam. Gejala ini merupakan indikasi dari…",
+      "options": [
+        "Kesenjangan digital",
+        "Pelanggaran privasi",
+        "Masalah etika digital",
+        "Kecanduan teknologi"
+      ],
+      "answer": 3,
+      "explanation": "Kecanduan teknologi ditandai oleh ketergantungan berlebihan yang menimbulkan kecemasan atau gejala negatif ketika akses terhadap perangkat digital terputus."
+    },
+    {
+      "id": 41,
+      "question": "Sebuah perusahaan memindahkan seluruh server dan aplikasinya ke penyedia layanan eksternal melalui internet, sehingga perusahaan hanya perlu membayar sesuai pemakaian sumber daya komputasi. Model layanan ini disebut…",
+      "options": [
+        "Pusat data tradisional",
+        "Komputasi awan",
+        "Virtualisasi",
+        "Internet of Things"
+      ],
+      "answer": 1,
+      "explanation": "Komputasi awan adalah model penyediaan sumber daya komputasi sesuai permintaan melalui internet dengan skala fleksibel dan pembayaran berbasis penggunaan, bukan memiliki infrastruktur fisik sendiri."
+    },
+    {
+      "id": 42,
+      "question": "PT Inovasi Digital menjalankan tiga sistem operasi berbeda secara bersamaan pada satu server fisik untuk mengoptimalkan penggunaan perangkat keras. Teknologi yang memungkinkan hal ini adalah…",
+      "options": [
+        "Komputasi awan",
+        "Internet of Things",
+        "Protokol TCP/IP",
+        "Virtualisasi"
+      ],
+      "answer": 3,
+      "explanation": "Virtualisasi memungkinkan beberapa mesin virtual dengan sistem operasi berbeda berjalan pada satu perangkat keras fisik, sehingga mengoptimalkan pemanfaatan sumber daya."
+    },
+    {
+      "id": 43,
+      "question": "Sensor pada mesin pabrik secara otomatis mengirimkan data suhu dan getaran ke sistem pemantauan pusat melalui jaringan internet untuk mendeteksi potensi kerusakan sebelum terjadi. Penerapan ini merupakan contoh dari…",
+      "options": [
+        "Virtualisasi",
+        "Komputasi awan",
+        "Internet of Things",
+        "Sistem manajemen basis data"
+      ],
+      "answer": 2,
+      "explanation": "Internet of Things adalah jaringan objek fisik yang dilengkapi sensor dan terhubung ke internet untuk mengumpulkan serta bertukar data secara otomatis, seperti sensor mesin yang mengirim data pemantauan."
+    },
+    {
+      "id": 44,
+      "question": "Dalam konteks infrastruktur TI, fondasi teknologi fisik dan perangkat lunak yang mendukung operasi serta pengelolaan sistem informasi perusahaan secara keseluruhan disebut…",
+      "options": [
+        "Sistem pendukung keputusan",
+        "Infrastruktur TI",
+        "Sistem manajemen pengetahuan",
+        "Enterprise Resource Planning"
+      ],
+      "answer": 1,
+      "explanation": "Infrastruktur TI mencakup seluruh fondasi teknologi fisik dan perangkat lunak yang mendukung operasi dan pengelolaan sistem informasi perusahaan."
+    },
+    {
+      "id": 45,
+      "question": "Sebuah perusahaan menggunakan model layanan TI di mana mereka tidak memiliki server fisik sendiri, melainkan menyewa kapasitas komputasi dari penyedia pihak ketiga dan mengaksesnya melalui internet sesuai kebutuhan. Perbedaan utama model ini dibandingkan pusat data tradisional terletak pada…",
+      "options": [
+        "Kepemilikan dan skala sumber daya",
+        "Penggunaan protokol jaringan",
+        "Sistem operasi yang digunakan",
+        "Kebutuhan bandwidth internet"
+      ],
+      "answer": 0,
+      "explanation": "Komputasi awan berbeda dari pusat data tradisional dalam hal kepemilikan aset fisik dan fleksibilitas skala sumber daya, di mana pengguna tidak memiliki infrastruktur dan hanya membayar sesuai pemakaian."
+    },
+    {
+      "id": 46,
+      "question": "Protokol yang menjadi standar komunikasi dalam mengatur bagaimana data dipecah menjadi paket, dikirim melalui jaringan, dan disusun kembali di tujuan pada jaringan internet adalah…",
+      "options": [
+        "TCP/IP",
+        "FTP",
+        "DNS",
+        "HTTP"
+      ],
+      "answer": 0,
+      "explanation": "Protokol TCP/IP adalah standar komunikasi fundamental yang mengatur pemecahan, pengiriman, dan penyusunan kembali data dalam bentuk paket di jaringan internet."
+    },
+    {
+      "id": 47,
+      "question": "Kapasitas maksimum transmisi data dalam suatu jalur komunikasi yang diukur dalam bit per detik menentukan seberapa banyak informasi dapat dikirim dalam waktu tertentu. Istilah untuk kapasitas ini adalah…",
+      "options": [
+        "Throughput",
+        "Latensi",
+        "Bandwidth",
+        "Frekuensi"
+      ],
+      "answer": 2,
+      "explanation": "Bandwidth mengacu pada kapasitas maksimum transmisi data dalam jalur komunikasi, diukur dalam bit per detik, yang menentukan volume data yang dapat ditransfer dalam satu waktu."
+    },
+    {
+      "id": 48,
+      "question": "Sebuah universitas memiliki jaringan internal yang hanya dapat diakses oleh mahasiswa dan dosen untuk mengakses materi kuliah serta sistem administrasi kampus. Jaringan internal semacam ini berbeda dari internet publik karena…",
+      "options": [
+        "Aksesnya terbatas pada pengguna internal organisasi",
+        "Menggunakan protokol yang berbeda",
+        "Tidak memerlukan perangkat keras jaringan",
+        "Kecepatan transmisinya selalu lebih tinggi"
+      ],
+      "answer": 0,
+      "explanation": "Jaringan internal (intranet) berbeda dari internet karena aksesnya dibatasi hanya untuk pengguna internal organisasi, bukan terbuka untuk publik secara global."
+    },
+    {
+      "id": 49,
+      "question": "Kumpulan perangkat keras, perangkat lunak, dan jalur transmisi yang memungkinkan pertukaran data antara pengirim dan penerima dalam suatu organisasi disebut…",
+      "options": [
+        "Protokol TCP/IP",
+        "Jaringan komunikasi",
+        "Bandwidth",
+        "Komputasi awan"
+      ],
+      "answer": 1,
+      "explanation": "Jaringan komunikasi adalah kumpulan perangkat dan jalur transmisi yang memungkinkan pertukaran data antara pengirim dan penerima dalam suatu sistem komunikasi."
+    },
+    {
+      "id": 50,
+      "question": "Ketika mengunduh file besar, pengguna mendapati bahwa kecepatan aktual transfer data hanya mencapai 8 Mbps, padahal paket langganan internetnya menyatakan kapasitas maksimum 10 Mbps. Perbedaan antara kapasitas maksimum teoritis dan kecepatan aktual ini berkaitan dengan perbedaan konsep…",
+      "options": [
+        "Bandwidth dan throughput",
+        "Internet dan intranet",
+        "Protokol TCP dan IP",
+        "Komputasi awan dan virtualisasi"
+      ],
+      "answer": 0,
+      "explanation": "Bandwidth adalah kapasitas maksimum teoritis transmisi data, sedangkan throughput adalah kecepatan aktual transfer data yang dipengaruhi oleh berbagai faktor jaringan dalam praktiknya."
+    },
+    {
+      "id": 51,
+      "question": "Sebuah rumah sakit menemukan bahwa sistem rekam medis elektroniknya dapat diakses oleh pihak tidak berwenang karena adanya celah pada perangkat lunak yang belum diperbarui. Celah pada perangkat lunak ini dalam konteks keamanan sistem informasi disebut…",
+      "options": [
+        "Kerentanan",
+        "Malware",
+        "Ancaman",
+        "Firewall"
+      ],
+      "answer": 0,
+      "explanation": "Kerentanan adalah kelemahan pada sistem, seperti celah perangkat lunak yang belum diperbarui, yang dapat dimanfaatkan pihak tidak berwenang."
+    },
+    {
+      "id": 52,
+      "question": "Seorang peretas mengirimkan email yang tampak seperti berasal dari bank terpercaya, meminta nasabah untuk memasukkan kredensial mereka di situs web palsu. Teknik ini merupakan contoh dari…",
+      "options": [
+        "serangan denial-of-service",
+        "malware",
+        "rekayasa sosial",
+        "penyadapan paket data"
+      ],
+      "answer": 2,
+      "explanation": "Rekayasa sosial adalah manipulasi psikologis terhadap individu agar mengungkapkan informasi rahasia. Email palsu yang mengelabui korban agar memberikan kata sandi termasuk teknik ini karena memanfaatkan kepercayaan, bukan kelemahan teknis."
+    },
+    {
+      "id": 53,
+      "question": "Perangkat lunak berbahaya yang dirancang untuk menyusup, merusak, atau mengambil alih sistem komputer tanpa izin pengguna disebut…",
+      "options": [
+        "firewall",
+        "malware",
+        "kerentanan",
+        "enkripsi"
+      ],
+      "answer": 1,
+      "explanation": "Malware adalah istilah umum untuk perangkat lunak berbahaya yang mencakup virus, worm, trojan, dan ransomware. Perangkat lunak ini dirancang untuk menyusup dan merusak sistem tanpa sepengetahuan pemilik."
+    },
+    {
+      "id": 54,
+      "question": "PT Logistik Nusantara menemukan bahwa aplikasi gudang mereka menggunakan protokol usang yang memungkinkan penyerang menyadap data pengiriman pelanggan. Celah keamanan pada protokol ini paling tepat dikategorikan sebagai…",
+      "options": [
+        "ancaman",
+        "malware",
+        "rekayasa sosial",
+        "kerentanan"
+      ],
+      "answer": 3,
+      "explanation": "Kerentanan adalah kelemahan dalam sistem yang dapat dimanfaatkan oleh ancaman untuk menimbulkan kerugian. Protokol usang yang dapat disadap termasuk kelemahan sistem, bukan serangan itu sendiri."
+    },
+    {
+      "id": 55,
+      "question": "Perbedaan mendasar antara ancaman dan kerentanan dalam keamanan sistem informasi terletak pada…",
+      "options": [
+        "ancaman bersifat internal sedangkan kerentanan bersifat eksternal",
+        "ancaman adalah potensi bahaya sedangkan kerentanan adalah kelemahan yang dapat dieksploitasi",
+        "ancaman hanya berupa perangkat lunak sedangkan kerentanan hanya berupa perangkat keras",
+        "ancaman selalu disengaja manusia sedangkan kerentanan selalu kesalahan teknis"
+      ],
+      "answer": 1,
+      "explanation": "Ancaman adalah segala bentuk potensi bahaya yang dapat mengeksploitasi kelemahan, sedangkan kerentanan adalah kelemahan itu sendiri yang membuka peluang bagi ancaman untuk menimbulkan kerugian."
+    },
+    {
+      "id": 56,
+      "question": "Sebuah perusahaan menerapkan aturan bahwa setiap karyawan harus memasukkan kata sandi dan kode yang dikirimkan ke ponsel mereka saat mengakses sistem dari luar kantor. Mekanisme keamanan yang diterapkan perusahaan ini disebut…",
+      "options": [
+        "enkripsi",
+        "otentikasi multi-faktor",
+        "firewall",
+        "kebijakan keamanan"
+      ],
+      "answer": 1,
+      "explanation": "Otentikasi multi-faktor mengharuskan dua atau lebih bukti kredensial dari kategori berbeda, dalam hal ini kata sandi dan kode dari ponsel, sehingga akses tidak sah lebih sulit dilakukan meskipun kata sandi diketahui pihak lain."
+    },
+    {
+      "id": 57,
+      "question": "Proses mengubah data menjadi kode rahasia untuk mencegah akses tidak sah selama penyimpanan atau transmisi disebut…",
+      "options": [
+        "hashing",
+        "otentikasi",
+        "enkripsi",
+        "firewall"
+      ],
+      "answer": 2,
+      "explanation": "Enkripsi adalah proses mengubah data menjadi bentuk kode rahasia menggunakan algoritma dan kunci tertentu sehingga hanya pihak yang memiliki kunci dekripsi yang dapat membaca data aslinya."
+    },
+    {
+      "id": 58,
+      "question": "Dokumen formal yang menetapkan aturan, prosedur, dan tanggung jawab terkait perlindungan aset informasi dalam organisasi disebut…",
+      "options": [
+        "kebijakan keamanan",
+        "firewall",
+        "rencana pemulihan bencana",
+        "audit sistem"
+      ],
+      "answer": 0,
+      "explanation": "Kebijakan keamanan adalah dokumen formal yang mendefinisikan aturan dan tanggung jawab terkait perlindungan aset informasi organisasi, menjadi dasar penerapan kontrol keamanan teknis maupun administratif."
+    },
+    {
+      "id": 59,
+      "question": "Enkripsi berbeda dari hashing karena…",
+      "options": [
+        "enkripsi mengubah data menjadi kode yang dapat didekripsi, sedangkan hashing menghasilkan nilai tetap yang tidak dapat dikembalikan",
+        "enkripsi bersifat satu arah sedangkan hashing dapat dikembalikan ke bentuk semula",
+        "enkripsi hanya digunakan untuk teks, sedangkan hashing hanya untuk file",
+        "enkripsi lebih cepat dibandingkan hashing dalam semua kondisi"
+      ],
+      "answer": 0,
+      "explanation": "Enkripsi adalah proses dua arah yang memungkinkan data dikembalikan ke bentuk asli dengan kunci dekripsi, sedangkan hashing menghasilkan nilai hash tetap yang tidak dapat dikembalikan ke data semula."
+    },
+    {
+      "id": 60,
+      "question": "Sistem yang memantau dan mengendalikan lalu lintas jaringan masuk dan keluar berdasarkan aturan keamanan yang telah ditetapkan disebut…",
+      "options": [
+        "enkripsi",
+        "antivirus",
+        "firewall",
+        "sistem deteksi intrusi"
+      ],
+      "answer": 2,
+      "explanation": "Firewall berfungsi sebagai penghalang antara jaringan internal dan eksternal, memeriksa setiap paket data yang melintas dan memblokir lalu lintas yang tidak sesuai dengan aturan keamanan organisasi."
+    },
+    {
+      "id": 61,
+      "question": "PT Retail Sejahtera mengintegrasikan data penjualan dari seluruh cabang ke dalam satu repositori terpusat yang dioptimalkan untuk analisis dan pelaporan, bukan untuk transaksi harian. Repositori ini disebut…",
+      "options": [
+        "data warehouse",
+        "sistem manajemen basis data",
+        "basis data operasional",
+        "sistem file terdistribusi"
+      ],
+      "answer": 0,
+      "explanation": "Data warehouse adalah repositori data terpusat yang dirancang khusus untuk analisis dan pelaporan bisnis dengan mengintegrasikan data dari berbagai sumber, berbeda dari basis data operasional yang digunakan untuk transaksi harian."
+    },
+    {
+      "id": 62,
+      "question": "Jaminan bahwa data akurat, konsisten, dan dapat diandalkan sepanjang siklus hidupnya disebut…",
+      "options": [
+        "independensi data",
+        "keamanan data",
+        "redundansi data",
+        "integritas data"
+      ],
+      "answer": 3,
+      "explanation": "Integritas data memastikan bahwa data tetap akurat dan konsisten sepanjang masa hidupnya, tidak berubah akibat kesalahan, kerusakan, atau akses tidak sah, serta mencerminkan kondisi nyata yang direpresentasikan."
+    },
+    {
+      "id": 63,
+      "question": "Perangkat lunak yang menyediakan fasilitas untuk mendefinisikan, membuat, mengakses, dan mengelola basis data secara terstruktur disebut…",
+      "options": [
+        "sistem operasi",
+        "middleware",
+        "sistem manajemen basis data",
+        "data warehouse"
+      ],
+      "answer": 2,
+      "explanation": "Sistem manajemen basis data adalah perangkat lunak yang menangani semua operasi basis data, termasuk pendefinisian struktur data, penyimpanan, pengambilan, dan pengelolaan akses secara terstruktur."
+    },
+    {
+      "id": 64,
+      "question": "Sebuah universitas menyimpan data mahasiswa, mata kuliah, dan registrasi dalam tabel-tabel terpisah yang saling terhubung melalui kunci seperti NIM dan kode mata kuliah. Pendekatan ini mencerminkan…",
+      "options": [
+        "model hierarkis",
+        "model jaringan",
+        "model berorientasi objek",
+        "model relasional"
+      ],
+      "answer": 3,
+      "explanation": "Model relasional mengorganisasikan data dalam tabel-tabel dua dimensi yang saling terkait melalui kunci hubungan, seperti NIM yang menghubungkan tabel mahasiswa dengan tabel registrasi mata kuliah."
+    },
+    {
+      "id": 65,
+      "question": "Perbedaan utama antara basis data operasional dan data warehouse terletak pada…",
+      "options": [
+        "basis data operasional dioptimalkan untuk transaksi harian sedangkan data warehouse untuk analisis dan pelaporan",
+        "basis data operasional menggunakan model relasional sedangkan data warehouse menggunakan model hierarkis",
+        "basis data operasional bersifat sementara sedangkan data warehouse bersifat permanen",
+        "basis data operasional hanya menyimpan data teks sedangkan data warehouse menyimpan semua jenis data"
+      ],
+      "answer": 0,
+      "explanation": "Basis data operasional dirancang untuk menangani transaksi harian secara cepat dengan data terkini, sedangkan data warehouse mengintegrasikan data historis dari berbagai sumber dan dioptimalkan untuk kueri analitis dan pelaporan."
+    },
+    {
+      "id": 66,
+      "question": "Pengetahuan personal yang sulit diformalkan dan dikomunikasikan karena tertanam dalam pengalaman serta intuisi individu disebut…",
+      "options": [
+        "pengetahuan eksplisit",
+        "pengetahuan prosedural",
+        "pengetahuan deklaratif",
+        "pengetahuan tacit"
+      ],
+      "answer": 3,
+      "explanation": "Pengetahuan tacit adalah pengetahuan yang melekat pada individu melalui pengalaman, sulit diartikulasikan dan diformalkan, seperti keahlian seorang perajin atau intuisi seorang manajer senior."
+    },
+    {
+      "id": 67,
+      "question": "Seorang teknisi senior telah memperbaiki mesin produksi selama 20 tahun dan dapat mendiagnosis kerusakan hanya dengan mendengarkan suaranya, namun ia kesulitan menjelaskan metodenya kepada teknisi junior. Pengetahuan teknisi tersebut termasuk…",
+      "options": [
+        "pengetahuan eksplisit",
+        "pengetahuan tacit",
+        "pengetahuan prosedural",
+        "pengetahuan deklaratif"
+      ],
+      "answer": 1,
+      "explanation": "Pengetahuan tacit bersifat personal dan sulit diformalkan. Kemampuan mendiagnosis berdasarkan pengalaman bertahun-tahun tanpa dapat menjelaskan metodenya secara rinci adalah ciri khas pengetahuan tacit yang tertanam dalam intuisi."
+    },
+    {
+      "id": 68,
+      "question": "Manajemen pengetahuan sebagai proses sistematis bertujuan untuk…",
+      "options": [
+        "menangkap, mendistribusikan, dan menggunakan pengetahuan organisasi secara efektif",
+        "mengganti seluruh pengetahuan tacit dengan pengetahuan eksplisit",
+        "menyimpan seluruh dokumen perusahaan dalam satu database terpusat",
+        "menghilangkan ketergantungan organisasi pada karyawan senior"
+      ],
+      "answer": 0,
+      "explanation": "Manajemen pengetahuan adalah proses sistematis untuk menangkap, mendistribusikan, dan menggunakan pengetahuan organisasi secara efektif, baik yang bersifat tacit maupun eksplisit, guna mendukung pembelajaran dan inovasi berkelanjutan."
+    },
+    {
+      "id": 69,
+      "question": "Seorang manajer penjualan tahu bahwa kenaikan penjualan selalu terjadi setiap menjelang hari raya, meskipun data historis tidak secara eksplisit menyatakan penyebabnya. Ia menggunakan pemahaman ini untuk menyusun strategi stok tanpa bisa menjelaskan secara rinci logika di balik keputusannya. Pengetahuan yang digunakan manajer ini paling tepat dikategorikan sebagai…",
+      "options": [
+        "Pengetahuan tacit yang tertanam dalam pengalaman dan intuisi",
+        "Pengetahuan eksplisit yang telah terdokumentasi dalam laporan",
+        "Informasi yang telah diolah dari data penjualan historis",
+        "Data mentah yang belum memiliki makna kontekstual"
+      ],
+      "answer": 0,
+      "explanation": "Pengetahuan tacit bersifat personal, sulit diformalkan, dan tertanam dalam pengalaman serta intuisi individu. Manajer tersebut menggunakan pengetahuan yang belum terdokumentasi secara eksplisit, melainkan berasal dari pemahaman mendalam yang sulit dijelaskan secara rinci."
+    },
+    {
+      "id": 70,
+      "question": "PT Edukasi Nusantara mendokumentasikan seluruh prosedur operasional standar, panduan teknis, dan laporan evaluasi proyek ke dalam portal yang dapat diakses seluruh karyawan. Dokumentasi semacam ini mencerminkan…",
+      "options": [
+        "Pengetahuan tacit yang dikonversi menjadi intuisi organisasi",
+        "Data operasional yang siap diolah menjadi informasi",
+        "Informasi mentah yang belum memiliki nilai bagi organisasi",
+        "Pengetahuan eksplisit yang telah diformalkan dan mudah dibagikan"
+      ],
+      "answer": 3,
+      "explanation": "Pengetahuan eksplisit adalah pengetahuan yang telah didokumentasikan dalam bentuk tulisan, diagram, atau rumus sehingga mudah dibagikan. Prosedur, panduan, dan laporan yang terdokumentasi merupakan contoh pengetahuan eksplisit."
+    },
+    {
+      "id": 71,
+      "question": "Sebuah perusahaan manufaktur mengimplementasikan sistem yang mengotomatisasi dan menghubungkan proses pembelian bahan baku, produksi, penjualan, dan pelaporan keuangan dalam satu platform data terpusat. Sistem ini paling tepat disebut…",
+      "options": [
+        "Customer Relationship Management",
+        "Supply Chain Management",
+        "Business Intelligence",
+        "Enterprise Resource Planning"
+      ],
+      "answer": 3,
+      "explanation": "Enterprise Resource Planning (ERP) adalah sistem terintegrasi yang mengotomatisasi dan menghubungkan berbagai proses bisnis inti dalam satu platform data terpadu untuk meningkatkan efisiensi operasional."
+    },
+    {
+      "id": 72,
+      "question": "PT Pelangi Retail menggunakan sistem yang mencatat setiap interaksi dengan pelanggan, mulai dari riwayat pembelian, keluhan, hingga preferensi produk, untuk memberikan layanan yang lebih personal dan meningkatkan loyalitas. Sistem yang digunakan PT Pelangi Retail adalah…",
+      "options": [
+        "Enterprise Resource Planning",
+        "Customer Relationship Management",
+        "Supply Chain Management",
+        "Business Intelligence"
+      ],
+      "answer": 1,
+      "explanation": "Customer Relationship Management (CRM) adalah sistem yang mengelola interaksi perusahaan dengan pelanggan untuk meningkatkan kepuasan dan loyalitas. Pencatatan riwayat pembelian, keluhan, dan preferensi pelanggan merupakan fungsi inti CRM."
+    },
+    {
+      "id": 73,
+      "question": "PT Agro Segar mengelola aliran sayuran segar dari petani, proses sortir dan pengemasan oleh mitra, distribusi ke gudang, hingga pengiriman ke supermarket. Sistem yang mengkoordinasikan seluruh aliran barang, informasi, dan keuangan ini disebut…",
+      "options": [
+        "Customer Relationship Management",
+        "Supply Chain Management",
+        "Enterprise Resource Planning",
+        "Knowledge Management System"
+      ],
+      "answer": 1,
+      "explanation": "Supply Chain Management (SCM) adalah sistem yang mengkoordinasikan aliran barang, informasi, dan keuangan dari pemasok hingga pelanggan akhir. Koordinasi dari petani hingga supermarket merupakan lingkup SCM."
+    },
+    {
+      "id": 74,
+      "question": "Perbedaan utama antara Enterprise Resource Planning dan Customer Relationship Management terletak pada…",
+      "options": [
+        "ERP mengelola data pelanggan, sedangkan CRM mengelola data pemasok",
+        "ERP hanya digunakan oleh perusahaan manufaktur, sedangkan CRM hanya digunakan oleh perusahaan jasa",
+        "ERP berfokus pada efisiensi proses internal, sedangkan CRM berfokus pada pengelolaan interaksi dengan pelanggan",
+        "ERP adalah sistem berbasis cloud, sedangkan CRM adalah sistem on-premise"
+      ],
+      "answer": 2,
+      "explanation": "ERP dirancang untuk mengintegrasikan dan mengotomatisasi proses internal organisasi secara lintas fungsi, sedangkan CRM secara khusus berfokus pada pengelolaan hubungan dan interaksi perusahaan dengan pelanggan."
+    },
+    {
+      "id": 75,
+      "question": "Ketika sebuah perusahaan menggunakan sistem yang terintegrasi untuk mengelola hubungan dengan pemasok, memantau status pengiriman bahan baku secara real-time, dan mengoptimalkan jadwal produksi berdasarkan ketersediaan material, perusahaan tersebut pada dasarnya menerapkan…",
+      "options": [
+        "Customer Relationship Management untuk mengelola loyalitas pemasok",
+        "Enterprise Resource Planning yang terbatas pada modul keuangan",
+        "Supply Chain Management yang mengoordinasikan aliran material dan informasi",
+        "Business Intelligence untuk memprediksi permintaan pelanggan"
+      ],
+      "answer": 2,
+      "explanation": "Supply Chain Management mengoordinasikan aliran barang dan informasi dari pemasok hingga produksi. Pemantauan pengiriman bahan baku dan optimalisasi jadwal produksi berdasarkan ketersediaan material merupakan fungsi SCM."
+    },
+    {
+      "id": 76,
+      "question": "Aktivitas pembelian dan penjualan barang atau jasa melalui jaringan elektronik terutama internet disebut…",
+      "options": [
+        "E-commerce",
+        "Pasar digital",
+        "E-business",
+        "Transformasi digital"
+      ],
+      "answer": 0,
+      "explanation": "E-commerce secara spesifik merujuk pada aktivitas pembelian dan penjualan barang atau jasa melalui jaringan elektronik, terutama internet. Ini berbeda dari e-business yang mencakup seluruh proses bisnis digital."
+    },
+    {
+      "id": 77,
+      "question": "PT Nusantara Kreatif tidak hanya menjual produknya melalui situs web, tetapi juga memanfaatkan teknologi digital untuk seluruh proses internal seperti rekrutmen daring, pelatihan virtual, dan kolaborasi dokumen dengan pemasok. Pendekatan yang diterapkan PT Nusantara Kreatif mencerminkan…",
+      "options": [
+        "E-business yang memanfaatkan teknologi digital untuk keseluruhan proses bisnis",
+        "E-commerce yang diperluas ke ranah sosial",
+        "Pasar digital yang khusus mempertemukan pembeli dan penjual",
+        "Transformasi digital yang hanya berfokus pada pengalaman pelanggan"
+      ],
+      "answer": 0,
+      "explanation": "E-business adalah pemanfaatan teknologi digital untuk seluruh proses bisnis internal dan eksternal, termasuk kolaborasi dengan mitra. Penggunaan teknologi digital untuk rekrutmen, pelatihan, dan kolaborasi pemasok termasuk dalam cakupan e-business."
+    },
+    {
+      "id": 78,
+      "question": "Sebuah platform elektronik mempertemukan pengrajin lokal di Kalimantan dengan pembeli dari seluruh Indonesia tanpa melalui toko fisik. Platform ini bagi pengrajin berfungsi sebagai…",
+      "options": [
+        "Sistem manajemen basis data untuk inventaris",
+        "Enterprise Resource Planning untuk usaha kecil",
+        "Pasar digital yang menghilangkan batasan geografis",
+        "Sistem pendukung keputusan untuk strategi pemasaran"
+      ],
+      "answer": 2,
+      "explanation": "Pasar digital adalah platform elektronik yang mempertemukan pembeli dan penjual untuk bertransaksi secara virtual tanpa batasan geografis. Platform yang menghubungkan pengrajin lokal dengan pembeli dari seluruh Indonesia merupakan contoh pasar digital."
+    },
+    {
+      "id": 79,
+      "question": "Perbedaan mendasar antara e-commerce dan e-business terletak pada…",
+      "options": [
+        "E-commerce hanya menggunakan internet, sedangkan e-business menggunakan intranet",
+        "E-commerce memerlukan platform khusus, sedangkan e-business hanya memerlukan email",
+        "E-commerce khusus untuk perusahaan besar, sedangkan e-business untuk usaha kecil",
+        "E-commerce terbatas pada transaksi jual beli, sedangkan e-business mencakup seluruh proses bisnis digital"
+      ],
+      "answer": 3,
+      "explanation": "E-commerce secara spesifik mencakup aktivitas pembelian dan penjualan secara elektronik, sedangkan e-business memiliki cakupan lebih luas, meliputi seluruh proses bisnis yang didukung teknologi digital, termasuk kolaborasi dan proses internal."
+    },
+    {
+      "id": 80,
+      "question": "Seorang pemilik restoran setiap akhir pekan memutuskan jumlah bahan baku yang akan dibeli berdasarkan laporan penjualan mingguan dan pola musiman yang sudah dikenalnya. Keputusan ini dilakukan secara rutin dengan prosedur yang dapat diandalkan. Jenis keputusan yang diambil pemilik restoran tersebut termasuk…",
+      "options": [
+        "Keputusan tidak terstruktur yang memerlukan intuisi tinggi",
+        "Keputusan terstruktur yang berulang dengan prosedur standar",
+        "Keputusan strategis yang mempengaruhi arah jangka panjang bisnis",
+        "Keputusan semi-terstruktur yang menggabungkan data dan penilaian subjektif"
+      ],
+      "answer": 1,
+      "explanation": "Keputusan terstruktur adalah keputusan yang rutin, berulang, dan memiliki prosedur standar yang dapat diprogram. Keputusan pembelian bahan baku mingguan yang mengikuti pola konsisten merupakan contoh keputusan terstruktur."
+    },
+    {
+      "id": 81,
+      "question": "Seorang direktur utama harus memutuskan apakah perusahaan akan memasuki pasar ekspor baru yang belum pernah dijajaki, tanpa data historis dan dengan ketidakpastian tinggi. Keputusan ini paling tepat dikategorikan sebagai…",
+      "options": [
+        "Keputusan terstruktur karena melibatkan analisis data",
+        "Keputusan semi-terstruktur karena ada sebagian data pasar",
+        "Keputusan tidak terstruktur yang memerlukan penilaian subjektif dan kreativitas",
+        "Keputusan operasional yang didelegasikan kepada manajer pemasaran"
+      ],
+      "answer": 2,
+      "explanation": "Keputusan tidak terstruktur adalah keputusan yang tidak memiliki prosedur baku dan memerlukan penilaian subjektif serta kreativitas. Ekspansi ke pasar baru dengan ketidakpastian tinggi merupakan situasi khas keputusan tidak terstruktur."
+    },
+    {
+      "id": 82,
+      "question": "Sistem berbasis komputer yang menyediakan data, model analisis, dan antarmuka interaktif untuk membantu manajer dalam proses pengambilan keputusan disebut…",
+      "options": [
+        "Sistem Pendukung Keputusan",
+        "Data Warehouse",
+        "Business Intelligence",
+        "Enterprise Resource Planning"
+      ],
+      "answer": 0,
+      "explanation": "Sistem Pendukung Keputusan (Decision Support System) adalah sistem berbasis komputer yang membantu pengambilan keputusan dengan menyediakan data, model analisis, dan antarmuka interaktif. Ini adalah definisi inti dari SPK."
+    },
+    {
+      "id": 83,
+      "question": "PT Finansial Andalan menggunakan sistem yang mengintegrasikan data dari berbagai cabang, kemudian menganalisisnya untuk menemukan tren pembayaran kredit macet berdasarkan profil nasabah. Berdasarkan hasil analisis tersebut, manajemen menetapkan kebijakan pengetatan persyaratan kredit. Sistem yang digunakan PT Finansial Andalan paling tepat disebut…",
+      "options": [
+        "Sistem Pendukung Keputusan yang menyediakan model simulasi",
+        "Sistem Manajemen Basis Data untuk menyimpan data nasabah",
+        "Sistem Pakar yang menggantikan penilaian analis kredit",
+        "Business Intelligence yang menghasilkan wawasan dari analisis data"
+      ],
+      "answer": 3,
+      "explanation": "Business Intelligence adalah infrastruktur dan proses untuk mengumpulkan, menyimpan, dan menganalisis data guna menghasilkan wawasan bagi pengambilan keputusan. Integrasi data lintas cabang dan analisis tren untuk kebijakan kredit merupakan fungsi BI."
+    },
+    {
+      "id": 84,
+      "question": "Perbedaan antara Business Intelligence dan Sistem Pendukung Keputusan terletak pada…",
+      "options": [
+        "BI hanya untuk perusahaan besar, sedangkan SPK untuk perusahaan kecil",
+        "BI berfokus pada pengumpulan dan analisis data untuk wawasan, sedangkan SPK berfokus pada penyediaan alat interaktif untuk membantu keputusan spesifik",
+        "BI menggunakan data internal, sedangkan SPK hanya menggunakan data eksternal",
+        "BI bersifat operasional, sedangkan SPK bersifat strategis"
+      ],
+      "answer": 1,
+      "explanation": "Business Intelligence berfokus pada infrastruktur dan proses pengumpulan, penyimpanan, serta analisis data untuk menghasilkan wawasan bisnis. Sistem Pendukung Keputusan secara spesifik menyediakan antarmuka interaktif dengan data dan model analisis untuk membantu pengambilan keputusan tertentu."
+    },
+    {
+      "id": 85,
+      "question": "Seorang manajer operasional setiap hari harus menyetujui pengajuan lembur karyawan. Prosedurnya selalu sama: jika jam kerja melebihi batas normal dan ada persetujuan atasan langsung, lembur disetujui; jika tidak, ditolak. Jenis keputusan yang dilakukan manajer ini termasuk…",
+      "options": [
+        "keputusan terstruktur",
+        "keputusan semi-terstruktur",
+        "keputusan tidak terstruktur",
+        "keputusan strategis"
+      ],
+      "answer": 0,
+      "explanation": "Keputusan terstruktur bersifat rutin, berulang, dan memiliki prosedur standar yang dapat diprogram. Persetujuan lembur dengan kriteria jelas mencerminkan karakteristik tersebut."
+    },
+    {
+      "id": 86,
+      "question": "Infrastruktur teknis dan proses untuk mengumpulkan, menyimpan, serta menganalisis data guna menghasilkan wawasan bagi pengambilan keputusan bisnis disebut…",
+      "options": [
+        "Sistem Pendukung Keputusan",
+        "Manajemen Pengetahuan",
+        "Analitik Data",
+        "Business Intelligence"
+      ],
+      "answer": 3,
+      "explanation": "Business Intelligence mencakup keseluruhan infrastruktur dan proses dari pengumpulan hingga analisis data untuk menghasilkan wawasan bisnis, berbeda dari Sistem Pendukung Keputusan yang lebih spesifik membantu pengambilan keputusan tertentu."
+    },
+    {
+      "id": 87,
+      "question": "PT Logistik Mandiri menggunakan perangkat lunak yang menampilkan indikator seperti jumlah pengiriman harian, tingkat ketepatan waktu, dan biaya operasional dalam satu layar yang diperbarui secara otomatis setiap jam. Perangkat lunak ini berfungsi sebagai…",
+      "options": [
+        "data warehouse",
+        "dashboard",
+        "sistem pendukung keputusan",
+        "sistem manajemen basis data"
+      ],
+      "answer": 1,
+      "explanation": "Dashboard menampilkan indikator kinerja utama dan metrik bisnis secara real-time dalam satu tampilan terpadu, persis seperti yang digunakan PT Logistik Mandiri untuk memantau pengiriman dan biaya."
+    },
+    {
+      "id": 88,
+      "question": "Seorang analis di PT Retail Nusantara memeriksa data transaksi dua tahun terakhir dan menemukan bahwa pelanggan yang membeli produk A pada bulan pertama cenderung membeli produk B pada bulan ketiga. Aktivitas analis ini paling tepat dikategorikan sebagai…",
+      "options": [
+        "sistem pendukung keputusan",
+        "intelegensi bisnis",
+        "analitik data",
+        "manajemen pengetahuan"
+      ],
+      "answer": 2,
+      "explanation": "Analitik data adalah proses pemeriksaan data secara sistematis untuk menemukan pola, korelasi, dan tren. Analis tersebut sedang memeriksa data transaksi untuk menemukan pola pembelian pelanggan."
+    },
+    {
+      "id": 89,
+      "question": "Seorang manajer menggunakan aplikasi yang menyajikan ringkasan kinerja divisinya setiap pagi untuk memantau pencapaian target bulanan. Aktivitas ini paling tepat dikategorikan sebagai komponen…",
+      "options": [
+        "Pemrosesan dalam Business Intelligence",
+        "Pemantauan dalam Sistem Pendukung Keputusan",
+        "Visualisasi dalam Sistem Pendukung Keputusan",
+        "Penggalian dalam Business Intelligence"
+      ],
+      "answer": 0,
+      "explanation": "Business Intelligence berfokus pada penyediaan informasi terstruktur dan ringkasan kinerja untuk pemantauan operasional rutin, sedangkan Sistem Pendukung Keputusan lebih menekankan pada analisis model dan simulasi untuk keputusan semi-terstruktur. Memantau target bulanan melalui ringkasan harian merupakan fungsi pemrosesan informasi dalam Business Intelligence."
+    },
+    {
+      "id": 90,
+      "question": "PT Asuransi Sejahtera menampilkan data klaim, premi, dan rasio kerugian dari seluruh cabang dalam grafik batang dan indikator warna yang mencerminkan kondisi terkini. Tampilan ini memungkinkan direksi melihat kinerja perusahaan secara sekilas. Komponen intelegensi bisnis yang digunakan adalah…",
+      "options": [
+        "dashboard",
+        "sistem manajemen basis data",
+        "data warehouse",
+        "sistem pendukung keputusan"
+      ],
+      "answer": 0,
+      "explanation": "Dashboard merupakan antarmuka visual yang menampilkan indikator kinerja utama secara real-time dalam satu tampilan terpadu, seperti grafik dan indikator warna yang memudahkan direksi memantau kinerja."
+    },
+    {
+      "id": 91,
+      "question": "Pendekatan pengembangan perangkat lunak iteratif yang menekankan kolaborasi, fleksibilitas, dan respons cepat terhadap perubahan kebutuhan pengguna disebut…",
+      "options": [
+        "Siklus Hidup Pengembangan Sistem",
+        "Metodologi Agile",
+        "Metodologi Waterfall",
+        "Analisis Kebutuhan"
+      ],
+      "answer": 1,
+      "explanation": "Metodologi Agile adalah pendekatan iteratif yang mengutamakan kolaborasi tim, adaptasi terhadap perubahan, dan pengiriman perangkat lunak secara bertahap, berbeda dari SDLC tradisional yang lebih sekuensial."
+    },
+    {
+      "id": 92,
+      "question": "Seorang analis sistem mewawancarai staf keuangan dan menemukan bahwa mereka membutuhkan fitur untuk melacak pembayaran cicilan pelanggan secara otomatis, sementara staf penjualan memerlukan notifikasi saat stok menipis. Aktivitas yang dilakukan analis ini termasuk dalam tahap…",
+      "options": [
+        "analisis kebutuhan",
+        "implementasi sistem",
+        "desain sistem",
+        "pemeliharaan sistem"
+      ],
+      "answer": 0,
+      "explanation": "Analisis kebutuhan adalah proses mengidentifikasi dan mendokumentasikan kebutuhan pengguna dan sistem. Mewawancarai staf untuk mengetahui fitur yang diperlukan merupakan inti dari tahap ini."
+    },
+    {
+      "id": 93,
+      "question": "Perbedaan mendasar antara Metodologi Agile dan Metodologi Waterfall terletak pada…",
+      "options": [
+        "Agile tidak memerlukan dokumentasi, sedangkan Waterfall sangat bergantung pada dokumentasi",
+        "Agile bersifat iteratif dan adaptif terhadap perubahan, sedangkan Waterfall bersifat sekuensial dan kaku terhadap perubahan",
+        "Agile hanya cocok untuk proyek kecil, sedangkan Waterfall hanya untuk proyek besar",
+        "Agile tidak memiliki tahap pengujian, sedangkan Waterfall memiliki tahap pengujian terpisah"
+      ],
+      "answer": 1,
+      "explanation": "Metodologi Agile bekerja dalam siklus iteratif pendek dan merespons perubahan kebutuhan dengan cepat, sementara Waterfall mengikuti urutan tahap yang ketat dari perencanaan hingga pemeliharaan tanpa kembali ke tahap sebelumnya."
+    },
+    {
+      "id": 94,
+      "question": "PT Karya Digital sedang mengembangkan aplikasi mobile. Setiap dua minggu, tim menunjukkan versi aplikasi yang berfungsi kepada klien untuk mendapatkan umpan balik, lalu menyesuaikan fitur berdasarkan masukan tersebut. Pendekatan pengembangan yang diterapkan PT Karya Digital adalah…",
+      "options": [
+        "metodologi agile",
+        "metodologi waterfall",
+        "siklus hidup pengembangan sistem tradisional",
+        "analisis kebutuhan berkelanjutan"
+      ],
+      "answer": 0,
+      "explanation": "Pengiriman versi berfungsi secara berkala dan penyesuaian berdasarkan umpan balik klien adalah ciri khas metodologi agile yang iteratif dan adaptif."
+    },
+    {
+      "id": 95,
+      "question": "Tahap dalam siklus hidup pengembangan sistem yang mencakup identifikasi masalah, studi kelayakan, dan penetapan ruang lingkup proyek adalah…",
+      "options": [
+        "analisis",
+        "desain",
+        "perencanaan",
+        "implementasi"
+      ],
+      "answer": 2,
+      "explanation": "Tahap perencanaan dalam SDLC mencakup identifikasi masalah, studi kelayakan, dan penetapan ruang lingkup sebelum pengembangan sistem dimulai."
+    },
+    {
+      "id": 96,
+      "question": "Disiplin merencanakan, mengorganisasi, dan mengelola sumber daya untuk mencapai tujuan pengembangan sistem informasi dalam batasan waktu, biaya, dan kualitas disebut…",
+      "options": [
+        "manajemen risiko",
+        "ruang lingkup proyek",
+        "analisis kebutuhan",
+        "manajemen proyek"
+      ],
+      "answer": 3,
+      "explanation": "Manajemen proyek adalah disiplin yang mengelola sumber daya untuk mencapai tujuan proyek dalam batasan waktu, biaya, dan kualitas yang telah ditetapkan."
+    },
+    {
+      "id": 97,
+      "question": "Seorang manajer proyek TI mendapati bahwa proyek pengembangan sistem terus bertambah fiturnya karena klien selalu meminta tambahan di luar kesepakatan awal. Akibatnya, proyek terlambat dua bulan dan melebihi anggaran. Masalah ini paling tepat berkaitan dengan lemahnya…",
+      "options": [
+        "manajemen risiko",
+        "manajemen proyek",
+        "manajemen ruang lingkup proyek",
+        "analisis kebutuhan"
+      ],
+      "answer": 2,
+      "explanation": "Ruang lingkup proyek mendefinisikan batasan dan deliverables proyek. Penambahan fitur di luar kesepakatan menunjukkan lemahnya pengelolaan ruang lingkup sehingga proyek melampaui batasan yang ditetapkan."
+    },
+    {
+      "id": 98,
+      "question": "Proses identifikasi, analisis, dan penanganan risiko yang berpotensi menghambat keberhasilan proyek pengembangan sistem informasi disebut…",
+      "options": [
+        "manajemen proyek",
+        "manajemen risiko",
+        "analisis kebutuhan",
+        "studi kelayakan"
+      ],
+      "answer": 1,
+      "explanation": "Manajemen risiko secara spesifik mencakup identifikasi, analisis, dan penanganan risiko yang dapat mengancam keberhasilan proyek pengembangan sistem informasi."
+    },
+    {
+      "id": 99,
+      "question": "Batasan dan deliverables yang mendefinisikan apa yang termasuk dan tidak termasuk dalam proyek pengembangan sistem informasi merupakan…",
+      "options": [
+        "tujuan proyek",
+        "studi kelayakan",
+        "manajemen risiko",
+        "ruang lingkup proyek"
+      ],
+      "answer": 3,
+      "explanation": "Ruang lingkup proyek menetapkan batasan dan deliverables proyek, memperjelas apa yang menjadi bagian proyek dan apa yang tidak termasuk di dalamnya."
+    },
+    {
+      "id": 100,
+      "question": "PT Bangun Solusi sedang mengembangkan sistem informasi akuntansi. Manajer proyek mengidentifikasi bahwa pengembang senior mungkin resign di tengah proyek, sehingga ia menyiapkan rencana pelatihan silang dan merekrut kandidat cadangan. Tindakan manajer proyek ini merupakan penerapan…",
+      "options": [
+        "manajemen ruang lingkup proyek",
+        "analisis kebutuhan",
+        "perencanaan sumber daya",
+        "manajemen risiko"
+      ],
+      "answer": 3,
+      "explanation": "Manajemen risiko melibatkan identifikasi potensi risiko dan penyiapan rencana penanganan. Manajer proyek mengantisipasi risiko kehilangan pengembang dengan menyiapkan mitigasi berupa pelatihan silang dan kandidat cadangan."
+    }
+  ]
+}

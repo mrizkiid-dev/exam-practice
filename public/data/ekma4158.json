@@ -1,0 +1,611 @@
+{
+  "exam": {
+    "source": "https://soalut.com/soal-ut-ekma4158-perilaku-organisasi/",
+    "name": "Ujian Akhir Semester",
+    "matkul": "EKMA4158 Perilaku Organisasi",
+    "semester": "4",
+    "prodi": "Teknik Informatika"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "Perilaku Keorganisasian (Organizational Behavior) adalah bidang studi yang mempelajari…",
+      "options": [
+        "Cara menetapkan strategi bisnis perusahaan",
+        "Dampak individu, kelompok, dan struktur terhadap perilaku dalam organisasi",
+        "Teknik akuntansi dan keuangan dalam perusahaan",
+        "Prosedur rekrutmen dan seleksi karyawan baru"
+      ],
+      "answer": 1,
+      "explanation": ""
+    },
+    {
+      "id": 2,
+      "question": "Manakah yang BUKAN merupakan tiga elemen utama dalam definisi organisasi?",
+      "options": [
+        "Tujuan yang jelas",
+        "Orang-orang yang terlibat",
+        "Sistem koordinasi yang disengaja",
+        "Modal yang besar"
+      ],
+      "answer": 3,
+      "explanation": ""
+    },
+    {
+      "id": 3,
+      "question": "Dalam studi Perilaku Organisasi, tingkat analisis yang paling mendasar adalah…",
+      "options": [
+        "Tingkat organisasi",
+        "Tingkat kelompok",
+        "Tingkat individu",
+        "Tingkat lingkungan"
+      ],
+      "answer": 2,
+      "explanation": ""
+    },
+    {
+      "id": 4,
+      "question": "Seorang manajer yang efektif menurut Mintzberg memiliki peran interpersonal, salah satunya adalah figurehead. Apa makna peran tersebut?",
+      "options": [
+        "Manajer sebagai penghubung informasi internal dan eksternal",
+        "Manajer sebagai simbol dan kepala seremonial organisasi",
+        "Manajer sebagai pengambil keputusan strategis",
+        "Manajer sebagai pengalokasi sumber daya"
+      ],
+      "answer": 1,
+      "explanation": ""
+    },
+    {
+      "id": 5,
+      "question": "Ilmu yang menjadi dasar dari studi Perilaku Organisasi dalam memahami motivasi dan emosi individu adalah…",
+      "options": [
+        "Sosiologi",
+        "Antropologi",
+        "Psikologi",
+        "Ilmu Politik"
+      ],
+      "answer": 2,
+      "explanation": ""
+    },
+    {
+      "id": 6,
+      "question": "Teori kepribadian Big Five mencakup lima dimensi. Dimensi yang mencerminkan tingkat kepercayaan, kerja sama, dan kebaikan hati seseorang disebut…",
+      "options": [
+        "Conscientiousness",
+        "Extraversion",
+        "Agreeableness",
+        "Neuroticism"
+      ],
+      "answer": 2,
+      "explanation": ""
+    },
+    {
+      "id": 7,
+      "question": "Seseorang yang memiliki skor conscientiousness tinggi cenderung…",
+      "options": [
+        "Mudah bergaul dan antusias dalam interaksi sosial",
+        "Disiplin, terorganisir, dan dapat diandalkan",
+        "Terbuka terhadap pengalaman baru dan kreativitas",
+        "Mudah cemas dan mengalami ketidakstabilan emosi"
+      ],
+      "answer": 1,
+      "explanation": ""
+    },
+    {
+      "id": 8,
+      "question": "Kemampuan mental yang berkaitan dengan kecepatan dan ketepatan aritmatika disebut…",
+      "options": [
+        "Kemampuan verbal",
+        "Kemampuan spasial",
+        "Kemampuan numerik",
+        "Kemampuan perseptual"
+      ],
+      "answer": 2,
+      "explanation": ""
+    },
+    {
+      "id": 9,
+      "question": "Teori Hukum Perbedaan Individu menyatakan bahwa perbedaan antar individu dalam organisasi terjadi karena…",
+      "options": [
+        "Kebijakan manajemen yang berbeda-beda",
+        "Kombinasi faktor bawaan (hereditas) dan pengalaman lingkungan",
+        "Perbedaan jabatan dan kompensasi yang diterima",
+        "Pengaruh budaya organisasi yang tidak konsisten"
+      ],
+      "answer": 1,
+      "explanation": ""
+    },
+    {
+      "id": 10,
+      "question": "Nilai terminal dalam teori Rokeach Value Survey merujuk pada…",
+      "options": [
+        "Cara atau metode yang digunakan untuk mencapai tujuan",
+        "Tujuan akhir yang ingin dicapai seseorang dalam hidupnya",
+        "Norma perilaku yang berlaku dalam organisasi",
+        "Standar kinerja yang ditetapkan manajemen"
+      ],
+      "answer": 1,
+      "explanation": ""
+    },
+    {
+      "id": 11,
+      "question": "Sikap kerja yang menggambarkan sejauh mana seseorang merasa terlibat aktif dalam pekerjaannya dan menganggap kinerja sebagai hal penting disebut…",
+      "options": [
+        "Komitmen organisasional",
+        "Kepuasan kerja",
+        "Keterlibatan kerja (job involvement)",
+        "Perceived organizational support"
+      ],
+      "answer": 2,
+      "explanation": ""
+    },
+    {
+      "id": 12,
+      "question": "Teori disonansi kognitif yang dikemukakan oleh Festinger menjelaskan bahwa…",
+      "options": [
+        "Individu yang puas akan bekerja lebih produktif secara otomatis",
+        "Individu berusaha mengurangi ketidaksesuaian antara sikap dan perilaku",
+        "Sikap kerja selalu konsisten dengan nilai-nilai budaya organisasi",
+        "Perilaku karyawan dipengaruhi oleh imbalan ekstrinsik semata"
+      ],
+      "answer": 1,
+      "explanation": ""
+    },
+    {
+      "id": 13,
+      "question": "Proses di mana individu mengorganisasikan dan menginterpretasikan kesan sensoris untuk memberikan makna pada lingkungannya disebut…",
+      "options": [
+        "Motivasi",
+        "Pembelajaran",
+        "Persepsi",
+        "Sikap"
+      ],
+      "answer": 2,
+      "explanation": ""
+    },
+    {
+      "id": 14,
+      "question": "Kecenderungan untuk menilai orang lain berdasarkan karakteristik kelompok di mana mereka termasuk disebut…",
+      "options": [
+        "Halo effect",
+        "Stereotyping",
+        "Selective perception",
+        "Projection"
+      ],
+      "answer": 1,
+      "explanation": ""
+    },
+    {
+      "id": 15,
+      "question": "Teori Atribusi digunakan untuk menjelaskan…",
+      "options": [
+        "Bagaimana individu merespons sistem penghargaan organisasi",
+        "Cara individu menilai apakah perilaku orang lain disebabkan faktor internal atau eksternal",
+        "Proses pembentukan tim kerja yang efektif",
+        "Pengaruh struktur organisasi terhadap kepuasan kerja"
+      ],
+      "answer": 1,
+      "explanation": ""
+    },
+    {
+      "id": 16,
+      "question": "Stres yang bersumber dari tuntutan peran yang saling bertentangan satu sama lain disebut…",
+      "options": [
+        "Role overload",
+        "Role ambiguity",
+        "Role conflict",
+        "Role episode"
+      ],
+      "answer": 2,
+      "explanation": ""
+    },
+    {
+      "id": 17,
+      "question": "Konsekuensi fisiologis dari stres kerja yang berkepanjangan meliputi…",
+      "options": [
+        "Penurunan produktivitas dan absensi tinggi",
+        "Penyakit jantung, hipertensi, dan sakit kepala kronis",
+        "Konflik interpersonal dan penurunan motivasi",
+        "Rotasi jabatan yang tidak direncanakan"
+      ],
+      "answer": 1,
+      "explanation": ""
+    },
+    {
+      "id": 18,
+      "question": "Pendekatan manajemen stres yang bersifat individual, seperti meditasi dan olahraga, termasuk dalam kategori…",
+      "options": [
+        "Organizational stressor management",
+        "Problem-focused coping",
+        "Emotion-focused coping",
+        "Structural intervention"
+      ],
+      "answer": 2,
+      "explanation": ""
+    },
+    {
+      "id": 19,
+      "question": "Teori Hierarki Kebutuhan Maslow menyatakan bahwa kebutuhan yang harus dipenuhi paling pertama adalah…",
+      "options": [
+        "Kebutuhan sosial",
+        "Kebutuhan keamanan",
+        "Kebutuhan fisiologis",
+        "Kebutuhan penghargaan"
+      ],
+      "answer": 2,
+      "explanation": ""
+    },
+    {
+      "id": 20,
+      "question": "Teori motivasi dua faktor Herzberg membedakan antara…",
+      "options": [
+        "Motivasi intrinsik dan ekstrinsik",
+        "Faktor higiene (pemeliharaan) dan faktor motivator",
+        "Kebutuhan eksistensi dan kebutuhan pertumbuhan",
+        "Teori X dan teori Y"
+      ],
+      "answer": 1,
+      "explanation": ""
+    },
+    {
+      "id": 21,
+      "question": "Dalam teori ERG Alderfer, tiga kebutuhan dasar yang diidentifikasi adalah…",
+      "options": [
+        "Existence, Relatedness, Growth",
+        "Esteem, Recognition, Growth",
+        "Energy, Resources, Goals",
+        "Equity, Reward, Gain"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    {
+      "id": 22,
+      "question": "Teori kebutuhan McClelland menyatakan bahwa manajer yang efektif umumnya memiliki kebutuhan dominan berupa…",
+      "options": [
+        "Need for Affiliation (nAff) yang tinggi",
+        "Need for Achievement (nAch) yang sangat tinggi",
+        "Need for Power (nPow) yang tinggi dan terarah secara sosial",
+        "Kombinasi nAff dan nAch yang seimbang"
+      ],
+      "answer": 2,
+      "explanation": ""
+    },
+    {
+      "id": 23,
+      "question": "Teori Penetapan Tujuan (Goal Setting Theory) oleh Locke menyatakan bahwa kinerja terbaik dicapai jika tujuan bersifat…",
+      "options": [
+        "Mudah dicapai agar tidak menimbulkan stres",
+        "Spesifik dan menantang disertai umpan balik",
+        "Fleksibel dan dapat berubah sesuai kondisi",
+        "Ditetapkan sepihak oleh manajemen"
+      ],
+      "answer": 1,
+      "explanation": ""
+    },
+    {
+      "id": 24,
+      "question": "Dalam sistem penilaian kinerja, umpan balik 360 derajat berarti penilaian kinerja diperoleh dari…",
+      "options": [
+        "Atasan langsung saja",
+        "Rekan kerja, bawahan, atasan, dan pelanggan",
+        "Tim HR dan konsultan eksternal",
+        "Karyawan yang bersangkutan secara mandiri"
+      ],
+      "answer": 1,
+      "explanation": ""
+    },
+    {
+      "id": 25,
+      "question": "Dalam teori Keadilan (Equity Theory) Adams, kondisi yang mendorong karyawan meningkatkan kinerja terjadi saat…",
+      "options": [
+        "Individu merasa mendapat imbalan lebih dari kontribusinya",
+        "Individu merasa kontribusi dan imbalannya setara dengan referensi perbandingan",
+        "Individu merasa kurang mendapat imbalan dibanding kontribusinya",
+        "Individu tidak memiliki perbandingan dengan orang lain"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    {
+      "id": 26,
+      "question": "Kelompok formal dalam organisasi yang terbentuk berdasarkan struktur resmi untuk menyelesaikan tugas tertentu disebut…",
+      "options": [
+        "Kelompok informal",
+        "Kelompok kepentingan",
+        "Kelompok tugas (task group)",
+        "Kelompok persahabatan"
+      ],
+      "answer": 2,
+      "explanation": ""
+    },
+    {
+      "id": 27,
+      "question": "Fenomena “social loafing” dalam kelompok mengacu pada kecenderungan…",
+      "options": [
+        "Anggota kelompok bersaing satu sama lain secara berlebihan",
+        "Individu mengurangi usaha saat bekerja dalam kelompok dibanding bekerja sendiri",
+        "Kelompok membuat keputusan yang terlalu berisiko",
+        "Munculnya konflik karena perbedaan tujuan antar anggota"
+      ],
+      "answer": 1,
+      "explanation": ""
+    },
+    {
+      "id": 28,
+      "question": "Norma kelompok yang mengatur seberapa keras anggota harus bekerja disebut…",
+      "options": [
+        "Norma penampilan",
+        "Norma sosial",
+        "Norma pengaturan",
+        "Norma alokasi sumber daya"
+      ],
+      "answer": 0,
+      "explanation": ""
+    },
+    {
+      "id": 29,
+      "question": "Apa perbedaan utama antara kelompok kerja (work group) dan tim kerja (work team)?",
+      "options": [
+        "Kelompok kerja memiliki tujuan kolektif, sedangkan tim tidak",
+        "Tim kerja menghasilkan sinergi positif melalui koordinasi terpadu, sedangkan kelompok kerja tidak harus demikian",
+        "Kelompok kerja lebih kecil ukurannya dibanding tim kerja",
+        "Tim kerja dikelola oleh manajemen puncak, sedangkan kelompok tidak"
+      ],
+      "answer": 1,
+      "explanation": ""
+    },
+    {
+      "id": 30,
+      "question": "Groupthink adalah fenomena dalam pengambilan keputusan kelompok yang ditandai dengan…",
+      "options": [
+        "Terjadinya debat terbuka yang konstruktif antar anggota",
+        "Keputusan diambil berdasarkan analisis mendalam oleh satu pemimpin",
+        "Tekanan konformitas yang menekan pemikiran kritis dan perbedaan pendapat",
+        "Penggunaan voting rahasia untuk menghindari pengaruh sosial"
+      ],
+      "answer": 2,
+      "explanation": ""
+    },
+    {
+      "id": 31,
+      "question": "Teknik pengambilan keputusan kelompok yang memisahkan proses pembuatan ide dari evaluasi disebut…",
+      "options": [
+        "Delphi technique",
+        "Nominal group technique",
+        "Brainstorming",
+        "Interacting groups"
+      ],
+      "answer": 2,
+      "explanation": ""
+    },
+    {
+      "id": 32,
+      "question": "Komunikasi yang mengalir dari bawahan ke atasan dalam hierarki organisasi disebut komunikasi…",
+      "options": [
+        "Horizontal",
+        "Lateral",
+        "Diagonal",
+        "Ke atas (upward)"
+      ],
+      "answer": 3,
+      "explanation": ""
+    },
+    {
+      "id": 33,
+      "question": "Hambatan komunikasi yang terjadi akibat perbedaan pemahaman makna kata antara pengirim dan penerima disebut…",
+      "options": [
+        "Filtering",
+        "Information overload",
+        "Semantics",
+        "Selective perception"
+      ],
+      "answer": 2,
+      "explanation": ""
+    },
+    {
+      "id": 34,
+      "question": "Jaringan komunikasi informal yang sering disebut “grapevine” memiliki karakteristik…",
+      "options": [
+        "Selalu tidak akurat dan merugikan organisasi",
+        "Dikendalikan sepenuhnya oleh manajemen",
+        "Cepat menyebar dan tidak mengikuti rantai komando formal",
+        "Hanya terjadi pada level manajemen puncak"
+      ],
+      "answer": 2,
+      "explanation": ""
+    },
+    {
+      "id": 35,
+      "question": "Konflik yang bersumber dari perbedaan peran dan tanggung jawab antar departemen dalam organisasi disebut…",
+      "options": [
+        "Konflik intrapersonal",
+        "Konflik interpersonal",
+        "Konflik intergroup",
+        "Konflik intragroup"
+      ],
+      "answer": 2,
+      "explanation": ""
+    },
+    {
+      "id": 36,
+      "question": "Strategi negosiasi distributif paling tepat digunakan dalam situasi…",
+      "options": [
+        "Kedua pihak ingin membangun hubungan jangka panjang yang saling menguntungkan",
+        "Sumber daya yang diperebutkan bersifat tetap dan salah satu pihak harus mengalah",
+        "Konflik bersifat kompleks dengan banyak isu yang perlu diselesaikan bersama",
+        "Kedua pihak ingin menciptakan nilai tambah dari proses negosiasi"
+      ],
+      "answer": 1,
+      "explanation": ""
+    },
+    {
+      "id": 37,
+      "question": "Pendekatan kolaborasi dalam resolusi konflik bertujuan untuk…",
+      "options": [
+        "Menghindari konflik dengan cara menarik diri dari situasi",
+        "Mencapai kemenangan satu pihak atas pihak lain",
+        "Menemukan solusi yang memuaskan semua pihak yang terlibat",
+        "Mencapai kompromi di mana semua pihak sedikit berkorban"
+      ],
+      "answer": 2,
+      "explanation": ""
+    },
+    {
+      "id": 38,
+      "question": "Kekuasaan yang bersumber dari posisi formal seseorang dalam struktur organisasi disebut…",
+      "options": [
+        "Kekuasaan ahli (expert power)",
+        "Kekuasaan rujukan (referent power)",
+        "Kekuasaan legitimasi (legitimate power)",
+        "Kekuasaan koersif (coercive power)"
+      ],
+      "answer": 2,
+      "explanation": ""
+    },
+    {
+      "id": 39,
+      "question": "Pemimpin yang menginspirasi pengikutnya untuk melampaui kepentingan diri sendiri demi tujuan organisasi dan menghasilkan kinerja luar biasa disebut pemimpin…",
+      "options": [
+        "Transaksional",
+        "Transformasional",
+        "Laissez-faire",
+        "Otoriter"
+      ],
+      "answer": 1,
+      "explanation": ""
+    },
+    {
+      "id": 40,
+      "question": "Teori Kontingensi Fiedler menyatakan bahwa efektivitas kepemimpinan ditentukan oleh…",
+      "options": [
+        "Sifat bawaan pemimpin yang tidak dapat diubah",
+        "Perilaku pemimpin yang berorientasi tugas semata",
+        "Kesesuaian antara gaya kepemimpinan dan situasi yang dihadapi",
+        "Tingkat pendidikan dan pengalaman pemimpin"
+      ],
+      "answer": 2,
+      "explanation": ""
+    },
+    {
+      "id": 41,
+      "question": "Konsep “Least Preferred Coworker (LPC)” dalam teori Fiedler digunakan untuk…",
+      "options": [
+        "Mengidentifikasi karyawan dengan kinerja terendah dalam tim",
+        "Mengukur orientasi gaya kepemimpinan seseorang",
+        "Menentukan tingkat konflik dalam kelompok kerja",
+        "Menilai kualitas hubungan pemimpin-anggota"
+      ],
+      "answer": 1,
+      "explanation": ""
+    },
+    {
+      "id": 42,
+      "question": "Struktur organisasi yang mengelompokkan pekerjaan berdasarkan fungsi utama, seperti pemasaran, keuangan, dan operasi, disebut struktur…",
+      "options": [
+        "Divisional",
+        "Matriks",
+        "Fungsional",
+        "Tim"
+      ],
+      "answer": 2,
+      "explanation": ""
+    },
+    {
+      "id": 43,
+      "question": "Rentang kendali (span of control) yang lebar dalam struktur organisasi menghasilkan…",
+      "options": [
+        "Hierarki yang tinggi dan banyak level manajemen",
+        "Struktur yang lebih datar dengan lebih sedikit level manajemen",
+        "Pengawasan yang lebih ketat terhadap setiap karyawan",
+        "Sentralisasi pengambilan keputusan yang tinggi"
+      ],
+      "answer": 1,
+      "explanation": ""
+    },
+    {
+      "id": 44,
+      "question": "Budaya organisasi yang kuat ditandai dengan…",
+      "options": [
+        "Nilai-nilai inti yang hanya dimiliki oleh manajemen puncak",
+        "Nilai-nilai yang dipegang secara intens dan dianut luas oleh seluruh anggota",
+        "Keberagaman nilai yang tinggi antar departemen",
+        "Aturan formal tertulis yang mendominasi perilaku karyawan"
+      ],
+      "answer": 1,
+      "explanation": ""
+    },
+    {
+      "id": 45,
+      "question": "Manakah yang merupakan fungsi budaya organisasi bagi para anggotanya?",
+      "options": [
+        "Meningkatkan konflik demi mendorong kreativitas",
+        "Memberikan identitas, meningkatkan komitmen, dan sebagai mekanisme kontrol sosial",
+        "Mengurangi kebutuhan akan kepemimpinan formal",
+        "Menghilangkan perbedaan individu dalam organisasi"
+      ],
+      "answer": 1,
+      "explanation": ""
+    },
+    {
+      "id": 46,
+      "question": "Proses sosialisasi organisasi bertujuan untuk…",
+      "options": [
+        "Menyeleksi karyawan berdasarkan kemampuan teknis",
+        "Mengadaptasikan karyawan baru agar memahami dan menerima nilai-nilai organisasi",
+        "Meningkatkan kompensasi karyawan sesuai kinerja",
+        "Menetapkan target kinerja tahunan bagi setiap karyawan"
+      ],
+      "answer": 1,
+      "explanation": ""
+    },
+    {
+      "id": 47,
+      "question": "Dimensi budaya nasional Hofstede yang mengukur tingkat kenyamanan suatu masyarakat terhadap ketidakpastian dan ambiguitas disebut…",
+      "options": [
+        "Power Distance",
+        "Individualism-Collectivism",
+        "Uncertainty Avoidance",
+        "Long-term Orientation"
+      ],
+      "answer": 2,
+      "explanation": ""
+    },
+    {
+      "id": 48,
+      "question": "Dalam konteks perilaku organisasi lintas budaya, dimensi “Power Distance” yang tinggi menunjukkan…",
+      "options": [
+        "Masyarakat yang menghargai kesetaraan dan menantang otoritas",
+        "Masyarakat yang menerima dan mengharapkan distribusi kekuasaan yang tidak merata",
+        "Preferensi tinggi terhadap kerja tim dibanding pencapaian individu",
+        "Toleransi tinggi terhadap ketidakpastian dalam lingkungan kerja"
+      ],
+      "answer": 1,
+      "explanation": ""
+    },
+    {
+      "id": 49,
+      "question": "Kemampuan manajer untuk bekerja secara efektif dalam lingkungan budaya yang berbeda, termasuk kepekaan dan adaptasi budaya, disebut…",
+      "options": [
+        "Technical competency",
+        "Emotional intelligence",
+        "Cultural intelligence (CQ)",
+        "Social capital"
+      ],
+      "answer": 2,
+      "explanation": ""
+    },
+    {
+      "id": 50,
+      "question": "Praktik Perilaku Organisasi yang perlu disesuaikan ketika perusahaan beroperasi di negara dengan budaya kolektivis adalah…",
+      "options": [
+        "Sistem penghargaan berbasis kinerja individu yang kuat",
+        "Penekanan pada kompetisi antar karyawan secara terbuka",
+        "Penghargaan berbasis kinerja tim dan penguatan harmoni kelompok",
+        "Pemberian otonomi kerja individual yang sangat tinggi"
+      ],
+      "answer": 2,
+      "explanation": ""
+    }
+  ]
+}

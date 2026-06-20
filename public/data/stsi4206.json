@@ -1,0 +1,1211 @@
+{
+  "exam": {
+    "source": "https://soalut.com/soal-ut-stsi4206-proses-bisnis/",
+    "name": "Ujian Akhir Semester",
+    "matkul": "STSI4206 Proses Bisnis",
+    "semester": "4",
+    "prodi": "Teknik Informatika"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "Apa tujuan utama dari analisis proses bisnis?",
+      "options": [
+        "Mengurangi biaya produksi secara drastis",
+        "Meningkatkan efisiensi dan efektivitas proses bisnis",
+        "Menambah jumlah karyawan dalam organisasi",
+        "Mempercepat pergantian manajemen perusahaan"
+      ],
+      "answer": 1,
+      "explanation": "Analisis proses bisnis bertujuan untuk mengidentifikasi dan memperbaiki proses agar lebih efisien dan efektif."
+    },
+    {
+      "id": 2,
+      "question": "Dalam analisis proses bisnis, langkah pertama yang harus dilakukan adalah?",
+      "options": [
+        "Mengimplementasikan perubahan",
+        "Mengevaluasi hasil",
+        "Mengidentifikasi proses bisnis yang ada",
+        "Melakukan benchmarking eksternal"
+      ],
+      "answer": 2,
+      "explanation": "Langkah pertama adalah mengidentifikasi proses bisnis saat ini untuk memahami alur kerja."
+    },
+    {
+      "id": 3,
+      "question": "Salah satu manfaat analisis proses bisnis adalah?",
+      "options": [
+        "Meningkatkan kompleksitas operasi",
+        "Mengurangi kebutuhan akan teknologi",
+        "Meningkatkan kepuasan pelanggan",
+        "Memperlambat pengambilan keputusan"
+      ],
+      "answer": 2,
+      "explanation": "Dengan menganalisis proses, perusahaan dapat meningkatkan kualitas layanan dan kepuasan pelanggan."
+    },
+    {
+      "id": 4,
+      "question": "Apa yang dimaksud dengan 'as-is' dalam analisis proses bisnis?",
+      "options": [
+        "Kondisi proses yang diinginkan di masa depan",
+        "Proses yang sudah tidak digunakan lagi",
+        "Kondisi proses bisnis saat ini",
+        "Standar industri yang harus dicapai"
+      ],
+      "answer": 2,
+      "explanation": "As-is menggambarkan kondisi proses bisnis yang sedang berjalan saat ini."
+    },
+    {
+      "id": 5,
+      "question": "Analisis proses bisnis sering digunakan untuk mendukung?",
+      "options": [
+        "Pengembangan produk baru",
+        "Pengurangan staf",
+        "Peningkatan teknologi saja",
+        "Perubahan organisasi secara keseluruhan"
+      ],
+      "answer": 3,
+      "explanation": "Analisis proses bisnis membantu dalam merancang perubahan organisasi yang lebih luas."
+    },
+    {
+      "id": 6,
+      "question": "Teknik pemetaan proses yang umum digunakan dalam analisis proses bisnis adalah?",
+      "options": [
+        "Diagram alir",
+        "Grafik batang",
+        "Pie chart",
+        "Histogram"
+      ],
+      "answer": 0,
+      "explanation": "Diagram alir digunakan untuk memvisualisasikan langkah-langkah dalam proses bisnis."
+    },
+    {
+      "id": 7,
+      "question": "Siapa yang biasanya menjadi pemangku kepentingan utama dalam analisis proses bisnis?",
+      "options": [
+        "Karyawan tingkat bawah",
+        "Manajer dan supervisor",
+        "Pelanggan eksternal",
+        "Semua pihak yang terlibat dalam proses"
+      ],
+      "answer": 3,
+      "explanation": "Semua pihak yang terlibat dalam proses bisnis, termasuk manajer, staf, dan pelanggan, merupakan pemangku kepentingan."
+    },
+    {
+      "id": 8,
+      "question": "Apa hasil akhir dari analisis proses bisnis yang berhasil?",
+      "options": [
+        "Laporan keuangan yang lebih baik",
+        "Proses bisnis yang lebih efisien dan efektif",
+        "Peningkatan jumlah produk",
+        "Penurunan jumlah pelanggan"
+      ],
+      "answer": 1,
+      "explanation": "Tujuan akhir adalah perbaikan proses untuk meningkatkan efisiensi dan efektivitas."
+    },
+    {
+      "id": 9,
+      "question": "Langkah awal dalam identifikasi analisis proses bisnis adalah?",
+      "options": [
+        "Menentukan tujuan analisis",
+        "Mengumpulkan data proses",
+        "Melakukan wawancara dengan karyawan",
+        "Membuat peta proses"
+      ],
+      "answer": 0,
+      "explanation": "Langkah pertama adalah menentukan tujuan yang jelas dari analisis proses bisnis."
+    },
+    {
+      "id": 10,
+      "question": "Dalam identifikasi proses bisnis, teknik yang digunakan untuk mengumpulkan informasi adalah?",
+      "options": [
+        "Observasi langsung",
+        "Analisis regresi",
+        "Pengujian statistik",
+        "Simulasi komputer"
+      ],
+      "answer": 0,
+      "explanation": "Observasi langsung membantu mengumpulkan data akurat tentang proses yang berjalan."
+    },
+    {
+      "id": 11,
+      "question": "Apa peran peta proses dalam identifikasi analisis proses bisnis?",
+      "options": [
+        "Menunjukkan alur kerja secara visual",
+        "Menghitung biaya operasional",
+        "Memprediksi hasil masa depan",
+        "Menggantikan sistem yang ada"
+      ],
+      "answer": 0,
+      "explanation": "Peta proses membantu memvisualisasikan alur kerja dan mengidentifikasi masalah."
+    },
+    {
+      "id": 12,
+      "question": "Salah satu alat yang digunakan untuk identifikasi proses bisnis adalah?",
+      "options": [
+        "Diagram IPO (Input-Proses-Output)",
+        "Balance scorecard",
+        "Diagram Pareto",
+        "Analisis SWOT"
+      ],
+      "answer": 0,
+      "explanation": "Diagram IPO membantu mengidentifikasi input, proses, dan output dari suatu kegiatan."
+    },
+    {
+      "id": 13,
+      "question": "Mengapa penting untuk melibatkan pemangku kepentingan dalam identifikasi proses bisnis?",
+      "options": [
+        "Agar proses lebih cepat selesai",
+        "Untuk memastikan akurasi dan penerimaan perubahan",
+        "Untuk mengurangi biaya analisis",
+        "Agar hasil analisis rahasia"
+      ],
+      "answer": 1,
+      "explanation": "Keterlibatan pemangku kepentingan meningkatkan akurasi data dan dukungan terhadap perubahan."
+    },
+    {
+      "id": 14,
+      "question": "Dalam identifikasi proses, apa yang dimaksud dengan bottleneck?",
+      "options": [
+        "Titik yang mempercepat proses",
+        "Titik yang menghambat aliran proses",
+        "Titik awal proses",
+        "Titik akhir proses"
+      ],
+      "answer": 1,
+      "explanation": "Bottleneck adalah bagian proses yang menyebabkan penundaan atau hambatan."
+    },
+    {
+      "id": 15,
+      "question": "Teknik wawancara dalam identifikasi proses bisnis bertujuan untuk?",
+      "options": [
+        "Menggantikan observasi",
+        "Mendapatkan informasi dari pelaku proses",
+        "Menghitung keuntungan perusahaan",
+        "Membuat keputusan akhir"
+      ],
+      "answer": 1,
+      "explanation": "Wawancara membantu menggali pandangan dan pengalaman dari mereka yang terlibat langsung."
+    },
+    {
+      "id": 16,
+      "question": "Apa yang menjadi fokus utama dalam identifikasi analisis proses bisnis?",
+      "options": [
+        "Keuangan perusahaan",
+        "Alur kerja dan aktivitas bisnis",
+        "Struktur organisasi",
+        "Pemasaran produk"
+      ],
+      "answer": 1,
+      "explanation": "Identifikasi berfokus pada alur kerja dan aktivitas yang membentuk proses bisnis."
+    },
+    {
+      "id": 17,
+      "question": "Dalam Six Sigma, apa singkatan dari DMAIC?",
+      "options": [
+        "Define, Measure, Analyze, Improve, Control",
+        "Design, Manage, Audit, Integrate, Control",
+        "Define, Monitor, Assess, Implement, Correct",
+        "Develop, Measure, Analyze, Innovate, Control"
+      ],
+      "answer": 0,
+      "explanation": "DMAIC adalah kerangka kerja Six Sigma yang terdiri dari Define, Measure, Analyze, Improve, dan Control."
+    },
+    {
+      "id": 18,
+      "question": "Dalam metodologi Six Sigma, fase mana yang merupakan fase pertama dari siklus DMAIC yang bertujuan untuk mendefinisikan masalah dan tujuan proyek?",
+      "options": [
+        "Analyze",
+        "Measure",
+        "Define",
+        "Improve"
+      ],
+      "answer": 2,
+      "explanation": "Fase Define adalah fase pertama DMAIC yang berfokus pada identifikasi masalah dan penetapan sasaran proyek."
+    },
+    {
+      "id": 19,
+      "question": "Pada level sigma berapakah suatu proses dianggap memiliki cacat sebesar 3,4 per sejuta kesempatan (DPMO) dalam Six Sigma?",
+      "options": [
+        "6 sigma",
+        "4 sigma",
+        "5 sigma",
+        "3 sigma"
+      ],
+      "answer": 0,
+      "explanation": "Level 6 sigma setara dengan 3,4 DPMO yang menunjukkan performa proses sangat baik."
+    },
+    {
+      "id": 20,
+      "question": "Alat statistik yang digunakan dalam Six Sigma untuk mengidentifikasi faktor-faktor kritis yang mempengaruhi output proses adalah…",
+      "options": [
+        "Control chart",
+        "Pareto chart",
+        "Fishbone diagram",
+        "Scatter plot"
+      ],
+      "answer": 2,
+      "explanation": "Fishbone diagram membantu menemukan akar penyebab masalah dengan mengelompokkan faktor-faktor potensial."
+    },
+    {
+      "id": 21,
+      "question": "Dalam implementasi Six Sigma, peran mana yang bertanggung jawab penuh atas keberhasilan proyek perbaikan?",
+      "options": [
+        "Champion",
+        "Master Black Belt",
+        "Green Belt",
+        "Black Belt"
+      ],
+      "answer": 3,
+      "explanation": "Black Belt memimpin proyek Six Sigma secara langsung dan bertanggung jawab terhadap pencapaian tujuan."
+    },
+    {
+      "id": 22,
+      "question": "Fase Measure dalam DMAIC terutama berfokus pada…",
+      "options": [
+        "Mengumpulkan data dan mengukur kinerja saat ini",
+        "Menentukan rencana tindakan",
+        "Mengontrol proses agar tetap stabil",
+        "Menganalisis akar penyebab masalah"
+      ],
+      "answer": 0,
+      "explanation": "Fase Measure mengukur kinerja proses saat ini untuk mengetahui baseline dan variasi."
+    },
+    {
+      "id": 23,
+      "question": "Metode yang digunakan dalam Six Sigma untuk mengurangi variasi proses adalah…",
+      "options": [
+        "PDCA cycle",
+        "SPC dan desain eksperimen",
+        "DMAIC cycle",
+        "Root cause analysis"
+      ],
+      "answer": 1,
+      "explanation": "SPC dan desain eksperimen adalah alat untuk mengendalikan dan mengurangi variasi dalam proses."
+    },
+    {
+      "id": 24,
+      "question": "Dalam Six Sigma, istilah 'CTQ' singkatan dari…",
+      "options": [
+        "Critical Task Quantity",
+        "Critical To Quality",
+        "Core Technology Quotient",
+        "Continuous Testing Quality"
+      ],
+      "answer": 1,
+      "explanation": "CTQ adalah karakteristik kunci yang harus dipenuhi untuk memuaskan pelanggan."
+    },
+    {
+      "id": 25,
+      "question": "Siklus manajemen proses yang terdiri dari perencanaan, pelaksanaan, pemeriksaan, dan tindakan dikenal dengan siklus…",
+      "options": [
+        "PDCA",
+        "DMAIC",
+        "Six Sigma",
+        "PMBOK"
+      ],
+      "answer": 0,
+      "explanation": "PDCA (Plan-Do-Check-Act) adalah siklus perbaikan berkelanjutan dalam manajemen proses."
+    },
+    {
+      "id": 26,
+      "question": "Langkah pertama dalam siklus manajemen proses adalah…",
+      "options": [
+        "Memantau kinerja proses",
+        "Menganalisis data proses",
+        "Melaksanakan perubahan proses",
+        "Mendefinisikan proses dan tujuan"
+      ],
+      "answer": 3,
+      "explanation": "Siklus dimulai dengan mendefinisikan proses dan sasaran agar arah perbaikan jelas."
+    },
+    {
+      "id": 27,
+      "question": "Dalam siklus manajemen proses, tahap 'Check' bertujuan untuk…",
+      "options": [
+        "Menerapkan rencana perbaikan",
+        "Melakukan penjadwalan aktivitas",
+        "Menentukan akar masalah",
+        "Mengevaluasi hasil yang dicapai terhadap standar"
+      ],
+      "answer": 3,
+      "explanation": "Tahap Check membandingkan hasil aktual dengan target yang ditetapkan."
+    },
+    {
+      "id": 28,
+      "question": "Salah satu alat yang digunakan dalam tahap 'Do' pada siklus PDCA adalah…",
+      "options": [
+        "Control chart",
+        "Rencana tindakan (action plan)",
+        "Pareto diagram",
+        "Analisis SWOT"
+      ],
+      "answer": 1,
+      "explanation": "Pada tahap Do, rencana tindakan diimplementasikan untuk mencapai perbaikan."
+    },
+    {
+      "id": 29,
+      "question": "Siklus manajemen proses membantu organisasi untuk mencapai…",
+      "options": [
+        "Peningkatan efisiensi dan efektivitas secara berkelanjutan",
+        "Pengurangan biaya secara drastis",
+        "Penghapusan semua variasi",
+        "Standarisasi produk akhir"
+      ],
+      "answer": 0,
+      "explanation": "Siklus ini mendorong perbaikan terus-menerus dalam efisiensi dan efektivitas proses."
+    },
+    {
+      "id": 30,
+      "question": "Dalam siklus PDCA, aktivitas yang dilakukan pada tahap 'Act' adalah…",
+      "options": [
+        "Mengumpulkan data pengukuran",
+        "Mengidentifikasi masalah",
+        "Menentukan akar penyebab",
+        "Menyusun standar baru dan melakukan pelatihan"
+      ],
+      "answer": 3,
+      "explanation": "Tahap Act menstandardkan perbaikan dan memastikan keberlanjutan hasil."
+    },
+    {
+      "id": 31,
+      "question": "Salah satu prinsip utama siklus manajemen proses adalah…",
+      "options": [
+        "Perbaikan berkelanjutan",
+        "Fokus pada hasil akhir",
+        "Perbaikan dilakukan setiap 5 tahun",
+        "Mengutamakan alat statistik"
+      ],
+      "answer": 0,
+      "explanation": "Siklus manajemen proses menekankan perbaikan berkelanjutan secara sistematis."
+    },
+    {
+      "id": 32,
+      "question": "Dalam konteks siklus manajemen proses, 'Plan' meliputi…",
+      "options": [
+        "Implementasi perubahan",
+        "Pengukuran kinerja",
+        "Penetapan sasaran dan metode",
+        "Koreksi hasil"
+      ],
+      "answer": 2,
+      "explanation": "Plan mencakup penetapan sasaran dan metode yang akan digunakan untuk mencapai perbaikan."
+    },
+    {
+      "id": 33,
+      "question": "Definisi proyek dalam manajemen proyek adalah…",
+      "options": [
+        "Kegiatan rutin yang berulang",
+        "Usaha sementara untuk menciptakan produk atau layanan yang unik",
+        "Proses produksi massal",
+        "Fungsi operasional harian"
+      ],
+      "answer": 1,
+      "explanation": "Proyek bersifat sementara dengan hasil yang unik, berbeda dengan operasi rutin."
+    },
+    {
+      "id": 34,
+      "question": "Tiga kendala utama dalam manajemen proyek dikenal dengan istilah triple constraint yaitu…",
+      "options": [
+        "Waktu, biaya, dan kualitas",
+        "Risiko, komunikasi, dan sumber daya",
+        "Lingkup, waktu, dan biaya",
+        "Tim, alat, dan teknologi"
+      ],
+      "answer": 2,
+      "explanation": "Triple constraint terdiri dari lingkup proyek, waktu penyelesaian, dan biaya yang saling terkait."
+    },
+    {
+      "id": 35,
+      "question": "Manajemen proyek didefinisikan sebagai aplikasi pengetahuan, keterampilan, alat, dan teknik untuk memenuhi kebutuhan proyek. Siapa yang bertanggung jawab untuk memastikan bahwa manajemen proyek diterapkan dengan benar dalam sebuah proyek?",
+      "options": [
+        "Sponsor proyek",
+        "Pemangku kepentingan",
+        "Tim proyek",
+        "Manajer proyek"
+      ],
+      "answer": 3,
+      "explanation": "Manajer proyek adalah individu yang bertanggung jawab untuk memimpin dan mengelola proyek agar tujuan tercapai sesuai dengan batasan yang ditetapkan."
+    },
+    {
+      "id": 36,
+      "question": "Dalam manajemen proyek, tiga kendala utama yang sering disebut sebagai triple constraint adalah lingkup, waktu, dan biaya. Jika lingkup proyek diperluas, apa dampak yang paling mungkin terjadi pada dua kendala lainnya?",
+      "options": [
+        "Waktu dan biaya berkurang",
+        "Waktu dan biaya bertambah",
+        "Waktu dan biaya tetap sama",
+        "Waktu bertambah tetapi biaya berkurang"
+      ],
+      "answer": 1,
+      "explanation": "Perluasan lingkup proyek biasanya memerlukan lebih banyak waktu dan biaya untuk menyelesaikannya, sehingga keduanya cenderung bertambah."
+    },
+    {
+      "id": 37,
+      "question": "Proyek memiliki karakteristik yang membedakannya dari operasi rutin. Manakah dari berikut ini yang merupakan karakteristik utama dari sebuah proyek?",
+      "options": [
+        "Berulang dan terus-menerus",
+        "Memiliki hasil yang sama setiap siklus",
+        "Tidak membutuhkan sumber daya khusus",
+        "Unik dan memiliki awal serta akhir"
+      ],
+      "answer": 3,
+      "explanation": "Proyek bersifat unik karena menghasilkan produk atau layanan yang berbeda, serta memiliki batasan waktu mulai dan selesai."
+    },
+    {
+      "id": 38,
+      "question": "Salah satu tahap dalam siklus hidup manajemen proyek adalah inisiasi. Apa tujuan utama dari fase inisiasi proyek?",
+      "options": [
+        "Mendefinisikan proyek dan mendapatkan otorisasi",
+        "Menyelesaikan semua pekerjaan proyek",
+        "Memantau kemajuan proyek",
+        "Menutup proyek secara resmi"
+      ],
+      "answer": 0,
+      "explanation": "Fase inisiasi bertujuan untuk mendefinisikan proyek secara jelas dan mendapatkan persetujuan atau otorisasi untuk memulai proyek."
+    },
+    {
+      "id": 39,
+      "question": "Dalam manajemen proyek, pernyataan lingkup proyek (project scope statement) digunakan untuk apa?",
+      "options": [
+        "Menentukan jadwal proyek secara rinci",
+        "Mengalokasikan sumber daya keuangan",
+        "Mengevaluasi kinerja tim",
+        "Mendokumentasikan batasan dan asumsi proyek"
+      ],
+      "answer": 3,
+      "explanation": "Pernyataan lingkup proyek mendokumentasikan batasan, asumsi, dan deliverable yang akan dihasilkan, sehingga menjadi acuan bagi seluruh pemangku kepentingan."
+    },
+    {
+      "id": 40,
+      "question": "Teknik manajemen proyek seperti Gantt chart sering digunakan untuk tujuan apa?",
+      "options": [
+        "Menganalisis risiko proyek",
+        "Mengelola komunikasi tim",
+        "Menjadwalkan dan memvisualisasikan aktivitas proyek",
+        "Mengontrol biaya proyek"
+      ],
+      "answer": 2,
+      "explanation": "Gantt chart adalah alat visual yang menampilkan aktivitas proyek dalam bentuk batang horizontal terhadap waktu, membantu penjadwalan dan pelacakan kemajuan."
+    },
+    {
+      "id": 41,
+      "question": "Project Management Body of Knowledge (PMBOK) adalah standar yang diterbitkan oleh organisasi mana?",
+      "options": [
+        "Project Management Institute (PMI)",
+        "International Organization for Standardization (ISO)",
+        "Institute of Electrical and Electronics Engineers (IEEE)",
+        "American Society for Quality (ASQ)"
+      ],
+      "answer": 0,
+      "explanation": "PMBOK dikembangkan dan diterbitkan oleh Project Management Institute (PMI) sebagai panduan praktik manajemen proyek."
+    },
+    {
+      "id": 42,
+      "question": "PMBOK mengelompokkan proses manajemen proyek ke dalam beberapa kelompok proses. Manakah yang termasuk dalam kelompok proses perencanaan?",
+      "options": [
+        "Mengembangkan piagam proyek",
+        "Mengembangkan jadwal",
+        "Melakukan pengadaan",
+        "Menutup pengadaan"
+      ],
+      "answer": 1,
+      "explanation": "Kelompok proses perencanaan mencakup aktivitas seperti mengembangkan jadwal, yang bertujuan untuk merinci langkah-langkah dan waktu pelaksanaan proyek."
+    },
+    {
+      "id": 43,
+      "question": "Salah satu area pengetahuan dalam PMBOK adalah manajemen biaya proyek. Proses apa yang termasuk dalam area pengetahuan ini?",
+      "options": [
+        "Mengelola komunikasi",
+        "Mengidentifikasi pemangku kepentingan",
+        "Mengestimasi biaya",
+        "Menganalisis risiko"
+      ],
+      "answer": 2,
+      "explanation": "Manajemen biaya proyek mencakup proses estimasi biaya, penganggaran, dan pengendalian biaya agar proyek tetap sesuai anggaran."
+    },
+    {
+      "id": 44,
+      "question": "Dalam PMBOK, manajemen risiko proyek meliputi beberapa proses. Manakah langkah pertama dalam manajemen risiko?",
+      "options": [
+        "Menganalisis risiko secara kualitatif",
+        "Merencanakan respons risiko",
+        "Mengidentifikasi risiko",
+        "Memonitor risiko"
+      ],
+      "answer": 2,
+      "explanation": "Langkah awal dalam manajemen risiko adalah mengidentifikasi risiko potensial yang dapat mempengaruhi proyek, sebelum dianalisis dan ditangani."
+    },
+    {
+      "id": 45,
+      "question": "PMBOK mendefinisikan sekumpulan area pengetahuan. Berapa jumlah area pengetahuan yang ada dalam edisi terbaru PMBOK?",
+      "options": [
+        "10",
+        "9",
+        "11",
+        "12"
+      ],
+      "answer": 0,
+      "explanation": "Edisi terbaru PMBOK mencakup 10 area pengetahuan, seperti manajemen integrasi, lingkup, waktu, biaya, kualitas, sumber daya, komunikasi, risiko, pengadaan, dan pemangku kepentingan."
+    },
+    {
+      "id": 46,
+      "question": "Dalam kelompok proses pelaksanaan proyek menurut PMBOK, proses apa yang utama dilakukan?",
+      "options": [
+        "Mengarahkan dan mengelola pekerjaan proyek",
+        "Mengembangkan piagam proyek",
+        "Mengendalikan jadwal",
+        "Menutup proyek"
+      ],
+      "answer": 0,
+      "explanation": "Kelompok proses pelaksanaan berfokus pada mengarahkan dan mengelola pekerjaan proyek untuk menyelesaikan deliverable sesuai rencana."
+    },
+    {
+      "id": 47,
+      "question": "Salah satu alat dan teknik dalam manajemen komunikasi proyek menurut PMBOK adalah model komunikasi. Apa fungsi model komunikasi dalam proyek?",
+      "options": [
+        "Mengelola basis data proyek",
+        "Mengidentifikasi risiko komunikasi",
+        "Mengontrol biaya komunikasi",
+        "Memahami aliran informasi antara pengirim dan penerima"
+      ],
+      "answer": 3,
+      "explanation": "Model komunikasi membantu menggambarkan aliran informasi dan umpan balik antara pengirim dan penerima untuk memastikan pesan tersampaikan dengan efektif."
+    },
+    {
+      "id": 48,
+      "question": "Dalam PMBOK, manajemen kualitas proyek mencakup konsep biaya kualitas. Apa yang dimaksud dengan biaya kualitas?",
+      "options": [
+        "Total biaya yang dikeluarkan untuk pembelian material",
+        "Biaya yang terkait dengan kegagalan dan pencegahan cacat",
+        "Biaya gaji tim proyek",
+        "Biaya pemasaran proyek"
+      ],
+      "answer": 1,
+      "explanation": "Biaya kualitas meliputi biaya pencegahan (mencegah cacat) dan biaya kegagalan (memperbaiki cacat), yang digunakan untuk mengelola mutu proyek."
+    },
+    {
+      "id": 49,
+      "question": "Siklus hidup manajemen proyek terdiri dari beberapa fase berurutan. Fase manakah yang biasanya melibatkan penyelesaian deliverable dan penyerahan ke pelanggan?",
+      "options": [
+        "Inisiasi",
+        "Penutupan",
+        "Pelaksanaan",
+        "Perencanaan"
+      ],
+      "answer": 1,
+      "explanation": "Fase penutupan adalah tahap akhir siklus hidup proyek di mana deliverable diserahkan, kontrak diakhiri, dan proyek secara resmi ditutup."
+    },
+    {
+      "id": 50,
+      "question": "Dalam area pengetahuan manajemen sumber daya proyek, proses mengidentifikasi peran dan tanggung jawab anggota tim disebut?",
+      "options": [
+        "Mengembangkan tim",
+        "Mengelola tim",
+        "Merencanakan sumber daya manusia",
+        "Mengendalikan sumber daya"
+      ],
+      "answer": 2,
+      "explanation": "Perencanaan sumber daya manusia melibatkan identifikasi peran, tanggung jawab, dan hubungan pelaporan yang diperlukan untuk menyelesaikan proyek."
+    },
+    {
+      "id": 51,
+      "question": "Salah satu dokumen penting dalam siklus hidup manajemen proyek adalah piagam proyek. Piagam proyek biasanya berisi informasi tentang apa?",
+      "options": [
+        "Otorisasi proyek dan wewenang manajer proyek",
+        "Anggaran rinci per aktivitas",
+        "Jadwal harian tim",
+        "Laporan evaluasi akhir"
+      ],
+      "answer": 0,
+      "explanation": "Piagam proyek adalah dokumen yang mengotorisasi proyek dan memberikan wewenang kepada manajer proyek untuk menggunakan sumber daya organisasi dalam proyek."
+    },
+    {
+      "id": 52,
+      "question": "Pernyataan yang paling tepat mengenai siklus hidup manajemen proyek adalah?",
+      "options": [
+        "Setiap proyek harus melewati semua tahapan siklus hidup secara linier",
+        "Siklus hidup proyek dapat bervariasi tergantung pada jenis dan kompleksitas proyek",
+        "Siklus hidup proyek hanya relevan untuk proyek pengembangan perangkat lunak",
+        "Siklus hidup proyek ditentukan oleh manajer proyek tanpa mempertimbangkan pemangku kepentingan"
+      ],
+      "answer": 1,
+      "explanation": "Siklus hidup manajemen proyek bersifat dinamis dan dapat disesuaikan dengan kebutuhan spesifik proyek."
+    },
+    {
+      "id": 53,
+      "question": "Area pengetahuan manajemen proyek yang paling berkaitan dengan pengalokasian sumber daya adalah?",
+      "options": [
+        "Manajemen Biaya",
+        "Manajemen Sumber Daya Manusia",
+        "Manajemen Waktu",
+        "Manajemen Risiko"
+      ],
+      "answer": 1,
+      "explanation": "Manajemen Sumber Daya Manusia secara langsung berfokus pada pengelolaan dan pengalokasian tenaga kerja dalam proyek."
+    },
+    {
+      "id": 54,
+      "question": "Dalam siklus hidup manajemen proyek, fase yang menghasilkan produk akhir atau layanan adalah?",
+      "options": [
+        "Pelaksanaan",
+        "Perencanaan",
+        "Inisiasi",
+        "Penutupan"
+      ],
+      "answer": 0,
+      "explanation": "Fase pelaksanaan adalah tahap di mana pekerjaan utama dilakukan untuk menghasilkan deliverable proyek."
+    },
+    {
+      "id": 55,
+      "question": "Salah satu output dari proses manajemen biaya dalam area pengetahuan proyek adalah?",
+      "options": [
+        "Struktur Rincian Kerja (WBS)",
+        "Anggaran Biaya",
+        "Matriks Komunikasi",
+        "Register Risiko"
+      ],
+      "answer": 1,
+      "explanation": "Anggaran biaya merupakan hasil perencanaan biaya yang mencakup estimasi dan alokasi dana proyek."
+    },
+    {
+      "id": 56,
+      "question": "Dokumen yang mendefinisikan ruang lingkup proyek secara detail disebut sebagai?",
+      "options": [
+        "Pernyataan Lingkup Proyek",
+        "Project Charter",
+        "Jadwal Proyek",
+        "Rencana Mutu"
+      ],
+      "answer": 0,
+      "explanation": "Pernyataan Lingkup Proyek secara formal mendokumentasikan batasan dan deliverables proyek."
+    },
+    {
+      "id": 57,
+      "question": "Tujuan utama dari proses manajemen komunikasi dalam proyek adalah?",
+      "options": [
+        "Mengurangi biaya proyek",
+        "Mengeliminasi semua risiko komunikasi",
+        "Meningkatkan kecepatan penyelesaian proyek",
+        "Memastikan informasi yang tepat diterima oleh pemangku kepentingan yang tepat pada waktu yang tepat"
+      ],
+      "answer": 3,
+      "explanation": "Manajemen komunikasi berfokus pada pengelolaan arus informasi agar efektif dan efisien bagi semua pihak terkait."
+    },
+    {
+      "id": 58,
+      "question": "Dalam manajemen komunikasi, model komunikasi yang terdiri dari pengirim, pesan, dan penerima disebut?",
+      "options": [
+        "Model Interaktif",
+        "Model Transaksional",
+        "Model Linear",
+        "Model Sederhana"
+      ],
+      "answer": 2,
+      "explanation": "Model linear adalah model komunikasi dasar yang menggambarkan aliran satu arah dari pengirim ke penerima."
+    },
+    {
+      "id": 59,
+      "question": "Faktor yang paling mempengaruhi efektivitas komunikasi proyek adalah?",
+      "options": [
+        "Jumlah pemangku kepentingan",
+        "Biaya alat komunikasi",
+        "Kejelasan pesan dan umpan balik",
+        "Lama waktu proyek"
+      ],
+      "answer": 2,
+      "explanation": "Kejelasan dan umpan balik memastikan pesan dipahami dengan benar, sehingga komunikasi berjalan efektif."
+    },
+    {
+      "id": 60,
+      "question": "Rencana komunikasi proyek umumnya mencakup informasi tentang?",
+      "options": [
+        "Biaya proyek secara rinci",
+        "Jadwal pengiriman material",
+        "Risiko teknis proyek",
+        "Frekuensi dan format laporan status"
+      ],
+      "answer": 3,
+      "explanation": "Rencana komunikasi memuat bagaimana dan kapan informasi akan disampaikan, termasuk laporan status."
+    },
+    {
+      "id": 61,
+      "question": "Salah satu hambatan umum dalam komunikasi proyek adalah?",
+      "options": [
+        "Perbedaan budaya atau latar belakang",
+        "Adanya saluran komunikasi yang jelas",
+        "Penggunaan bahasa yang sama",
+        "Ketersediaan teknologi tinggi"
+      ],
+      "answer": 0,
+      "explanation": "Perbedaan budaya dapat menyebabkan misinterpretasi pesan dan menjadi hambatan komunikasi."
+    },
+    {
+      "id": 62,
+      "question": "Dalam proses manajemen komunikasi, distribusi informasi kepada pemangku kepentingan dilakukan pada tahap?",
+      "options": [
+        "Perencanaan komunikasi",
+        "Pengendalian komunikasi",
+        "Pelaksanaan komunikasi",
+        "Evaluasi komunikasi"
+      ],
+      "answer": 2,
+      "explanation": "Pelaksanaan komunikasi adalah proses mengirimkan informasi yang telah direncanakan kepada pihak terkait."
+    },
+    {
+      "id": 63,
+      "question": "Matriks komunikasi digunakan untuk?",
+      "options": [
+        "Menghitung anggaran proyek",
+        "Menentukan jadwal kerja",
+        "Menganalisis risiko proyek",
+        "Memetakan siapa menerima informasi apa dan kapan"
+      ],
+      "answer": 3,
+      "explanation": "Matriks komunikasi membantu mengidentifikasi kebutuhan informasi setiap pemangku kepentingan."
+    },
+    {
+      "id": 64,
+      "question": "Pemangku kepentingan yang paling berperan dalam memastikan komunikasi proyek berjalan lancar adalah?",
+      "options": [
+        "Tim proyek",
+        "Manajer proyek",
+        "Sponsor proyek",
+        "Pelanggan"
+      ],
+      "answer": 1,
+      "explanation": "Manajer proyek bertanggung jawab untuk mengelola komunikasi dan memastikan semua pihak terinformasi."
+    },
+    {
+      "id": 65,
+      "question": "Risiko yang dapat mempengaruhi komunikasi proyek adalah?",
+      "options": [
+        "Risiko teknis",
+        "Risiko sumber daya",
+        "Risiko informasi yang tidak akurat",
+        "Risiko pasar"
+      ],
+      "answer": 2,
+      "explanation": "Informasi yang tidak akurat dapat menyebabkan kesalahan keputusan dan menghambat komunikasi proyek."
+    },
+    {
+      "id": 66,
+      "question": "Proses manajemen risiko bertujuan untuk?",
+      "options": [
+        "Mengidentifikasi dan mengelola risiko secara proaktif",
+        "Menghilangkan semua risiko proyek",
+        "Memastikan proyek selesai tepat waktu",
+        "Mengurangi biaya proyek"
+      ],
+      "answer": 0,
+      "explanation": "Manajemen risiko adalah proses sistematis untuk mengenali dan merespons risiko dengan tujuan meminimalkan dampak negatif."
+    },
+    {
+      "id": 67,
+      "question": "Langkah pertama dalam proses manajemen risiko adalah?",
+      "options": [
+        "Analisis risiko",
+        "Perencanaan respons risiko",
+        "Pengendalian risiko",
+        "Identifikasi risiko"
+      ],
+      "answer": 3,
+      "explanation": "Identifikasi risiko merupakan tahap awal untuk mengenali potensi risiko yang mungkin terjadi dalam proyek."
+    },
+    {
+      "id": 68,
+      "question": "Contoh respons risiko dengan strategi mitigasi adalah?",
+      "options": [
+        "Melakukan tindakan untuk mengurangi probabilitas atau dampak risiko",
+        "Mengalihkan risiko ke pihak ketiga melalui asuransi",
+        "Menerima risiko dan tidak melakukan apa-apa",
+        "Membatalkan proyek karena risiko tinggi"
+      ],
+      "answer": 0,
+      "explanation": "Mitigasi adalah upaya mengurangi kemungkinan atau dampak risiko, misalnya dengan pelatihan tambahan atau pengujian."
+    },
+    {
+      "id": 69,
+      "question": "Dalam proses manajemen risiko, langkah pertama yang harus dilakukan adalah…",
+      "options": [
+        "Menentukan respons risiko",
+        "Mengidentifikasi risiko",
+        "Memantau risiko",
+        "Mengevaluasi risiko"
+      ],
+      "answer": 1,
+      "explanation": "Langkah pertama dalam manajemen risiko adalah identifikasi risiko untuk menemukan potensi masalah yang dapat mempengaruhi proyek."
+    },
+    {
+      "id": 70,
+      "question": "Suatu perusahaan sedang merencanakan proyek baru. Tim manajemen ingin memastikan bahwa risiko yang mungkin muncul telah diantisipasi. Kegiatan yang tepat dilakukan adalah…",
+      "options": [
+        "Identifikasi risiko",
+        "Analisis risiko kualitatif",
+        "Respons risiko",
+        "Pengendalian risiko"
+      ],
+      "answer": 0,
+      "explanation": "Identifikasi risiko adalah tahap awal untuk mendaftar semua risiko potensial sebelum analisis dan respons dilakukan."
+    },
+    {
+      "id": 71,
+      "question": "Contoh dari strategi respons risiko yang bersifat proaktif adalah…",
+      "options": [
+        "Menerima risiko dan tidak melakukan apa pun",
+        "Menghindari risiko dengan mengubah rencana proyek",
+        "Mengalihkan risiko ke pihak ketiga",
+        "Mengurangi dampak risiko dengan rencana kontingensi"
+      ],
+      "answer": 1,
+      "explanation": "Menghindari risiko adalah tindakan proaktif untuk mencegah risiko terjadi dengan mengubah rencana."
+    },
+    {
+      "id": 72,
+      "question": "Ketika risiko yang teridentifikasi memiliki probabilitas rendah dan dampak rendah, tindakan manajemen risiko yang paling efisien adalah…",
+      "options": [
+        "Menerima risiko dan memantau secara pasif",
+        "Menghindari risiko tersebut",
+        "Mengalokasikan dana kontingensi besar",
+        "Mentransfer risiko ke asuransi"
+      ],
+      "answer": 0,
+      "explanation": "Untuk risiko dengan probabilitas dan dampak rendah, penerimaan risiko dengan pemantauan pasif adalah efisien karena biaya mitigasi lebih besar daripada dampaknya."
+    },
+    {
+      "id": 73,
+      "question": "Seorang knowledge worker dalam suatu perusahaan yang melakukan analisis data untuk pengambilan keputusan strategis termasuk dalam kategori…",
+      "options": [
+        "Pekerja manual",
+        "Pekerja administratif",
+        "Pekerja berpengetahuan",
+        "Pekerja teknis lapangan"
+      ],
+      "answer": 2,
+      "explanation": "Pekerja berpengetahuan adalah individu yang menggunakan pengetahuan dan keterampilan intelektual untuk memecahkan masalah kompleks dan mengambil keputusan strategis."
+    },
+    {
+      "id": 74,
+      "question": "Ciri utama dari knowledge worker adalah…",
+      "options": [
+        "Melakukan tugas rutin yang berulang",
+        "Bekerja berdasarkan instruksi langsung dari atasan",
+        "Mengandalkan kreativitas dan analisis untuk menyelesaikan masalah",
+        "Memproduksi barang secara fisik"
+      ],
+      "answer": 2,
+      "explanation": "Knowledge worker mengandalkan pengetahuan, kreativitas, dan kemampuan analitis untuk menghasilkan solusi dan nilai tambah."
+    },
+    {
+      "id": 75,
+      "question": "Dalam bisnis modern, peran knowledge worker semakin penting karena…",
+      "options": [
+        "Mereka dapat menggantikan semua sistem otomatis",
+        "Mereka mampu mengelola informasi dan menciptakan inovasi",
+        "Mereka memiliki biaya tenaga kerja yang rendah",
+        "Mereka tidak memerlukan pelatihan tambahan"
+      ],
+      "answer": 1,
+      "explanation": "Knowledge worker penting karena kemampuan mereka untuk mengelola informasi kompleks dan berinovasi dalam lingkungan bisnis yang dinamis."
+    },
+    {
+      "id": 76,
+      "question": "Seorang knowledge worker sering kali menghadapi tantangan dalam hal…",
+      "options": [
+        "Ketersediaan alat fisik yang memadai",
+        "Pengulangan tugas yang monoton",
+        "Pengukuran produktivitas yang sulit karena bersifat kualitatif",
+        "Ketergantungan pada mesin produksi"
+      ],
+      "answer": 2,
+      "explanation": "Produktivitas knowledge worker sulit diukur karena hasil kerjanya bersifat intelektual dan kualitatif, bukan kuantitatif seperti pekerjaan manual."
+    },
+    {
+      "id": 77,
+      "question": "Untuk meningkatkan efektivitas knowledge worker, perusahaan perlu…",
+      "options": [
+        "Menyediakan akses ke informasi dan alat kolaborasi",
+        "Memberikan tugas yang seragam tanpa variasi",
+        "Mengurangi komunikasi antar divisi",
+        "Membatasi penggunaan teknologi"
+      ],
+      "answer": 0,
+      "explanation": "Akses ke informasi dan alat kolaborasi memungkinkan knowledge worker berbagi pengetahuan dan bekerja secara efisien."
+    },
+    {
+      "id": 78,
+      "question": "Contoh konkret dari knowledge worker adalah…",
+      "options": [
+        "Operator mesin pabrik",
+        "Petugas kebersihan",
+        "Supir angkutan barang",
+        "Konsultan manajemen"
+      ],
+      "answer": 3,
+      "explanation": "Konsultan manajemen menggunakan pengetahuan dan analisis untuk memberikan saran strategis, ciri khas knowledge worker."
+    },
+    {
+      "id": 79,
+      "question": "Knowledge worker lebih cenderung bekerja dalam lingkungan yang…",
+      "options": [
+        "Terstruktur dan kaku",
+        "Terisolasi tanpa interaksi",
+        "Berorientasi pada tugas fisik",
+        "Fleksibel dan kolaboratif"
+      ],
+      "answer": 3,
+      "explanation": "Lingkungan fleksibel dan kolaboratif mendukung knowledge worker untuk berbagai ide dan berinovasi."
+    },
+    {
+      "id": 80,
+      "question": "Tujuan utama dari proses manajemen pengetahuan adalah…",
+      "options": [
+        "Mengubah pengetahuan individu menjadi aset organisasi yang dapat digunakan bersama",
+        "Menyimpan semua data tanpa pengolahan",
+        "Mengurangi jumlah interaksi antar karyawan",
+        "Memusatkan pengetahuan hanya pada manajemen puncak"
+      ],
+      "answer": 0,
+      "explanation": "Manajemen pengetahuan bertujuan untuk mengidentifikasi, menangkap, dan mendistribusikan pengetahuan agar menjadi aset organisasi."
+    },
+    {
+      "id": 81,
+      "question": "Tacit knowledge dalam manajemen pengetahuan merujuk pada pengetahuan yang…",
+      "options": [
+        "Terdokumentasi dalam buku panduan",
+        "Sulit diartikulasikan dan bersifat personal",
+        "Mudah dibagikan melalui sistem informasi",
+        "Berupa data numerik dalam database"
+      ],
+      "answer": 1,
+      "explanation": "Tacit knowledge adalah pengetahuan implisit yang melekat pada individu dan sulit untuk diungkapkan secara formal."
+    },
+    {
+      "id": 82,
+      "question": "Contoh explicit knowledge adalah…",
+      "options": [
+        "Cara seorang ahli memecahkan masalah unik tanpa panduan",
+        "Insting seorang salesman saat menawarkan produk",
+        "Panduan operasional yang tertulis dalam manual",
+        "Rasa percaya diri seorang pemimpin tim"
+      ],
+      "answer": 2,
+      "explanation": "Explicit knowledge adalah pengetahuan yang dapat didokumentasikan dan dibagikan secara formal, seperti panduan tertulis."
+    },
+    {
+      "id": 83,
+      "question": "Dalam proses manajemen pengetahuan, langkah setelah penciptaan pengetahuan adalah…",
+      "options": [
+        "Penyimpanan pengetahuan",
+        "Penerapan pengetahuan",
+        "Penghapusan pengetahuan usang",
+        "Berbagi pengetahuan"
+      ],
+      "answer": 3,
+      "explanation": "Setelah pengetahuan diciptakan, langkah selanjutnya adalah berbagi agar dapat diakses dan digunakan oleh anggota organisasi lain."
+    },
+    {
+      "id": 84,
+      "question": "Teknologi yang paling mendukung proses manajemen pengetahuan adalah…",
+      "options": [
+        "Mesin cetak",
+        "Perangkat lunak akuntansi umum",
+        "Alat berat konstruksi",
+        "Sistem manajemen dokumen dan database"
+      ],
+      "answer": 3,
+      "explanation": "Sistem manajemen dokumen dan database memungkinkan penyimpanan, pencarian, dan berbagi pengetahuan secara efisien."
+    },
+    {
+      "id": 85,
+      "question": "Manakah dari berikut ini yang merupakan output utama dari proses manajemen pengetahuan?",
+      "options": [
+        "Peningkatan jumlah pekerja",
+        "Efisiensi penggunaan mesin",
+        "Penurunan biaya produksi",
+        "Penciptaan nilai tambah melalui pengetahuan"
+      ],
+      "answer": 3,
+      "explanation": "Output utama dari proses manajemen pengetahuan adalah penciptaan nilai tambah melalui pengetahuan."
+    },
+    {
+      "id": 86,
+      "question": "Siklus manajemen pengetahuan yang umum mencakup beberapa tahap. Manakah urutan yang benar?",
+      "options": [
+        "Aplikasi, akuisisi, distribusi, penyimpanan",
+        "Distribusi, aplikasi, akuisisi, penyimpanan",
+        "Akuisisi, penyimpanan, distribusi, aplikasi",
+        "Penyimpanan, aplikasi, akuisisi, distribusi"
+      ],
+      "answer": 2,
+      "explanation": "Urutan siklus manajemen pengetahuan adalah akuisisi, penyimpanan, distribusi, dan aplikasi."
+    },
+    {
+      "id": 87,
+      "question": "Fungsi utama dari Sistem Informasi Eksekutif (EIS) adalah menyediakan informasi bagi manajemen puncak. Manakah dari berikut yang menjadi karakteristik utama EIS?",
+      "options": [
+        "Menyediakan data transaksional rinci",
+        "Mendukung pengambilan keputusan taktis",
+        "Menyediakan ringkasan data strategis",
+        "Mengotomatisasi proses operasional"
+      ],
+      "answer": 2,
+      "explanation": "EIS menyediakan ringkasan data strategis untuk mendukung pengambilan keputusan tingkat eksekutif."
+    },
+    {
+      "id": 88,
+      "question": "Dalam konteks EIS, apa yang dimaksud dengan 'drill-down'?",
+      "options": [
+        "Kemampuan untuk melihat data dari berbagai sudut pandang",
+        "Kemampuan untuk menghapus data yang tidak diperlukan",
+        "Kemampuan untuk menghasilkan laporan otomatis",
+        "Kemampuan untuk menelusuri data dari ringkasan ke detail"
+      ],
+      "answer": 3,
+      "explanation": "Drill-down adalah fitur EIS yang memungkinkan pengguna menelusuri data dari tingkat ringkasan ke tingkat detail."
+    },
+    {
+      "id": 89,
+      "question": "Manakah dari berikut ini yang BUKAN merupakan komponen utama dari EIS?",
+      "options": [
+        "Antarmuka pengguna grafis",
+        "Model analisis",
+        "Database transaksional",
+        "Sistem pelaporan"
+      ],
+      "answer": 2,
+      "explanation": "EIS menggunakan data warehouse atau data mart, bukan database transaksional langsung."
+    },
+    {
+      "id": 90,
+      "question": "Keuntungan utama penggunaan EIS bagi eksekutif adalah…",
+      "options": [
+        "Mempercepat akses informasi strategis",
+        "Mengurangi jumlah rapat",
+        "Menurunkan biaya operasional",
+        "Meningkatkan produktivitas karyawan"
+      ],
+      "answer": 0,
+      "explanation": "EIS mempercepat akses informasi strategis sehingga eksekutif dapat mengambil keputusan lebih cepat."
+    },
+    {
+      "id": 91,
+      "question": "Sistem Informasi Eksekutif sering terintegrasi dengan sistem lain. Manakah sistem yang paling umum diintegrasikan dengan EIS?",
+      "options": [
+        "Sistem penggajian",
+        "Sistem manajemen inventaris",
+        "Sistem antrian",
+        "Data warehouse"
+      ],
+      "answer": 3,
+      "explanation": "EIS biasanya terintegrasi dengan data warehouse untuk menyediakan data agregat dan historis."
+    },
+    {
+      "id": 92,
+      "question": "Fitur 'exception reporting' dalam EIS berguna untuk…",
+      "options": [
+        "Menampilkan semua data secara detail",
+        "Menyoroti penyimpangan dari target",
+        "Membuat grafik otomatis",
+        "Mengirim laporan ke semua staf"
+      ],
+      "answer": 1,
+      "explanation": "Exception reporting menyoroti penyimpangan atau anomali yang memerlukan perhatian eksekutif."
+    },
+    {
+      "id": 93,
+      "question": "Tantangan utama dalam implementasi EIS adalah…",
+      "options": [
+        "Biaya lisensi yang murah",
+        "Mudahnya integrasi data",
+        "Kebutuhan data yang terstruktur dan bersih",
+        "Ketersediaan tenaga IT yang banyak"
+      ],
+      "answer": 2,
+      "explanation": "Salah satu tantangan EIS adalah memastikan data yang digunakan bersih, konsisten, dan terstruktur."
+    },
+    {
+      "id": 94,
+      "question": "Apa yang dimaksud dengan 'Business Process Model and Notation' (BPMN)?",
+      "options": [
+        "Metode untuk mengukur kinerja proses",
+        "Standar notasi grafis untuk memodelkan proses bisnis",
+        "Sistem untuk mengelola dokumen bisnis",
+        "Alat untuk mengotomatisasi proses manufaktur"
+      ],
+      "answer": 1,
+      "explanation": "BPMN adalah standar notasi grafis yang digunakan untuk memodelkan proses bisnis secara visual."
+    },
+    {
+      "id": 95,
+      "question": "Dalam BPMN, elemen yang digunakan untuk menandai awal suatu proses adalah…",
+      "options": [
+        "Start event",
+        "Gateway",
+        "Task",
+        "End event"
+      ],
+      "answer": 0,
+      "explanation": "Start event dalam BPMN menandai titik awal dari suatu proses."
+    },
+    {
+      "id": 96,
+      "question": "Jika dalam diagram BPMN terdapat simbol lingkaran dengan garis rangkap ganda, elemen tersebut menunjukkan…",
+      "options": [
+        "Data object",
+        "Sub-process",
+        "Gateway eksklusif",
+        "Intermediete event"
+      ],
+      "answer": 3,
+      "explanation": "Lingkaran dengan garis rangkap ganda dalam BPMN menunjukkan intermediate event."
+    },
+    {
+      "id": 97,
+      "question": "Dalam BPMN, simbol persegi panjang dengan sudut membulat digunakan untuk menggambarkan…",
+      "options": [
+        "Activity",
+        "Event",
+        "Gateway",
+        "Flow"
+      ],
+      "answer": 0,
+      "explanation": "Activity dalam BPMN direpresentasikan dengan persegi panjang dengan sudut membulat."
+    },
+    {
+      "id": 98,
+      "question": "Gateway berbentuk berlian dengan tanda 'X' di dalamnya pada BPMN menunjukkan…",
+      "options": [
+        "Parallel gateway",
+        "Exclusive gateway",
+        "Inclusive gateway",
+        "Event-based gateway"
+      ],
+      "answer": 1,
+      "explanation": "Gateway dengan tanda 'X' adalah exclusive gateway yang menunjukkan percabangan dengan satu jalur yang dipilih."
+    },
+    {
+      "id": 99,
+      "question": "Elemen BPMN yang menghubungkan antar aktivitas adalah…",
+      "options": [
+        "Sequence flow",
+        "Pools",
+        "Lanes",
+        "Message flow"
+      ],
+      "answer": 0,
+      "explanation": "Sequence flow digunakan untuk menghubungkan aktivitas dalam urutan proses."
+    },
+    {
+      "id": 100,
+      "question": "Fungsi utama dari pool dalam diagram BPMN adalah…",
+      "options": [
+        "Menunjukkan urutan waktu",
+        "Memisahkan partisipan yang berbeda",
+        "Menggambarkan keputusan",
+        "Menandai akhir proses"
+      ],
+      "answer": 1,
+      "explanation": "Pool dalam BPMN digunakan untuk memisahkan partisipan atau entitas organisasi yang terlibat dalam proses."
+    }
+  ]
+}
