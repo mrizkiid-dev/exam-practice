@@ -4,9 +4,11 @@ import { useExamState } from '../composables/useExamState'
 
 const {
   answerMode,
+  reasonMode,
   itemsPerPage,
   questions,
   setAnswerMode,
+  setReasonMode,
   setItemsPerPage,
   resetAllCorrections,
   resetAllAnswers,
@@ -81,6 +83,33 @@ function toggleAll() {
               answerMode === 'hide' ? 'bg-indigo-600 text-white' : 'bg-white text-gray-600 active:bg-gray-100',
             ]"
             @click="setAnswerMode('hide')"
+          >
+            Hide
+          </button>
+        </div>
+      </div>
+
+      <!-- Reason (explanation) visibility toggle -->
+      <div class="flex items-center gap-2">
+        <span class="text-xs font-semibold text-gray-500 uppercase tracking-wide whitespace-nowrap">
+          Reason
+        </span>
+        <div class="flex rounded-lg border border-gray-300 overflow-hidden text-sm">
+          <button
+            :class="[
+              'px-3 py-2 font-medium transition-colors',
+              reasonMode === 'show' ? 'bg-indigo-600 text-white' : 'bg-white text-gray-600 active:bg-gray-100',
+            ]"
+            @click="setReasonMode('show')"
+          >
+            Show
+          </button>
+          <button
+            :class="[
+              'px-3 py-2 font-medium transition-colors border-l border-gray-300',
+              reasonMode === 'hide' ? 'bg-indigo-600 text-white' : 'bg-white text-gray-600 active:bg-gray-100',
+            ]"
+            @click="setReasonMode('hide')"
           >
             Hide
           </button>

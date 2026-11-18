@@ -1,0 +1,611 @@
+{
+  "exam": {
+    "source": "http://soalut.com/soal-ut-msim4308-administrasi-server/",
+    "name": "Ujian Akhir Semester",
+    "matkul": "MSIM4308 Administrasi Server",
+    "semester": "5",
+    "prodi": "Teknik Informatika"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "Apa tujuan utama dari pengelolaan server dalam suatu organisasi?",
+      "options": [
+        "Memastikan server dapat diakses publik tanpa batasan",
+        "Mengurangi biaya listrik yang digunakan server",
+        "Menjamin ketersediaan, keandalan, dan keamanan layanan TI",
+        "Mengganti perangkat keras server setiap bulan"
+      ],
+      "answer": 2,
+      "explanation": "Tujuan pengelolaan server adalah memastikan layanan TI berjalan dengan ketersediaan, keandalan, dan keamanan yang optimal sesuai kebutuhan organisasi."
+    },
+    {
+      "id": 2,
+      "question": "Apa langkah pertama yang harus dilakukan dalam pengelolaan server sebelum menerapkan kebijakan keamanan?",
+      "options": [
+        "Menginstal sistem operasi langsung tanpa perencanaan",
+        "Membeli lisensi perangkat lunak sebanyak mungkin",
+        "Menghubungkan server ke jaringan internet",
+        "Melakukan identifikasi dan inventarisasi aset server"
+      ],
+      "answer": 3,
+      "explanation": "Langkah awal pengelolaan server adalah identifikasi dan inventarisasi aset untuk mengetahui spesifikasi, fungsi, dan lokasi server sebelum menerapkan kebijakan."
+    },
+    {
+      "id": 3,
+      "question": "Salah satu praktik terbaik dalam pengelolaan server adalah melakukan pembaruan perangkat lunak secara berkala. Mengapa hal ini penting?",
+      "options": [
+        "Untuk menambal celah keamanan dan meningkatkan stabilitas sistem",
+        "Untuk meningkatkan kecepatan koneksi internet",
+        "Agar tampilan antarmuka server selalu modern",
+        "Agar server dapat menjalankan aplikasi game"
+      ],
+      "answer": 0,
+      "explanation": "Pembaruan perangkat lunak penting untuk menambal celah keamanan dan meningkatkan stabilitas, sehingga server tetap aman dan andal."
+    },
+    {
+      "id": 4,
+      "question": "Praktik instalasi sistem operasi server dimulai dengan persiapan media instalasi. Media instalasi yang paling umum digunakan saat ini adalah?",
+      "options": [
+        "Floppy disk",
+        "Kaset pita magnetik",
+        "CD/DVD atau USB flash drive",
+        "Kartu memori kamera"
+      ],
+      "answer": 2,
+      "explanation": "Media instalasi modern seperti CD/DVD atau USB flash drive umum digunakan karena kapasitasnya besar dan mudah dibawa."
+    },
+    {
+      "id": 5,
+      "question": "Dalam proses instalasi sistem operasi server, tahap partisi hard disk bertujuan untuk?",
+      "options": [
+        "Menghapus semua data tanpa syarat",
+        "Membagi hard disk menjadi beberapa bagian logis agar sistem dan data terpisah",
+        "Mengubah sistem operasi menjadi lebih cepat",
+        "Menambah kapasitas RAM secara virtual"
+      ],
+      "answer": 1,
+      "explanation": "Partisi hard disk bertujuan membagi ruang penyimpanan menjadi bagian logis, misalnya untuk sistem dan data, sehingga lebih terorganisir."
+    },
+    {
+      "id": 6,
+      "question": "Setelah instalasi sistem operasi server selesai, langkah penting yang harus dilakukan adalah?",
+      "options": [
+        "Mengatur konfigurasi dasar seperti jaringan, hostname, dan pengguna awal",
+        "Menginstal semua aplikasi tanpa seleksi",
+        "Menghapus sistem operasi dan menginstal ulang",
+        "Mematikan server secara permanen"
+      ],
+      "answer": 0,
+      "explanation": "Konfigurasi dasar seperti jaringan, hostname, dan pengguna awal diperlukan agar server dapat berfungsi sesuai kebutuhan."
+    },
+    {
+      "id": 7,
+      "question": "Perintah yang digunakan untuk menambah pengguna baru di sistem operasi Linux adalah?",
+      "options": [
+        "deluser",
+        "listuser",
+        "rmuser",
+        "adduser"
+      ],
+      "answer": 3,
+      "explanation": "Perintah adduser digunakan untuk menambah pengguna baru di Linux, sedangkan deluser untuk menghapus."
+    },
+    {
+      "id": 8,
+      "question": "Apa fungsi dari perintah chmod pada pengelolaan file di Linux?",
+      "options": [
+        "Mengubah hak akses file atau direktori",
+        "Mengubah kepemilikan file",
+        "Menghapus file secara permanen",
+        "Membuat direktori baru"
+      ],
+      "answer": 0,
+      "explanation": "Perintah chmod digunakan untuk mengubah izin akses (read, write, execute) pada file atau direktori."
+    },
+    {
+      "id": 9,
+      "question": "Dalam pengelolaan grup di Linux, perintah yang digunakan untuk menambahkan pengguna ke grup tertentu adalah?",
+      "options": [
+        "groupadd",
+        "useradd -g",
+        "usermod -aG",
+        "passwd"
+      ],
+      "answer": 2,
+      "explanation": "Perintah usermod -aG digunakan untuk menambahkan pengguna ke grup tanpa menghapus keanggotaan grup lainnya."
+    },
+    {
+      "id": 10,
+      "question": "Sistem file ext4 pada Linux memiliki fitur unggulan dibandingkan ext3, yaitu?",
+      "options": [
+        "Tidak mendukung journaling",
+        "Ukuran file maksimal 2 GB",
+        "Hanya bisa digunakan di Windows",
+        "Dukungan volume dan file yang lebih besar serta peningkatan performa"
+      ],
+      "answer": 3,
+      "explanation": "Ext4 mendukung volume hingga 1 exabyte dan file hingga 16 terabyte, serta memiliki peningkatan performa dibanding ext3."
+    },
+    {
+      "id": 11,
+      "question": "Perintah mount pada Linux digunakan untuk?",
+      "options": [
+        "Menghapus sistem file",
+        "Memformat partisi",
+        "Memasang sistem file ke direktori tertentu agar dapat diakses",
+        "Membuat partisi baru"
+      ],
+      "answer": 2,
+      "explanation": "Mount berfungsi memasang sistem file dari perangkat penyimpanan ke direktori tertentu sehingga isinya dapat diakses."
+    },
+    {
+      "id": 12,
+      "question": "Apa yang dimaksud dengan filesystem hierarchy standard (FHS) di Linux?",
+      "options": [
+        "Standar urutan file berdasarkan abjad",
+        "Struktur hierarki direktori standar yang digunakan sistem Linux",
+        "Format penamaan file untuk server",
+        "Sistem keamanan file berbasis enkripsi"
+      ],
+      "answer": 1,
+      "explanation": "FHS adalah standar yang mengatur tata letak direktori di Linux, seperti /bin, /etc, /home, dan /var."
+    },
+    {
+      "id": 13,
+      "question": "Storage Area Network (SAN) adalah teknologi penyimpanan yang?",
+      "options": [
+        "Menggunakan jaringan khusus untuk menghubungkan server ke penyimpanan blok",
+        "Menyimpan data di cloud publik",
+        "Hanya menyimpan file teks",
+        "Tidak memerlukan kabel"
+      ],
+      "answer": 0,
+      "explanation": "SAN menggunakan jaringan berkecepatan tinggi khusus untuk memberikan akses penyimpanan tingkat blok ke server."
+    },
+    {
+      "id": 14,
+      "question": "Apa kelebihan utama dari RAID 1 dibandingkan RAID 0?",
+      "options": [
+        "Kecepatan baca lebih lambat",
+        "Hanya memerlukan satu hard disk",
+        "Kapasitas penyimpanan lebih besar",
+        "Redundansi data karena mirroring sehingga data aman jika satu disk gagal"
+      ],
+      "answer": 3,
+      "explanation": "RAID 1 menggunakan mirroring, sehingga data disalin ke dua disk sekaligus, memberikan toleransi kegagalan disk."
+    },
+    {
+      "id": 15,
+      "question": "Fungsi dari Logical Volume Manager (LVM) dalam pengelolaan storage adalah?",
+      "options": [
+        "Membatasi akses pengguna ke file",
+        "Menyediakan fleksibilitas dalam mengelola partisi tanpa mengubah struktur fisik",
+        "Menghapus volume secara permanen",
+        "Mempercepat proses booting"
+      ],
+      "answer": 1,
+      "explanation": "LVM memungkinkan penggabungan, pemisahan, dan penyesuaian ukuran volume secara dinamis tanpa harus mengubah partisi fisik."
+    },
+    {
+      "id": 16,
+      "question": "Protokol yang umum digunakan untuk berbagi file antara server Linux dan klien Windows adalah?",
+      "options": [
+        "SMB/CIFS",
+        "NFS",
+        "HTTP",
+        "SSH"
+      ],
+      "answer": 0,
+      "explanation": "SMB/CIFS adalah protokol yang digunakan oleh Windows untuk berbagi file, dan dapat diimplementasikan di Linux melalui Samba."
+    },
+    {
+      "id": 17,
+      "question": "Dalam konfigurasi file sharing menggunakan Samba, direktori yang akan dibagikan ditentukan di file konfigurasi?",
+      "options": [
+        "/etc/samba/shares.conf",
+        "/etc/samba/smb.conf",
+        "/var/samba/config.ini",
+        "/home/samba/share.conf"
+      ],
+      "answer": 1,
+      "explanation": "Konfigurasi Samba disimpan di file /etc/samba/smb.conf, termasuk definisi direktori yang akan dibagikan dan izin aksesnya."
+    },
+    {
+      "id": 18,
+      "question": "Dalam file sharing menggunakan NFS, protokol yang digunakan untuk mengakses file sistem melalui jaringan adalah?",
+      "options": [
+        "NFSv3",
+        "SMB/CIFS",
+        "AFP",
+        "HTTP"
+      ],
+      "answer": 0,
+      "explanation": "NFS (Network File System) menggunakan protokol NFS untuk berbagi file melalui jaringan, dengan versi seperti NFSv3 yang umum digunakan."
+    },
+    {
+      "id": 19,
+      "question": "Saat mengatur hak akses pada file di Linux, perintah chmod 755 akan memberikan izin apa?",
+      "options": [
+        "rwxrwxrwx",
+        "rwxr-xr-x",
+        "r-xr-xr-x",
+        "rw-rw-rw-"
+      ],
+      "answer": 1,
+      "explanation": "chmod 755 menghasilkan izin rwx untuk owner, r-x untuk group, dan r-x untuk others."
+    },
+    {
+      "id": 20,
+      "question": "Perintah chown digunakan untuk mengubah apa pada file atau direktori?",
+      "options": [
+        "Pemilik dan grup file",
+        "Hak akses file",
+        "Waktu modifikasi file",
+        "Ukuran file"
+      ],
+      "answer": 0,
+      "explanation": "chown (change owner) digunakan untuk mengubah pemilik dan/atau grup dari file atau direktori."
+    },
+    {
+      "id": 21,
+      "question": "Dalam Linux, nilai umask 0022 akan menghasilkan izin default apa untuk file baru yang dibuat?",
+      "options": [
+        "644",
+        "755",
+        "777",
+        "600"
+      ],
+      "answer": 0,
+      "explanation": "Umask 0022 mengurangi izin default 666 menjadi 644 untuk file dan 777 menjadi 755 untuk direktori."
+    },
+    {
+      "id": 22,
+      "question": "Protokol FTP menggunakan port default berapa untuk koneksi kontrol?",
+      "options": [
+        "20",
+        "22",
+        "21",
+        "23"
+      ],
+      "answer": 2,
+      "explanation": "FTP menggunakan port 21 untuk koneksi kontrol (perintah) dan port 20 untuk transfer data."
+    },
+    {
+      "id": 23,
+      "question": "Dalam praktikum FTP, mode aktif mengharuskan klien untuk membuka port khusus agar?",
+      "options": [
+        "Klien mengirim perintah melalui port 20",
+        "Server menerima data melalui port 21",
+        "Klien menerima data melalui port acak",
+        "Server mengirim data melalui port 20"
+      ],
+      "answer": 3,
+      "explanation": "Mode aktif FTP mengharuskan server membuka port 20 untuk mengirim data ke klien."
+    },
+    {
+      "id": 24,
+      "question": "Saat menggunakan klien FTP command line, perintah ls digunakan untuk apa?",
+      "options": [
+        "Menampilkan daftar file di direktori remote",
+        "Mengubah direktori remote",
+        "Mengupload file ke server",
+        "Mendownload file dari server"
+      ],
+      "answer": 0,
+      "explanation": "Perintah ls pada klien FTP digunakan untuk menampilkan daftar file dan direktori di server remote."
+    },
+    {
+      "id": 25,
+      "question": "Apa fungsi utama server DHCP dalam jaringan?",
+      "options": [
+        "Menyimpan data database",
+        "Menjadi nama domain website",
+        "Memproses email masuk dan keluar",
+        "Menyediakan alamat IP secara otomatis ke klien"
+      ],
+      "answer": 3,
+      "explanation": "DHCP (Dynamic Host Configuration Protocol) otomatis memberikan konfigurasi IP ke perangkat dalam jaringan."
+    },
+    {
+      "id": 26,
+      "question": "Ketika klien DHCP menerima konfigurasi IP, proses yang benar adalah?",
+      "options": [
+        "Request, Discover, Offer, Acknowledge",
+        "Offer, Discover, Request, Acknowledge",
+        "Discover, Offer, Request, Acknowledge",
+        "Acknowledge, Discover, Offer, Request"
+      ],
+      "answer": 2,
+      "explanation": "Urutan DORA: Discover (klien mencari), Offer (server menawarkan), Request (klien meminta), Acknowledge (server mengakui)."
+    },
+    {
+      "id": 27,
+      "question": "Dalam server DHCP, masa sewa (lease time) adalah?",
+      "options": [
+        "Waktu yang diperlukan server untuk memproses permintaan",
+        "Waktu tunggu sebelum server merespon",
+        "Durasi penggunaan alamat IP oleh klien",
+        "Batas waktu klien untuk memperbarui konfigurasi"
+      ],
+      "answer": 2,
+      "explanation": "Lease time menentukan berapa lama alamat IP dipinjamkan kepada klien sebelum harus diperbarui."
+    },
+    {
+      "id": 28,
+      "question": "Apa fungsi server DNS?",
+      "options": [
+        "Menyediakan alamat IP secara dinamis",
+        "Menyediakan layanan email",
+        "Mengelola akun pengguna",
+        "Mengonversi nama domain menjadi alamat IP"
+      ],
+      "answer": 3,
+      "explanation": "DNS (Domain Name System) menerjemahkan nama domain seperti www.example.com ke alamat IP."
+    },
+    {
+      "id": 29,
+      "question": "Record DNS yang digunakan untuk memetakan nama domain ke alamat IPv4 adalah?",
+      "options": [
+        "AAAA",
+        "CNAME",
+        "A",
+        "MX"
+      ],
+      "answer": 2,
+      "explanation": "Record A (Address) menghubungkan nama domain ke alamat IPv4."
+    },
+    {
+      "id": 30,
+      "question": "Ketika terjadi kesalahan nama domain tidak dikenal, server DNS akan mengirim respons?",
+      "options": [
+        "SERVFAIL",
+        "NXDOMAIN",
+        "REFUSED",
+        "TIMEOUT"
+      ],
+      "answer": 1,
+      "explanation": "NXDOMAIN adalah kode respons DNS yang menunjukkan nama domain tidak ditemukan."
+    },
+    {
+      "id": 31,
+      "question": "HTTP menggunakan metode permintaan apa untuk mengambil data dari server web?",
+      "options": [
+        "POST",
+        "GET",
+        "PUT",
+        "DELETE"
+      ],
+      "answer": 1,
+      "explanation": "Metode GET pada HTTP digunakan untuk meminta data dari server web tanpa mengubahnya."
+    },
+    {
+      "id": 32,
+      "question": "Di file konfigurasi Apache, perintah DocumentRoot mengatur apa?",
+      "options": [
+        "Port yang digunakan server",
+        "Alamat IP server",
+        "Nama domain server",
+        "Direktori tempat file website disimpan"
+      ],
+      "answer": 3,
+      "explanation": "DocumentRoot menentukan direktori root dari konten yang akan disajikan oleh Apache."
+    },
+    {
+      "id": 33,
+      "question": "Saat menginstal server web, langkah pertama yang perlu dilakukan di Linux adalah?",
+      "options": [
+        "Mengonfigurasi virtual host",
+        "Menginstal paket perangkat lunak web server",
+        "Membuat file index.html",
+        "Mengatur firewall"
+      ],
+      "answer": 1,
+      "explanation": "Langkah awal adalah menginstal perangkat lunak web server, seperti Apache, menggunakan manajer paket."
+    },
+    {
+      "id": 34,
+      "question": "Dalam server database MySQL, perintah SQL untuk menambahkan baris data baru adalah?",
+      "options": [
+        "INSERT",
+        "UPDATE",
+        "DELETE",
+        "SELECT"
+      ],
+      "answer": 0,
+      "explanation": "Perintah INSERT digunakan untuk menambahkan baris baru ke tabel database."
+    },
+    {
+      "id": 35,
+      "question": "Dalam konteks server database, apa fungsi utama dari sebuah Database Management System (DBMS)?",
+      "options": [
+        "Menyediakan antarmuka grafis untuk pengguna akhir",
+        "Mengelola penyimpanan, pengambilan, dan manipulasi data secara efisien",
+        "Menangani konfigurasi jaringan dan routing paket data",
+        "Mengontrol akses ke sistem operasi server"
+      ],
+      "answer": 1,
+      "explanation": "DBMS berfungsi untuk mengelola penyimpanan, pengambilan, dan manipulasi data secara efisien, menyediakan mekanisme keamanan dan integritas data bagi pengguna."
+    },
+    {
+      "id": 36,
+      "question": "Saat mengelola server database, langkah awal yang harus dilakukan sebelum menginstal DBMS adalah…",
+      "options": [
+        "Mengatur firewall untuk memblokir semua koneksi eksternal",
+        "Membuat user database dengan hak akses penuh",
+        "Memastikan sistem operasi server kompatibel dan terupdate",
+        "Menghapus semua file log dari sistem"
+      ],
+      "answer": 2,
+      "explanation": "Langkah awal adalah memastikan sistem operasi server kompatibel dan terupdate agar instalasi DBMS berjalan lancar dan aman."
+    },
+    {
+      "id": 37,
+      "question": "Dalam pengelolaan remote server, protokol yang umum digunakan untuk mengakses command line jarak jauh secara aman adalah…",
+      "options": [
+        "Telnet",
+        "FTP (File Transfer Protocol)",
+        "SSH (Secure Shell)",
+        "HTTP (Hypertext Transfer Protocol)"
+      ],
+      "answer": 2,
+      "explanation": "SSH menyediakan akses command line yang aman dengan enkripsi, menjadi standar untuk remote administrasi server."
+    },
+    {
+      "id": 38,
+      "question": "Salah satu teknik yang digunakan untuk mengelola remote server secara grafis adalah…",
+      "options": [
+        "Domain Name System (DNS)",
+        "Simple Mail Transfer Protocol (SMTP)",
+        "Dynamic Host Configuration Protocol (DHCP)",
+        "Remote Desktop Protocol (RDP)"
+      ],
+      "answer": 3,
+      "explanation": "RDP memungkinkan akses desktop jarak jauh dengan antarmuka grafis, memudahkan administrasi server."
+    },
+    {
+      "id": 39,
+      "question": "Apa keuntungan utama menggunakan kunci publik-privat dalam autentikasi SSH untuk remote server?",
+      "options": [
+        "Mempercepat transfer data antar server",
+        "menghilangkan kebutuhan password dan meningkatkan keamanan",
+        "Menyederhanakan manajemen user lokal",
+        "Menggantikan firewall server"
+      ],
+      "answer": 1,
+      "explanation": "Kunci publik-privat menghilangkan penggunaan password yang rentan, meningkatkan keamanan akses remote SSH."
+    },
+    {
+      "id": 40,
+      "question": "Pada mail server, protokol yang digunakan untuk mengirimkan email dari klien ke server adalah…",
+      "options": [
+        "SMTP (Simple Mail Transfer Protocol)",
+        "IMAP (Internet Message Access Protocol)",
+        "POP3 (Post Office Protocol 3)",
+        "HTTP (Hypertext Transfer Protocol)"
+      ],
+      "answer": 0,
+      "explanation": "SMTP digunakan untuk mengirim email dari klien ke server dan antar server email."
+    },
+    {
+      "id": 41,
+      "question": "Fungsi utama dari Mail Transfer Agent (MTA) dalam mail server adalah…",
+      "options": [
+        "Meneruskan dan mengirim email antar server",
+        "Mengelola penyimpanan email di server",
+        "Menyediakan antarmuka web untuk membaca email",
+        "Mengenkripsi email pada sisi klien"
+      ],
+      "answer": 0,
+      "explanation": "MTA bertanggung jawab untuk meneruskan dan mengirim email antar server menggunakan SMTP."
+    },
+    {
+      "id": 42,
+      "question": "Untuk membaca email yang tersimpan di server, klien biasanya menggunakan protokol…",
+      "options": [
+        "SMTP (Simple Mail Transfer Protocol)",
+        "DNS (Domain Name System)",
+        "POP3 (Post Office Protocol 3) atau IMAP (Internet Message Access Protocol)",
+        "DHCP (Dynamic Host Configuration Protocol)"
+      ],
+      "answer": 2,
+      "explanation": "POP3 dan IMAP digunakan klien untuk mengambil email dari server, dengan IMAP memungkinkan sinkronisasi antar perangkat."
+    },
+    {
+      "id": 43,
+      "question": "Konsep utama dalam data center yang memisahkan komputasi, penyimpanan, dan jaringan untuk efisiensi disebut…",
+      "options": [
+        "Konvergensi",
+        "Virtualisasi",
+        "Hiperkonvergensi",
+        "Redundansi"
+      ],
+      "answer": 0,
+      "explanation": "Konvergensi menggabungkan sumber daya komputasi, penyimpanan, dan jaringan untuk meningkatkan efisiensi dan pengelolaan."
+    },
+    {
+      "id": 44,
+      "question": "Salah satu komponen penting dalam data center untuk menjaga ketersediaan listrik saat pemadaman adalah…",
+      "options": [
+        "Uninterruptible Power Supply (UPS)",
+        "Switch jaringan",
+        "Rack server",
+        "Kabel serat optik"
+      ],
+      "answer": 0,
+      "explanation": "UPS menyediakan daya cadangan sementara saat listrik padam, melindungi perangkat dari kerusakan dan downtime."
+    },
+    {
+      "id": 45,
+      "question": "Dalam virtualisasi server, hypervisor yang berjalan langsung di atas hardware fisik disebut…",
+      "options": [
+        "Hypervisor tipe 2",
+        "Hypervisor tipe 1",
+        "Kernel virtual machine",
+        "Container engine"
+      ],
+      "answer": 1,
+      "explanation": "Hypervisor tipe 1 berjalan langsung pada hardware, memberikan efisiensi tinggi untuk virtualisasi server."
+    },
+    {
+      "id": 46,
+      "question": "Keuntungan utama dari virtualisasi server adalah…",
+      "options": [
+        "Meningkatkan biaya hardware",
+        "Memperumit manajemen sumber daya",
+        "Mengurangi fleksibilitas konfigurasi",
+        "Efisiensi penggunaan sumber daya dan isolasi antar lingkungan"
+      ],
+      "answer": 3,
+      "explanation": "Virtualisasi memungkinkan penggunaan sumber daya lebih efisien dan isolasi antar mesin virtual, menghemat biaya."
+    },
+    {
+      "id": 47,
+      "question": "Langkah pertama yang dilakukan untuk mengamankan server adalah…",
+      "options": [
+        "Menginstal aplikasi pihak ketiga",
+        "Memperbarui sistem operasi dan patch keamanan",
+        "Membuka semua port firewall",
+        "Membuat user dengan hak superuser untuk semua"
+      ],
+      "answer": 1,
+      "explanation": "Memperbarui sistem operasi dan patch keamanan menutup celah keamanan yang diketahui, langkah fundamental dalam keamanan TI."
+    },
+    {
+      "id": 48,
+      "question": "Salah satu praktik keamanan TI yang penting adalah menerapkan prinsip…",
+      "options": [
+        "Privilege maksimum untuk semua pengguna",
+        "Mematikan semua logging",
+        "Penggunaan password lemah",
+        "Least privilege (hak akses minimal)"
+      ],
+      "answer": 3,
+      "explanation": "Prinsip least privilege memastikan setiap pengguna hanya memiliki akses yang diperlukan, mengurangi risiko penyalahgunaan."
+    },
+    {
+      "id": 49,
+      "question": "Dalam SOP pengelolaan TI, dokumen yang berisi langkah-langkah terperinci untuk menangani insiden disebut…",
+      "options": [
+        "Kebijakan keamanan",
+        "Laporan keuangan",
+        "Rencana bisnis",
+        "Prosedur operasional standar (SOP)"
+      ],
+      "answer": 3,
+      "explanation": "SOP memberikan panduan terstruktur untuk menangani insiden, memastikan konsistensi dan efektivitas respons."
+    },
+    {
+      "id": 50,
+      "question": "Manfaat utama memiliki SOP pengelolaan TI adalah…",
+      "options": [
+        "Meningkatkan risiko kesalahan manusia",
+        "Membuat proses menjadi kaku dan tidak fleksibel",
+        "Memastikan konsistensi dan efisiensi operasional",
+        "Mengurangi dokumentasi"
+      ],
+      "answer": 2,
+      "explanation": "SOP memastikan setiap tugas dilakukan dengan cara yang seragam, meningkatkan efisiensi dan mengurangi kesalahan."
+    }
+  ]
+}

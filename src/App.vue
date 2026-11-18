@@ -2,6 +2,7 @@
 import { ref, onMounted, computed } from 'vue'
 import { useExamState } from './composables/useExamState'
 import ExamListCard from './components/ExamListCard.vue'
+import SemesterCard from './components/SemesterCard.vue'
 import AddExamModal from './components/AddExamModal.vue'
 import SettingsPanel from './components/SettingsPanel.vue'
 import QuestionCard from './components/QuestionCard.vue'
@@ -10,7 +11,10 @@ import PaginationBar from './components/PaginationBar.vue'
 const {
   loadExamList,
   closeExam,
-  examList,
+  semesterList,
+  activeSemester,
+  activeSemesterInfo,
+  closeSemester,
   activeFile,
   examInfo,
   pagedQuestions,
@@ -19,9 +23,14 @@ const {
   itemsPerPage,
 } = useExamState()
 
-onMounted(loadExamList)
-
 const showAddModal = ref(false)
+const loaded = ref(false)
+onMounted(async () => { await loadExamList(); loaded.value = true })
+
+// The highest-numbered semester is treated as the current one
+const currentSemesterId = computed(() =>
+  [...semesterList.value].reverse().find((s) => s.semester !== null)?.id ?? null
+)
 
 const pageOffset = computed(() => {
   if (itemsPerPage.value === 'all') return 0
@@ -40,15 +49,27 @@ const meta = computed(() => ({
   <div class="min-h-screen bg-gray-50 flex flex-col">
 
     <!-- ══════════════════════════════════════════════════════════════════ -->
-    <!--  LIST VIEW                                                         -->
+    <!--  HOME: SEMESTER PICKER / EXAM LIST                                 -->
     <!-- ══════════════════════════════════════════════════════════════════ -->
     <template v-if="!activeFile">
 
       <header class="sticky top-0 z-10 bg-white border-b border-gray-200 shadow-sm">
         <div class="max-w-2xl mx-auto px-4 sm:px-6 py-4 flex items-center justify-between gap-3">
-          <div>
-            <h1 class="text-xl font-bold text-indigo-700 tracking-tight">Exam Practice</h1>
-            <p class="text-xs text-gray-400 mt-0.5">Pilih ujian untuk memulai latihan</p>
+          <div class="min-w-0">
+            <button
+              v-if="activeSemester"
+              class="text-indigo-600 font-semibold text-sm flex items-center gap-1 mb-1
+                     active:opacity-60 transition-opacity"
+              @click="closeSemester"
+            >
+              ← Semua semester
+            </button>
+            <h1 class="text-xl font-bold text-indigo-700 tracking-tight truncate">
+              {{ activeSemesterInfo ? activeSemesterInfo.label : 'Exam Practice' }}
+            </h1>
+            <p class="text-xs text-gray-400 mt-0.5">
+              {{ activeSemester ? 'Pilih matkul untuk memulai latihan' : 'Pilih semester' }}
+            </p>
           </div>
 
           <!-- Add matkul button -->
@@ -65,23 +86,37 @@ const meta = computed(() => ({
       </header>
 
       <main class="flex-1 max-w-2xl w-full mx-auto px-4 sm:px-6 py-6 flex flex-col gap-4">
-        <div v-if="examList.length === 0" class="text-center py-20 text-gray-400 text-sm">
+        <div v-if="!loaded" class="text-center py-20 text-gray-400 text-sm">
           Memuat daftar ujian…
         </div>
 
-        <ExamListCard
-          v-for="entry in examList"
-          :key="entry.id"
-          :entry="entry"
-        />
+        <!-- Semester picker -->
+        <template v-else-if="!activeSemester">
+          <SemesterCard
+            v-for="s in [...semesterList].reverse()"
+            :key="s.id"
+            :info="s"
+            :current="s.id === currentSemesterId"
+          />
+          <div v-if="semesterList.length === 0" class="text-center py-10 text-gray-400 text-sm">
+            Belum ada data semester. Buat folder <code>public/data/semesterN/</code>.
+          </div>
+        </template>
 
-        <!-- Empty custom state: no file exams + no custom exams -->
-        <div
-          v-if="examList.length === 0"
-          class="text-center py-10 text-gray-400 text-sm"
-        >
-          Belum ada matkul. Tap "+ Tambah Matkul" untuk menambahkan.
-        </div>
+        <!-- Exams in the selected semester -->
+        <template v-else>
+          <ExamListCard
+            v-for="entry in activeSemesterInfo?.exams ?? []"
+            :key="entry.id"
+            :entry="entry"
+          />
+          <div
+            v-if="!activeSemesterInfo?.exams.length"
+            class="text-center py-10 text-gray-400 text-sm"
+          >
+            Belum ada matkul di semester ini. Tap "+ Tambah Matkul" untuk menambahkan.
+          </div>
+        </template>
       </main>
 
     </template>

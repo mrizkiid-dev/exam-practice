@@ -1,5 +1,5 @@
 <script setup>
-import { ref, watch } from 'vue'
+import { ref, computed, watch } from 'vue'
 import { useExamState } from '../composables/useExamState'
 
 const props = defineProps({
@@ -18,13 +18,14 @@ const props = defineProps({
   },
 })
 
-const { answerMode, drillSession, setCorrection, resetCorrection } = useExamState()
+const { answerMode, reasonMode, drillSession, setCorrection, resetCorrection } = useExamState()
 
 // ── local state ───────────────────────────────────────────────────────────────
 
 const selectedIndex = ref(null)   // user's pick in drill mode
 const isEditing = ref(false)      // edit-answer-key mode active
 const editSelection = ref(null)   // tentative new correct answer while editing
+const reasonOverride = ref(null)  // per-card reason toggle: null = follow global setting
 
 // Reset drill answer when the question changes (pagination) or when the
 // global drillSession bumps (user pressed "Reset all answers")
@@ -34,8 +35,20 @@ watch(
     selectedIndex.value = null
     isEditing.value = false
     editSelection.value = null
+    reasonOverride.value = null
   }
 )
+
+// Changing the global Reason setting clears per-card overrides
+watch(reasonMode, () => { reasonOverride.value = null })
+
+// The answer is revealed (show mode, or hide mode after the user picked an option)
+const answerRevealed = computed(() => answerMode.value === 'show' || selectedIndex.value !== null)
+
+// Reason is expanded: the card's own toggle wins, otherwise the global setting
+const reasonOpen = computed(() => reasonOverride.value ?? reasonMode.value === 'show')
+
+function toggleReason() { reasonOverride.value = !reasonOpen.value }
 
 // ── option styling ────────────────────────────────────────────────────────────
 
@@ -201,17 +214,32 @@ const LABELS = ['A', 'B', 'C', 'D']
           : '✗ Salah — lihat jawaban yang disorot.' }}
       </p>
 
-      <!-- Explanation box — visible in show mode always, or in hide mode after answering -->
+      <!-- Reason (explanation): shown below the answer once it is revealed; can be hidden/shown -->
       <div
-        v-if="question.explanation && !isEditing && (answerMode === 'show' || selectedIndex !== null)"
-        class="rounded-xl border border-green-200 bg-green-50 px-4 py-3 flex flex-col gap-1"
+        v-if="question.explanation && !isEditing && answerRevealed"
+        class="flex flex-col gap-2"
       >
-        <p class="text-xs font-bold text-green-700">
-          Jawaban: {{ LABELS[question.activeAnswer] }}
-        </p>
-        <p class="text-sm text-green-900 leading-relaxed">
-          {{ question.explanation }}
-        </p>
+        <button
+          class="self-start inline-flex items-center gap-1.5 text-xs font-semibold text-green-700
+                 border border-green-200 rounded-lg px-3 py-2 min-h-[36px]
+                 active:bg-green-50 transition-colors"
+          :aria-expanded="reasonOpen"
+          @click="toggleReason"
+        >
+          💡 {{ reasonOpen ? 'Sembunyikan alasan' : 'Lihat alasan' }}
+        </button>
+
+        <div
+          v-if="reasonOpen"
+          class="rounded-xl border border-green-200 bg-green-50 px-4 py-3 flex flex-col gap-1"
+        >
+          <p class="text-xs font-bold text-green-700">
+            Jawaban: {{ LABELS[question.activeAnswer] }}
+          </p>
+          <p class="text-sm text-green-900 leading-relaxed">
+            {{ question.explanation }}
+          </p>
+        </div>
       </div>
 
       <!-- ── Action bar ──────────────────────────────────────────────── -->

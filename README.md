@@ -24,7 +24,7 @@ npm run preview  # preview production build
 
 ### Step 1 — Create the JSON file
 
-Create a new file inside `public/data/`, for example `algoritma.json`.
+Create a new file inside the semester folder `public/data/semesterN/`, for example `public/data/semester5/algoritma.json`. To add a new semester, just create a new `semesterN` folder.
 
 **Full structure:**
 
@@ -86,15 +86,9 @@ Jawaban benar = "C"  →  answer: 2
 
 ---
 
-### Step 2 — Daftarkan file ke index
+### Step 2 — Index otomatis
 
-Buka `public/data/index.json` dan tambahkan nama file baru:
-
-```json
-["pemweb.json", "basis-data.json", "algoritma.json"]
-```
-
-Urutan di sini = urutan kartu di halaman utama.
+Tidak perlu edit apa pun. `public/data/index.json` dibuat otomatis oleh plugin Vite (saat `npm run dev` dan `npm run build`) dengan memindai semua folder `semesterN/`. Halaman utama menampilkan kartu per semester; semester terbaru ditandai **Sekarang**.
 
 ---
 
@@ -173,7 +167,7 @@ Aturan penting:
 }
 ```
 
-Simpan output AI sebagai file `.json` di `public/data/`, lalu daftarkan di `index.json`.
+Simpan output AI sebagai file `.json` di `public/data/semesterN/` (index dibuat otomatis).
 
 > **Tip:** Jika ada jawaban yang kamu ragu, biarkan saja — kamu bisa koreksi langsung di dalam app menggunakan fitur **"Edit answer key"** di tiap kartu soal.
 
@@ -184,14 +178,17 @@ Simpan output AI sebagai file `.json` di `public/data/`, lalu daftarkan di `inde
 ```
 public/
 └── data/
-    ├── index.json        ← daftar semua file ujian
-    ├── pemweb.json       ← satu file = satu ujian
-    ├── basis-data.json
-    └── [nama-ujian].json
+    ├── index.json        ← otomatis (jangan diedit)
+    ├── semester4/
+    │   ├── msim4309.json ← satu file = satu ujian
+    │   └── ...
+    └── semester5/
+        └── [nama-ujian].json
 
 src/
 ├── components/
-│   ├── ExamListCard.vue  ← kartu di halaman utama
+│   ├── SemesterCard.vue  ← kartu semester di halaman utama
+│   ├── ExamListCard.vue  ← kartu matkul per semester
 │   ├── QuestionCard.vue  ← tampilan tiap soal
 │   ├── PaginationBar.vue
 │   └── SettingsPanel.vue
