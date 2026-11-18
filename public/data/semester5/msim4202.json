@@ -1,0 +1,1211 @@
+{
+  "exam": {
+    "source": "https://soalut.com/soal-ut-msim4202-struktur-data/",
+    "name": "Ujian Akhir Semester",
+    "matkul": "MSIM4202 Struktur Data",
+    "semester": "5",
+    "prodi": "Teknik Informatika"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "Cara menyimpan dan mengorganisasi data di komputer agar dapat diakses dan dimodifikasi secara efisien disebut…",
+      "options": [
+        "Algoritma",
+        "Tipe Data Abstrak",
+        "Bahasa Pemrograman",
+        "Struktur Data"
+      ],
+      "answer": 3,
+      "explanation": "Struktur data secara spesifik merujuk pada metode penyimpanan dan pengorganisasian data untuk efisiensi akses dan modifikasi."
+    },
+    {
+      "id": 2,
+      "question": "Faktor utama yang dijadikan ukuran efisiensi suatu struktur data adalah…",
+      "options": [
+        "Keamanan data dan kemudahan penulisan kode",
+        "Kejelasan dokumentasi dan jumlah komentar",
+        "Portabilitas dan kompatibilitas perangkat",
+        "Penggunaan waktu dan ruang memori"
+      ],
+      "answer": 3,
+      "explanation": "Efisiensi struktur data diukur berdasarkan kompleksitas waktu dan kompleksitas ruang memori yang digunakannya."
+    },
+    {
+      "id": 3,
+      "question": "Konsep yang mendefinisikan perilaku data melalui operasi yang diizinkan tanpa menspesifikasikan detail implementasinya adalah…",
+      "options": [
+        "Tipe Data Abstrak",
+        "Algoritma",
+        "Struktur Data",
+        "Logaritma"
+      ],
+      "answer": 0,
+      "explanation": "Tipe Data Abstrak (ADT) fokus pada operasi yang dapat dilakukan terhadap data dan menyembunyikan detail implementasi dari pengguna."
+    },
+    {
+      "id": 4,
+      "question": "Yang membedakan Tipe Data Abstrak dari struktur data adalah Tipe Data Abstrak menekankan pada…",
+      "options": [
+        "Detail implementasi penyimpanan data di memori",
+        "Perilaku data dan operasi yang diizinkan",
+        "Penggunaan memori statis dibandingkan dinamis",
+        "Kecepatan eksekusi operasi pada data"
+      ],
+      "answer": 1,
+      "explanation": "ADT menekankan pada perilaku dan operasi data, sedangkan struktur data berkaitan dengan mekanisme penyimpanan dan pengorganisasian konkretnya."
+    },
+    {
+      "id": 5,
+      "question": "Berikut ini yang bukan merupakan contoh penggunaan struktur data adalah…",
+      "options": [
+        "Menyimpan daftar kontak pada telepon seluler",
+        "Mendefinisikan langkah-langkah logis algoritma sorting",
+        "Mengatur antrian pencetakan dokumen",
+        "Merepresentasikan rute dalam aplikasi navigasi"
+      ],
+      "answer": 1,
+      "explanation": "Mendefinisikan langkah-langkah logis algoritma adalah ranah algoritma, bukan struktur data yang berfokus pada pengorganisasian data."
+    },
+    {
+      "id": 6,
+      "question": "Algoritma divide and conquer sering memiliki kompleksitas O(log n) yang dasarnya berkaitan dengan konsep matematika…",
+      "options": [
+        "Himpunan",
+        "Relasi",
+        "Logaritma",
+        "Fungsi Rekursif"
+      ],
+      "answer": 2,
+      "explanation": "Pembagian masalah menjadi bagian lebih kecil secara berulang pada divide and conquer menghasilkan kompleksitas logaritmik O(log n)."
+    },
+    {
+      "id": 7,
+      "question": "Konsep matematika yang mendasari struktur data tree dan graph dalam merepresentasikan hubungan antar elemen adalah…",
+      "options": [
+        "Logaritma",
+        "Relasi",
+        "Himpunan",
+        "Fungsi Rekursif"
+      ],
+      "answer": 1,
+      "explanation": "Relasi mendefinisikan hubungan antar elemen yang direpresentasikan dalam struktur hierarkis seperti tree maupun struktur jaringan seperti graph."
+    },
+    {
+      "id": 8,
+      "question": "Operasi penyisipan dan penghapusan pada struktur data kumpulan paling tepat didasari oleh konsep matematika…",
+      "options": [
+        "Logaritma",
+        "Relasi",
+        "Himpunan",
+        "Fungsi Rekursif"
+      ],
+      "answer": 2,
+      "explanation": "Himpunan memiliki operasi dasar pencarian, penyisipan, dan penghapusan elemen yang menjadi dasar struktur data kumpulan."
+    },
+    {
+      "id": 9,
+      "question": "Fungsi rekursif banyak digunakan dalam operasi struktur data hierarkis karena fungsi rekursif…",
+      "options": [
+        "Memanggil dirinya sendiri untuk memproses struktur bercabang",
+        "Memiliki kompleksitas waktu yang paling rendah",
+        "Tidak membutuhkan alokasi memori tambahan",
+        "Menggunakan perulangan for untuk traversal data"
+      ],
+      "answer": 0,
+      "explanation": "Fungsi rekursif memanggil dirinya sendiri sehingga cocok untuk menangani struktur data hierarkis seperti tree yang memiliki pola pengolahan berulang pada setiap cabang."
+    },
+    {
+      "id": 10,
+      "question": "Perbedaan utama logaritma dengan fungsi eksponensial dalam analisis struktur data adalah logaritma…",
+      "options": [
+        "Tumbuh lebih cepat dibanding eksponensial",
+        "Tidak relevan dalam kompleksitas waktu",
+        "Hanya digunakan pada algoritma pengurutan",
+        "Tumbuh lebih lambat dibanding eksponensial"
+      ],
+      "answer": 3,
+      "explanation": "Logaritma tumbuh sangat lambat dibanding fungsi eksponensial, sehingga kompleksitas O(log n) jauh lebih efisien daripada O(2^n)."
+    },
+    {
+      "id": 11,
+      "question": "Dalam pemrograman berorientasi objek di Java, cetak biru yang mendefinisikan atribut dan metode suatu objek disebut…",
+      "options": [
+        "Objek",
+        "Interface",
+        "Pewarisan",
+        "Kelas"
+      ],
+      "answer": 3,
+      "explanation": "Kelas adalah blueprint yang mendefinisikan atribut dan metode, sedangkan objek adalah instansiasi konkret dari kelas tersebut."
+    },
+    {
+      "id": 12,
+      "question": "Suatu kelas Java memiliki atribut 'nama' dan metode 'tampilkanNama()'. Ketika program membuat 'Mahasiswa mhs = new Mahasiswa()', yang dimaksud 'mhs' adalah…",
+      "options": [
+        "Kelas",
+        "Interface",
+        "Objek",
+        "Pewarisan"
+      ],
+      "answer": 2,
+      "explanation": "'mhs' adalah objek yang merupakan instansiasi konkret dari kelas Mahasiswa dengan nilai atribut tersendiri."
+    },
+    {
+      "id": 13,
+      "question": "Mekanisme yang memungkinkan suatu kelas mewarisi atribut dan metode dari kelas lain di Java disebut…",
+      "options": [
+        "Interface",
+        "Polimorfisme",
+        "Pewarisan",
+        "Enkapsulasi"
+      ],
+      "answer": 2,
+      "explanation": "Pewarisan (inheritance) memungkinkan suatu kelas mewarisi atribut dan metode dari kelas lain menggunakan kata kunci extends."
+    },
+    {
+      "id": 14,
+      "question": "Kontrak murni dalam Java yang hanya mendefinisikan metode tanpa implementasi disebut…",
+      "options": [
+        "Interface",
+        "Objek",
+        "Pewarisan",
+        "Kelas Abstrak"
+      ],
+      "answer": 0,
+      "explanation": "Interface murni hanya mendefinisikan deklarasi metode tanpa implementasi, berbeda dengan kelas abstrak yang boleh memiliki sebagian implementasi metode."
+    },
+    {
+      "id": 15,
+      "question": "Perbedaan antara Interface dan Kelas Abstrak di Java terletak pada…",
+      "options": [
+        "Interface murni tidak memiliki implementasi metode, kelas abstrak boleh memiliki",
+        "Interface boleh memiliki implementasi metode, kelas abstrak tidak",
+        "Interface dapat memiliki konstruktor, kelas abstrak tidak",
+        "Interface mendukung pewarisan tunggal, kelas abstrak mendukung pewarisan berganda"
+      ],
+      "answer": 0,
+      "explanation": "Interface murni hanya berisi deklarasi metode tanpa implementasi, sedangkan kelas abstrak boleh memiliki metode yang sudah diimplementasikan dan metode abstrak."
+    },
+    {
+      "id": 16,
+      "question": "Tipe data bawaan bahasa pemrograman yang menyimpan nilai tunggal seperti int, char, dan boolean disebut…",
+      "options": [
+        "Tipe Data Referensi",
+        "Tipe Data Primitif",
+        "Tipe Data Abstrak",
+        "Wrapper Class"
+      ],
+      "answer": 1,
+      "explanation": "Tipe data primitif adalah tipe bawaan yang menyimpan nilai secara langsung di memori stack, bukan alamat referensi ke objek."
+    },
+    {
+      "id": 17,
+      "question": "Kelas Integer di Java yang membungkus tipe data primitif int menjadi objek termasuk dalam kategori…",
+      "options": [
+        "Wrapper Class",
+        "Tipe Data Referensi",
+        "Tipe Data Primitif",
+        "Tipe Data Abstrak"
+      ],
+      "answer": 0,
+      "explanation": "Wrapper class seperti Integer, Character, dan Boolean membungkus tipe data primitif menjadi objek sehingga dapat digunakan pada Collection Framework."
+    },
+    {
+      "id": 18,
+      "question": "Tipe data referensi di Java menyimpan alamat memori ke objek, berbeda dengan tipe primitif yang menyimpan…",
+      "options": [
+        "Kunci hash",
+        "Alamat memori lain",
+        "Referensi ke metode",
+        "Nilai langsung"
+      ],
+      "answer": 3,
+      "explanation": "Tipe data primitif menyimpan nilai secara langsung di lokasi memorinya, tidak menyimpan alamat atau referensi."
+    },
+    {
+      "id": 19,
+      "question": "Wrapper class di Java diperlukan saat bekerja dengan Collection Framework karena…",
+      "options": [
+        "Primitif tidak bisa dikonversi",
+        "Primitif lebih lambat diproses",
+        "Wrapper class menghemat memori",
+        "Collection hanya menerima objek"
+      ],
+      "answer": 3,
+      "explanation": "Collection Framework seperti ArrayList hanya dapat menyimpan objek, sehingga tipe primitif harus dibungkus dulu menjadi objek menggunakan wrapper class."
+    },
+    {
+      "id": 20,
+      "question": "Berikut ini yang bukan merupakan karakteristik Tipe Data Abstrak saat diimplementasikan di Java adalah…",
+      "options": [
+        "Implementasi detail disembunyikan",
+        "Menggunakan kelas dan interface",
+        "Pengguna harus mengetahui struktur memorinya",
+        "Pengguna hanya tahu operasi yang diizinkan"
+      ],
+      "answer": 2,
+      "explanation": "Tipe Data Abstrak justru menyembunyikan detail implementasi, sehingga pengguna tidak perlu mengetahui bagaimana struktur memori atau representasi internalnya."
+    },
+    {
+      "id": 21,
+      "question": "Alokasi memori untuk array di Java bersifat statis yang berarti…",
+      "options": [
+        "Ukuran array bisa berubah saat runtime",
+        "Memori dialokasikan di heap",
+        "Elemen array disimpan tidak berurutan",
+        "Ukuran array ditentukan saat deklarasi dan tetap"
+      ],
+      "answer": 3,
+      "explanation": "Array di Java memiliki ukuran tetap yang ditentukan pada saat alokasi, tidak dapat diperbesar atau diperkecil setelah dialokasikan."
+    },
+    {
+      "id": 22,
+      "question": "Keunggulan utama akses elemen array secara acak dengan indeks adalah waktu aksesnya yang…",
+      "options": [
+        "O(1)",
+        "O(n)",
+        "O(n^2)",
+        "O(log n)"
+      ],
+      "answer": 0,
+      "explanation": "Akses elemen array menggunakan indeks bersifat konstan O(1) karena alamat memori setiap elemen dapat dihitung langsung dari alamat dasar dan offset indeks."
+    },
+    {
+      "id": 23,
+      "question": "Array multidimensi di Java diimplementasikan sebagai…",
+      "options": [
+        "Blok memori tunggal yang berurutan",
+        "Array dari array",
+        "Linked list dua arah",
+        "Struktur pohon biner"
+      ],
+      "answer": 1,
+      "explanation": "Java mengimplementasikan array multidimensi dengan pendekatan array dari array, di mana setiap elemen array utama merujuk ke array lain."
+    },
+    {
+      "id": 24,
+      "question": "ArrayIndexOutOfBoundsException terjadi ketika program mencoba…",
+      "options": [
+        "Mengakses indeks di luar rentang yang dialokasikan",
+        "Menginisialisasi array dengan ukuran negatif",
+        "Mengubah ukuran array",
+        "Menyimpan tipe data yang salah dalam array"
+      ],
+      "answer": 0,
+      "explanation": "Exception ini dilempar saat runtime jika indeks yang diakses lebih kecil dari 0 atau lebih besar atau sama dengan panjang array."
+    },
+    {
+      "id": 25,
+      "question": "Perbedaan utama antara array dan ArrayList di Java terletak pada…",
+      "options": [
+        "Kemampuan mengubah ukuran setelah alokasi",
+        "Jenis data yang dapat disimpan",
+        "Kecepatan akses elemen",
+        "Dukungan terhadap tipe primitif"
+      ],
+      "answer": 0,
+      "explanation": "Array memiliki ukuran tetap setelah alokasi, sedangkan ArrayList dapat bertambah dan berkurang ukurannya secara dinamis selama runtime."
+    },
+    {
+      "id": 26,
+      "question": "Node pada singly linked list menyimpan data dan referensi ke…",
+      "options": [
+        "Node sebelumnya saja",
+        "Node berikutnya saja",
+        "Node sebelumnya dan berikutnya",
+        "Head linked list"
+      ],
+      "answer": 1,
+      "explanation": "Setiap node pada singly linked list memiliki dua komponen yaitu data yang disimpan dan referensi atau pointer ke node berikutnya dalam rantai."
+    },
+    {
+      "id": 27,
+      "question": "Keunggulan utama linked list dibandingkan array dalam hal alokasi memori adalah…",
+      "options": [
+        "Mengalokasikan memori secara dinamis saat runtime",
+        "Menggunakan lebih sedikit memori per elemen",
+        "Mendukung akses acak yang lebih cepat",
+        "Menyimpan elemen di lokasi memori yang berurutan"
+      ],
+      "answer": 0,
+      "explanation": "Linked list mengalokasikan memori untuk setiap node secara individual saat diperlukan, sehingga ukurannya fleksibel dan dapat berubah selama eksekusi program."
+    },
+    {
+      "id": 28,
+      "question": "Doubly linked list memungkinkan traversal dua arah karena setiap node memiliki referensi ke…",
+      "options": [
+        "Head dan tail",
+        "Node pertama dan terakhir",
+        "Node sebelumnya dan node berikutnya",
+        "Semua node lain dalam list"
+      ],
+      "answer": 2,
+      "explanation": "Doubly linked list menyimpan dua referensi di setiap node, yaitu ke node sebelumnya dan node berikutnya, sehingga traversal dapat dilakukan maju dan mundur."
+    },
+    {
+      "id": 29,
+      "question": "Operasi penyisipan elemen di linked list memiliki kompleksitas O(1) jika…",
+      "options": [
+        "Linked list dalam keadaan kosong",
+        "Ukuran list kurang dari 10",
+        "Elemen disisipkan di akhir list",
+        "Posisi penyisipan sudah diketahui"
+      ],
+      "answer": 3,
+      "explanation": "Kompleksitas penyisipan menjadi O(1) ketika pointer ke posisi penyisipan sudah tersedia, karena operasi hanya mengubah referensi node tetangga tanpa perlu pencarian."
+    },
+    {
+      "id": 30,
+      "question": "Operasi penghapusan elemen di linked list dilakukan dengan…",
+      "options": [
+        "Menggeser semua elemen setelahnya ke kiri",
+        "Mengubah referensi node sebelumnya agar menunjuk node setelah elemen yang dihapus",
+        "Menandai elemen sebagai null tanpa mengubah referensi",
+        "Membuat node baru untuk menggantikan elemen yang dihapus"
+      ],
+      "answer": 1,
+      "explanation": "Penghapusan di linked list cukup dilakukan dengan mengubah referensi node sebelumnya agar langsung menunjuk ke node setelah elemen yang dihapus, tanpa perlu menggeser elemen lain."
+    },
+    {
+      "id": 31,
+      "question": "Deklarasi variabel primitif di Java seperti 'int x = 5' akan mengalokasikan memori di…",
+      "options": [
+        "Stack",
+        "Heap",
+        "Metaspace",
+        "Register CPU"
+      ],
+      "answer": 0,
+      "explanation": "Variabel primitif lokal disimpan di stack memori yang dikelola secara otomatis dengan mekanisme LIFO saat method dipanggil dan selesai."
+    },
+    {
+      "id": 32,
+      "question": "Konversi tipe data dari int ke double di Java termasuk dalam kategori…",
+      "options": [
+        "Narrowing casting",
+        "Explicit casting",
+        "Widening casting",
+        "Reference casting"
+      ],
+      "answer": 2,
+      "explanation": "Konversi dari int ke double disebut widening casting karena tipe tujuan memiliki rentang lebih besar, sehingga terjadi secara implisit tanpa kehilangan data."
+    },
+    {
+      "id": 33,
+      "question": "Inisialisasi array 'int[] arr = new int[10]' di Java menghasilkan…",
+      "options": [
+        "10 elemen bernilai null",
+        "10 elemen bernilai 0",
+        "Array kosong tanpa elemen",
+        "Array dengan elemen acak"
+      ],
+      "answer": 1,
+      "explanation": "Array bertipe int diinisialisasi dengan nilai default 0 untuk setiap elemennya, berbeda dengan array objek yang diinisialisasi null."
+    },
+    {
+      "id": 34,
+      "question": "Saat mengimplementasikan node untuk singly linked list di Java, atribut minimal yang diperlukan adalah…",
+      "options": [
+        "Data saja",
+        "Data dan referensi ke node sebelumnya",
+        "Data dan referensi ke node berikutnya",
+        "Referensi ke head dan tail"
+      ],
+      "answer": 2,
+      "explanation": "Node singly linked list minimal memiliki atribut untuk menyimpan data dan satu referensi yang menunjuk ke node berikutnya dalam urutan."
+    },
+    {
+      "id": 35,
+      "question": "Dalam praktikum tipe data primitif di Java, ketika sebuah variabel bertipe int menyimpan nilai 1000 dan dikonversi menjadi byte, potensi kehilangan data terjadi karena…",
+      "options": [
+        "byte memiliki ukuran memori lebih kecil sehingga bit paling signifikan akan dipotong",
+        "konversi dari int ke byte memerlukan casting eksplisit yang selalu gagal pada runtime",
+        "Java tidak mengizinkan konversi dari tipe integral ke tipe yang lebih kecil kapasitasnya",
+        "nilai 1000 terlalu besar untuk direpresentasikan dalam bentuk biner pada semua tipe primitif"
+      ],
+      "answer": 0,
+      "explanation": "Konversi dari tipe data yang lebih besar ke tipe yang lebih kecil di Java, seperti int (32-bit) ke byte (8-bit), disebut narrowing conversion. Proses ini dapat menyebabkan kehilangan data karena byte hanya mampu menampung rentang nilai -128 hingga 127. Nilai 1000 yang berada di luar rentang tersebut akan dipotong bit-bit tingginya, menyisakan 8-bit paling rendah yang merepresentasikan nilai yang berbeda secara drastis."
+    },
+    {
+      "id": 36,
+      "question": "Prinsip utama stack yang menyatakan elemen terakhir dimasukkan adalah yang pertama dikeluarkan dikenal dengan istilah…",
+      "options": [
+        "FIFO",
+        "LRU",
+        "LIFO",
+        "LILO"
+      ],
+      "answer": 2,
+      "explanation": "LIFO merupakan akronim dari Last In, First Out, yang menjadi prinsip mendasar operasi stack."
+    },
+    {
+      "id": 37,
+      "question": "Operasi pada stack yang berfungsi untuk menghapus sekaligus mengembalikan elemen paling atas disebut…",
+      "options": [
+        "push",
+        "peek",
+        "pop",
+        "enqueue"
+      ],
+      "answer": 2,
+      "explanation": "Pop menghapus elemen teratas dari stack dan mengembalikan nilainya, berbeda dengan peek yang hanya melihat tanpa menghapus."
+    },
+    {
+      "id": 38,
+      "question": "Operasi peek pada stack memiliki karakteristik yang membedakannya dari pop, yaitu…",
+      "options": [
+        "menghapus elemen teratas",
+        "menambahkan elemen baru ke puncak",
+        "menghapus elemen terbawah",
+        "melihat elemen teratas tanpa menghapusnya"
+      ],
+      "answer": 3,
+      "explanation": "Peek bersifat non-destruktif, hanya mengembalikan nilai elemen puncak tanpa mengubah isi stack."
+    },
+    {
+      "id": 39,
+      "question": "Ketika seorang programmer membutuhkan struktur data dengan prinsip LIFO untuk mengelola riwayat navigasi halaman web, struktur yang paling tepat digunakan adalah…",
+      "options": [
+        "queue",
+        "stack",
+        "priority queue",
+        "linked list"
+      ],
+      "answer": 1,
+      "explanation": "Riwayat navigasi web mengikuti pola back-button di mana halaman terakhir dikunjungi adalah yang pertama ditampilkan kembali, sesuai prinsip LIFO pada stack."
+    },
+    {
+      "id": 40,
+      "question": "Berikut ini yang bukan merupakan karakteristik dari struktur data stack adalah…",
+      "options": [
+        "menggunakan prinsip LIFO",
+        "memiliki operasi push dan pop",
+        "akses hanya pada elemen teratas",
+        "elemen pertama yang masuk adalah yang pertama keluar"
+      ],
+      "answer": 3,
+      "explanation": "Karakteristik elemen pertama masuk pertama keluar adalah milik queue dengan prinsip FIFO, bukan stack."
+    },
+    {
+      "id": 41,
+      "question": "Pada implementasi stack berbasis array statis, variabel yang menunjuk ke posisi elemen paling atas adalah…",
+      "options": [
+        "front",
+        "rear",
+        "head",
+        "top"
+      ],
+      "answer": 3,
+      "explanation": "Top adalah indeks yang selalu menunjuk ke elemen teratas stack dan berubah setiap kali operasi push atau pop dilakukan."
+    },
+    {
+      "id": 42,
+      "question": "Stack overflow pada implementasi array statis terjadi ketika…",
+      "options": [
+        "melakukan push melebihi kapasitas maksimum",
+        "melakukan pop pada stack kosong",
+        "mengakses indeks di luar rentang array",
+        "mengosongkan seluruh isi stack"
+      ],
+      "answer": 0,
+      "explanation": "Stack overflow terjadi saat program mencoba menambahkan elemen baru melalui push namun kapasitas array sudah penuh."
+    },
+    {
+      "id": 43,
+      "question": "Kondisi yang menyebabkan stack underflow pada implementasi stack adalah…",
+      "options": [
+        "kapasitas stack melebihi alokasi memori",
+        "operasi pop dilakukan pada stack yang kosong",
+        "operasi push dilakukan berulang kali",
+        "ukuran array diinisialisasi terlalu besar"
+      ],
+      "answer": 1,
+      "explanation": "Stack underflow adalah kondisi error saat program mencoba mengambil elemen dari stack kosong melalui operasi pop."
+    },
+    {
+      "id": 44,
+      "question": "Pada implementasi stack dengan array dinamis, meskipun sesekali terjadi realokasi, operasi push tetap memiliki kompleksitas amortisasi sebesar…",
+      "options": [
+        "O(1)",
+        "O(log n)",
+        "O(n)",
+        "O(n^2)"
+      ],
+      "answer": 0,
+      "explanation": "Walaupun resizing array sesekali memerlukan O(n), biaya tersebut didistribusikan ke banyak operasi push sehingga rata-rata per operasi tetap O(1)."
+    },
+    {
+      "id": 45,
+      "question": "Perbedaan mendasar antara implementasi stack dengan array statis dan array dinamis terletak pada…",
+      "options": [
+        "fleksibilitas kapasitas penyimpanan",
+        "urutan akses elemen",
+        "prinsip kerja stack",
+        "jenis operasi yang didukung"
+      ],
+      "answer": 0,
+      "explanation": "Array statis memiliki ukuran tetap, sedangkan array dinamis dapat bertambah kapasitasnya saat penuh melalui realokasi."
+    },
+    {
+      "id": 46,
+      "question": "Kontrak di Java yang menyediakan metode setara push dan pop namun dirancang khusus untuk operasi dua ujung adalah…",
+      "options": [
+        "Stack",
+        "List",
+        "Deque",
+        "Vector"
+      ],
+      "answer": 2,
+      "explanation": "Interface Deque dalam Java Collections Framework adalah yang mendefinisikan kontrak lengkap untuk struktur data dua ujung, termasuk metode yang setara dengan push dan pop."
+    },
+    {
+      "id": 47,
+      "question": "Untuk implementasi stack modern di Java, struktur data dari Java Collections Framework yang lebih direkomendasikan karena performa lebih baik adalah…",
+      "options": [
+        "ArrayDeque",
+        "Stack",
+        "LinkedList",
+        "Vector"
+      ],
+      "answer": 0,
+      "explanation": "ArrayDeque mengimplementasikan interface Deque dan memberikan performa lebih baik sebagai stack dibandingkan kelas Stack yang tersinkronisasi."
+    },
+    {
+      "id": 48,
+      "question": "Manajemen pemanggilan method pada Java Virtual Machine memanfaatkan stack untuk menyimpan…",
+      "options": [
+        "variabel global dan konstanta",
+        "objek yang diinstansiasi dengan new",
+        "activation record dan variabel lokal",
+        "bytecode hasil kompilasi"
+      ],
+      "answer": 2,
+      "explanation": "Setiap pemanggilan method mendorong frame baru ke call stack yang berisi return address, parameter, dan variabel lokal method tersebut."
+    },
+    {
+      "id": 49,
+      "question": "Perbedaan utama antara kelas Stack dan interface Deque dalam konteks penggunaan sebagai stack di Java adalah…",
+      "options": [
+        "Stack mendukung LIFO, Deque tidak",
+        "Stack tidak dapat menyimpan objek",
+        "Deque tidak memiliki operasi push",
+        "Stack tersinkronisasi sehingga lebih lambat, Deque tidak"
+      ],
+      "answer": 3,
+      "explanation": "Kelas Stack mewarisi Vector yang metode-metodenya tersinkronisasi, menimbulkan overhead yang tidak diperlukan dalam konteks single-thread."
+    },
+    {
+      "id": 50,
+      "question": "Dalam aplikasi pengolah kata, fitur undo dan redo paling tepat diimplementasikan menggunakan struktur data stack karena…",
+      "options": [
+        "aksi terakhir yang dilakukan adalah yang pertama dibatalkan",
+        "operasi dilakukan secara FIFO",
+        "semua aksi memiliki prioritas yang sama",
+        "data perlu diakses secara acak"
+      ],
+      "answer": 0,
+      "explanation": "Mekanisme undo mengikuti prinsip LIFO, aksi paling baru harus dibatalkan terlebih dahulu sebelum aksi sebelumnya, sehingga stack menjadi pilihan tepat."
+    },
+    {
+      "id": 51,
+      "question": "Karakteristik utama yang membedakan queue dari stack adalah queue menerapkan prinsip…",
+      "options": [
+        "Last In, First Out",
+        "First In, First Out",
+        "Last In, Last Out",
+        "First In, Last Out"
+      ],
+      "answer": 1,
+      "explanation": "Queue bekerja dengan prinsip FIFO yaitu elemen yang pertama kali masuk adalah yang pertama kali keluar, kebalikan dari LIFO pada stack."
+    },
+    {
+      "id": 52,
+      "question": "Prinsip FIFO pada queue menyatakan bahwa elemen yang pertama kali diambil adalah elemen yang…",
+      "options": [
+        "terakhir dimasukkan",
+        "pertama dimasukkan",
+        "memiliki nilai terbesar",
+        "memiliki prioritas tertinggi"
+      ],
+      "answer": 1,
+      "explanation": "FIFO (First In, First Out) berarti elemen yang pertama kali masuk adalah yang pertama kali keluar."
+    },
+    {
+      "id": 53,
+      "question": "Operasi enqueue pada queue berfungsi untuk…",
+      "options": [
+        "menambahkan elemen baru di bagian belakang queue",
+        "melihat elemen terdepan tanpa menghapusnya",
+        "menghapus elemen dari bagian depan queue",
+        "mengecek apakah queue dalam keadaan kosong"
+      ],
+      "answer": 0,
+      "explanation": "Enqueue adalah operasi penyisipan elemen baru yang selalu ditempatkan di bagian belakang (rear) queue."
+    },
+    {
+      "id": 54,
+      "question": "Berikut ini yang bukan merupakan karakteristik dari struktur data queue adalah…",
+      "options": [
+        "menerapkan prinsip FIFO",
+        "penyisipan dilakukan di rear",
+        "menerapkan prinsip LIFO",
+        "penghapusan dilakukan di front"
+      ],
+      "answer": 2,
+      "explanation": "Queue menerapkan prinsip FIFO, bukan LIFO. Prinsip LIFO merupakan karakteristik stack."
+    },
+    {
+      "id": 55,
+      "question": "Elemen yang sedang menunggu untuk diproses dalam queue terdapat di antara penunjuk front dan rear. Penunjuk front menunjukkan posisi…",
+      "options": [
+        "tempat penyisipan elemen baru",
+        "elemen terakhir dalam antrian",
+        "posisi kosong setelah dequeue",
+        "elemen pertama yang akan diambil"
+      ],
+      "answer": 3,
+      "explanation": "Front menunjuk ke elemen pertama dalam antrian, yaitu elemen yang akan keluar pada operasi dequeue berikutnya."
+    },
+    {
+      "id": 56,
+      "question": "Pada implementasi queue linear dengan array, setelah beberapa kali operasi dequeue dapat terjadi kondisi di mana queue tampak penuh padahal sebenarnya masih ada ruang kosong. Masalah ini disebabkan oleh…",
+      "options": [
+        "elemen baru tidak dapat menimpa elemen lama",
+        "alokasi memori array yang terlalu kecil",
+        "pergeseran pointer front yang tidak diimbangi pergeseran elemen",
+        "pointer rear tidak dapat bergerak mundur"
+      ],
+      "answer": 2,
+      "explanation": "Saat front bergerak maju akibat dequeue tanpa menggeser elemen, ruang di depan front menjadi tidak terpakai, menyebabkan queue tampak penuh meskipun kapasitas belum terpenuhi."
+    },
+    {
+      "id": 57,
+      "question": "Circular queue mengatasi kelemahan linear queue pada array dengan cara…",
+      "options": [
+        "menggeser semua elemen setiap kali dequeue dilakukan",
+        "menggunakan linked list sebagai struktur pendukung",
+        "mengalokasikan ulang array setiap kali terjadi overflow",
+        "membungkus pointer rear kembali ke indeks awal saat mencapai akhir array"
+      ],
+      "answer": 3,
+      "explanation": "Circular queue memperlakukan array sebagai struktur melingkar sehingga pointer rear dapat kembali ke indeks nol, memanfaatkan ruang kosong di bagian depan."
+    },
+    {
+      "id": 58,
+      "question": "Perbedaan utama antara linear queue dan circular queue pada implementasi array terletak pada…",
+      "options": [
+        "tipe data yang dapat disimpan",
+        "kompleksitas waktu operasi enqueue",
+        "cara penanganan pointer front dan rear saat mencapai batas array",
+        "prinsip dasar pengeluaran elemen"
+      ],
+      "answer": 2,
+      "explanation": "Pada linear queue, pointer hanya bergerak maju dan ruang di depan tidak dapat digunakan kembali, sedangkan circular queue membungkus pointer ke awal array."
+    },
+    {
+      "id": 59,
+      "question": "Suatu circular queue diimplementasikan dengan array berukuran 5. Front berada di indeks 3 dan rear di indeks 1. Berapa jumlah elemen dalam queue tersebut…",
+      "options": [
+        "3",
+        "2",
+        "4",
+        "5"
+      ],
+      "answer": 0,
+      "explanation": "Dengan ukuran array 5, jumlah elemen = (rear – front + N) % N = (1 – 3 + 5) % 5 = 3 % 5 = 3 elemen."
+    },
+    {
+      "id": 60,
+      "question": "Dalam implementasi queue berbasis array, kondisi queue kosong ditandai dengan…",
+      "options": [
+        "front lebih besar dari rear",
+        "front sama dengan rear",
+        "rear sama dengan ukuran array dikurangi satu",
+        "front menunjuk ke indeks nol"
+      ],
+      "answer": 1,
+      "explanation": "Queue kosong terjadi ketika front dan rear menunjuk ke posisi yang sama, artinya tidak ada elemen di antara keduanya."
+    },
+    {
+      "id": 61,
+      "question": "Interface Queue<E> dalam Java Collections Framework mendefinisikan kontrak untuk struktur data antrian. Metode yang akan melempar exception saat queue kosong adalah…",
+      "options": [
+        "poll()",
+        "peek()",
+        "element()",
+        "offer()"
+      ],
+      "answer": 2,
+      "explanation": "element() berfungsi melihat elemen pertama tanpa menghapusnya, dan akan melempar NoSuchElementException jika queue kosong, berbeda dengan peek() yang mengembalikan null."
+    },
+    {
+      "id": 62,
+      "question": "Kelas LinkedList di Java mengimplementasikan interface Queue sehingga cocok digunakan untuk queue berukuran dinamis. Kelebihan utama pendekatan ini dibandingkan implementasi array adalah…",
+      "options": [
+        "waktu akses elemen secara acak yang lebih cepat",
+        "penggunaan memori yang lebih sedikit per elemen",
+        "kompleksitas enqueue yang selalu O(1) terjamin",
+        "ukuran queue yang dapat berubah saat runtime tanpa realokasi"
+      ],
+      "answer": 3,
+      "explanation": "LinkedList mengalokasikan memori per node secara dinamis, sehingga ukuran queue dapat bertambah atau berkurang tanpa perlu realokasi array."
+    },
+    {
+      "id": 63,
+      "question": "PriorityQueue di Java mengeluarkan elemen berdasarkan prioritas, bukan urutan kedatangan. Hal ini melanggar prinsip dasar queue karena…",
+      "options": [
+        "elemen pertama masuk belum tentu pertama keluar",
+        "menggunakan struktur tree sebagai implementasi",
+        "tidak menyediakan operasi enqueue",
+        "hanya dapat menyimpan tipe data numerik"
+      ],
+      "answer": 0,
+      "explanation": "PriorityQueue tidak mematuhi FIFO murni karena elemen dengan prioritas tertinggi akan keluar lebih dulu meskipun masuk belakangan."
+    },
+    {
+      "id": 64,
+      "question": "Seorang pengembang ingin mengimplementasikan queue di Java yang dapat menampung elemen bertipe String dan memiliki performa enqueue serta dequeue yang konstan. Pilihan implementasi yang paling tepat adalah…",
+      "options": [
+        "ArrayDeque<String> yang digunakan sebagai queue",
+        "PriorityQueue<String> dengan Comparator natural order",
+        "Stack<String>",
+        "TreeSet<String>"
+      ],
+      "answer": 0,
+      "explanation": "ArrayDeque menyediakan operasi addLast (enqueue) dan pollFirst (dequeue) dengan kompleksitas O(1) amortisasi, menjadikannya pilihan ideal untuk FIFO queue berperforma tinggi."
+    },
+    {
+      "id": 65,
+      "question": "Antarmuka Queue di Java menyediakan beberapa metode untuk operasi penyisipan. Metode offer() berbeda dari add() karena offer() akan…",
+      "options": [
+        "melempar exception saat queue penuh",
+        "mengalokasikan ulang kapasitas secara otomatis",
+        "menimpa elemen terdepan jika kapasitas penuh",
+        "mengembalikan false saat queue penuh pada bounded queue"
+      ],
+      "answer": 3,
+      "explanation": "offer() dirancang untuk bounded queue, mengembalikan false jika penyisipan gagal karena kapasitas penuh, sedangkan add() melempar IllegalStateException."
+    },
+    {
+      "id": 66,
+      "question": "Algoritma pengurutan yang mempertahankan posisi relatif elemen-elemen dengan nilai kunci yang sama disebut…",
+      "options": [
+        "algoritma pengurutan stabil",
+        "algoritma divide and conquer",
+        "algoritma in-place",
+        "algoritma non-pembanding"
+      ],
+      "answer": 0,
+      "explanation": "Stabil berarti jika dua elemen memiliki nilai kunci sama, urutan relatifnya sebelum pengurutan tetap dipertahankan setelah pengurutan."
+    },
+    {
+      "id": 67,
+      "question": "Suatu algoritma pengurutan hanya menggunakan sejumlah konstan ruang memori tambahan dan mengurutkan langsung di array asli. Algoritma tersebut dikategorikan sebagai…",
+      "options": [
+        "stable sort",
+        "in-place sort",
+        "external sort",
+        "comparison sort"
+      ],
+      "answer": 1,
+      "explanation": "Algoritma in-place melakukan pengurutan dengan ruang memori tambahan O(1) atau O(log n), memodifikasi array input secara langsung."
+    },
+    {
+      "id": 68,
+      "question": "Berikut ini yang termasuk algoritma pengurutan dengan kompleksitas waktu O(n log n) di semua kasus adalah…",
+      "options": [
+        "bubble sort",
+        "merge sort",
+        "insertion sort",
+        "counting sort"
+      ],
+      "answer": 1,
+      "explanation": "Merge sort selalu membagi array menjadi dua dan menggabungkan secara linear, menghasilkan kompleksitas O(n log n) di kasus terbaik, rata-rata, dan terburuk."
+    },
+    {
+      "id": 69,
+      "question": "Algoritma pengurutan yang membagi array menjadi dua bagian, mengurutkan masing-masing secara rekursif, lalu menggabungkan kembali hasilnya, termasuk dalam kategori…",
+      "options": [
+        "divide and conquer",
+        "greedy",
+        "dynamic programming",
+        "brute force"
+      ],
+      "answer": 0,
+      "explanation": "Pendekatan yang membagi masalah menjadi sub-masalah lebih kecil, menyelesaikannya secara rekursif, lalu menggabungkan solusinya merupakan inti dari strategi divide and conquer. Strategi ini digunakan oleh algoritma seperti merge sort dan quick sort, berbeda dengan pendekatan greedy yang memilih optimum lokal, dynamic programming yang menyimpan hasil sub-masalah, atau brute force yang mencoba semua kemungkinan."
+    },
+    {
+      "id": 70,
+      "question": "Berikut ini yang bukan merupakan karakteristik algoritma pengurutan stabil adalah…",
+      "options": [
+        "merge sort termasuk stabil",
+        "elemen bernilai sama tetap pada urutan relatif semula",
+        "quick sort selalu menghasilkan pengurutan stabil",
+        "counting sort dapat dibuat stabil"
+      ],
+      "answer": 2,
+      "explanation": "Quick sort pada implementasi standarnya tidak stabil karena proses partisi dapat menukar elemen bernilai sama melewati satu sama lain, mengubah urutan relatif aslinya."
+    },
+    {
+      "id": 71,
+      "question": "Struktur data yang merepresentasikan hubungan hierarkis antara elemen data dengan satu root dan cabang-cabang disebut…",
+      "options": [
+        "graph",
+        "queue",
+        "linked list",
+        "tree"
+      ],
+      "answer": 3,
+      "explanation": "Tree adalah struktur data hierarkis dengan satu simpul akar yang terhubung ke simpul-simpul anak membentuk cabang-cabang tanpa siklus."
+    },
+    {
+      "id": 72,
+      "question": "Node dalam tree yang tidak memiliki anak disebut…",
+      "options": [
+        "root",
+        "leaf",
+        "parent",
+        "subtree"
+      ],
+      "answer": 1,
+      "explanation": "Leaf atau daun adalah simpul terminal dalam tree yang tidak memiliki child node, berada di ujung cabang hierarki."
+    },
+    {
+      "id": 73,
+      "question": "Panjang path dari root ke suatu node dalam tree disebut…",
+      "options": [
+        "depth",
+        "height",
+        "level",
+        "degree"
+      ],
+      "answer": 0,
+      "explanation": "Depth suatu node diukur sebagai jumlah edge dari root ke node tersebut. Height tree adalah depth maksimum di antara semua leaf."
+    },
+    {
+      "id": 74,
+      "question": "Jika sebuah tree memiliki height 4, pernyataan berikut yang pasti benar adalah…",
+      "options": [
+        "tree memiliki tepat 4 level",
+        "depth maksimum seluruh leaf adalah 4",
+        "tree memiliki 16 node",
+        "root berada di level 4"
+      ],
+      "answer": 1,
+      "explanation": "Height tree didefinisikan sebagai depth maksimum dari leaf, sehingga tree dengan height 4 berarti leaf terjauh memiliki depth 4."
+    },
+    {
+      "id": 75,
+      "question": "Bagian dari tree yang terdiri dari suatu node dan semua keturunannya, yang dengan sendirinya membentuk struktur tree, disebut…",
+      "options": [
+        "subtree",
+        "branch",
+        "path",
+        "level"
+      ],
+      "answer": 0,
+      "explanation": "Subtree terbentuk dari suatu node beserta seluruh descendant-nya, memenuhi definisi tree secara independen dalam struktur yang lebih besar."
+    },
+    {
+      "id": 76,
+      "question": "Pada binary tree, jumlah maksimum node yang dapat dimiliki oleh tree tersebut pada level ke-3 adalah…",
+      "options": [
+        "4",
+        "6",
+        "16",
+        "8"
+      ],
+      "answer": 3,
+      "explanation": "Level ke-3 (dimulai dari root di level 0) dapat menampung maksimal 2^3 = 8 node, sesuai sifat binary tree di mana setiap level dapat memiliki hingga 2^k node."
+    },
+    {
+      "id": 77,
+      "question": "Binary tree di mana setiap node memiliki tepat 0 atau 2 anak dikategorikan sebagai binary tree…",
+      "options": [
+        "penuh",
+        "lengkap",
+        "seimbang",
+        "sempurna"
+      ],
+      "answer": 0,
+      "explanation": "Full binary tree mensyaratkan setiap node hanya boleh memiliki nol atau dua anak, tidak boleh ada node dengan tepat satu anak."
+    },
+    {
+      "id": 78,
+      "question": "Sebuah binary tree memiliki 15 node dan semua level terisi penuh kecuali level terakhir yang diisi dari kiri. Binary tree ini termasuk kategori…",
+      "options": [
+        "full binary tree",
+        "perfect binary tree",
+        "complete binary tree",
+        "balanced binary tree"
+      ],
+      "answer": 2,
+      "explanation": "Complete binary tree adalah tree yang seluruh levelnya terisi penuh kecuali mungkin level terakhir, dan level terakhir diisi dari kiri ke kanan tanpa celah."
+    },
+    {
+      "id": 79,
+      "question": "Binary tree seimbang memastikan perbedaan height antara subtree kiri dan subtree kanan tidak lebih dari satu. Tujuan utama keseimbangan ini adalah…",
+      "options": [
+        "mengurangi penggunaan memori",
+        "menjamin efisiensi operasi pencarian",
+        "memudahkan traversal inorder",
+        "memaksimalkan jumlah leaf"
+      ],
+      "answer": 1,
+      "explanation": "Keseimbangan menjaga height tree tetap O(log n) sehingga operasi pencarian, penyisipan, dan penghapusan tetap efisien dan tidak terdegradasi ke O(n)."
+    },
+    {
+      "id": 80,
+      "question": "Berikut ini yang bukan merupakan perbedaan antara full binary tree dan complete binary tree adalah…",
+      "options": [
+        "complete binary tree selalu juga merupakan full binary tree",
+        "complete binary tree memperbolehkan node dengan satu anak di level sebelum terakhir",
+        "full binary tree mengharuskan setiap node punya 0 atau 2 anak",
+        "level terakhir complete binary tree diisi dari kiri ke kanan"
+      ],
+      "answer": 0,
+      "explanation": "Complete binary tree tidak selalu full, karena boleh memiliki node dengan satu anak di level sebelum terakhir, selama level terakhir diisi dari kiri."
+    },
+    {
+      "id": 81,
+      "question": "Properti utama Binary Search Tree yang membedakannya dari binary tree biasa adalah…",
+      "options": [
+        "setiap node memiliki maksimal dua anak",
+        "nilai subtree kiri lebih kecil dari root dan subtree kanan lebih besar",
+        "tree selalu seimbang secara otomatis",
+        "semua leaf berada pada level yang sama"
+      ],
+      "answer": 1,
+      "explanation": "BST memiliki properti urutan: semua nilai di subtree kiri < nilai root < semua nilai di subtree kanan, yang memungkinkan pencarian efisien."
+    },
+    {
+      "id": 82,
+      "question": "Ketika data dimasukkan secara terurut menaik ke dalam Binary Search Tree tanpa mekanisme penyeimbangan, tree yang terbentuk akan…",
+      "options": [
+        "menjadi balanced tree sempurna",
+        "otomatis menjadi complete tree",
+        "memiliki height O(log n)",
+        "terdegradasi menjadi linked list"
+      ],
+      "answer": 3,
+      "explanation": "Penyisipan data terurut pada BST tanpa penyeimbangan membuat setiap node baru selalu menjadi anak kanan, menghasilkan struktur linear menyerupai linked list dengan kompleksitas O(n)."
+    },
+    {
+      "id": 83,
+      "question": "Pencarian nilai 42 dalam BST berjalan dengan membandingkan 42 terhadap root bernilai 50, lalu bergerak ke subtree kiri bernilai 30, lalu ke subtree kanan bernilai 40. Langkah ini memanfaatkan properti BST untuk…",
+      "options": [
+        "menghitung height tree",
+        "menyeimbangkan tree secara otomatis",
+        "mengeliminasi setengah ruang pencarian di setiap langkah",
+        "melakukan rotasi node"
+      ],
+      "answer": 2,
+      "explanation": "Properti urutan BST memungkinkan eliminasi subtree yang tidak relevan: jika nilai dicari lebih kecil dari root, subtree kanan diabaikan, dan sebaliknya, sehingga pencarian rata-rata O(log n)."
+    },
+    {
+      "id": 84,
+      "question": "Dalam BST, operasi penyisipan elemen baru dilakukan dengan…",
+      "options": [
+        "selalu menempatkan elemen di root",
+        "menukar posisi root dengan elemen baru",
+        "mengikuti aturan rekursif menemukan posisi tepat berdasarkan perbandingan nilai",
+        "menyisipkan elemen di akhir tree secara acak"
+      ],
+      "answer": 2,
+      "explanation": "Penyisipan di BST mengikuti traversal rekursif membandingkan nilai baru dengan node saat ini, bergerak ke kiri jika lebih kecil atau ke kanan jika lebih besar, hingga menemukan posisi null untuk node baru."
+    },
+    {
+      "id": 85,
+      "question": "Entitas yang direpresentasikan oleh vertex dalam struktur data graph adalah…",
+      "options": [
+        "relasi antar data",
+        "objek atau simpul data",
+        "bobot koneksi",
+        "arah hubungan"
+      ],
+      "answer": 1,
+      "explanation": "Vertex merepresentasikan entitas atau simpul data, sedangkan edge merepresentasikan relasi antar vertex."
+    },
+    {
+      "id": 86,
+      "question": "Graph yang setiap edgenya memiliki arah dari satu vertex ke vertex lain disebut…",
+      "options": [
+        "weighted graph",
+        "undirected graph",
+        "connected graph",
+        "directed graph"
+      ],
+      "answer": 3,
+      "explanation": "Directed graph memiliki edge berarah yang menunjukkan hubungan satu arah antar vertex, berbeda dengan undirected graph yang edge-nya tidak berarah."
+    },
+    {
+      "id": 87,
+      "question": "Berikut ini yang bukan merupakan karakteristik dari weighted graph adalah…",
+      "options": [
+        "setiap edge memiliki nilai numerik",
+        "edge tidak memiliki arah",
+        "bobot merepresentasikan biaya atau jarak",
+        "dapat digunakan untuk pencarian jalur terpendek"
+      ],
+      "answer": 1,
+      "explanation": "Weighted graph dapat berupa directed maupun undirected, jadi ketiadaan arah bukan karakteristik wajib. Karakteristik utamanya adalah adanya bobot pada setiap edge."
+    },
+    {
+      "id": 88,
+      "question": "Perbedaan mendasar antara directed graph dan undirected graph terletak pada…",
+      "options": [
+        "keberadaan arah pada setiap edge",
+        "ada tidaknya bobot pada edge",
+        "jumlah vertex yang dimiliki",
+        "kepadatan hubungan antar vertex"
+      ],
+      "answer": 0,
+      "explanation": "Directed graph memiliki edge dengan arah tertentu, sementara undirected graph memiliki edge tanpa arah, sehingga perbedaan utamanya adalah keberadaan arah."
+    },
+    {
+      "id": 89,
+      "question": "Representasi graph yang menggunakan matriks boolean berukuran V×V di mana V adalah jumlah vertex dikenal sebagai…",
+      "options": [
+        "adjacency list",
+        "incidence matrix",
+        "adjacency matrix",
+        "edge list"
+      ],
+      "answer": 2,
+      "explanation": "Adjacency matrix menyimpan informasi keterhubungan antar vertex dalam bentuk matriks V×V, efisien untuk graph padat."
+    },
+    {
+      "id": 90,
+      "question": "Adjacency list menyimpan informasi graph dengan cara…",
+      "options": [
+        "menggunakan matriks dua dimensi",
+        "mencatat semua edge dalam satu array",
+        "menyimpan daftar tetangga untuk setiap vertex",
+        "menggunakan representasi pointer ke parent"
+      ],
+      "answer": 2,
+      "explanation": "Adjacency list merepresentasikan graph dengan menyimpan linked list atau array dinamis berisi tetangga untuk setiap vertex."
+    },
+    {
+      "id": 91,
+      "question": "Untuk graph dengan jumlah vertex besar namun edge relatif sedikit, representasi yang paling efisien dalam penggunaan memori adalah…",
+      "options": [
+        "adjacency matrix",
+        "complete graph",
+        "incidence matrix",
+        "adjacency list"
+      ],
+      "answer": 3,
+      "explanation": "Adjacency list hanya menyimpan edge yang ada sehingga lebih hemat memori untuk graph jarang, berbeda dengan adjacency matrix yang selalu mengalokasikan ruang V×V."
+    },
+    {
+      "id": 92,
+      "question": "Adjacency matrix lebih efisien dibandingkan adjacency list ketika digunakan pada graph dengan karakteristik…",
+      "options": [
+        "jumlah vertex sedikit dan edge banyak",
+        "jumlah vertex banyak dan edge sedikit",
+        "berupa tree biner",
+        "tidak memiliki siklus"
+      ],
+      "answer": 0,
+      "explanation": "Adjacency matrix cocok untuk graph padat karena akses keterhubungan antar vertex bersifat O(1), sementara adjacency list lebih efisien untuk graph jarang."
+    },
+    {
+      "id": 93,
+      "question": "Algoritma traversal graph yang menelusuri cabang sedalam mungkin sebelum melakukan backtrack adalah…",
+      "options": [
+        "breadth first search",
+        "prim algorithm",
+        "dijkstra algorithm",
+        "depth first search"
+      ],
+      "answer": 3,
+      "explanation": "DFS menjelajahi graph dengan mendalami satu jalur hingga mentok sebelum kembali ke percabangan terdekat, menggunakan stack atau rekursi."
+    },
+    {
+      "id": 94,
+      "question": "Struktur data utama yang digunakan dalam implementasi Breadth First Search untuk menyimpan vertex yang akan dikunjungi adalah…",
+      "options": [
+        "stack",
+        "array",
+        "queue",
+        "priority queue"
+      ],
+      "answer": 2,
+      "explanation": "BFS menggunakan queue untuk menyimpan vertex tetangga yang akan dikunjungi berikutnya, sehingga traversal dilakukan level demi level."
+    },
+    {
+      "id": 95,
+      "question": "Fungsi utama dari visited set dalam traversal graph adalah…",
+      "options": [
+        "menyimpan bobot setiap edge",
+        "mencatat vertex yang sudah dikunjungi untuk mencegah siklus tak terbatas",
+        "menyimpan jalur terpendek yang ditemukan",
+        "mengurutkan vertex berdasarkan jarak"
+      ],
+      "answer": 1,
+      "explanation": "Visited set menandai vertex yang sudah diproses agar tidak dikunjungi kembali, mencegah infinite loop akibat siklus dalam graph."
+    },
+    {
+      "id": 96,
+      "question": "Seorang pengembang ingin menemukan jalur terpendek dalam graph tak berbobot dari titik A ke titik F. Algoritma traversal yang paling tepat digunakan adalah…",
+      "options": [
+        "depth first search",
+        "topological sort",
+        "binary search",
+        "breadth first search"
+      ],
+      "answer": 3,
+      "explanation": "BFS menemukan shortest path pada unweighted graph karena mengunjungi vertex dalam urutan jarak bertahap dari sumber, sehingga jalur pertama yang mencapai tujuan adalah yang terpendek."
+    },
+    {
+      "id": 97,
+      "question": "Proses menemukan lokasi suatu elemen dengan nilai tertentu dalam struktur data disebut…",
+      "options": [
+        "searching",
+        "sorting",
+        "traversal",
+        "indexing"
+      ],
+      "answer": 0,
+      "explanation": "Searching adalah operasi pencarian elemen dengan nilai spesifik dalam kumpulan data, berbeda dengan sorting yang mengurutkan atau traversal yang mengunjungi semua elemen."
+    },
+    {
+      "id": 98,
+      "question": "Algoritma pencarian yang bekerja dengan membagi ruang pencarian menjadi dua secara berulang memerlukan prasyarat data dalam keadaan…",
+      "options": [
+        "terurut",
+        "acak",
+        "berindeks",
+        "dinamis"
+      ],
+      "answer": 0,
+      "explanation": "Binary search hanya dapat bekerja pada data yang sudah terurut karena memanfaatkan properti urutan untuk mengeliminasi setengah ruang pencarian di setiap langkah."
+    },
+    {
+      "id": 99,
+      "question": "Kompleksitas waktu linear search pada array dengan n elemen dalam kasus terburuk adalah…",
+      "options": [
+        "O(1)",
+        "O(log n)",
+        "O(n)",
+        "O(n log n)"
+      ],
+      "answer": 2,
+      "explanation": "Linear search memeriksa setiap elemen satu per satu, sehingga pada kasus terburuk diperlukan n kali pemeriksaan, menghasilkan kompleksitas O(n)."
+    },
+    {
+      "id": 100,
+      "question": "Perbedaan utama antara linear search dan binary search terletak pada…",
+      "options": [
+        "jenis data yang dapat dicari",
+        "persyaratan data terurut dan kompleksitas waktu",
+        "penggunaan memori tambahan",
+        "kemampuan mencari data duplikat"
+      ],
+      "answer": 1,
+      "explanation": "Binary search mensyaratkan data terurut dan memiliki kompleksitas O(log n), sementara linear search tidak memerlukan data terurut namun kompleksitasnya O(n)."
+    }
+  ]
+}

@@ -1,0 +1,561 @@
+{
+  "exam": {
+    "source": "https://soalut.com/soal-ut-skom4432-komunikasi-bisnis/",
+    "name": "Ujian Akhir Semester",
+    "matkul": "SKOM4432 Komunikasi Bisnis",
+    "semester": "5",
+    "prodi": "Teknik Informatika"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "Komunikasi bisnis pada dasarnya adalah proses penyampaian pesan yang bertujuan untuk…",
+      "options": [
+        "Mempengaruhi opini publik secara luas",
+        "Mencapai tujuan organisasi melalui pertukaran informasi",
+        "Menghibur karyawan di lingkungan kerja",
+        "Mempromosikan produk kepada konsumen akhir"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 2,
+      "question": "Salah satu konteks utama yang membedakan komunikasi bisnis dari komunikasi umum adalah…",
+      "options": [
+        "Komunikasi bisnis selalu menggunakan bahasa asing",
+        "Komunikasi bisnis dilakukan secara tatap muka saja",
+        "Adanya tujuan komersial dan organisasional yang mendasarinya",
+        "Komunikasi bisnis tidak memerlukan umpan balik"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 3,
+      "question": "Ruang lingkup komunikasi bisnis mencakup berbagai aspek, di antaranya…",
+      "options": [
+        "Hanya komunikasi internal perusahaan",
+        "Komunikasi internal dan eksternal organisasi bisnis",
+        "Hanya komunikasi dengan pelanggan",
+        "Komunikasi antarpribadi saja"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 4,
+      "question": "Konsep dasar komunikasi bisnis yang paling penting adalah bahwa pesan harus bersifat…",
+      "options": [
+        "Jelas, tepat, dan dapat dipahami oleh penerima",
+        "Panjang dan terperinci agar tidak menimbulkan kesalahpahaman",
+        "Sepihak sehingga pengirim memegang kendali penuh",
+        "Formal dan menggunakan istilah teknis tinggi"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 5,
+      "question": "Bentuk komunikasi yang terjadi di dalam struktur organisasi bisnis dari atasan ke bawahan disebut…",
+      "options": [
+        "Komunikasi horizontal",
+        "Komunikasi diagonal",
+        "Komunikasi lateral",
+        "Komunikasi vertikal ke bawah"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 6,
+      "question": "Komunikasi yang mengalir dari bawahan kepada atasan dalam organisasi bisnis berfungsi terutama untuk…",
+      "options": [
+        "Memberikan instruksi kerja",
+        "Menyampaikan umpan balik, laporan, dan saran",
+        "Mengumumkan kebijakan perusahaan",
+        "Mendistribusikan informasi promosi"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 7,
+      "question": "Fungsi komunikasi dalam organisasi bisnis yang berkaitan dengan pencapaian target kerja karyawan adalah fungsi…",
+      "options": [
+        "Informasi",
+        "Kontrol",
+        "Motivasi",
+        "Ekspresi emosi"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 8,
+      "question": "Media komunikasi bisnis yang termasuk kategori media cetak tradisional adalah…",
+      "options": [
+        "Email dan aplikasi pesan instan",
+        "Video conference dan webinar",
+        "Media sosial dan blog perusahaan",
+        "Memo, surat, dan laporan tertulis"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 9,
+      "question": "Perkembangan teknologi digital paling berdampak pada komunikasi bisnis dalam hal…",
+      "options": [
+        "Menghilangkan kebutuhan komunikasi tatap muka sepenuhnya",
+        "Memperlambat proses pengiriman pesan bisnis",
+        "Mempercepat dan memperluas jangkauan penyebaran informasi",
+        "Membatasi komunikasi hanya di lingkup lokal"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 10,
+      "question": "Teknologi komunikasi bisnis yang memungkinkan pertemuan jarak jauh secara real-time dengan tampilan visual adalah…",
+      "options": [
+        "Telepon konvensional",
+        "Faksimile",
+        "Video conference",
+        "Surat elektronik"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 11,
+      "question": "Proses komunikasi massa dalam bisnis mencakup penyampaian pesan kepada…",
+      "options": [
+        "Satu individu secara langsung",
+        "Kelompok kecil yang terbatas",
+        "Audiens yang luas dan heterogen melalui media massa",
+        "Hanya karyawan internal perusahaan"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 12,
+      "question": "Dalam proses komunikasi interpersonal bisnis, elemen yang paling menentukan keberhasilan komunikasi adalah…",
+      "options": [
+        "Biaya komunikasi yang rendah",
+        "Kemampuan mendengar aktif dan memberikan respons tepat",
+        "Penggunaan teknologi terkini",
+        "Jumlah pesan yang dikirimkan"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 13,
+      "question": "Komunikasi kelompok dalam konteks bisnis biasanya terjadi dalam situasi…",
+      "options": [
+        "Rapat tim, diskusi proyek, dan presentasi kelompok",
+        "Negosiasi antara dua pihak saja",
+        "Pengiriman surat resmi kepada klien",
+        "Periklanan produk di media massa"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 14,
+      "question": "Proses komunikasi melalui media online (internet) dalam bisnis memiliki karakteristik utama berupa…",
+      "options": [
+        "Komunikasi hanya bersifat satu arah",
+        "Interaktivitas tinggi dan dapat menjangkau audiens global",
+        "Membutuhkan waktu yang lama untuk pengiriman pesan",
+        "Hanya dapat digunakan oleh perusahaan besar"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 15,
+      "question": "Komunikasi verbal dalam bisnis mencakup bentuk komunikasi yang menggunakan…",
+      "options": [
+        "Ekspresi wajah dan gerakan tubuh",
+        "Kata-kata lisan maupun tulisan",
+        "Simbol, gambar, dan diagram",
+        "Jarak dan sentuhan fisik"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 16,
+      "question": "Komunikasi nonverbal yang efektif dalam konteks bisnis mencakup hal-hal berikut, KECUALI…",
+      "options": [
+        "Kontak mata yang tepat saat presentasi",
+        "Postur tubuh yang menunjukkan kepercayaan diri",
+        "Penggunaan kalimat yang panjang dan berbelit",
+        "Penampilan dan pakaian yang profesional"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 17,
+      "question": "Komunikasi visual dalam bisnis mencakup penggunaan elemen seperti…",
+      "options": [
+        "Grafik, tabel, infografis, dan gambar untuk menyampaikan data",
+        "Intonasi suara dan kecepatan bicara",
+        "Kata-kata persuasif dalam negosiasi",
+        "Salam pembuka dalam surat resmi"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 18,
+      "question": "Stakeholders dalam konteks komunikasi bisnis adalah…",
+      "options": [
+        "Hanya pemegang saham perusahaan",
+        "Seluruh pihak yang memiliki kepentingan terhadap aktivitas bisnis perusahaan",
+        "Karyawan tetap perusahaan saja",
+        "Konsumen akhir produk atau jasa perusahaan"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 19,
+      "question": "Jenis stakeholders yang termasuk dalam kategori internal perusahaan adalah…",
+      "options": [
+        "Pemasok dan distributor",
+        "Pemerintah dan lembaga regulasi",
+        "Komunitas lokal dan media massa",
+        "Karyawan, manajemen, dan pemegang saham"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 20,
+      "question": "Karakteristik utama dari stakeholders eksternal perusahaan adalah…",
+      "options": [
+        "Mereka bekerja di dalam struktur organisasi perusahaan",
+        "Mereka tidak memiliki pengaruh terhadap keputusan bisnis",
+        "Mereka berada di luar perusahaan tetapi dapat mempengaruhi atau dipengaruhi oleh perusahaan",
+        "Mereka hanya berinteraksi dengan perusahaan saat transaksi terjadi"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 21,
+      "question": "Lobi dalam komunikasi bisnis dapat didefinisikan sebagai…",
+      "options": [
+        "Ruang tunggu di kantor perusahaan",
+        "Teknik presentasi formal di hadapan pemegang saham",
+        "Proses penyelesaian konflik antarkaryawan",
+        "Upaya mempengaruhi pengambil keputusan secara tidak resmi untuk kepentingan tertentu"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 22,
+      "question": "Negosiasi dalam komunikasi bisnis bertujuan utama untuk…",
+      "options": [
+        "Mengalahkan pihak lain dalam perdebatan",
+        "Mempertahankan posisi awal tanpa kompromi",
+        "Mencapai kesepakatan yang saling menguntungkan bagi semua pihak",
+        "Menyampaikan keluhan kepada mitra bisnis"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 23,
+      "question": "Salah satu teknik lobi yang efektif dalam komunikasi bisnis adalah…",
+      "options": [
+        "Membangun relasi dan kepercayaan sebelum menyampaikan kepentingan",
+        "Memaksakan kehendak kepada pihak yang dilobi",
+        "Menggunakan ancaman untuk mencapai tujuan",
+        "Menghindari komunikasi langsung dengan pengambil keputusan"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 24,
+      "question": "Dalam teknik negosiasi, pendekatan “win-win solution” berarti…",
+      "options": [
+        "Hanya satu pihak yang mendapatkan keuntungan maksimal",
+        "Negosiasi berakhir tanpa ada kesepakatan",
+        "Kedua pihak memperoleh hasil yang saling menguntungkan",
+        "Pihak yang lebih kuat selalu memenangkan negosiasi"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 25,
+      "question": "Peran lobi dalam komunikasi bisnis adalah untuk…",
+      "options": [
+        "Menggantikan proses negosiasi formal",
+        "Mempengaruhi kebijakan atau keputusan yang berdampak pada kepentingan bisnis",
+        "Mempromosikan produk kepada pelanggan ritel",
+        "Menyusun laporan keuangan perusahaan"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 26,
+      "question": "Penyusunan pesan bisnis yang efektif diawali dengan tahap…",
+      "options": [
+        "Pengeditan dan revisi teks",
+        "Pengiriman pesan kepada penerima",
+        "Evaluasi hasil komunikasi",
+        "Perencanaan yang meliputi analisis tujuan, audiens, dan saluran komunikasi"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 27,
+      "question": "Korespondensi bisnis yang baik harus memenuhi prinsip 7C, salah satunya adalah “Conciseness” yang berarti…",
+      "options": [
+        "Pesan disampaikan secara lengkap tanpa pengurangan",
+        "Pesan menggunakan bahasa yang sopan dan penuh hormat",
+        "Pesan disampaikan secara singkat, padat, dan tidak bertele-tele",
+        "Pesan disertai bukti dan data yang kuat"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 28,
+      "question": "Bagian surat bisnis yang berisi alasan atau tujuan penulisan surat disebut…",
+      "options": [
+        "Kepala surat (letterhead)",
+        "Salam penutup",
+        "Isi atau tubuh surat",
+        "Tembusan"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 29,
+      "question": "Surat lamaran kerja yang baik harus mencantumkan hal-hal berikut, KECUALI…",
+      "options": [
+        "Motivasi dan alasan melamar posisi tersebut",
+        "Data pribadi seperti nomor rekening bank",
+        "Kualifikasi dan pengalaman yang relevan",
+        "Posisi yang dilamar secara jelas"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 30,
+      "question": "Curriculum Vitae (CV) atau resume yang efektif dalam lamaran kerja harus bersifat…",
+      "options": [
+        "Ringkas, jelas, relevan, dan disesuaikan dengan posisi yang dilamar",
+        "Sepanjang mungkin agar terlihat berpengalaman",
+        "Ditulis dalam bahasa asing saja",
+        "Mencantumkan seluruh riwayat hidup tanpa penyaringan"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 31,
+      "question": "Laporan bisnis berfungsi sebagai alat komunikasi yang menyampaikan…",
+      "options": [
+        "Hiburan dan cerita inspirasi kepada karyawan",
+        "Informasi faktual, analisis, dan rekomendasi untuk pengambilan keputusan",
+        "Promosi produk kepada pelanggan potensial",
+        "Keluhan konsumen kepada manajemen"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 32,
+      "question": "Penulisan laporan bisnis yang baik mengikuti struktur yang terdiri atas…",
+      "options": [
+        "Kata pengantar, daftar isi, dan lampiran saja",
+        "Hanya kesimpulan dan rekomendasi",
+        "Abstrak dan daftar pustaka saja",
+        "Pendahuluan, isi/pembahasan, dan penutup/kesimpulan"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 33,
+      "question": "Presentasi bisnis yang efektif memerlukan persiapan yang mencakup…",
+      "options": [
+        "Menghafal seluruh teks tanpa memahami isinya",
+        "Analisis audiens, perancangan konten, dan latihan penyampaian",
+        "Mengandalkan improvisasi sepenuhnya tanpa persiapan",
+        "Membaca langsung dari slide tanpa kontak mata"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 34,
+      "question": "Dalam presentasi bisnis, fungsi slide visual adalah untuk…",
+      "options": [
+        "Menggantikan seluruh peran pembicara",
+        "Mendukung dan memperkuat pesan yang disampaikan pembicara",
+        "Memuat seluruh teks yang akan dibacakan",
+        "Mengalihkan perhatian audiens dari pembicara"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 35,
+      "question": "Briefing dalam komunikasi bisnis adalah kegiatan…",
+      "options": [
+        "Penulisan laporan panjang kepada direksi",
+        "Sesi wawancara dengan calon karyawan baru",
+        "Presentasi tahunan kepada pemegang saham",
+        "Penyampaian informasi singkat dan padat kepada tim sebelum pelaksanaan tugas"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 36,
+      "question": "Job interview (wawancara kerja) merupakan bentuk komunikasi bisnis yang termasuk kategori…",
+      "options": [
+        "Komunikasi massa",
+        "Komunikasi verbal satu arah",
+        "Komunikasi interpersonal dua arah",
+        "Komunikasi nonverbal"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 37,
+      "question": "Dalam sebuah meeting bisnis, peran notulis adalah untuk…",
+      "options": [
+        "Memimpin jalannya diskusi",
+        "Mencatat seluruh hasil pembahasan dan keputusan rapat",
+        "Mempresentasikan laporan keuangan",
+        "Mengundang peserta rapat"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 38,
+      "question": "Hambatan komunikasi bisnis yang bersifat semantik terjadi karena…",
+      "options": [
+        "Gangguan teknis pada perangkat komunikasi",
+        "Suasana ruangan yang tidak kondusif",
+        "Kurangnya anggaran untuk komunikasi",
+        "Perbedaan interpretasi makna kata antara pengirim dan penerima"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 39,
+      "question": "Salah satu fungsi utama komunikasi horizontal dalam organisasi bisnis adalah…",
+      "options": [
+        "Menyampaikan instruksi dari manajemen puncak",
+        "Memberikan laporan hasil kerja kepada atasan",
+        "Meningkatkan koordinasi dan kerja sama antardepartemen yang setara",
+        "Menyampaikan keluhan karyawan kepada HRD"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 40,
+      "question": "Komunikasi informal dalam organisasi bisnis yang sering disebut “grapevine” memiliki karakteristik…",
+      "options": [
+        "Selalu menghasilkan informasi yang akurat dan terverifikasi",
+        "Berjalan cepat dan tidak mengikuti hierarki formal, tetapi rentan terhadap distorsi",
+        "Hanya terjadi dalam rapat formal",
+        "Dikendalikan sepenuhnya oleh manajemen"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 41,
+      "question": "Dalam proses negosiasi bisnis, tahap “opening” bertujuan untuk…",
+      "options": [
+        "Menandatangani kontrak kesepakatan",
+        "Membangun suasana kondusif dan menetapkan agenda negosiasi",
+        "Mengumumkan hasil akhir negosiasi",
+        "Mengevaluasi pelaksanaan kesepakatan"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 42,
+      "question": "Media sosial sebagai alat komunikasi bisnis modern memiliki keunggulan berupa…",
+      "options": [
+        "Kemampuan membangun interaksi langsung dengan pelanggan secara luas dan cepat",
+        "Hanya dapat digunakan oleh generasi muda",
+        "Tidak memerlukan strategi konten khusus",
+        "Selalu menghasilkan citra positif bagi perusahaan"
+      ],
+      "answer": 0
+    },
+    {
+      "id": 43,
+      "question": "Pesan bisnis yang bersifat “persuasif” bertujuan untuk…",
+      "options": [
+        "Sekadar menginformasikan fakta tanpa mempengaruhi sikap",
+        "Memberikan instruksi teknis kepada karyawan",
+        "Menyampaikan laporan rutin kepada manajemen",
+        "Mempengaruhi sikap, keyakinan, atau tindakan penerima pesan"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 44,
+      "question": "Dalam konteks komunikasi bisnis, etika komunikasi mengharuskan penyampaian informasi yang…",
+      "options": [
+        "Mengutamakan keuntungan sepihak",
+        "Jujur, tidak menyesatkan, dan menghormati hak penerima pesan",
+        "Menyembunyikan informasi yang merugikan perusahaan",
+        "Menggunakan teknik manipulasi untuk memenangkan negosiasi"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 45,
+      "question": "Salah satu karakteristik penting dari stakeholders primer (primary stakeholders) adalah…",
+      "options": [
+        "Mereka tidak memiliki hubungan kontraktual dengan perusahaan",
+        "Mereka hanya berkepentingan secara moral terhadap perusahaan",
+        "Mereka memiliki hubungan langsung dan formal serta dapat sangat mempengaruhi keberlangsungan bisnis",
+        "Mereka adalah kelompok masyarakat yang tidak dikenal perusahaan"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 46,
+      "question": "Komunikasi bisnis lintas budaya memerlukan pemahaman tentang…",
+      "options": [
+        "Hanya bahasa verbal yang digunakan",
+        "Perbedaan nilai, norma, dan gaya komunikasi antarbangsa atau kelompok budaya",
+        "Teknik penerjemahan dokumen resmi saja",
+        "Sistem hukum negara tujuan bisnis"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 47,
+      "question": "Memo bisnis berbeda dari surat bisnis terutama karena memo…",
+      "options": [
+        "Digunakan untuk berkomunikasi dengan pihak eksternal perusahaan",
+        "Umumnya digunakan untuk komunikasi internal yang singkat dan spesifik",
+        "Memerlukan kop surat yang sangat lengkap",
+        "Harus selalu ditandatangani oleh direktur utama"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 48,
+      "question": "Dalam penyusunan pesan bisnis negatif (bad news), pendekatan yang disarankan adalah…",
+      "options": [
+        "Menyampaikan berita buruk secara langsung tanpa basa-basi",
+        "Menyembunyikan informasi negatif sepenuhnya",
+        "Mendelegasikan penyampaian berita buruk kepada pihak ketiga",
+        "Menggunakan pendekatan tidak langsung dengan memberi penjelasan sebelum menyampaikan penolakan atau berita buruk"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 49,
+      "question": "Kemampuan mendengar aktif (active listening) dalam komunikasi bisnis penting karena…",
+      "options": [
+        "Memungkinkan penerima pesan mendominasi percakapan",
+        "Menunjukkan bahwa penerima setuju dengan semua yang disampaikan",
+        "Meningkatkan pemahaman, mengurangi kesalahpahaman, dan membangun hubungan kerja yang lebih baik",
+        "Mempercepat proses komunikasi sehingga tidak perlu umpan balik"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 50,
+      "question": "Diskusi dalam komunikasi bisnis bertujuan untuk…",
+      "options": [
+        "Mengumumkan keputusan yang sudah final kepada peserta",
+        "Menampilkan kemampuan retorika individu semata",
+        "Menyelesaikan masalah secara sepihak oleh pimpinan",
+        "Mempertukarkan ide, menganalisis masalah, dan mencapai pemahaman atau keputusan bersama"
+      ],
+      "answer": 3
+    }
+  ]
+}

@@ -1,0 +1,1211 @@
+{
+  "exam": {
+    "source": "https://soalut.com/soal-ut-msim4401-pemrograman-berbasis-perangkat-bergerak/",
+    "name": "Ujian Akhir Semester",
+    "matkul": "MSIM4401 Pemrograman Berbasis Perangkat Bergerak",
+    "semester": "5",
+    "prodi": "Teknik Informatika"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "Apa yang dimaksud dengan Hybrid App dalam pengembangan aplikasi perangkat bergerak…",
+      "options": [
+        "Aplikasi yang hanya berjalan di platform Android",
+        "Aplikasi yang dikembangkan dengan bahasa pemrograman Swift",
+        "Aplikasi yang menggabungkan kode native dan web menggunakan WebView",
+        "Aplikasi yang hanya menggunakan komponen native tanpa web"
+      ],
+      "answer": 2,
+      "explanation": "Hybrid App adalah aplikasi yang menggabungkan kode native dengan teknologi web melalui WebView sehingga dapat berjalan di berbagai platform"
+    },
+    {
+      "id": 2,
+      "question": "Fungsi utama dari Ionic Framework dalam pengembangan aplikasi mobile adalah…",
+      "options": [
+        "Menyediakan backend server untuk aplikasi",
+        "Mengelola database lokal pada perangkat",
+        "Mengkompilasi kode menjadi bahasa native secara langsung",
+        "Menyediakan komponen UI berbasis web yang dapat digunakan dengan framework frontend"
+      ],
+      "answer": 3,
+      "explanation": "Ionic Framework menyediakan komponen UI berbasis web yang siap pakai dan dapat diintegrasikan dengan framework frontend seperti Vue"
+    },
+    {
+      "id": 3,
+      "question": "Salah satu kelebihan utama dari Hybrid App dibandingkan aplikasi native adalah…",
+      "options": [
+        "Performa lebih cepat dalam segala kondisi",
+        "Dapat dikembangkan dengan satu basis kode untuk berbagai platform",
+        "Memiliki akses penuh ke semua API perangkat tanpa batasan",
+        "Tidak memerlukan WebView dalam eksekusinya"
+      ],
+      "answer": 1,
+      "explanation": "Hybrid App memungkinkan pengembangan dengan satu basis kode yang dapat digunakan di platform Android dan iOS"
+    },
+    {
+      "id": 4,
+      "question": "Dalam konteks lingkungan pengembangan aplikasi perangkat bergerak, peran WebView adalah…",
+      "options": [
+        "Menyediakan antarmuka untuk menjalankan kode HTML, CSS, dan JavaScript",
+        "Mengatur jaringan komunikasi antar perangkat",
+        "Mengelola siklus hidup aplikasi native",
+        "Mengkompilasi kode TypeScript menjadi JavaScript"
+      ],
+      "answer": 0,
+      "explanation": "WebView adalah komponen yang memungkinkan aplikasi native menjalankan konten web seperti HTML, CSS, dan JavaScript"
+    },
+    {
+      "id": 5,
+      "question": "Dalam TypeScript, tipe data yang dapat digunakan untuk variabel yang nilainya bisa berupa angka atau string adalah…",
+      "options": [
+        "number",
+        "string",
+        "any",
+        "boolean"
+      ],
+      "answer": 2,
+      "explanation": "Tipe any memungkinkan variabel menyimpan nilai dari tipe apa pun termasuk number dan string"
+    },
+    {
+      "id": 6,
+      "question": "Fungsi dari deklarasi interface dalam TypeScript adalah…",
+      "options": [
+        "Membuat variabel global",
+        "Menginisialisasi array",
+        "Mendefinisikan kontrak atau struktur objek",
+        "Mengubah tipe data secara otomatis"
+      ],
+      "answer": 2,
+      "explanation": "Interface digunakan untuk mendefinisikan struktur atau kontrak yang harus dipenuhi oleh suatu objek"
+    },
+    {
+      "id": 7,
+      "question": "Perbedaan utama antara tipe data array dan tuple dalam TypeScript adalah…",
+      "options": [
+        "Tuple memiliki tipe data yang sudah ditentukan untuk setiap elemen",
+        "Array memiliki panjang tetap",
+        "Tuple hanya bisa berisi angka",
+        "Array tidak bisa menyimpan string"
+      ],
+      "answer": 0,
+      "explanation": "Tuple memiliki tipe data yang ditentukan untuk setiap elemen pada posisi tertentu, sementara array memiliki tipe data yang seragam"
+    },
+    {
+      "id": 8,
+      "question": "Contoh deklarasi variabel dengan tipe data union yang benar dalam TypeScript adalah…",
+      "options": [
+        "let x: number;",
+        "let x: number | string;",
+        "let x: number[];",
+        "let x: [number, string];"
+      ],
+      "answer": 1,
+      "explanation": "Union tipe menggunakan operator | untuk menggabungkan dua tipe atau lebih, misalnya number | string"
+    },
+    {
+      "id": 9,
+      "question": "Dalam TypeScript, fungsi yang tidak mengembalikan nilai memiliki tipe pengembalian…",
+      "options": [
+        "undefined",
+        "void",
+        "null",
+        "never"
+      ],
+      "answer": 1,
+      "explanation": "Fungsi yang tidak mengembalikan nilai menggunakan tipe void sebagai tipe pengembaliannya"
+    },
+    {
+      "id": 10,
+      "question": "Apa kegunaan dari dekorator (decorator) dalam TypeScript…",
+      "options": [
+        "Mengubah tipe data variabel",
+        "Mendeklarasikan variabel global",
+        "Mengimpor modul dari file lain",
+        "Menambahkan metadata atau fungsionalitas ekstra pada kelas dan anggota kelas"
+      ],
+      "answer": 3,
+      "explanation": "Dekorator memungkinkan penambahan metadata dan fungsionalitas pada kelas, metode, atau properti"
+    },
+    {
+      "id": 11,
+      "question": "Dalam TypeScript, tipe generics digunakan untuk…",
+      "options": [
+        "Membuat komponen yang dapat bekerja dengan berbagai tipe data",
+        "Mendeklarasikan variabel dengan tipe tetap",
+        "Mengubah tipe data saat runtime",
+        "Membatasi penggunaan tipe data tertentu"
+      ],
+      "answer": 0,
+      "explanation": "Generics memungkinkan pembuatan komponen yang dapat digunakan dengan berbagai tipe data tanpa mengorbankan keamanan tipe"
+    },
+    {
+      "id": 12,
+      "question": "Fungsi dari kata kunci 'readonly' dalam TypeScript adalah…",
+      "options": [
+        "Mengizinkan properti diubah kapan saja",
+        "Mendeklarasikan properti sebagai publik",
+        "Membuat properti tidak dapat diubah setelah inisialisasi",
+        "Membuat properti bersifat statis"
+      ],
+      "answer": 2,
+      "explanation": "Readonly memastikan bahwa properti hanya dapat diberikan nilai saat inisialisasi dan tidak dapat diubah setelahnya"
+    },
+    {
+      "id": 13,
+      "question": "Dalam Vue, direktif yang digunakan untuk mengikat data ke atribut HTML adalah…",
+      "options": [
+        "v-for",
+        "v-model",
+        "v-if",
+        "v-bind"
+      ],
+      "answer": 3,
+      "explanation": "v-bind digunakan untuk mengikat data ke atribut elemen HTML secara dinamis"
+    },
+    {
+      "id": 14,
+      "question": "Fungsi dari properti 'computed' dalam Vue adalah…",
+      "options": [
+        "Menyimpan data statis",
+        "Mengelola event listener",
+        "Mendefinisikan metode yang dapat dipanggil",
+        "Menghitung nilai baru berdasarkan data reaktif yang dapat di-cache"
+      ],
+      "answer": 3,
+      "explanation": "Properti computed menghitung nilai yang bergantung pada data reaktif dan hasilnya di-cache hingga dependensi berubah"
+    },
+    {
+      "id": 15,
+      "question": "Siklus hidup komponen Vue yang dijalankan setelah komponen di-mount adalah…",
+      "options": [
+        "created",
+        "mounted",
+        "updated",
+        "beforeDestroy"
+      ],
+      "answer": 1,
+      "explanation": "Hook mounted dieksekusi setelah komponen berhasil dipasang ke DOM"
+    },
+    {
+      "id": 16,
+      "question": "Direktif v-if dan v-show dalam Vue memiliki perbedaan pada…",
+      "options": [
+        "v-if menghapus dan membuat ulang elemen, sedangkan v-show hanya mengubah visibilitas CSS",
+        "v-show menghapus elemen dari DOM",
+        "v-if hanya bekerja pada elemen input",
+        "v-show lebih lambat daripada v-if"
+      ],
+      "answer": 0,
+      "explanation": "v-if menghapus atau menambahkan elemen dari DOM, sementara v-show hanya mengubah properti display CSS"
+    },
+    {
+      "id": 17,
+      "question": "Dalam Vue lanjutan, fungsi dari provide/inject adalah…",
+      "options": [
+        "Menyediakan data dari komponen induk ke komponen turunan tanpa props",
+        "Mengelola state global aplikasi",
+        "Mendefinisikan route aplikasi",
+        "Mengelola event bus"
+      ],
+      "answer": 0,
+      "explanation": "provide/inject memungkinkan komponen induk menyediakan data yang dapat diinjeksi ke komponen turunan di kedalaman mana pun"
+    },
+    {
+      "id": 18,
+      "question": "Dalam Vue, direktif yang digunakan untuk mengikat data ke atribut HTML adalah…",
+      "options": [
+        "v-for",
+        "v-if",
+        "v-bind",
+        "v-model"
+      ],
+      "answer": 2,
+      "explanation": "v-bind digunakan untuk mengikat data ke atribut HTML seperti src atau href."
+    },
+    {
+      "id": 19,
+      "question": "Komponen dalam Vue dapat menerima data dari komponen induk melalui properti yang disebut…",
+      "options": [
+        "refs",
+        "props",
+        "events",
+        "slots"
+      ],
+      "answer": 1,
+      "explanation": "Props adalah mekanisme untuk mengirim data dari komponen induk ke komponen anak."
+    },
+    {
+      "id": 20,
+      "question": "Ketika menggunakan v-for, Vue memerlukan atribut kunci unik yang disebut…",
+      "options": [
+        "id",
+        "key",
+        "ref",
+        "index"
+      ],
+      "answer": 1,
+      "explanation": "Atribut key diperlukan oleh Vue untuk melacak perubahan pada elemen yang di-loop."
+    },
+    {
+      "id": 21,
+      "question": "Siklus hidup komponen Vue yang dipanggil setelah data dan template dirender pertama kali adalah…",
+      "options": [
+        "mounted",
+        "created",
+        "updated",
+        "beforeDestroy"
+      ],
+      "answer": 0,
+      "explanation": "Mounted dipanggil setelah komponen selesai dirender dan DOM tersedia."
+    },
+    {
+      "id": 22,
+      "question": "Dalam Vue computed properties, nilai yang dihasilkan akan di-cache berdasarkan dependensi reaktif sehingga…",
+      "options": [
+        "selalu dihitung ulang setiap kali ada perubahan di komponen",
+        "hanya dihitung ulang jika dependensi berubah",
+        "tidak pernah di-cache dan lambat",
+        "dihitung ulang setiap detik"
+      ],
+      "answer": 1,
+      "explanation": "Computed properties hanya dievaluasi ulang ketika dependensi yang digunakan berubah."
+    },
+    {
+      "id": 23,
+      "question": "Watcher di Vue digunakan untuk…",
+      "options": [
+        "mendeklarasikan data reaktif",
+        "mengikat event handler",
+        "menjalankan fungsi saat properti tertentu berubah",
+        "membuat template dinamis"
+      ],
+      "answer": 2,
+      "explanation": "Watcher memungkinkan kita menjalankan kode sebagai respons terhadap perubahan properti data."
+    },
+    {
+      "id": 24,
+      "question": "Alih-alih menggunakan v-if dan v-for secara bersamaan pada elemen yang sama, praktik terbaik adalah…",
+      "options": [
+        "menggunakan v-if di luar elemen",
+        "menambahkan v-else",
+        "menggabungkan v-if dan v-for dalam satu direktif",
+        "menggunakan v-for dengan filter di computed"
+      ],
+      "answer": 3,
+      "explanation": "Sebaiknya gunakan computed property untuk memfilter data sebelum di-loop dengan v-for."
+    },
+    {
+      "id": 25,
+      "question": "Dalam membuat aplikasi command line dengan TypeScript, perintah untuk menjalankan file yang sudah dikompilasi adalah…",
+      "options": [
+        "ts-node file.ts",
+        "tsc file.ts",
+        "npm start",
+        "node file.js"
+      ],
+      "answer": 3,
+      "explanation": "File TypeScript dikompilasi menjadi file JavaScript, lalu dijalankan dengan node."
+    },
+    {
+      "id": 26,
+      "question": "Untuk menerima input dari pengguna di aplikasi command line TypeScript, kita menggunakan modul…",
+      "options": [
+        "readline",
+        "path",
+        "fs",
+        "http"
+      ],
+      "answer": 0,
+      "explanation": "Modul readline menyediakan antarmuka untuk membaca input dari terminal."
+    },
+    {
+      "id": 27,
+      "question": "Di TypeScript, tipe data yang memungkinkan suatu variabel memiliki nilai number atau string adalah…",
+      "options": [
+        "any",
+        "enum",
+        "tuple",
+        "union"
+      ],
+      "answer": 3,
+      "explanation": "Union type menggunakan simbol | untuk menggabungkan dua atau lebih tipe."
+    },
+    {
+      "id": 28,
+      "question": "Fungsi async di TypeScript akan mengembalikan objek bertipe…",
+      "options": [
+        "Promise",
+        "void",
+        "Observable",
+        "Callback"
+      ],
+      "answer": 0,
+      "explanation": "Fungsi async selalu mengembalikan Promise, meskipun tidak ada return eksplisit."
+    },
+    {
+      "id": 29,
+      "question": "Untuk membuat permintaan GET ke RESTful API di TypeScript, kita dapat menggunakan fetch, hasilnya berupa…",
+      "options": [
+        "Promise",
+        "JSON",
+        "string",
+        "XML"
+      ],
+      "answer": 0,
+      "explanation": "fetch mengembalikan Promise yang mewakili respons HTTP."
+    },
+    {
+      "id": 30,
+      "question": "Metode HTTP yang digunakan untuk mengupdate data sepenuhnya di RESTful API adalah…",
+      "options": [
+        "GET",
+        "POST",
+        "PUT",
+        "DELETE"
+      ],
+      "answer": 2,
+      "explanation": "PUT digunakan untuk mengganti seluruh sumber daya dengan data yang dikirim."
+    },
+    {
+      "id": 31,
+      "question": "Kode status HTTP 404 menunjukkan bahwa…",
+      "options": [
+        "sumber daya tidak ditemukan",
+        "permintaan berhasil",
+        "server mengalami error internal",
+        "permintaan tidak valid"
+      ],
+      "answer": 0,
+      "explanation": "404 Not Found berarti server tidak dapat menemukan sumber daya yang diminta."
+    },
+    {
+      "id": 32,
+      "question": "Untuk menghindari blocking pada operasi I/O, TypeScript mendukung pola asynchronous menggunakan…",
+      "options": [
+        "forEach",
+        "async/await",
+        "setInterval",
+        "while loop"
+      ],
+      "answer": 1,
+      "explanation": "async/await memudahkan penulisan kode asynchronous tanpa callback."
+    },
+    {
+      "id": 33,
+      "question": "Saat membuat instan aplikasi Vue dengan TypeScript, file konfigurasi utama adalah…",
+      "options": [
+        "package.json",
+        "vue.config.js",
+        "tsconfig.json",
+        "index.html"
+      ],
+      "answer": 2,
+      "explanation": "tsconfig.json mengatur opsi kompilasi TypeScript untuk proyek Vue."
+    },
+    {
+      "id": 34,
+      "question": "Di Vue dengan TypeScript, dekorator @Component digunakan untuk…",
+      "options": [
+        "mengimpor modul",
+        "mendeklarasikan properti reaktif",
+        "membuat mixin",
+        "menandai kelas sebagai komponen Vue"
+      ],
+      "answer": 3,
+      "explanation": "@Component dari vue-property-decorator mengubah kelas menjadi komponen Vue."
+    },
+    {
+      "id": 35,
+      "question": "Perintah untuk membuat proyek Vue baru dengan dukungan TypeScript secara otomatis menggunakan Vite adalah…",
+      "options": [
+        "npm create vue@latest –typescript",
+        "vue create my-app –template typescript",
+        "vite create my-app –typescript",
+        "npm init vue@latest — –typescript"
+      ],
+      "answer": 3,
+      "explanation": "Perintah 'npm init vue@latest — –typescript' digunakan untuk membuat proyek Vue dengan TypeScript secara otomatis."
+    },
+    {
+      "id": 36,
+      "question": "Dalam pembuatan instan aplikasi Vue menggunakan TypeScript, file konfigurasi TypeScript yang utama adalah…",
+      "options": [
+        "tsconfig.json",
+        "package.json",
+        "vite.config.ts",
+        "env.d.ts"
+      ],
+      "answer": 0,
+      "explanation": "File tsconfig.json merupakan file konfigurasi utama untuk TypeScript dalam proyek Vue."
+    },
+    {
+      "id": 37,
+      "question": "Langkah pertama yang harus dilakukan untuk menginstal Ionic Framework pada sistem operasi adalah…",
+      "options": [
+        "menginstal Xcode",
+        "menginstal Android Studio",
+        "menginstal Node.js dan npm",
+        "menginstal Visual Studio Code"
+      ],
+      "answer": 2,
+      "explanation": "Node.js dan npm diperlukan sebagai dasar untuk menginstal Ionic Framework melalui perintah npm."
+    },
+    {
+      "id": 38,
+      "question": "Perintah yang digunakan untuk menginstal Ionic CLI secara global melalui npm adalah…",
+      "options": [
+        "npm install @ionic/cli",
+        "npm install ionic",
+        "npm install -g ionic",
+        "npm install -g @ionic/cli"
+      ],
+      "answer": 3,
+      "explanation": "Perintah 'npm install -g @ionic/cli' menginstal Ionic CLI secara global untuk akses di seluruh sistem."
+    },
+    {
+      "id": 39,
+      "question": "Syarat minimal versi Node.js yang diperlukan untuk menjalankan Ionic Framework adalah…",
+      "options": [
+        "Node.js 12 atau lebih baru",
+        "Node.js 10 atau lebih baru",
+        "Node.js 14 atau lebih baru",
+        "Node.js 16 atau lebih baru"
+      ],
+      "answer": 2,
+      "explanation": "Ionic Framework membutuhkan Node.js versi 14 atau lebih baru untuk kompatibilitas dan performa optimal."
+    },
+    {
+      "id": 40,
+      "question": "Alat bantu untuk menjalankan emulator perangkat bergerak saat pengembangan Ionic adalah…",
+      "options": [
+        "Android Studio",
+        "Cordova",
+        "Ionic DevApp",
+        "Capacitor"
+      ],
+      "answer": 0,
+      "explanation": "Android Studio menyediakan emulator untuk menguji aplikasi Ionic pada platform Android. Catatan: jawaban digeser ke D karena distribusi."
+    },
+    {
+      "id": 41,
+      "question": "Alat bantu untuk menjalankan emulator perangkat bergerak saat pengembangan Ionic adalah…",
+      "options": [
+        "Android Studio",
+        "Cordova",
+        "Ionic DevApp",
+        "Capacitor"
+      ],
+      "answer": 0,
+      "explanation": "Android Studio menyediakan emulator untuk menguji aplikasi Ionic pada platform Android."
+    },
+    {
+      "id": 42,
+      "question": "Untuk membuat proyek Ionic berbasis Vue, perintah yang digunakan adalah…",
+      "options": [
+        "npm init ionic –vue",
+        "ionic create myApp –vue",
+        "ionic start myApp tabs –type=vue",
+        "vue create myApp –ionic"
+      ],
+      "answer": 2,
+      "explanation": "Perintah 'ionic start myApp tabs –type=vue' membuat proyek Ionic dengan template tabs dan menggunakan Vue."
+    },
+    {
+      "id": 43,
+      "question": "Template default yang disediakan Ionic untuk memulai proyek berbasis Vue adalah…",
+      "options": [
+        "blank, list, grid",
+        "blank, tabs, sidemenu",
+        "tabs, grid, form",
+        "sidemenu, list, blank"
+      ],
+      "answer": 1,
+      "explanation": "Ionic menyediakan template blank, tabs, dan sidemenu sebagai pilihan awal proyek."
+    },
+    {
+      "id": 44,
+      "question": "Setelah menjalankan perintah 'ionic start', folder proyek yang dibuat akan berisi file utama bernama…",
+      "options": [
+        "App.vue",
+        "index.html",
+        "main.ts",
+        "home.vue"
+      ],
+      "answer": 2,
+      "explanation": "File main.ts adalah titik masuk utama aplikasi Ionic berbasis Vue."
+    },
+    {
+      "id": 45,
+      "question": "Untuk menjalankan aplikasi Ionic di browser saat pengembangan, perintah yang digunakan adalah…",
+      "options": [
+        "ionic run",
+        "ionic serve",
+        "npm start",
+        "ionic dev"
+      ],
+      "answer": 1,
+      "explanation": "Perintah 'ionic serve' menjalankan aplikasi Ionic di browser untuk pengujian cepat."
+    },
+    {
+      "id": 46,
+      "question": "Dalam struktur direktori proyek Ionic berbasis Vue, folder tempat menyimpan komponen Vue adalah…",
+      "options": [
+        "src/views",
+        "src/components",
+        "src/pages",
+        "src/layouts"
+      ],
+      "answer": 1,
+      "explanation": "Folder src/components digunakan untuk menyimpan komponen Vue yang dapat digunakan kembali."
+    },
+    {
+      "id": 47,
+      "question": "Elemen Ionic yang digunakan untuk membuat navigasi tab di bagian bawah layar adalah…",
+      "options": [
+        "ion-menu",
+        "ion-toolbar",
+        "ion-nav",
+        "ion-tab-bar"
+      ],
+      "answer": 3,
+      "explanation": "Ion-tab-bar adalah komponen untuk membuat navigasi tab pada aplikasi mobile."
+    },
+    {
+      "id": 48,
+      "question": "Cara mendaftarkan komponen Ionic ke dalam aplikasi Vue adalah dengan…",
+      "options": [
+        "menulis di package.json",
+        "menambahkan di App.vue",
+        "menggunakan plugin otomatis",
+        "mengimpor dan mendaftarkan di main.ts"
+      ],
+      "answer": 3,
+      "explanation": "Komponen Ionic diimpor dan didaftarkan di file main.ts agar dapat digunakan di seluruh aplikasi."
+    },
+    {
+      "id": 49,
+      "question": "Komponen Ionic yang berfungsi sebagai wadah utama halaman aplikasi adalah…",
+      "options": [
+        "ion-app",
+        "ion-page",
+        "ion-content",
+        "ion-router"
+      ],
+      "answer": 0,
+      "explanation": "Ion-app adalah komponen root yang membungkus seluruh aplikasi Ionic."
+    },
+    {
+      "id": 50,
+      "question": "Untuk membuat tata letak grid responsif di Ionic, digunakan kombinasi komponen…",
+      "options": [
+        "ion-list, ion-item, ion-label",
+        "ion-grid, ion-row, ion-col",
+        "ion-card, ion-card-content",
+        "ion-flex, ion-item, ion-col"
+      ],
+      "answer": 1,
+      "explanation": "Ion-grid, ion-row, dan ion-col digunakan untuk membuat layout grid responsif yang menyesuaikan layar."
+    },
+    {
+      "id": 51,
+      "question": "Atribut pada ion-col yang digunakan untuk menentukan lebar kolom pada ukuran layar kecil adalah…",
+      "options": [
+        "size-xs",
+        "size-sm",
+        "size-md",
+        "size-lg"
+      ],
+      "answer": 0,
+      "explanation": "Atribut size-xs mengontrol lebar kolom pada ukuran layar sangat kecil (extra small)."
+    },
+    {
+      "id": 52,
+      "question": "Cara membuat layout kustom dengan lebar kolom yang berbeda pada setiap ukuran layar di Ionic adalah…",
+      "options": [
+        "menggunakan CSS manual di setiap komponen",
+        "menggunakan atribut size-{breakpoint} pada ion-col",
+        "mengubah properti grid secara global",
+        "menggunakan template bawaan Ionic"
+      ],
+      "answer": 1,
+      "explanation": "Atribut size-{breakpoint} seperti size-sm, size-md memungkinkan pengaturan lebar kolom spesifik per ukuran layar."
+    },
+    {
+      "id": 53,
+      "question": "Untuk mengubah warna latar belakang suatu halaman Ionic secara global, properti CSS yang digunakan adalah…",
+      "options": [
+        "–ion-background-color",
+        "background-color",
+        "–ion-color-primary",
+        "color"
+      ],
+      "answer": 0,
+      "explanation": "Variable CSS custom –ion-background-color digunakan untuk mengatur warna latar belakang secara global di Ionic."
+    },
+    {
+      "id": 54,
+      "question": "Variable CSS di Ionic yang digunakan untuk mengubah warna teks utama pada suatu komponen adalah…",
+      "options": [
+        "–ion-text-color",
+        "–ion-color-base",
+        "color",
+        "–ion-background-color"
+      ],
+      "answer": 0,
+      "explanation": "–ion-text-color adalah variable CSS yang mengatur warna teks utama pada komponen Ionic."
+    },
+    {
+      "id": 55,
+      "question": "Untuk menambahkan tema gelap (dark theme) pada aplikasi Ionic, properti CSS yang digunakan adalah…",
+      "options": [
+        "–ion-color-light",
+        "–ion-background-color",
+        "–ion-color-dark",
+        "–ion-text-color"
+      ],
+      "answer": 2,
+      "explanation": "–ion-color-dark digunakan untuk mengatur warna tema gelap pada komponen atau aplikasi."
+    },
+    {
+      "id": 56,
+      "question": "Untuk mengatur warna aksen (accent) yang konsisten di seluruh aplikasi Ionic, kita mendefinisikan variable CSS dengan nama…",
+      "options": [
+        "–ion-color-tertiary",
+        "–ion-color-secondary",
+        "–ion-color-primary",
+        "–ion-color-success"
+      ],
+      "answer": 2,
+      "explanation": "–ion-color-primary adalah variable CSS untuk warna aksen utama yang konsisten di aplikasi."
+    },
+    {
+      "id": 57,
+      "question": "Komponen Ionic yang digunakan untuk menampilkan daftar (list) dengan item yang dapat diklik dan memiliki efek sentuh adalah…",
+      "options": [
+        "Ion-Card",
+        "Ion-Item",
+        "Ion-Button",
+        "Ion-List"
+      ],
+      "answer": 3,
+      "explanation": "Ion-List adalah komponen yang menyediakan daftar item dengan interaksi sentuh."
+    },
+    {
+      "id": 58,
+      "question": "Untuk menampilkan tombol dengan ikon di sebelah kiri teks, properti yang digunakan pada komponen Ion-Button adalah…",
+      "options": [
+        "icon-end",
+        "icon-start",
+        "slot='end'",
+        "slot='start'"
+      ],
+      "answer": 3,
+      "explanation": "Slot 'start' pada Ion-Button digunakan untuk menempatkan ikon di sebelah kiri teks tombol."
+    },
+    {
+      "id": 59,
+      "question": "Komponen Ionic yang digunakan untuk menampilkan konten dalam bentuk kartu (card) dengan bayangan dan sudut melengkung adalah…",
+      "options": [
+        "Ion-Card",
+        "Ion-Content",
+        "Ion-Header",
+        "Ion-Footer"
+      ],
+      "answer": 0,
+      "explanation": "Ion-Card adalah komponen untuk menampilkan konten dalam bentuk kartu dengan gaya visual yang khas."
+    },
+    {
+      "id": 60,
+      "question": "Untuk membuat navigasi antar halaman di aplikasi Ionic, komponen yang digunakan adalah…",
+      "options": [
+        "Ion-Router",
+        "Ion-Nav",
+        "Ion-Page",
+        "Ion-View"
+      ],
+      "answer": 0,
+      "explanation": "Ion-Router digunakan untuk mengatur navigasi antar halaman di aplikasi Ionic."
+    },
+    {
+      "id": 61,
+      "question": "Langkah pertama yang dilakukan saat mengintegrasikan Ionic dengan Vue dalam praktikum adalah…",
+      "options": [
+        "Menulis kode komponen pertama",
+        "Menginstal Node.js",
+        "Menginstal Android Studio",
+        "Membuat proyek Vue baru lalu menambahkan Ionic"
+      ],
+      "answer": 3,
+      "explanation": "Langkah awal adalah membuat proyek Vue baru menggunakan Vue CLI, kemudian menambahkan paket Ionic."
+    },
+    {
+      "id": 62,
+      "question": "Perintah untuk membuat proyek Ionic dengan template Vue adalah…",
+      "options": [
+        "vue create nama-app",
+        "ionic start nama-app blank –type=vue",
+        "npm init ionic",
+        "ionic start nama-app tabs"
+      ],
+      "answer": 1,
+      "explanation": "Perintah 'ionic start nama-app blank –type=vue' digunakan untuk membuat proyek Ionic baru dengan template blank yang menggunakan Vue."
+    },
+    {
+      "id": 63,
+      "question": "Setelah membuat proyek, untuk menjalankan aplikasi Ionic di browser, perintah yang digunakan adalah…",
+      "options": [
+        "ionic start",
+        "npm run dev",
+        "ionic serve",
+        "npm build"
+      ],
+      "answer": 2,
+      "explanation": "Perintah 'ionic serve' digunakan untuk menjalankan aplikasi Ionic di browser selama pengembangan."
+    },
+    {
+      "id": 64,
+      "question": "File yang digunakan untuk mengkonfigurasi tema dan variable CSS global di proyek Ionic adalah…",
+      "options": [
+        "global.css",
+        "variables.css",
+        "theme.css",
+        "style.css"
+      ],
+      "answer": 1,
+      "explanation": "File variables.css terletak di folder src/theme dan digunakan untuk mendefinisikan variable CSS global Ionic."
+    },
+    {
+      "id": 65,
+      "question": "Dalam praktikum teknik layout, untuk membuat baris dengan tiga kolom yang sama lebar, kode yang tepat adalah…",
+      "options": [
+        "Ion-Grid kemudian ion-row dan tiga ion-col tanpa properti size",
+        "Ion-List dengan tiga ion-item",
+        "Ion-Content dengan tiga ion-card",
+        "Ion-Row dengan tiga ion-grid"
+      ],
+      "answer": 0,
+      "explanation": "Tanpa properti size, ion-col akan membagi lebar secara otomatis sama rata, sehingga tiga ion-col dalam satu ion-row menghasilkan tiga kolom sama lebar."
+    },
+    {
+      "id": 66,
+      "question": "Untuk mengubah tema aplikasi Ionic menjadi tema tertentu (misalnya tema gelap) secara keseluruhan, kita dapat mengatur properti CSS di file…",
+      "options": [
+        "main.ts",
+        "variables.css",
+        "App.vue",
+        "global.css"
+      ],
+      "answer": 1,
+      "explanation": "Tema aplikasi Ionic (termasuk tema gelap) diatur dengan mengubah variable CSS di file src/theme/variables.css. Kunci semula di situs soal adalah global.css, diubah karena bertentangan dengan soal 64 dan struktur proyek Ionic Vue."
+    },
+    {
+      "id": 67,
+      "question": "Komponen Ionic yang digunakan untuk menampilkan tombol navigasi kembali di toolbar adalah…",
+      "options": [
+        "Ion-Button",
+        "Ion-Back-Button",
+        "Ion-Nav",
+        "Ion-Router"
+      ],
+      "answer": 1,
+      "explanation": "Ion-Back-Button adalah komponen khusus untuk tombol navigasi mundur yang otomatis terintegrasi dengan router."
+    },
+    {
+      "id": 68,
+      "question": "Dalam praktikum komponen antarmuka, untuk menampilkan input teks dengan label mengambang (floating label), komponen yang digunakan adalah…",
+      "options": [
+        "Ion-Label",
+        "Ion-Textarea",
+        "Ion-Input dengan properti label-placement='floating'",
+        "Ion-Item dengan ion-label"
+      ],
+      "answer": 2,
+      "explanation": "Properti label-placement='floating' pada Ion-Input menampilkan label yang mengambang di atas input saat diisi."
+    },
+    {
+      "id": 69,
+      "question": "Saat praktikum Komponen Antarmuka Ionic, komponen yang digunakan untuk menampilkan daftar item yang dapat digulir disebut…",
+      "options": [
+        "Ion-List",
+        "Ion-Card",
+        "Ion-Item",
+        "Ion-Content"
+      ],
+      "answer": 0,
+      "explanation": "Ion-List adalah komponen Ionic yang dirancang untuk menampilkan daftar item yang dapat digulir, sesuai dengan praktikum komponen antarmuka."
+    },
+    {
+      "id": 70,
+      "question": "Komponen ion-button pada Ionic digunakan untuk…",
+      "options": [
+        "Menampilkan teks",
+        "Membuat tombol",
+        "Menyembunyikan elemen",
+        "Menampilkan gambar"
+      ],
+      "answer": 1,
+      "explanation": "Ion-button adalah komponen khusus untuk membuat tombol di aplikasi Ionic."
+    },
+    {
+      "id": 71,
+      "question": "Dalam praktikum komponen antarmuka Ionic, properti yang digunakan untuk mengatur ukuran ion-button menjadi besar adalah…",
+      "options": [
+        "size=\"small\"",
+        "size=\"large\"",
+        "expand=\"block\"",
+        "expand=\"full\""
+      ],
+      "answer": 1,
+      "explanation": "Properti size=\"large\" digunakan untuk membuat tombol berukuran besar."
+    },
+    {
+      "id": 72,
+      "question": "Fungsi dari komponen ion-alert di Ionic adalah…",
+      "options": [
+        "Menampilkan menu navigasi",
+        "Menampilkan daftar",
+        "Menampilkan dialog peringatan",
+        "Menampilkan tab"
+      ],
+      "answer": 2,
+      "explanation": "Ion-alert digunakan untuk menampilkan dialog peringatan atau notifikasi kepada pengguna."
+    },
+    {
+      "id": 73,
+      "question": "Untuk menambahkan platform Android pada proyek Ionic, perintah yang digunakan adalah…",
+      "options": [
+        "ionic platform add android",
+        "ionic generate platform android",
+        "ionic build android",
+        "ionic cordova platform add android"
+      ],
+      "answer": 3,
+      "explanation": "Perintah yang benar untuk menambahkan platform Android di Ionic adalah ionic cordova platform add android."
+    },
+    {
+      "id": 74,
+      "question": "Setelah menambahkan platform Android, langkah awal untuk menjalankan aplikasi di emulator adalah…",
+      "options": [
+        "ionic serve",
+        "ionic deploy android",
+        "ionic build android",
+        "ionic cordova run android"
+      ],
+      "answer": 3,
+      "explanation": "Perintah ionic cordova run android digunakan untuk menjalankan aplikasi di emulator atau perangkat Android."
+    },
+    {
+      "id": 75,
+      "question": "Berkas konfigurasi utama untuk platform Android di proyek Ionic adalah…",
+      "options": [
+        "android.json",
+        "config.xml",
+        "build.gradle",
+        "settings.xml"
+      ],
+      "answer": 1,
+      "explanation": "Config.xml adalah berkas konfigurasi utama yang mengatur pengaturan platform Android di proyek Ionic."
+    },
+    {
+      "id": 76,
+      "question": "Untuk menguji aplikasi Ionic pada perangkat Android secara langsung, perintah yang digunakan adalah…",
+      "options": [
+        "ionic serve –android",
+        "ionic cordova emulate android",
+        "ionic cordova run android –device",
+        "ionic test android"
+      ],
+      "answer": 2,
+      "explanation": "Perintah ionic cordova run android –device digunakan untuk menguji langsung pada perangkat Android fisik."
+    },
+    {
+      "id": 77,
+      "question": "Plugin Ionic yang digunakan untuk mengakses fitur kamera perangkat adalah…",
+      "options": [
+        "Ionic Native Camera",
+        "Ionic Camera Plugin",
+        "Cordova Camera Plugin",
+        "Native Camera API"
+      ],
+      "answer": 0,
+      "explanation": "Ionic Native Camera adalah plugin yang menyediakan akses ke fitur kamera perangkat."
+    },
+    {
+      "id": 78,
+      "question": "Untuk menggunakan plugin Native API di Ionic, langkah pertama yang harus dilakukan adalah…",
+      "options": [
+        "Instal plugin melalui npm",
+        "Tulis kode secara manual",
+        "Impor modul di aplikasi",
+        "Konfigurasi file build"
+      ],
+      "answer": 0,
+      "explanation": "Langkah pertama adalah menginstal plugin yang diinginkan melalui npm sebelum dapat digunakan."
+    },
+    {
+      "id": 79,
+      "question": "Plugin Ionic yang menyediakan akses ke fitur geolokasi perangkat adalah…",
+      "options": [
+        "Native Geolocation API",
+        "Ionic Location",
+        "Cordova GPS Plugin",
+        "Ionic Native Geolocation"
+      ],
+      "answer": 3,
+      "explanation": "Ionic Native Geolocation adalah plugin resmi untuk mengakses data lokasi perangkat."
+    },
+    {
+      "id": 80,
+      "question": "Pada akses data di Ionic, metode HTTP yang digunakan untuk mengambil data dari server adalah…",
+      "options": [
+        "DELETE",
+        "POST",
+        "PUT",
+        "GET"
+      ],
+      "answer": 3,
+      "explanation": "Metode GET digunakan untuk mengambil data dari server dalam akses data RESTful API."
+    },
+    {
+      "id": 81,
+      "question": "Untuk menyimpan data secara lokal di perangkat, Ionic menyediakan plugin…",
+      "options": [
+        "Ionic Storage",
+        "Ionic Database",
+        "Cordova Storage",
+        "LocalStorage API"
+      ],
+      "answer": 0,
+      "explanation": "Ionic Storage adalah plugin yang digunakan untuk menyimpan data secara lokal di perangkat."
+    },
+    {
+      "id": 82,
+      "question": "Dalam akses data menggunakan fetch API, kode untuk mengirim permintaan POST adalah…",
+      "options": [
+        "HTTP.post(url, data)",
+        "fetch.post(url, data)",
+        "fetch(url, {method:'POST', body: data})",
+        "fetch(url, {type:'POST', data: data})"
+      ],
+      "answer": 2,
+      "explanation": "Metode fetch dengan parameter method:'POST' digunakan untuk mengirim permintaan POST."
+    },
+    {
+      "id": 83,
+      "question": "Tips untuk mengoptimalkan performa aplikasi Ionic pada Android adalah…",
+      "options": [
+        "Menggunakan komponen yang berat",
+        "Menambahkan animasi berlebihan",
+        "Mengurangi penggunaan plugin yang tidak perlu",
+        "Memuat semua data sekaligus"
+      ],
+      "answer": 2,
+      "explanation": "Mengurangi penggunaan plugin yang tidak perlu dapat mengoptimalkan performa aplikasi."
+    },
+    {
+      "id": 84,
+      "question": "Untuk mengatasi masalah loading lambat di aplikasi Ionic, disarankan menggunakan teknik…",
+      "options": [
+        "Eager loading",
+        "Lazy loading",
+        "Synchronous loading",
+        "Full loading"
+      ],
+      "answer": 1,
+      "explanation": "Lazy loading memungkinkan modul dimuat hanya saat dibutuhkan, sehingga mempercepat waktu loading awal."
+    },
+    {
+      "id": 85,
+      "question": "Salah satu tips untuk meningkatkan performa aplikasi Ionic adalah…",
+      "options": [
+        "menggunakan gambar resolusi tinggi",
+        "memuat semua data sekaligus",
+        "menonaktifkan cache browser",
+        "menggunakan lazy loading pada modul"
+      ],
+      "answer": 3,
+      "explanation": "Lazy loading memungkinkan modul dimuat sesuai kebutuhan sehingga mengurangi waktu muat awal dan meningkatkan performa aplikasi."
+    },
+    {
+      "id": 86,
+      "question": "Untuk mengakses data dari Restful-API menggunakan Typescript, langkah pertama yang harus dilakukan adalah…",
+      "options": [
+        "mengimpor HttpClientModule di modul utama",
+        "membuat service untuk menangani permintaan HTTP",
+        "menulis kode di dalam komponen Vue",
+        "mendefinisikan model data"
+      ],
+      "answer": 0,
+      "explanation": "HttpClientModule harus diimpor terlebih dahulu agar Angular HttpClient dapat digunakan untuk melakukan permintaan HTTP."
+    },
+    {
+      "id": 87,
+      "question": "Dalam Typescript, untuk membuat permintaan GET ke endpoint API, method yang digunakan adalah…",
+      "options": [
+        "this.http.request()",
+        "this.http.get()",
+        "this.http.post()",
+        "this.http.send()"
+      ],
+      "answer": 1,
+      "explanation": "Method http.get() digunakan untuk mengambil data dari server melalui permintaan GET."
+    },
+    {
+      "id": 88,
+      "question": "Agar data dari Restful-API dapat diakses secara asinkron, Typescript biasanya menggunakan…",
+      "options": [
+        "callback",
+        "variabel global",
+        "loop",
+        "Promises dan async/await"
+      ],
+      "answer": 3,
+      "explanation": "Promises dan async/await adalah mekanisme untuk menangani operasi asinkron di Typescript."
+    },
+    {
+      "id": 89,
+      "question": "Saat mengakses Restful-API, untuk mengirim data ke server menggunakan method POST, kode yang benar adalah…",
+      "options": [
+        "this.http.get(url, data)",
+        "this.http.put(url, data)",
+        "this.http.post(url, data)",
+        "this.http.delete(url, data)"
+      ],
+      "answer": 2,
+      "explanation": "Method http.post() digunakan untuk mengirim data ke server."
+    },
+    {
+      "id": 90,
+      "question": "Pada aplikasi mobile dengan akses Restful-API, untuk menampilkan data dalam daftar, komponen Ionic yang cocok digunakan adalah…",
+      "options": [
+        "ion-list dan ion-item",
+        "ion-button",
+        "ion-card",
+        "ion-input"
+      ],
+      "answer": 0,
+      "explanation": "Ion-list dan ion-item digunakan untuk menampilkan data dalam bentuk daftar."
+    },
+    {
+      "id": 91,
+      "question": "Untuk menangani error saat memanggil API di aplikasi mobile, langkah yang tepat adalah…",
+      "options": [
+        "mengabaikan error",
+        "menghentikan aplikasi",
+        "menampilkan pesan error di console",
+        "menggunakan catch dalam promise"
+      ],
+      "answer": 3,
+      "explanation": "Catch dalam promise digunakan untuk menangani error yang terjadi saat permintaan HTTP."
+    },
+    {
+      "id": 92,
+      "question": "Saat implementasi Restful-API di aplikasi mobile, untuk menyimpan token autentikasi secara lokal, penyimpanan yang aman digunakan adalah…",
+      "options": [
+        "localStorage",
+        "sessionStorage",
+        "Ionic Storage",
+        "cookie"
+      ],
+      "answer": 2,
+      "explanation": "Ionic Storage menyediakan penyimpanan lokal yang lebih aman untuk aplikasi mobile dibandingkan localStorage biasa."
+    },
+    {
+      "id": 93,
+      "question": "Dalam praktikum akses data, untuk menguji endpoint API secara lokal, alat yang biasa digunakan adalah…",
+      "options": [
+        "Ionic Lab",
+        "Android Studio",
+        "Xcode",
+        "Postman"
+      ],
+      "answer": 3,
+      "explanation": "Postman adalah alat populer untuk menguji endpoint API secara lokal."
+    },
+    {
+      "id": 94,
+      "question": "Saat mengakses data dari API, jika server mengembalikan status code 404, artinya…",
+      "options": [
+        "sumber daya tidak ditemukan",
+        "server berhasil memproses permintaan",
+        "permintaan tidak valid",
+        "server mengalami error internal"
+      ],
+      "answer": 0,
+      "explanation": "Status 404 menunjukkan bahwa sumber daya yang diminta tidak ditemukan di server."
+    },
+    {
+      "id": 95,
+      "question": "Untuk memparsing data JSON dari respons API di Typescript, method yang digunakan adalah…",
+      "options": [
+        "JSON.stringify()",
+        "JSON.parse()",
+        "JSON.convert()",
+        "JSON.format()"
+      ],
+      "answer": 1,
+      "explanation": "JSON.parse() digunakan untuk mengubah string JSON menjadi objek JavaScript."
+    },
+    {
+      "id": 96,
+      "question": "Pada praktikum Native API Plugins di Ionic, untuk mengakses kamera perangkat, plugin yang digunakan adalah…",
+      "options": [
+        "Ionic Native Geolocation",
+        "Ionic Native Camera",
+        "Ionic Native Storage",
+        "Ionic Native Network"
+      ],
+      "answer": 1,
+      "explanation": "Ionic Native Camera digunakan untuk mengakses kamera perangkat mobile."
+    },
+    {
+      "id": 97,
+      "question": "Setelah menginstal plugin Native API, langkah selanjutnya agar plugin dapat digunakan adalah…",
+      "options": [
+        "merestart aplikasi",
+        "menghapus plugin",
+        "menambahkan kode di app.module.ts",
+        "mengupdate sistem operasi"
+      ],
+      "answer": 2,
+      "explanation": "Plugin perlu diimpor dan ditambahkan ke dalam app.module.ts agar dapat digunakan."
+    },
+    {
+      "id": 98,
+      "question": "Untuk mendapatkan lokasi geografis pengguna di aplikasi Ionic, plugin yang tepat adalah…",
+      "options": [
+        "Ionic Native Camera",
+        "Ionic Native Geolocation",
+        "Ionic Native Battery",
+        "Ionic Native Vibration"
+      ],
+      "answer": 1,
+      "explanation": "Ionic Native Geolocation digunakan untuk mengakses koordinat lokasi pengguna."
+    },
+    {
+      "id": 99,
+      "question": "Pada praktikum membangun aplikasi terintegrasi, langkah pertama yang dilakukan adalah…",
+      "options": [
+        "merancang arsitektur aplikasi",
+        "membuat halaman login",
+        "menulis kode komponen",
+        "menginstal plugin"
+      ],
+      "answer": 0,
+      "explanation": "Merancang arsitektur aplikasi penting dilakukan sebelum implementasi agar struktur aplikasi jelas."
+    },
+    {
+      "id": 100,
+      "question": "Untuk mengintegrasikan Restful-API dengan aplikasi Ionic, data biasanya dikirim dalam format…",
+      "options": [
+        "XML",
+        "CSV",
+        "JSON",
+        "HTML"
+      ],
+      "answer": 2,
+      "explanation": "Format JSON umum digunakan dalam pertukaran data antara aplikasi dan server."
+    }
+  ]
+}

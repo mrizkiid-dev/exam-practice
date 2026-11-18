@@ -1,0 +1,1211 @@
+{
+  "exam": {
+    "source": "https://soalut.com/soal-ut-sats4121-metode-statistika-1/",
+    "name": "Ujian Akhir Semester",
+    "matkul": "SATS4121 Metode Statistika 1",
+    "semester": "5",
+    "prodi": "Teknik Informatika"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "Kumpulan data atau nilai ringkasan yang diperoleh dari suatu sampel disebut…",
+      "options": [
+        "Statistika",
+        "Populasi",
+        "Parameter",
+        "Statistik"
+      ],
+      "answer": 3,
+      "explanation": "Statistik merujuk pada data atau nilai ringkasan dari sampel, sedangkan statistika adalah ilmu yang mempelajarinya."
+    },
+    {
+      "id": 2,
+      "question": "Ilmu yang mempelajari cara pengumpulan, penyajian, analisis, dan interpretasi data merupakan definisi dari…",
+      "options": [
+        "Ekonometrika",
+        "Statistik",
+        "Statistika",
+        "Biometrika"
+      ],
+      "answer": 2,
+      "explanation": "Statistika mencakup keseluruhan proses mulai dari pengumpulan hingga interpretasi data, berbeda dengan statistik yang merupakan kumpulan data atau nilai ringkasannya."
+    },
+    {
+      "id": 3,
+      "question": "Metode statistika yang berfokus pada penyajian dan peringkasan data tanpa menarik kesimpulan melampaui data tersebut dinamakan…",
+      "options": [
+        "Statistika deskriptif",
+        "Statistika inferensia",
+        "Statistika nonparametrik",
+        "Statistika multivariat"
+      ],
+      "answer": 0,
+      "explanation": "Statistika deskriptif terbatas pada mendeskripsikan dan meringkas data, sementara statistika inferensia menggunakan data sampel untuk menggeneralisasi populasi."
+    },
+    {
+      "id": 4,
+      "question": "Generalisasi atau prediksi tentang populasi berdasarkan data sampel merupakan ruang lingkup dari…",
+      "options": [
+        "Statistika deskriptif",
+        "Statistika matematika",
+        "Statistika terapan",
+        "Statistika inferensia"
+      ],
+      "answer": 3,
+      "explanation": "Statistika inferensia bertujuan menarik kesimpulan tentang populasi dari data sampel melalui pendugaan dan pengujian hipotesis."
+    },
+    {
+      "id": 5,
+      "question": "Skala pengukuran yang mengelompokkan data ke dalam kategori tanpa adanya urutan atau peringkat adalah…",
+      "options": [
+        "Skala nominal",
+        "Skala ordinal",
+        "Skala interval",
+        "Skala rasio"
+      ],
+      "answer": 0,
+      "explanation": "Skala nominal hanya memberi label atau kategori tanpa urutan, misalnya jenis kelamin atau warna. Skala ordinal sudah memiliki urutan bermakna."
+    },
+    {
+      "id": 6,
+      "question": "Skala pengukuran yang memiliki titik nol mutlak sehingga operasi pembagian antar nilai bermakna disebut…",
+      "options": [
+        "Skala ordinal",
+        "Skala interval",
+        "Skala rasio",
+        "Skala nominal"
+      ],
+      "answer": 2,
+      "explanation": "Titik nol mutlak adalah pembeda utama skala rasio dari skala interval. Pada skala interval, nol hanya bersifat arbitrer sehingga rasio antar nilai tidak bermakna."
+    },
+    {
+      "id": 7,
+      "question": "Berikut ini merupakan sifat skala interval, kecuali…",
+      "options": [
+        "Memiliki urutan antarkategori",
+        "Memiliki titik nol mutlak",
+        "Jarak antarnilai bermakna dan sama",
+        "Tidak dapat dilakukan operasi pembagian antar nilai"
+      ],
+      "answer": 1,
+      "explanation": "Skala interval tidak memiliki titik nol mutlak, itulah yang membedakannya dari skala rasio. Sifat lain seperti urutan dan jarak yang sama dimiliki oleh skala interval."
+    },
+    {
+      "id": 8,
+      "question": "Simbol sigma (Σ) dalam statistika digunakan untuk menyatakan…",
+      "options": [
+        "Rata-rata sekumpulan data",
+        "Simpangan baku data",
+        "Jumlah sekumpulan data secara ringkas",
+        "Nilai maksimum data"
+      ],
+      "answer": 2,
+      "explanation": "Notasi sigma merupakan simbol penjumlahan yang meringkas operasi penambahan sekumpulan data. Rata-rata melibatkan sigma tetapi bukan definisi dari sigma itu sendiri."
+    },
+    {
+      "id": 9,
+      "question": "Diagram batang yang menggambarkan distribusi frekuensi data kuantitatif dengan batang-batang yang saling berhimpitan disebut…",
+      "options": [
+        "Histogram",
+        "Diagram batang",
+        "Diagram lingkaran",
+        "Poligon frekuensi"
+      ],
+      "answer": 0,
+      "explanation": "Histogram menggunakan batang saling berhimpit untuk menunjukkan kontinuitas antarkelas pada data kuantitatif, berbeda dengan diagram batang biasa yang memiliki celah antarbatang."
+    },
+    {
+      "id": 10,
+      "question": "Penyajian data kategorik yang menampilkan proporsi setiap kategori sebagai irisan dari keseluruhan lingkaran disebut…",
+      "options": [
+        "Histogram",
+        "Diagram batang",
+        "Diagram lingkaran",
+        "Poligon frekuensi"
+      ],
+      "answer": 2,
+      "explanation": "Diagram lingkaran membagi lingkaran menjadi irisan-irisan yang proporsional terhadap frekuensi setiap kategori, cocok untuk menampilkan komposisi data kategorik."
+    },
+    {
+      "id": 11,
+      "question": "Pengaturan data mentah ke dalam kelas-kelas tertentu beserta banyaknya data yang masuk tiap kelas dikenal sebagai…",
+      "options": [
+        "Diagram lingkaran",
+        "Distribusi frekuensi",
+        "Histogram",
+        "Poligon frekuensi"
+      ],
+      "answer": 1,
+      "explanation": "Distribusi frekuensi adalah tabel yang mengorganisasi data ke dalam kelas-kelas dan mencatat frekuensinya, menjadi dasar pembuatan histogram dan poligon frekuensi."
+    },
+    {
+      "id": 12,
+      "question": "Dari beberapa metode penyajian data berikut, yang bukan termasuk penyajian data secara grafik adalah…",
+      "options": [
+        "Histogram",
+        "Distribusi frekuensi",
+        "Diagram lingkaran",
+        "Poligon frekuensi"
+      ],
+      "answer": 1,
+      "explanation": "Distribusi frekuensi merupakan penyajian data dalam bentuk tabel, bukan grafik. Histogram, diagram lingkaran, dan poligon frekuensi adalah penyajian data berbentuk grafik."
+    },
+    {
+      "id": 13,
+      "question": "Nilai tengah yang membagi data terurut menjadi dua bagian sama banyak disebut…",
+      "options": [
+        "Rata-rata hitung",
+        "Modus",
+        "Rentang",
+        "Median"
+      ],
+      "answer": 3,
+      "explanation": "Median adalah posisi tengah data terurut yang membagi data menjadi dua bagian sama besar. Rata-rata hitung adalah jumlah data dibagi banyak data, dan modus adalah nilai paling sering muncul."
+    },
+    {
+      "id": 14,
+      "question": "Ukuran pemusatan yang paling tepat digunakan ketika data memiliki nilai ekstrem atau pencilan adalah…",
+      "options": [
+        "Rata-rata hitung",
+        "Median",
+        "Modus",
+        "Simpangan baku"
+      ],
+      "answer": 1,
+      "explanation": "Median tidak dipengaruhi oleh nilai ekstrem karena hanya bergantung pada posisi tengah data terurut. Rata-rata hitung sangat sensitif terhadap pencilan."
+    },
+    {
+      "id": 15,
+      "question": "Sebuah perusahaan mencatat jumlah absensi 10 karyawan: 1, 2, 2, 2, 3, 3, 4, 4, 5, 14. Nilai modus dari data tersebut adalah…",
+      "options": [
+        "2",
+        "3",
+        "3,5",
+        "4"
+      ],
+      "answer": 0,
+      "explanation": "Modus adalah nilai yang paling sering muncul. Dalam data tersebut, angka 2 muncul sebanyak tiga kali, lebih banyak dari nilai lainnya."
+    },
+    {
+      "id": 16,
+      "question": "Diketahui data: 8, 4, 6, 10, 5. Rata-rata hitung data tersebut adalah…",
+      "options": [
+        "6,6",
+        "6,0",
+        "5,8",
+        "7,0"
+      ],
+      "answer": 0,
+      "explanation": "Rata-rata hitung dihitung dengan menjumlahkan seluruh data lalu membaginya dengan banyak data: (8+4+6+10+5)/5 = 33/5 = 6,6."
+    },
+    {
+      "id": 17,
+      "question": "Rata-rata kuadrat selisih setiap data terhadap rata-ratanya disebut…",
+      "options": [
+        "Simpangan baku",
+        "Rentang",
+        "Koefisien variasi",
+        "Varians"
+      ],
+      "answer": 3,
+      "explanation": "Varians adalah rata-rata dari kuadrat deviasi setiap data terhadap mean. Simpangan baku adalah akar kuadrat dari varians, sedangkan rentang adalah selisih nilai maksimum dan minimum."
+    },
+    {
+      "id": 18,
+      "question": "Selisih antara nilai maksimum dan nilai minimum dalam sekumpulan data dikenal sebagai…",
+      "options": [
+        "Simpangan baku",
+        "Rentang",
+        "Varians",
+        "Kuartil"
+      ],
+      "answer": 1,
+      "explanation": "Rentang didefinisikan sebagai ukuran penyebaran paling sederhana yang menghitung selisih data terbesar dan terkecil."
+    },
+    {
+      "id": 19,
+      "question": "Sebuah himpunan data memiliki nilai-nilai yang tersebar cukup jauh dari rata-ratanya. Ukuran penyebaran yang paling tepat menggambarkan kondisi tersebut adalah…",
+      "options": [
+        "Modus",
+        "Simpangan baku",
+        "Median",
+        "Rentang antar kuartil"
+      ],
+      "answer": 1,
+      "explanation": "Simpangan baku mengukur rata-rata jarak setiap data dari mean sehingga tepat untuk menggambarkan sebaran data terhadap pusatnya."
+    },
+    {
+      "id": 20,
+      "question": "Diketahui varians suatu data adalah 16. Nilai simpangan baku data tersebut adalah…",
+      "options": [
+        "4",
+        "8",
+        "16",
+        "256"
+      ],
+      "answer": 0,
+      "explanation": "Simpangan baku merupakan akar kuadrat dari varians, sehingga sqrt(16) = 4."
+    },
+    {
+      "id": 21,
+      "question": "Himpunan semua hasil yang mungkin dari suatu percobaan acak disebut…",
+      "options": [
+        "Kejadian",
+        "Distribusi peluang",
+        "Titik sampel",
+        "Ruang sampel"
+      ],
+      "answer": 3,
+      "explanation": "Ruang sampel adalah kumpulan lengkap seluruh kemungkinan hasil dari sebuah percobaan acak."
+    },
+    {
+      "id": 22,
+      "question": "Jika semua hasil dalam ruang sampel memiliki peluang yang sama besar, peluang suatu kejadian A dihitung dengan…",
+      "options": [
+        "n(A) × n(S)",
+        "n(S) / n(A)",
+        "n(A) + n(S)",
+        "n(A) / n(S)"
+      ],
+      "answer": 3,
+      "explanation": "Peluang klasik dihitung sebagai perbandingan banyaknya hasil dalam kejadian A terhadap banyaknya hasil dalam ruang sampel S."
+    },
+    {
+      "id": 23,
+      "question": "Subset dari ruang sampel yang menjadi fokus perhatian dalam suatu percobaan acak dinamakan…",
+      "options": [
+        "Kejadian",
+        "Variabel acak",
+        "Populasi",
+        "Parameter"
+      ],
+      "answer": 0,
+      "explanation": "Kejadian didefinisikan sebagai himpunan bagian dari ruang sampel yang memuat hasil-hasil tertentu yang diminati."
+    },
+    {
+      "id": 24,
+      "question": "Sebuah dadu setimbang dilempar sekali. Peluang muncul mata dadu genap atau mata dadu kurang dari 4 termasuk penerapan dari…",
+      "options": [
+        "Aturan perkalian",
+        "Distribusi binomial",
+        "Teorema Bayes",
+        "Aturan penjumlahan"
+      ],
+      "answer": 3,
+      "explanation": "Menghitung peluang gabungan dua kejadian yang tidak saling lepas memerlukan aturan penjumlahan: P(A ∪ B) = P(A) + P(B) − P(A ∩ B)."
+    },
+    {
+      "id": 25,
+      "question": "Dua kejadian A dan B dikatakan saling bebas jika terpenuhi syarat…",
+      "options": [
+        "P(A ∪ B) = P(A) + P(B)",
+        "P(A ∩ B) = P(A) × P(B)",
+        "P(A ∩ B) = 0",
+        "P(A|B) = 1"
+      ],
+      "answer": 1,
+      "explanation": "Saling bebas berarti terjadinya satu kejadian tidak memengaruhi peluang kejadian lain, sehingga peluang irisannya adalah hasil kali peluang masing-masing."
+    },
+    {
+      "id": 26,
+      "question": "Sebuah kotak berisi 3 bola merah dan 5 bola biru. Dua bola diambil secara acak dengan pengembalian. Peluang terambil bola merah pada pengambilan pertama dan bola biru pada pengambilan kedua dihitung menggunakan…",
+      "options": [
+        "Aturan penjumlahan",
+        "Teorema Bayes",
+        "Distribusi hipergeometrik",
+        "Aturan perkalian"
+      ],
+      "answer": 3,
+      "explanation": "Karena pengambilan dengan pengembalian, kedua kejadian saling bebas sehingga peluang irisannya adalah P(merah) × P(biru) = (3/8) × (5/8)."
+    },
+    {
+      "id": 27,
+      "question": "Berikut ini adalah pernyataan yang benar tentang kejadian saling lepas, kecuali…",
+      "options": [
+        "Peluang irisan keduanya sama dengan nol",
+        "Kedua kejadian tidak dapat terjadi bersamaan",
+        "Peluang gabungannya sama dengan jumlah peluang masing-masing",
+        "Irisan kedua kejadian adalah himpunan kosong"
+      ],
+      "answer": 0,
+      "explanation": "Pernyataan bahwa peluang irisan sama dengan nol bukan definisi operasional yang lengkap karena irisan kosong pada kejadian saling lepas memang berpeluang nol, tetapi frasa yang dimaksud mengarah pada sifat irisan yang kosong, bukan peluangnya. Ketiga opsi lain tepat menggambarkan sifat saling lepas."
+    },
+    {
+      "id": 28,
+      "question": "Diketahui P(A) = 0,4 dan P(B|A) = 0,5. Nilai P(A ∩ B) adalah…",
+      "options": [
+        "0,1",
+        "0,6",
+        "0,2",
+        "0,9"
+      ],
+      "answer": 2,
+      "explanation": "Berdasarkan definisi peluang bersyarat, P(B|A) = P(A ∩ B) / P(A), sehingga P(A ∩ B) = 0,4 × 0,5 = 0,2."
+    },
+    {
+      "id": 29,
+      "question": "Rumus yang digunakan untuk memperbarui peluang awal setelah memperoleh informasi tambahan adalah…",
+      "options": [
+        "Aturan penjumlahan",
+        "Teorema Bayes",
+        "Aturan perkalian",
+        "Distribusi peluang marginal"
+      ],
+      "answer": 1,
+      "explanation": "Teorema Bayes menghubungkan peluang awal dan peluang bersyarat untuk memperoleh peluang posterior berdasarkan data baru."
+    },
+    {
+      "id": 30,
+      "question": "Dalam sebuah survey, 30% warga menggunakan produk X, dan 60% dari pengguna produk X merasa puas. Jika seorang warga dipilih acak, peluang warga tersebut menggunakan produk X dan merasa puas adalah…",
+      "options": [
+        "0,12",
+        "0,30",
+        "0,18",
+        "0,50"
+      ],
+      "answer": 2,
+      "explanation": "Peluang bersama dihitung sebagai P(puas ∩ X) = P(X) × P(puas|X) = 0,30 × 0,60 = 0,18."
+    },
+    {
+      "id": 31,
+      "question": "Suatu tes memiliki akurasi 95% jika penyakit benar ada. Diketahui peluang seseorang mengidap penyakit tersebut sebesar 0,01. Jika hasil tes positif, peluang orang itu benar sakit dihitung menggunakan…",
+      "options": [
+        "Aturan penjumlahan",
+        "Aturan perkalian untuk kejadian bebas",
+        "Teorema Bayes",
+        "Distribusi binomial"
+      ],
+      "answer": 2,
+      "explanation": "Masalah ini melibatkan pembaruan peluang prior (prevalensi) menjadi peluang posterior berdasarkan hasil tes, yang merupakan penerapan khas Teorema Bayes."
+    },
+    {
+      "id": 32,
+      "question": "Fungsi yang memetakan setiap hasil ruang sampel ke bilangan real disebut…",
+      "options": [
+        "Variabel acak",
+        "Fungsi distribusi kumulatif",
+        "Distribusi peluang",
+        "Probabilitas bersyarat"
+      ],
+      "answer": 0,
+      "explanation": "Variabel acak adalah fungsi yang memberikan nilai numerik pada setiap elemen ruang sampel, menjadi jembatan antara ruang sampel dan distribusi peluang."
+    },
+    {
+      "id": 33,
+      "question": "Fungsi yang menyatakan peluang variabel acak bernilai kurang dari atau sama dengan suatu nilai x adalah…",
+      "options": [
+        "Fungsi kepadatan peluang",
+        "Fungsi probabilitas marginal",
+        "Fungsi distribusi kumulatif",
+        "Fungsi likelihood"
+      ],
+      "answer": 2,
+      "explanation": "Fungsi distribusi kumulatif, biasa dinotasikan F(x), memberikan akumulasi peluang dari nilai terkecil hingga x, yaitu F(x) = P(X ≤ x)."
+    },
+    {
+      "id": 34,
+      "question": "Perbedaan utama antara variabel acak diskrit dan variabel acak kontinu terletak pada…",
+      "options": [
+        "Rentang nilai yang mungkin diambil",
+        "Ruang sampel yang digunakan",
+        "Besar peluang setiap nilai",
+        "Arah pemetaan fungsi"
+      ],
+      "answer": 0,
+      "explanation": "Variabel acak diskrit mengambil nilai pada himpunan tercacah, sedangkan variabel acak kontinu mengambil nilai pada interval kontinu."
+    },
+    {
+      "id": 35,
+      "question": "Daftar atau rumus yang memberikan peluang untuk setiap nilai variabel acak disebut…",
+      "options": [
+        "Fungsi distribusi kumulatif",
+        "Distribusi peluang",
+        "Ruang sampel",
+        "Ekspektasi"
+      ],
+      "answer": 1,
+      "explanation": "Distribusi peluang memetakan setiap nilai variabel acak ke peluang terjadinya nilai tersebut."
+    },
+    {
+      "id": 36,
+      "question": "Perbedaan utama antara fungsi distribusi peluang dan fungsi distribusi kumulatif terletak pada…",
+      "options": [
+        "Jenis variabel yang digunakan",
+        "Penggunaan dalam statistika inferensia",
+        "Nilai harapan yang dihasilkan",
+        "Cara menyatakan peluang, per nilai versus akumulasi"
+      ],
+      "answer": 3,
+      "explanation": "Fungsi distribusi peluang memberikan peluang untuk setiap nilai, sedangkan fungsi distribusi kumulatif menyatakan peluang total hingga suatu nilai tertentu."
+    },
+    {
+      "id": 37,
+      "question": "Rata-rata tertimbang dari nilai-nilai variabel acak berdasarkan peluangnya dikenal sebagai…",
+      "options": [
+        "Median",
+        "Modus",
+        "Ekspektasi",
+        "Varians"
+      ],
+      "answer": 2,
+      "explanation": "Ekspektasi dihitung dengan menjumlahkan hasil kali setiap nilai variabel acak dengan peluangnya, sehingga mencerminkan rata-rata jangka panjang."
+    },
+    {
+      "id": 38,
+      "question": "Ekspektasi dapat diinterpretasikan sebagai…",
+      "options": [
+        "Rata-rata jangka panjang dari variabel acak",
+        "Nilai yang paling sering muncul",
+        "Nilai tengah dari data terurut",
+        "Ukuran sebaran data"
+      ],
+      "answer": 0,
+      "explanation": "Ekspektasi merepresentasikan pusat distribusi teoretis yang akan dihampiri oleh rata-rata sampel jika percobaan diulang banyak kali."
+    },
+    {
+      "id": 39,
+      "question": "Ekspektasi dan mean sampel memiliki hubungan yang berbeda dalam hal…",
+      "options": [
+        "Cara perhitungan matematisnya",
+        "Hanya ekspektasi yang menggunakan peluang",
+        "Keduanya selalu bernilai sama",
+        "Satu bersifat teoretis, lainnya empiris dari data"
+      ],
+      "answer": 3,
+      "explanation": "Ekspektasi adalah nilai teoretis dari distribusi peluang, sedangkan mean sampel dihitung dari data observasi aktual."
+    },
+    {
+      "id": 40,
+      "question": "Diketahui variabel acak X memiliki distribusi peluang: P(X=0)=0,3, P(X=1)=0,5, dan P(X=2)=0,2. Varians dari X adalah…",
+      "options": [
+        "0.49",
+        "0.41",
+        "0.56",
+        "0.64"
+      ],
+      "answer": 0,
+      "explanation": "Ekspektasi E[X] = 0(0,3)+1(0,5)+2(0,2) = 0,9. E[X^2] = 0(0,3)+1(0,5)+4(0,2) = 1,3. Varians = E[X^2] – (E[X])^2 = 1,3 – 0,81 = 0,49."
+    },
+    {
+      "id": 41,
+      "question": "Nama lain dari distribusi peluang bersyarat yang menyatakan peluang suatu variabel acak dengan syarat variabel acak lain telah diketahui nilainya adalah…",
+      "options": [
+        "distribusi peluang marginal",
+        "distribusi frekuensi relatif",
+        "distribusi peluang gabungan",
+        "distribusi peluang posterior"
+      ],
+      "answer": 3,
+      "explanation": "Distribusi peluang yang menggambarkan peluang suatu variabel acak dengan syarat variabel acak lain telah diketahui nilainya disebut distribusi peluang bersyarat. Dalam konteks Teorema Bayes, distribusi bersyarat yang telah memperhitungkan informasi tambahan sering disebut juga sebagai distribusi peluang posterior."
+    },
+    {
+      "id": 42,
+      "question": "Distribusi marginal dari suatu variabel acak diperoleh dengan cara…",
+      "options": [
+        "Menjumlahkan peluang bersama atas nilai variabel lainnya",
+        "Mengalikan peluang kedua variabel",
+        "Menggunakan teorema Bayes",
+        "Menerapkan aturan perkalian"
+      ],
+      "answer": 0,
+      "explanation": "Distribusi marginal variabel X dihitung dengan menjumlahkan seluruh peluang bersama f(x,y) untuk semua nilai y."
+    },
+    {
+      "id": 43,
+      "question": "Berikut ini adalah pernyataan yang benar tentang distribusi bersyarat, kecuali…",
+      "options": [
+        "Melibatkan syarat nilai variabel lain diketahui",
+        "Mengabaikan informasi dari variabel lain",
+        "Dihitung dari distribusi bersama dibagi distribusi marginal",
+        "Dapat digunakan dalam inferensi statistik"
+      ],
+      "answer": 1,
+      "explanation": "Distribusi bersyarat justru memanfaatkan informasi dari variabel lain yang diketahui nilainya untuk menentukan peluang variabel yang diminati."
+    },
+    {
+      "id": 44,
+      "question": "Suatu distribusi peluang bersama X dan Y memiliki f(1,2)=0,1, f(1,3)=0,2, f(2,2)=0,3, f(2,3)=0,4. Distribusi marginal X=1 adalah…",
+      "options": [
+        "0.1",
+        "0.2",
+        "0.3",
+        "0.5"
+      ],
+      "answer": 2,
+      "explanation": "Marginal X=1 adalah f(1,2)+f(1,3) = 0,1+0,2 = 0,3."
+    },
+    {
+      "id": 45,
+      "question": "Distribusi peluang diskrit yang menetapkan peluang sama untuk setiap nilai variabel acak adalah…",
+      "options": [
+        "Distribusi binomial",
+        "Distribusi seragam diskrit",
+        "Distribusi Poisson",
+        "Distribusi hipergeometrik"
+      ],
+      "answer": 1,
+      "explanation": "Distribusi seragam diskrit memiliki fungsi peluang f(x)=1/N untuk setiap x yang mungkin, sehingga setiap nilai berpeluang sama."
+    },
+    {
+      "id": 46,
+      "question": "Distribusi Binomial digunakan untuk menghitung jumlah sukses dalam n percobaan yang bersifat…",
+      "options": [
+        "Saling lepas dan tanpa pengembalian",
+        "Berpasangan dan dependen",
+        "Saling bebas dan peluang sukses konstan",
+        "Acak tanpa syarat tertentu"
+      ],
+      "answer": 2,
+      "explanation": "Distribusi Binomial mensyaratkan percobaan Bernoulli yang saling bebas dengan peluang sukses p yang tetap pada setiap percobaan."
+    },
+    {
+      "id": 47,
+      "question": "Sebuah koin setimbang dilempar 6 kali. Peluang muncul tepat 2 sisi gambar adalah…",
+      "options": [
+        "5/16",
+        "15/32",
+        "3/16",
+        "15/64"
+      ],
+      "answer": 3,
+      "explanation": "Menggunakan distribusi Binomial dengan n=6, p=1/2. P(X=2) = C(6,2)×(1/2)^2×(1/2)^4 = 15×(1/2)^6 = 15/64."
+    },
+    {
+      "id": 48,
+      "question": "Distribusi seragam diskrit dan distribusi Binomial berbeda terutama pada…",
+      "options": [
+        "Jenis variabel acak yang digunakan",
+        "Penerapan dalam dunia nyata",
+        "Jumlah parameter yang diperlukan",
+        "Kesamaan peluang antar nilai yang mungkin"
+      ],
+      "answer": 3,
+      "explanation": "Distribusi seragam diskrit mensyaratkan peluang setiap nilai sama besar, sedangkan Binomial memiliki peluang yang bervariasi bergantung pada jumlah sukses."
+    },
+    {
+      "id": 49,
+      "question": "Distribusi hipergeometrik berbeda dari distribusi Binomial karena…",
+      "options": [
+        "Sampel diambil tanpa pengembalian",
+        "Menggunakan peluang sukses yang berubah",
+        "Hanya berlaku untuk populasi tak terbatas",
+        "Jumlah percobaan tidak tetap"
+      ],
+      "answer": 0,
+      "explanation": "Distribusi hipergeometrik digunakan pada pengambilan sampel tanpa pengembalian dari populasi terbatas, sehingga peluang sukses berubah tiap pengambilan."
+    },
+    {
+      "id": 50,
+      "question": "Distribusi Poisson paling tepat digunakan untuk memodelkan…",
+      "options": [
+        "Jumlah sukses dalam n percobaan tetap",
+        "Waktu tunggu hingga kejadian pertama",
+        "Banyaknya kejadian langka dalam interval tertentu",
+        "Peluang sukses pertama kali terjadi"
+      ],
+      "answer": 2,
+      "explanation": "Distribusi Poisson memodelkan frekuensi kejadian yang jarang terjadi dalam interval waktu, luas, atau ruang yang tetap."
+    },
+    {
+      "id": 51,
+      "question": "Seorang manajer gudang mencatat rata-rata 3 kerusakan barang per hari. Peluang tepat 5 barang rusak pada suatu hari adalah…",
+      "options": [
+        "0.1008",
+        "0.1504",
+        "0.1800",
+        "0.2500"
+      ],
+      "answer": 0,
+      "explanation": "Menggunakan distribusi Poisson dengan λ=3. P(X=5) = (e^{-3}×3^5)/5! = (0.0498×243)/120 = 12.1014/120 = 0.1008."
+    },
+    {
+      "id": 52,
+      "question": "Dalam distribusi hipergeometrik, pengambilan sampel dilakukan dengan cara…",
+      "options": [
+        "dengan pengembalian dari populasi tak terbatas",
+        "tanpa pengembalian dari populasi terbatas",
+        "dengan pengembalian dari populasi terbatas",
+        "tanpa pengembalian dari populasi tak terbatas"
+      ],
+      "answer": 1,
+      "explanation": "Distribusi hipergeometrik mensyaratkan pengambilan sampel tanpa pengembalian dari populasi terbatas, sehingga peluang sukses berubah pada setiap pengambilan."
+    },
+    {
+      "id": 53,
+      "question": "Distribusi normal memiliki kurva berbentuk lonceng yang simetris terhadap…",
+      "options": [
+        "median dan modus yang berbeda",
+        "simpangan baku yang bernilai nol",
+        "nilai rata-rata, median, dan modus yang berimpit",
+        "varians yang sama dengan rata-rata"
+      ],
+      "answer": 2,
+      "explanation": "Pada distribusi normal, mean, median, dan modus terletak pada titik yang sama di pusat kurva karena sifat simetrinya yang sempurna."
+    },
+    {
+      "id": 54,
+      "question": "Distribusi normal baku memiliki karakteristik…",
+      "options": [
+        "mean = 1 dan varians = 0",
+        "mean = 0 dan varians = 0",
+        "mean = 0 dan varians = 1",
+        "mean = 1 dan varians = 1"
+      ],
+      "answer": 2,
+      "explanation": "Distribusi normal baku didefinisikan sebagai distribusi normal dengan rata-rata nol dan simpangan baku satu, sehingga variansnya pun bernilai satu."
+    },
+    {
+      "id": 55,
+      "question": "Luas daerah di bawah kurva fungsi kepadatan peluang pada distribusi normal antara dua titik a dan b merepresentasikan…",
+      "options": [
+        "peluang variabel acak bernilai antara a dan b",
+        "tinggi kurva pada titik tengah a dan b",
+        "nilai rata-rata variabel acak",
+        "simpangan baku variabel acak"
+      ],
+      "answer": 0,
+      "explanation": "Pada distribusi kontinu, peluang dihitung sebagai integral fungsi kepadatan, yaitu luas area di bawah kurva dalam rentang nilai yang ditentukan."
+    },
+    {
+      "id": 56,
+      "question": "Berikut ini merupakan sifat distribusi normal, kecuali…",
+      "options": [
+        "kurva berbentuk lonceng dan simetris",
+        "mean, median, dan modus berimpit",
+        "ekor kurva memotong sumbu horizontal",
+        "luas total di bawah kurva sama dengan 1"
+      ],
+      "answer": 2,
+      "explanation": "Ekor kurva distribusi normal mendekati sumbu horizontal secara asimtotik, artinya tidak pernah benar-benar menyentuh atau memotong sumbu tersebut."
+    },
+    {
+      "id": 57,
+      "question": "Pendekatan distribusi normal terhadap distribusi Binomial memerlukan syarat…",
+      "options": [
+        "ukuran sampel kecil dan p mendekati 0",
+        "ukuran sampel besar dan p tidak mendekati 0 atau 1",
+        "ukuran sampel besar atau p mendekati 0,5",
+        "ukuran sampel kecil dan p mendekati 0,5"
+      ],
+      "answer": 1,
+      "explanation": "Pendekatan normal terhadap Binomial baik digunakan bila n besar serta p tidak ekstrem, umumnya jika np ≥ 5 dan n(1-p) ≥ 5."
+    },
+    {
+      "id": 58,
+      "question": "Faktor koreksi kontinuitas sebesar 0,5 pada pendekatan normal untuk Binomial berfungsi untuk…",
+      "options": [
+        "mengoreksi peluang agar bernilai lebih besar dari 1",
+        "memperbesar simpangan baku distribusi Binomial",
+        "mengubah rata-rata distribusi Binomial",
+        "menyesuaikan variabel kontinu agar mendekati distribusi diskrit"
+      ],
+      "answer": 3,
+      "explanation": "Karena Binomial bersifat diskrit sedangkan normal kontinu, penambahan atau pengurangan 0,5 menjembatani perbedaan sifat kedua distribusi tersebut."
+    },
+    {
+      "id": 59,
+      "question": "Sebuah survei melaporkan bahwa 40% pemilih mendukung kandidat X. Jika diambil 200 pemilih secara acak, pendekatan normal dapat digunakan karena…",
+      "options": [
+        "n besar dan proporsi populasi diketahui",
+        "np = 80 dan n(1-p) = 120, keduanya lebih dari 5",
+        "populasi pemilih terdistribusi normal",
+        "data berasal dari sampel acak sederhana"
+      ],
+      "answer": 1,
+      "explanation": "Syarat np ≥ 5 dan n(1-p) ≥ 5 terpenuhi karena 200×0,4 = 80 dan 200×0,6 = 120, sehingga pendekatan normal dapat diterapkan."
+    },
+    {
+      "id": 60,
+      "question": "Ketika menghitung P(X ≤ 10) dari distribusi Binomial menggunakan pendekatan normal dengan koreksi kontinuitas, nilai x yang digunakan adalah…",
+      "options": [
+        "10,5",
+        "9,5",
+        "10",
+        "10,25"
+      ],
+      "answer": 0,
+      "explanation": "Koreksi kontinuitas untuk P(X ≤ 10) adalah menambahkan 0,5 sehingga batas atas menjadi 10,5, mencakup seluruh area diskrit hingga nilai 10."
+    },
+    {
+      "id": 61,
+      "question": "Distribusi eksponensial sering digunakan untuk memodelkan…",
+      "options": [
+        "jumlah kejadian dalam interval waktu tertentu",
+        "jumlah sukses dalam sejumlah percobaan tetap",
+        "waktu antara dua kejadian yang saling bebas",
+        "nilai rata-rata dari sampel besar"
+      ],
+      "answer": 2,
+      "explanation": "Distribusi eksponensial memodelkan waktu tunggu atau selang antar kejadian dalam proses Poisson, bukan jumlah kejadiannya."
+    },
+    {
+      "id": 62,
+      "question": "Sifat tanpa memori pada distribusi eksponensial berarti bahwa…",
+      "options": [
+        "rata-rata dan varians selalu bernilai sama",
+        "distribusi tidak bergantung pada parameter λ",
+        "waktu antar kejadian selalu konstan",
+        "peluang kejadian di masa depan tidak dipengaruhi oleh waktu yang telah berlalu"
+      ],
+      "answer": 3,
+      "explanation": "Sifat tanpa memori menyatakan bahwa P(X > s+t | X > s) = P(X > t), artinya masa lalu tidak memengaruhi peluang masa depan."
+    },
+    {
+      "id": 63,
+      "question": "Jika waktu tunggu rata-rata kedatangan bus adalah 10 menit, parameter λ pada distribusi eksponensial adalah…",
+      "options": [
+        "10",
+        "1",
+        "5",
+        "0,1"
+      ],
+      "answer": 3,
+      "explanation": "Parameter λ adalah kebalikan dari rata-rata, sehingga λ = 1/10 = 0,1. Rata-rata distribusi eksponensial adalah 1/λ."
+    },
+    {
+      "id": 64,
+      "question": "Fungsi kepadatan peluang distribusi eksponensial dengan parameter λ > 0 adalah…",
+      "options": [
+        "f(x) = λ x e^{-λx}, x ≥ 0",
+        "f(x) = λ e^{-λx}, x ≥ 0",
+        "f(x) = e^{-λx}, x ≥ 0",
+        "f(x) = λ^2 e^{-λx}, x ≥ 0"
+      ],
+      "answer": 1,
+      "explanation": "Fungsi kepadatan peluang distribusi eksponensial adalah f(x) = λ e^{-λx} untuk x ≥ 0, dengan λ sebagai parameter laju."
+    },
+    {
+      "id": 65,
+      "question": "Distribusi sampling dari rata-rata sampel adalah…",
+      "options": [
+        "distribusi peluang dari semua rata-rata sampel berukuran sama yang mungkin",
+        "distribusi data dalam satu sampel berukuran n",
+        "distribusi populasi yang disampling",
+        "distribusi simpangan baku dari berbagai ukuran sampel"
+      ],
+      "answer": 0,
+      "explanation": "Distribusi sampling rata-rata merupakan distribusi dari nilai-nilai rata-rata yang diperoleh dari seluruh kemungkinan sampel berukuran tetap yang diambil dari populasi yang sama."
+    },
+    {
+      "id": 66,
+      "question": "Teorema limit pusat menyatakan bahwa distribusi sampling rata-rata akan mendekati distribusi normal ketika…",
+      "options": [
+        "ukuran sampel membesar",
+        "data populasi terdistribusi normal",
+        "simpangan baku populasi kecil",
+        "rata-rata populasi diketahui"
+      ],
+      "answer": 0,
+      "explanation": "Teorema limit pusat menjamin bahwa seiring bertambahnya ukuran sampel, distribusi rata-rata sampel mendekati normal tanpa memandang bentuk distribusi populasi asalnya."
+    },
+    {
+      "id": 67,
+      "question": "Standar error dari rata-rata sampel dihitung dengan rumus…",
+      "options": [
+        "σ^2 / n",
+        "σ / n",
+        "σ^2 / sqrt(n)",
+        "σ / sqrt(n)"
+      ],
+      "answer": 3,
+      "explanation": "Standar error adalah simpangan baku distribusi sampling rata-rata, dihitung sebagai σ / sqrt(n) yang mengukur variasi rata-rata sampel di sekitar rata-rata populasi."
+    },
+    {
+      "id": 68,
+      "question": "Simpangan baku populasi dan standar error memiliki hubungan yang berbeda dalam hal…",
+      "options": [
+        "standar error mengukur variasi rata-rata sampel, bukan variasi individu dalam populasi",
+        "simpangan baku populasi selalu lebih kecil dari standar error",
+        "keduanya memiliki rumus perhitungan yang sama",
+        "simpangan baku populasi bergantung pada ukuran sampel"
+      ],
+      "answer": 0,
+      "explanation": "Simpangan baku populasi mengukur sebaran data individu, sedangkan standar error mengukur sebaran statistik sampel (rata-rata) dari berbagai sampel yang mungkin."
+    },
+    {
+      "id": 69,
+      "question": "Nilai tunggal dari statistik sampel yang digunakan untuk menduga parameter populasi disebut…",
+      "options": [
+        "Selang kepercayaan",
+        "Tingkat signifikansi",
+        "Standar error",
+        "Penduga titik"
+      ],
+      "answer": 3,
+      "explanation": "Penduga titik adalah satu nilai spesifik dari sampel yang berfungsi sebagai estimasi terbaik bagi parameter populasi yang tidak diketahui."
+    },
+    {
+      "id": 70,
+      "question": "Selang kepercayaan 95% untuk rata-rata populasi berarti bahwa…",
+      "options": [
+        "Jika pengambilan sampel diulang, 95% selang yang terbentuk akan memuat parameter populasi",
+        "95% data populasi tercakup dalam selang",
+        "Rata-rata sampel pasti berada dalam selang tersebut",
+        "Terdapat peluang 95% bahwa rata-rata populasi sama dengan rata-rata sampel"
+      ],
+      "answer": 0,
+      "explanation": "Interpretasi selang kepercayaan bersifat frequentist: dalam pengambilan sampel berulang, persentase selang yang memuat parameter sama dengan tingkat kepercayaan."
+    },
+    {
+      "id": 71,
+      "question": "Dalam membangun selang kepercayaan rata-rata, distribusi t digunakan menggantikan distribusi z ketika…",
+      "options": [
+        "Simpangan baku populasi diketahui",
+        "Simpangan baku populasi tidak diketahui",
+        "Ukuran sampel lebih besar dari 100",
+        "Data berasal dari distribusi seragam"
+      ],
+      "answer": 1,
+      "explanation": "Distribusi t mengakomodasi ketidakpastian tambahan akibat menduga simpangan baku populasi dari sampel, sehingga dipakai saat simpangan baku populasi tidak tersedia."
+    },
+    {
+      "id": 72,
+      "question": "Sifat distribusi t yang membedakannya dari distribusi normal baku adalah…",
+      "options": [
+        "Kurva lebih runcing di puncak dan ekor lebih pendek",
+        "Kurva lebih datar di puncak dan ekor lebih tebal",
+        "Mean distribusi selalu lebih besar dari nol",
+        "Varians distribusi selalu lebih kecil dari satu"
+      ],
+      "answer": 1,
+      "explanation": "Distribusi t memiliki ekor yang lebih tebal dibanding distribusi normal baku karena adanya ketidakpastian dari estimasi simpangan baku, terutama pada derajat bebas kecil."
+    },
+    {
+      "id": 73,
+      "question": "Penduga titik untuk parameter proporsi populasi adalah…",
+      "options": [
+        "Rata-rata sampel",
+        "Median sampel",
+        "Simpangan baku sampel",
+        "Proporsi sampel"
+      ],
+      "answer": 3,
+      "explanation": "Proporsi populasi p diduga secara titik menggunakan proporsi sampel p̂ = x/n, di mana x adalah banyaknya sukses dalam sampel berukuran n."
+    },
+    {
+      "id": 74,
+      "question": "Syarat utama yang harus dipenuhi agar selang kepercayaan proporsi dapat dibangun menggunakan pendekatan distribusi normal adalah…",
+      "options": [
+        "Data harus berdistribusi normal",
+        "Varians populasi harus diketahui",
+        "np dan n(1-p) keduanya minimal 5",
+        "Sampel harus diambil tanpa pengembalian"
+      ],
+      "answer": 2,
+      "explanation": "Pendekatan normal untuk proporsi sahih jika ukuran sampel cukup besar sehingga np ≥ 5 dan n(1-p) ≥ 5, menjamin distribusi sampling proporsi mendekati normal."
+    },
+    {
+      "id": 75,
+      "question": "Sebuah lembaga mensurvei 400 mahasiswa dan menemukan 120 di antaranya bekerja paruh waktu. Proporsi sampel mahasiswa yang bekerja paruh waktu adalah…",
+      "options": [
+        "0,12",
+        "0,30",
+        "0,40",
+        "1,20"
+      ],
+      "answer": 1,
+      "explanation": "Proporsi sampel p̂ = 120/400 = 0,30, yang menjadi estimasi titik bagi proporsi populasi mahasiswa yang bekerja paruh waktu."
+    },
+    {
+      "id": 76,
+      "question": "Perbedaan utama antara pendugaan rata-rata dan pendugaan proporsi terletak pada…",
+      "options": [
+        "Jenis distribusi sampling yang selalu digunakan",
+        "Keharusan menggunakan koreksi kontinuitas",
+        "Tingkat kepercayaan maksimum yang dapat digunakan",
+        "Parameter yang diduga dan statistik yang digunakan sebagai penduga titik"
+      ],
+      "answer": 3,
+      "explanation": "Pendugaan rata-rata menggunakan x̄ untuk menduga μ, sedangkan pendugaan proporsi menggunakan p̂ untuk menduga p; keduanya menarget parameter berbeda dengan statistik berbeda."
+    },
+    {
+      "id": 77,
+      "question": "Distribusi yang digunakan untuk membangun selang kepercayaan untuk varians satu populasi adalah…",
+      "options": [
+        "Distribusi t",
+        "Distribusi normal baku",
+        "Distribusi F",
+        "Distribusi chi-kuadrat"
+      ],
+      "answer": 3,
+      "explanation": "Selang kepercayaan varians populasi dibangun berdasarkan statistik (n-1)s²/σ² yang mengikuti distribusi chi-kuadrat dengan derajat bebas n-1."
+    },
+    {
+      "id": 78,
+      "question": "Selang kepercayaan untuk varians populasi menjadi lebih lebar ketika ukuran sampel mengecil karena…",
+      "options": [
+        "Distribusi Chi-Square memiliki skewness yang semakin besar saat derajat bebas berkurang",
+        "Nilai varians sampel menjadi bias terhadap parameter populasi",
+        "Teorema Limit Pusat tidak berlaku untuk statistik varians",
+        "Distribusi normal menjadi tidak simetris pada sampel kecil"
+      ],
+      "answer": 0,
+      "explanation": "Selang kepercayaan varians menggunakan distribusi Chi-Square yang bentuknya tidak simetris, terutama pada derajat bebas kecil. Semakin kecil ukuran sampel, semakin kecil derajat bebas, sehingga distribusi Chi-Square semakin menceng ke kanan dan menghasilkan selang yang lebih lebar untuk mempertahankan tingkat kepercayaan yang sama."
+    },
+    {
+      "id": 79,
+      "question": "Berikut ini yang bukan merupakan karakteristik selang kepercayaan varians adalah…",
+      "options": [
+        "Menggunakan distribusi chi-kuadrat",
+        "Selalu simetris di sekitar penduga titik",
+        "Lebar selang dipengaruhi oleh derajat bebas",
+        "Memerlukan asumsi populasi berdistribusi normal"
+      ],
+      "answer": 1,
+      "explanation": "Tidak seperti selang untuk rata-rata yang simetris, selang kepercayaan varians umumnya tidak simetris karena distribusi chi-kuadrat yang menceng."
+    },
+    {
+      "id": 80,
+      "question": "Hipotesis nol dalam pengujian hipotesis biasanya menyatakan…",
+      "options": [
+        "Tidak adanya perbedaan atau tidak adanya efek",
+        "Adanya perbedaan yang signifikan antara sampel dan populasi",
+        "Hipotesis yang ingin dibuktikan peneliti",
+        "Nilai parameter yang lebih besar dari nilai kritis"
+      ],
+      "answer": 0,
+      "explanation": "Hipotesis nol (H₀) adalah pernyataan dasar yang mengasumsikan status quo, yaitu tidak ada perbedaan, efek, atau hubungan yang signifikan."
+    },
+    {
+      "id": 81,
+      "question": "Peluang menolak hipotesis nol padahal hipotesis nol tersebut benar disebut…",
+      "options": [
+        "Galat tipe I",
+        "Ini adalah tingkat signifikansi",
+        "Nilai-p",
+        "Galat tipe II"
+      ],
+      "answer": 0,
+      "explanation": "Galat tipe I (α) terjadi ketika peneliti menyimpulkan ada efek padahal sebenarnya tidak ada, sama dengan probabilitas menolak H₀ yang benar."
+    },
+    {
+      "id": 82,
+      "question": "Nilai-p dalam pengujian hipotesis diinterpretasikan sebagai…",
+      "options": [
+        "Peluang hipotesis nol benar berdasarkan data",
+        "Peluang hipotesis alternatif benar",
+        "Peluang memperoleh statistik uji seekstrem hasil sampel jika hipotesis nol benar",
+        "Tingkat signifikansi yang ditetapkan peneliti"
+      ],
+      "answer": 2,
+      "explanation": "Nilai-p adalah tingkat signifikansi terendah yang membuat H₀ ditolak, dihitung sebagai P(statistik uji ≥ nilai teramati | H₀ benar)."
+    },
+    {
+      "id": 83,
+      "question": "Dibandingkan dengan uji z, uji t untuk rata-rata satu populasi lebih tepat digunakan dalam situasi ketika…",
+      "options": [
+        "ukuran sampel besar dan varians populasi diketahui",
+        "ukuran sampel kecil dan varians populasi tidak diketahui",
+        "data berasal dari distribusi yang sangat menceng",
+        "proporsi populasi menjadi parameter yang diuji"
+      ],
+      "answer": 1,
+      "explanation": "Uji t digunakan ketika simpangan baku populasi (σ) tidak diketahui dan harus diduga dari simpangan baku sampel (s), terutama pada ukuran sampel kecil (n < 30). Jika varians populasi diketahui, uji z lebih tepat digunakan, berapa pun ukuran sampelnya, sesuai asumsi normalitas."
+    },
+    {
+      "id": 84,
+      "question": "Seorang peneliti ingin menguji apakah rata-rata tinggi tanaman dengan pupuk baru berbeda dari 25 cm. Simpangan baku populasi tidak diketahui dan sampel berukuran 15. Statistik uji yang tepat adalah…",
+      "options": [
+        "Uji z satu sampel",
+        "Uji chi-kuadrat",
+        "Uji t satu sampel",
+        "Uji F"
+      ],
+      "answer": 2,
+      "explanation": "Karena simpangan baku populasi tidak diketahui dan ukuran sampel kecil, statistik uji t = (x̄ – μ₀)/(s/√n) mengikuti distribusi t dengan derajat bebas 14."
+    },
+    {
+      "id": 85,
+      "question": "Statistik uji t untuk satu sampel digunakan ketika…",
+      "options": [
+        "simpangan baku populasi tidak diketahui",
+        "simpangan baku populasi diketahui",
+        "ukuran sampel lebih dari 100",
+        "data berasal dari dua populasi"
+      ],
+      "answer": 0,
+      "explanation": "Uji t satu sampel merupakan prosedur pengujian rata-rata satu populasi ketika simpangan baku populasi tidak diketahui, sehingga pendugaan simpangan baku menggunakan simpangan baku sampel."
+    },
+    {
+      "id": 86,
+      "question": "Dalam pengujian hipotesis proporsi satu populasi, statistik pengujian yang digunakan adalah…",
+      "options": [
+        "statistik z berdasarkan pendekatan normal",
+        "statistik t dengan derajat bebas n-1",
+        "statistik F",
+        "statistik chi-kuadrat"
+      ],
+      "answer": 0,
+      "explanation": "Pengujian hipotesis proporsi satu populasi menggunakan statistik z karena distribusi sampling proporsi mendekati normal ketika ukuran sampel besar dan syarat np serta n(1-p) terpenuhi."
+    },
+    {
+      "id": 87,
+      "question": "Syarat minimal yang harus dipenuhi agar uji proporsi satu populasi dapat dilakukan dengan pendekatan distribusi normal adalah…",
+      "options": [
+        "varians populasi diketahui",
+        "n >= 30 saja",
+        "p > 0,10",
+        "np >= 5 dan n(1-p) >= 5"
+      ],
+      "answer": 3,
+      "explanation": "Pendekatan normal untuk distribusi Binomial dalam uji proporsi memerlukan np dan n(1-p) minimal bernilai 5, sehingga distribusi sampling proporsi cukup simetris dan mendekati normal."
+    },
+    {
+      "id": 88,
+      "question": "Seorang peneliti menduga bahwa kurang dari 25% mahasiswa menyelesaikan studi tepat waktu. Hipotesis alternatif yang tepat untuk pengujian ini adalah…",
+      "options": [
+        "H1: p = 0,25",
+        "H1: p > 0,25",
+        "H1: p != 0,25",
+        "H1: p < 0,25"
+      ],
+      "answer": 3,
+      "explanation": "Dugaan peneliti bahwa proporsi kurang dari 25% mengarah pada uji satu arah kiri, sehingga hipotesis alternatifnya adalah p < 0,25. Hipotesis nolnya adalah H0: p >= 0,25."
+    },
+    {
+      "id": 89,
+      "question": "Dalam pengujian hipotesis varians satu populasi, jika varians sampel s^2 dihitung dari 16 observasi dan varians populasi di bawah H0 adalah 25, statistik uji chi-kuadrat adalah…",
+      "options": [
+        "(15 × s^2) / 25",
+        "(16 × s^2) / 25",
+        "(25 × s^2) / 15",
+        "(15 × 25) / s^2"
+      ],
+      "answer": 0,
+      "explanation": "Statistik uji untuk varians satu populasi adalah χ^2 = (n – 1) s^2 / σ_0^2, dengan n adalah ukuran sampel dan σ_0^2 adalah varians yang dihipotesiskan. Dengan n = 16, derajat bebas (n – 1) adalah 15, sehingga rumusnya menjadi (15 × s^2) / 25."
+    },
+    {
+      "id": 90,
+      "question": "Statistik uji untuk pengujian hipotesis varians satu populasi dihitung dengan rumus…",
+      "options": [
+        "(x̄ – μ0) / (s/sqrt(n))",
+        "(x̄ – μ0) / (σ/sqrt(n))",
+        "(s1^2) / (s2^2)",
+        "(n-1)s^2 / σ0^2"
+      ],
+      "answer": 3,
+      "explanation": "Statistik uji chi-kuadrat untuk varians satu populasi adalah (n-1)s^2 dibagi σ0^2 di mana s^2 adalah varians sampel dan σ0^2 adalah varians populasi yang dihipotesiskan."
+    },
+    {
+      "id": 91,
+      "question": "Dalam uji varians satu populasi, daerah penolakan untuk hipotesis alternatif dua arah terletak pada…",
+      "options": [
+        "satu sisi kanan distribusi chi-kuadrat saja",
+        "satu sisi kiri distribusi chi-kuadrat saja",
+        "tengah-tengah distribusi chi-kuadrat",
+        "kedua sisi distribusi chi-kuadrat"
+      ],
+      "answer": 3,
+      "explanation": "Untuk uji dua arah pada pengujian varians, daerah kritis berada di kedua ujung distribusi chi-kuadrat, yaitu nilai kurang dari χ^2_{1-α/2} dan lebih dari χ^2_{α/2} dengan derajat bebas n-1."
+    },
+    {
+      "id": 92,
+      "question": "Uji t untuk dua sampel independen mengasumsikan bahwa kedua populasi…",
+      "options": [
+        "memiliki varians yang sama besar",
+        "saling bebas dan berdistribusi normal",
+        "berasal dari populasi yang identik",
+        "memiliki ukuran sampel yang sama"
+      ],
+      "answer": 1,
+      "explanation": "Uji t dua sampel independen memerlukan asumsi bahwa kedua sampel berasal dari populasi yang saling bebas dan masing-masing berdistribusi normal, dengan varians yang bisa diasumsikan sama atau tidak sama."
+    },
+    {
+      "id": 93,
+      "question": "Perbedaan utama antara uji t independen dan uji t berpasangan terletak pada…",
+      "options": [
+        "jenis statistik uji yang digunakan",
+        "derajat bebas dari distribusi t",
+        "hubungan antara subjek pada kedua sampel",
+        "tingkat signifikansi yang ditetapkan"
+      ],
+      "answer": 2,
+      "explanation": "Uji t independen digunakan untuk dua sampel yang tidak saling terkait atau berasal dari subjek berbeda, sementara uji t berpasangan diterapkan pada dua pengukuran dari subjek yang sama, sehingga hubungan antar data menjadi pembeda utama."
+    },
+    {
+      "id": 94,
+      "question": "Sebuah penelitian ingin menguji apakah rata-rata tekanan darah pasien sebelum dan sesudah terapi berbeda. Statistik uji yang tepat adalah…",
+      "options": [
+        "uji z dua sampel independen",
+        "uji t berpasangan",
+        "uji t dua sampel independen",
+        "uji chi-kuadrat"
+      ],
+      "answer": 1,
+      "explanation": "Pengukuran tekanan darah pada pasien yang sama sebelum dan sesudah terapi menghasilkan data berpasangan, sehingga uji t berpasangan adalah prosedur yang tepat karena kedua pengamatan tidak saling bebas."
+    },
+    {
+      "id": 95,
+      "question": "Dalam uji t dua sampel independen dengan asumsi varians tidak sama, derajat bebas dihitung menggunakan pendekatan…",
+      "options": [
+        "Pearson correlation",
+        "Welch-Satterthwaite",
+        "Mann-Whitney",
+        "Kolmogorov-Smirnov"
+      ],
+      "answer": 1,
+      "explanation": "Pendekatan Welch-Satterthwaite digunakan untuk menghitung derajat bebas pada uji t dua sampel independen ketika varians kedua populasi tidak diasumsikan sama, menghasilkan derajat bebas yang tidak selalu bilangan bulat."
+    },
+    {
+      "id": 96,
+      "question": "Pengujian hipotesis selisih proporsi dua populasi menggunakan statistik z mengasumsikan bahwa…",
+      "options": [
+        "kedua populasi memiliki varians yang sama besar",
+        "ukuran sampel dari kedua populasi cukup besar",
+        "data dari kedua populasi berdistribusi normal",
+        "kedua populasi memiliki rata-rata yang sama"
+      ],
+      "answer": 1,
+      "explanation": "Uji z untuk selisih proporsi dua populasi memerlukan ukuran sampel yang cukup besar agar distribusi sampling selisih proporsi mendekati normal, sesuai dengan Teorema Limit Pusat. Asumsi ini memungkinkan penggunaan pendekatan normal."
+    },
+    {
+      "id": 97,
+      "question": "Dalam uji selisih proporsi dua populasi, gabungan proporsi (pooled proportion) digunakan untuk…",
+      "options": [
+        "memperkirakan ukuran sampel yang dibutuhkan",
+        "menentukan derajat bebas statistik uji",
+        "menghitung varians di bawah asumsi H0 benar",
+        "mengoreksi bias pada proporsi sampel"
+      ],
+      "answer": 2,
+      "explanation": "Proporsi gabungan dihitung dengan asumsi hipotesis nol benar, yaitu proporsi kedua populasi sama. Proporsi ini digunakan untuk mengestimasi varians dari selisih proporsi dalam perhitungan statistik z."
+    },
+    {
+      "id": 98,
+      "question": "Sebuah uji selisih proporsi dua populasi menghasilkan statistik z sebesar 2,15. Jika tingkat signifikansi 5% untuk uji dua arah, nilai kritisnya adalah…",
+      "options": [
+        "1,645",
+        "2,326",
+        "1,960",
+        "2,576"
+      ],
+      "answer": 2,
+      "explanation": "Untuk uji dua arah dengan α=5%, nilai kritis z adalah z_{0,025} = 1,960. Karena statistik uji 2,15 lebih besar dari 1,96, hipotesis nol ditolak pada tingkat signifikansi tersebut."
+    },
+    {
+      "id": 99,
+      "question": "Uji F untuk membandingkan varians dua populasi mengikuti distribusi F dengan derajat bebas…",
+      "options": [
+        "(n1, n2)",
+        "(n1-1, n2-1)",
+        "(n1-1, n2)",
+        "(n1, n2-1)"
+      ],
+      "answer": 1,
+      "explanation": "Statistik uji F yang merupakan rasio dua varians sampel mengikuti distribusi F dengan derajat bebas pembilang n1-1 dan derajat bebas penyebut n2-1, di mana n1 dan n2 adalah ukuran masing-masing sampel."
+    },
+    {
+      "id": 100,
+      "question": "Berikut ini yang bukan merupakan asumsi dalam uji F untuk perbandingan varians dua populasi adalah…",
+      "options": [
+        "ukuran sampel kedua populasi harus sama",
+        "kedua sampel saling bebas",
+        "kedua populasi berdistribusi normal",
+        "varians populasi tidak diketahui"
+      ],
+      "answer": 0,
+      "explanation": "Uji F untuk perbandingan varians tidak mensyaratkan ukuran sampel kedua populasi harus sama. Asumsi utamanya adalah kedua populasi berdistribusi normal dan kedua sampel saling bebas, meskipun ukuran sampelnya berbeda."
+    }
+  ]
+}

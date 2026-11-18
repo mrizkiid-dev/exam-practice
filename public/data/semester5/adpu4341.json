@@ -1,0 +1,611 @@
+{
+  "exam": {
+    "source": "https://soalut.com/soal-ut-adpu4341-teori-organisasi/",
+    "name": "Ujian Akhir Semester",
+    "matkul": "ADPU4341 Teori Organisasi",
+    "semester": "5",
+    "prodi": "Teknik Informatika"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "Menurut para ahli teori organisasi, alasan utama mengapa mempelajari teori organisasi menjadi penting bagi seorang manajer adalah karena…",
+      "options": [
+        "Teori organisasi memberikan panduan teknis untuk menyelesaikan pekerjaan administratif sehari-hari",
+        "Teori organisasi membantu manajer memahami, memprediksi, dan mengendalikan perilaku organisasi",
+        "Teori organisasi menyediakan prosedur baku yang dapat langsung diterapkan tanpa penyesuaian",
+        "Teori organisasi mengajarkan cara merekrut dan menyeleksi pegawai yang berkualitas tinggi"
+      ],
+      "answer": 1,
+      "explanation": "Salah satu fungsi utama teori organisasi adalah memberikan kerangka konseptual bagi manajer untuk memahami, memprediksi, dan mengendalikan berbagai fenomena yang terjadi dalam organisasi."
+    },
+    {
+      "id": 2,
+      "question": "Definisi organisasi yang paling tepat dalam konteks teori organisasi adalah…",
+      "options": [
+        "Kesatuan sosial yang dikoordinasikan secara sadar, terdiri atas dua orang atau lebih, dan berfungsi dalam suatu batas yang dapat diidentifikasi secara relatif terus-menerus untuk mencapai tujuan bersama",
+        "Sekumpulan individu yang bekerja dalam satu tempat dan berbagi sumber daya untuk menghasilkan keuntungan finansial",
+        "Struktur formal yang dibentuk oleh pemerintah untuk menjalankan fungsi-fungsi pelayanan publik kepada masyarakat",
+        "Sekelompok orang yang berkumpul secara sukarela untuk memenuhi kebutuhan pribadi masing-masing anggota"
+      ],
+      "answer": 0,
+      "explanation": "Definisi ini mencakup unsur-unsur pokok organisasi yaitu koordinasi sadar, keanggotaan minimal dua orang, batas yang dapat diidentifikasi, kesinambungan, dan tujuan bersama sesuai dengan konsep dalam BMP Teori Organisasi."
+    },
+    {
+      "id": 3,
+      "question": "Fenomena pertumbuhan organisasi ditandai oleh beberapa karakteristik. Manakah di antara berikut yang merupakan indikator pertumbuhan organisasi yang paling relevan?",
+      "options": [
+        "Meningkatnya jumlah konflik internal di antara anggota organisasi",
+        "Menurunnya tingkat formalisasi dalam prosedur dan aturan kerja",
+        "Bertambahnya kompleksitas struktur, jumlah personel, dan volume kegiatan organisasi",
+        "Berkurangnya ketergantungan organisasi terhadap lingkungan eksternalnya"
+      ],
+      "answer": 2,
+      "explanation": "Pertumbuhan organisasi umumnya ditandai dengan peningkatan kompleksitas struktural, bertambahnya jumlah anggota atau personel, serta meluasnya cakupan kegiatan yang dijalankan organisasi."
+    },
+    {
+      "id": 4,
+      "question": "Dalam mengukur efektivitas organisasi, pendekatan pencapaian tujuan (goal attainment approach) berfokus pada…",
+      "options": [
+        "Kemampuan organisasi memperoleh sumber daya yang langka dari lingkungan",
+        "Kepuasan semua kelompok yang berkepentingan terhadap organisasi",
+        "Kualitas proses internal dan efisiensi alur kerja dalam organisasi",
+        "Sejauh mana organisasi berhasil mencapai tujuan-tujuan yang telah ditetapkan"
+      ],
+      "answer": 3,
+      "explanation": "Pendekatan pencapaian tujuan mengukur efektivitas dari sudut pandang output, yaitu seberapa jauh tujuan akhir organisasi berhasil dicapai sesuai rencana yang telah ditetapkan sebelumnya."
+    },
+    {
+      "id": 5,
+      "question": "Aliran klasik dalam sejarah teori organisasi dipelopori oleh tokoh-tokoh yang mengembangkan prinsip-prinsip manajemen ilmiah. Tokoh utama yang dikenal sebagai “Bapak Manajemen Ilmiah” adalah…",
+      "options": [
+        "Henri Fayol",
+        "Frederick Winslow Taylor",
+        "Max Weber",
+        "Elton Mayo"
+      ],
+      "answer": 1,
+      "explanation": "Frederick Winslow Taylor dikenal sebagai Bapak Manajemen Ilmiah karena mengembangkan prinsip-prinsip scientific management yang menekankan efisiensi kerja melalui standarisasi dan pengukuran waktu gerak."
+    },
+    {
+      "id": 6,
+      "question": "Konsep birokrasi ideal yang dikembangkan oleh Max Weber memiliki karakteristik yang membedakannya dari model organisasi lainnya. Salah satu ciri khas birokrasi Weberian adalah…",
+      "options": [
+        "Otoritas didasarkan pada aturan dan prosedur tertulis yang rasional dan legal",
+        "Pengambilan keputusan sepenuhnya diserahkan kepada individu yang paling berpengalaman",
+        "Hubungan antarpegawai didasarkan pada kedekatan pribadi dan loyalitas emosional",
+        "Struktur organisasi bersifat datar dengan sedikit tingkatan hierarki manajerial"
+      ],
+      "answer": 0,
+      "explanation": "Birokrasi ideal Weber bercirikan otoritas legal-rasional di mana kewenangan bersumber dari peraturan tertulis yang disepakati, bukan dari tradisi atau karisma pribadi pemimpin."
+    },
+    {
+      "id": 7,
+      "question": "Aliran perilaku dalam teori organisasi muncul sebagai reaksi atas keterbatasan aliran klasik. Kontribusi utama aliran perilaku terhadap perkembangan teori organisasi adalah…",
+      "options": [
+        "Menekankan pentingnya efisiensi mekanistik dan standarisasi prosedur kerja",
+        "Memperkenalkan konsep birokrasi sebagai bentuk organisasi yang paling efisien",
+        "Menempatkan faktor manusia, motivasi, dan dinamika kelompok sebagai pusat analisis organisasi",
+        "Mengembangkan model matematis untuk mengoptimalkan alokasi sumber daya organisasi"
+      ],
+      "answer": 2,
+      "explanation": "Aliran perilaku menggeser fokus dari efisiensi mekanis ke dimensi kemanusiaan, menekankan bahwa produktivitas organisasi sangat dipengaruhi oleh faktor psikologis, sosial, dan motivasi anggota organisasi."
+    },
+    {
+      "id": 8,
+      "question": "Aliran kontemporer dalam teori organisasi mencakup berbagai perspektif modern. Manakah yang termasuk ke dalam kelompok aliran kontemporer?",
+      "options": [
+        "Manajemen ilmiah dan prinsip administrasi umum",
+        "Birokrasi Weberian dan studi Hawthorne",
+        "Teori motivasi Maslow dan teori X-Y McGregor",
+        "Teori kontinjensi, ekologi populasi, dan teori institusional"
+      ],
+      "answer": 3,
+      "explanation": "Aliran kontemporer meliputi berbagai pendekatan modern seperti teori kontinjensi yang menyatakan tidak ada satu cara terbaik, ekologi populasi yang melihat seleksi alam pada organisasi, serta teori institusional yang menekankan tekanan lingkungan sosial."
+    },
+    {
+      "id": 9,
+      "question": "Pandangan organisasi sebagai sistem terbuka memiliki implikasi penting bagi cara memahami organisasi. Inti dari pandangan ini adalah…",
+      "options": [
+        "Organisasi harus meminimalkan ketergantungan pada pihak luar agar dapat bertahan",
+        "Organisasi terus berinteraksi dengan lingkungannya dalam proses pertukaran input dan output",
+        "Organisasi dapat berfungsi secara mandiri tanpa pengaruh dari faktor lingkungan eksternal",
+        "Organisasi yang baik adalah yang memiliki batas yang jelas dan tertutup dari lingkungan luar"
+      ],
+      "answer": 1,
+      "explanation": "Perspektif sistem terbuka memandang organisasi sebagai entitas yang senantiasa berinteraksi dengan lingkungan, menerima input seperti sumber daya dan informasi, memprosesnya, dan menghasilkan output kembali ke lingkungan."
+    },
+    {
+      "id": 10,
+      "question": "Diferensiasi horizontal dalam struktur organisasi mengacu pada…",
+      "options": [
+        "Jumlah tingkatan hierarki dari puncak hingga dasar struktur organisasi",
+        "Tingkat sentralisasi kewenangan pengambilan keputusan pada pimpinan puncak",
+        "Tingkat pembagian tugas dan spesialisasi pekerjaan di antara unit-unit pada level yang sama",
+        "Derajat formalisasi aturan dan prosedur tertulis dalam organisasi"
+      ],
+      "answer": 2,
+      "explanation": "Diferensiasi horizontal berkaitan dengan seberapa jauh pekerjaan dibagi-bagi secara horizontal ke dalam unit, departemen, atau divisi yang berbeda pada jenjang hierarki yang setingkat."
+    },
+    {
+      "id": 11,
+      "question": "Formalisasi dalam desain organisasi didefinisikan sebagai…",
+      "options": [
+        "Tingkat sejauh mana pekerjaan dalam organisasi distandarisasi melalui aturan, prosedur, dan dokumen tertulis",
+        "Jumlah tingkatan manajerial yang ada dalam hierarki organisasi dari atas ke bawah",
+        "Derajat wewenang yang didelegasikan dari manajemen puncak kepada manajer tingkat bawah",
+        "Jumlah unit fungsional yang dibentuk untuk menangani kegiatan yang berbeda-beda"
+      ],
+      "answer": 0,
+      "explanation": "Formalisasi merujuk pada seberapa jauh perilaku anggota organisasi diatur melalui regulasi, prosedur operasional baku, dan dokumen tertulis yang mengurangi keleluasaan individu dalam bertindak."
+    },
+    {
+      "id": 12,
+      "question": "Sebuah perusahaan manufaktur sedang mempertimbangkan desain struktur organisasinya. Jika perusahaan ingin meningkatkan koordinasi lintas fungsi dan fleksibilitas, desain yang paling sesuai adalah…",
+      "options": [
+        "Struktur fungsional dengan spesialisasi tinggi pada setiap departemen",
+        "Struktur sederhana dengan otoritas terpusat di tangan pimpinan puncak",
+        "Struktur birokratis dengan formalisasi tinggi dan standardisasi prosedur ketat",
+        "Struktur matriks yang menggabungkan spesialisasi fungsional dengan koordinasi berbasis proyek"
+      ],
+      "answer": 3,
+      "explanation": "Struktur matriks memungkinkan koordinasi lintas fungsi yang lebih baik karena menggabungkan dimensi fungsional dan proyek secara bersamaan, sehingga lebih fleksibel dalam merespons perubahan."
+    },
+    {
+      "id": 13,
+      "question": "Pilihan desain organisasi antara mekanistik dan organik dipengaruhi oleh beberapa faktor. Organisasi yang beroperasi dalam lingkungan yang stabil dan dapat diprediksi cenderung mengadopsi struktur…",
+      "options": [
+        "Organik dengan formalisasi rendah dan desentralisasi tinggi",
+        "Mekanistik dengan spesialisasi tinggi, formalisasi ketat, dan sentralisasi kuat",
+        "Matriks dengan pelaporan ganda kepada dua atasan secara bersamaan",
+        "Adhokrasi yang sangat fleksibel tanpa hierarki yang jelas"
+      ],
+      "answer": 1,
+      "explanation": "Lingkungan yang stabil memungkinkan organisasi menggunakan struktur mekanistik yang efisien karena kondisi relatif dapat diprediksi sehingga standarisasi dan sentralisasi dapat diterapkan secara efektif."
+    },
+    {
+      "id": 14,
+      "question": "Perubahan lingkungan organisasi pada tahun 2000-an ditandai oleh dinamika yang semakin kompleks. Faktor utama yang mendorong perubahan lingkungan organisasi pada periode tersebut adalah…",
+      "options": [
+        "Menurunnya intensitas persaingan antara perusahaan lokal dan internasional",
+        "Stabilnya regulasi pemerintah yang memberikan kepastian bagi dunia usaha",
+        "Globalisasi, perkembangan teknologi informasi, dan meningkatnya tuntutan pelanggan",
+        "Berkurangnya pengaruh faktor demografis terhadap perilaku konsumen"
+      ],
+      "answer": 2,
+      "explanation": "Lingkungan organisasi di era 2000-an ditandai oleh percepatan globalisasi, revolusi teknologi informasi, serta meningkatnya ekspektasi pelanggan yang mendorong organisasi untuk terus beradaptasi."
+    },
+    {
+      "id": 15,
+      "question": "Ketidakpastian lingkungan merupakan tantangan utama yang dihadapi organisasi. Ketidakpastian lingkungan dapat didefinisikan sebagai…",
+      "options": [
+        "Kondisi di mana pengambil keputusan tidak memiliki informasi yang cukup mengenai faktor-faktor lingkungan dan sulit memprediksi perubahan yang akan terjadi",
+        "Situasi di mana organisasi tidak mampu memenuhi kebutuhan sumber daya yang dibutuhkan dari lingkungan sekitarnya",
+        "Keadaan di mana terjadi konflik kepentingan antara berbagai pemangku kepentingan organisasi",
+        "Kondisi yang ditandai oleh kelebihan informasi sehingga manajer sulit memilih data yang relevan"
+      ],
+      "answer": 0,
+      "explanation": "Ketidakpastian lingkungan terjadi ketika manajer tidak dapat memperoleh informasi yang memadai tentang kondisi eksternal sehingga sulit membuat prediksi yang akurat mengenai dinamika lingkungan yang akan datang."
+    },
+    {
+      "id": 16,
+      "question": "Teori ketergantungan sumber daya (resource dependence theory) menjelaskan hubungan antara organisasi dengan lingkungannya. Asumsi utama teori ini adalah…",
+      "options": [
+        "Organisasi yang paling efisien akan bertahan, sementara yang tidak efisien akan punah secara alamiah",
+        "Seluruh organisasi dalam industri yang sama cenderung mengadopsi struktur serupa karena tekanan institusional",
+        "Organisasi dapat merancang struktur optimalnya secara mandiri tanpa memperhatikan kondisi lingkungan",
+        "Organisasi bergantung pada lingkungan untuk memperoleh sumber daya, sehingga harus mengelola hubungan dengan pihak yang menguasai sumber daya tersebut"
+      ],
+      "answer": 3,
+      "explanation": "Teori ketergantungan sumber daya berpendapat bahwa karena organisasi tidak dapat memenuhi semua kebutuhannya sendiri, maka mengelola relasi dengan pihak penyedia sumber daya kritis menjadi strategi kunci kelangsungan organisasi."
+    },
+    {
+      "id": 17,
+      "question": "Strategi pengelolaan lingkungan yang dilakukan melalui pembentukan aliansi strategis atau joint venture antara dua organisasi bertujuan untuk…",
+      "options": [
+        "Meningkatkan formalisasi prosedur internal agar lebih efisien",
+        "Mengurangi ketidakpastian dan berbagi risiko dengan mitra strategis",
+        "Memperkuat sentralisasi kewenangan pada manajemen puncak",
+        "Meningkatkan jumlah hierarki dalam struktur organisasi"
+      ],
+      "answer": 1,
+      "explanation": "Aliansi strategis dan joint venture merupakan strategi penyangga (buffering) yang memungkinkan organisasi berbagi sumber daya, risiko, dan informasi sehingga ketidakpastian lingkungan dapat dikurangi."
+    },
+    {
+      "id": 18,
+      "question": "Teknologi inti (core technology) dalam teori organisasi merujuk pada…",
+      "options": [
+        "Perangkat keras dan perangkat lunak komputer yang digunakan dalam proses administrasi organisasi",
+        "Inovasi produk terbaru yang dikembangkan oleh departemen riset dan pengembangan",
+        "Proses transformasi utama yang digunakan organisasi untuk mengubah input menjadi output",
+        "Sistem informasi manajemen yang menghubungkan berbagai unit dalam organisasi"
+      ],
+      "answer": 2,
+      "explanation": "Teknologi inti dalam konteks teori organisasi bukan sekadar perangkat elektronik, melainkan cara atau metode inti yang digunakan organisasi untuk mengolah sumber daya menjadi produk atau layanan yang bernilai."
+    },
+    {
+      "id": 19,
+      "question": "Tipologi teknologi yang dikembangkan oleh Joan Woodward mengklasifikasikan teknologi berdasarkan…",
+      "options": [
+        "Jenis proses produksi, mulai dari unit/small batch hingga produksi massal dan proses berkelanjutan",
+        "Tingkat kompleksitas perangkat keras yang digunakan dalam proses manufaktur",
+        "Jumlah tenaga kerja terampil yang dibutuhkan untuk mengoperasikan sistem produksi",
+        "Derajat otomatisasi yang diterapkan dalam lini produksi organisasi manufaktur"
+      ],
+      "answer": 0,
+      "explanation": "Woodward mengembangkan tipologi berdasarkan kompleksitas teknis proses produksi, mengklasifikasikannya menjadi produksi unit, produksi massal, dan produksi proses berkelanjutan, yang masing-masing berimplikasi pada desain struktur organisasi yang berbeda."
+    },
+    {
+      "id": 20,
+      "question": "Charles Perrow mengembangkan kerangka analisis teknologi berdasarkan dua dimensi utama. Kedua dimensi tersebut adalah…",
+      "options": [
+        "Tingkat otomatisasi dan jumlah produk yang dapat dihasilkan per satuan waktu",
+        "Kompleksitas perangkat keras dan tingkat keahlian operator yang dibutuhkan",
+        "Kecepatan proses produksi dan tingkat akurasi hasil yang dicapai",
+        "Variabilitas tugas dan kemampuan menganalisis masalah yang muncul dalam proses kerja"
+      ],
+      "answer": 3,
+      "explanation": "Perrow menganalisis teknologi melalui dua dimensi yaitu variabilitas tugas (seberapa sering pekerjaan menghadapi pengecualian) dan kemudahan analisis (seberapa mudah masalah yang muncul dapat dipecahkan)."
+    },
+    {
+      "id": 21,
+      "question": "Teknologi informasi telah mengubah cara organisasi mengelola pengetahuan dan komunikasi. Dampak utama teknologi informasi terhadap struktur organisasi adalah…",
+      "options": [
+        "Meningkatnya kebutuhan akan tingkatan manajerial menengah untuk mengelola arus informasi",
+        "Memungkinkan penyederhanaan struktur hierarki karena informasi dapat mengalir lebih cepat dan langsung",
+        "Meningkatnya formalisasi prosedur karena semua keputusan harus didokumentasikan secara digital",
+        "Memperkuat sentralisasi karena pusat data berada di satu lokasi yang dikontrol manajemen puncak"
+      ],
+      "answer": 1,
+      "explanation": "Teknologi informasi mengurangi kebutuhan akan banyak lapisan manajerial karena informasi kini dapat diakses dan disebarkan secara langsung, sehingga mendorong penyederhanaan (delayering) struktur organisasi."
+    },
+    {
+      "id": 22,
+      "question": "Dalam konteks strategi organisasi, perencanaan strategis berfungsi sebagai…",
+      "options": [
+        "Pedoman teknis bagi karyawan dalam menyelesaikan tugas operasional sehari-hari",
+        "Instrumen untuk mengevaluasi kinerja individu karyawan secara periodik",
+        "Proses menetapkan arah jangka panjang organisasi melalui analisis lingkungan dan penetapan tujuan",
+        "Mekanisme kontrol anggaran yang memastikan efisiensi pengeluaran operasional"
+      ],
+      "answer": 2,
+      "explanation": "Perencanaan strategis merupakan proses sistematis untuk menentukan misi, visi, dan tujuan jangka panjang organisasi dengan mempertimbangkan kekuatan internal serta peluang dan ancaman dari lingkungan eksternal."
+    },
+    {
+      "id": 23,
+      "question": "Tipologi strategi Miles dan Snow mengidentifikasi empat tipe strategi adaptasi organisasi. Organisasi bertipe “Prospector” dicirikan oleh…",
+      "options": [
+        "Inovasi terus-menerus, pencarian peluang baru, dan kesiapan mengambil risiko di pasar yang belum mapan",
+        "Fokus pada efisiensi operasional dalam domain pasar yang stabil dan terdefinisi dengan baik",
+        "Strategi reaktif yang tidak memiliki pendekatan konsisten dalam merespons perubahan lingkungan",
+        "Kombinasi antara inovasi di pasar baru dan efisiensi di pasar yang sudah ada"
+      ],
+      "answer": 0,
+      "explanation": "Tipe Prospector dalam tipologi Miles dan Snow adalah organisasi yang selalu mencari peluang pasar baru, menekankan inovasi produk dan layanan, serta bersedia menanggung risiko ketidakpastian yang lebih tinggi."
+    },
+    {
+      "id": 24,
+      "question": "Strategi diferensiasi yang dikembangkan oleh Michael Porter mengacu pada pendekatan di mana organisasi…",
+      "options": [
+        "Berusaha menjadi produsen dengan biaya paling rendah dalam industri yang bersangkutan",
+        "Membatasi operasinya hanya pada segmen pasar tertentu yang relatif kecil",
+        "Memperluas jangkauan produk sebanyak mungkin untuk mencapai skala ekonomis",
+        "Menawarkan produk atau layanan yang memiliki keunikan yang dihargai pelanggan sehingga mereka bersedia membayar lebih"
+      ],
+      "answer": 3,
+      "explanation": "Strategi diferensiasi Porter berfokus pada penciptaan nilai unik yang membedakan produk atau layanan organisasi dari pesaing, sehingga pelanggan mau membayar harga premium untuk keunggulan tersebut."
+    },
+    {
+      "id": 25,
+      "question": "Dampak strategi terhadap struktur organisasi dikemukakan oleh Alfred Chandler melalui proposisi terkenal yang menyatakan bahwa…",
+      "options": [
+        "Struktur organisasi menentukan strategi yang dapat diimplementasikan secara efektif",
+        "Struktur organisasi mengikuti strategi, artinya perubahan strategi harus diikuti perubahan struktur",
+        "Strategi dan struktur bersifat independen dan tidak saling mempengaruhi satu sama lain",
+        "Ukuran organisasi lebih menentukan struktur daripada strategi yang dipilih manajemen"
+      ],
+      "answer": 1,
+      "explanation": "Chandler merumuskan proposisi klasik bahwa “structure follows strategy,” yang berarti ketika organisasi mengubah strateginya untuk merespons lingkungan, struktur organisasi perlu disesuaikan agar strategi tersebut dapat dilaksanakan secara efektif."
+    },
+    {
+      "id": 26,
+      "question": "Perspektif strategi yang memandang organisasi sebagai arena politik menyatakan bahwa strategi organisasi terbentuk melalui…",
+      "options": [
+        "Analisis rasional yang dilakukan tim perencanaan strategis berdasarkan data pasar yang akurat",
+        "Keputusan tunggal yang dibuat secara otoriter oleh pemimpin puncak organisasi",
+        "Proses tawar-menawar dan negosiasi antara koalisi-koalisi yang memiliki kepentingan berbeda",
+        "Penerapan model kuantitatif yang mengoptimalkan alokasi sumber daya secara matematis"
+      ],
+      "answer": 2,
+      "explanation": "Perspektif politik memandang organisasi sebagai arena tempat berbagai kelompok kepentingan bernegosiasi, sehingga strategi yang muncul merupakan hasil dari proses politik internal bukan semata keputusan rasional."
+    },
+    {
+      "id": 27,
+      "question": "Perspektif organisasi sebagai arena politik menekankan bahwa kekuasaan dalam organisasi bersumber dari berbagai hal. Menurut perspektif ini, organisasi pada dasarnya adalah…",
+      "options": [
+        "Koalisi dari berbagai individu dan kelompok yang masing-masing memiliki tujuan dan kepentingan yang berbeda",
+        "Entitas yang sepenuhnya dikendalikan oleh pemilik modal melalui mekanisme pasar",
+        "Sistem tertutup yang dapat dioptimalkan melalui perencanaan teknis yang cermat",
+        "Mesin yang beroperasi sesuai aturan dan prosedur yang telah distandarisasi sebelumnya"
+      ],
+      "answer": 0,
+      "explanation": "Perspektif politik dalam teori organisasi memandang organisasi sebagai koalisi dari berbagai kelompok dengan kepentingan yang beragam, di mana kekuasaan dan negosiasi menjadi mekanisme utama pengambilan keputusan."
+    },
+    {
+      "id": 28,
+      "question": "Sumber kekuasaan yang berasal dari kemampuan seseorang untuk memberikan penghargaan atau imbalan kepada pihak lain dikenal sebagai kekuasaan…",
+      "options": [
+        "Koersif, karena didasarkan pada ancaman hukuman bagi yang tidak patuh",
+        "Legitimasi, karena bersumber dari posisi formal dalam hierarki organisasi",
+        "Referensi, karena orang-orang mengidentifikasikan diri dengan figur yang dikagumi",
+        "Imbalan, karena kemampuan memberikan sesuatu yang diinginkan pihak lain"
+      ],
+      "answer": 3,
+      "explanation": "Kekuasaan imbalan (reward power) bersumber dari kemampuan seseorang untuk memberikan penghargaan, bonus, promosi, atau hal lain yang diinginkan orang lain sebagai imbalan atas kepatuhan atau kinerja."
+    },
+    {
+      "id": 29,
+      "question": "Konflik dalam organisasi dapat bersifat fungsional maupun disfungsional. Konflik dinyatakan fungsional apabila…",
+      "options": [
+        "Konflik tersebut melibatkan seluruh anggota organisasi secara merata",
+        "Konflik mendorong kreativitas, inovasi, dan peningkatan kualitas pengambilan keputusan",
+        "Konflik diselesaikan melalui intervensi langsung dari pimpinan tertinggi organisasi",
+        "Konflik hanya melibatkan perbedaan pendapat pada tingkat teknis operasional"
+      ],
+      "answer": 1,
+      "explanation": "Konflik fungsional adalah konflik yang pada tingkat tertentu justru bermanfaat bagi organisasi karena mendorong munculnya ide-ide baru, evaluasi kritis terhadap keputusan, dan pencegahan groupthink."
+    },
+    {
+      "id": 30,
+      "question": "Strategi pengelolaan konflik yang dilakukan dengan cara menghindari konfrontasi langsung dan menunda penyelesaian masalah disebut strategi…",
+      "options": [
+        "Kolaborasi, karena semua pihak berupaya mencari solusi yang memuaskan semua kepentingan",
+        "Kompromi, karena masing-masing pihak bersedia melepaskan sebagian tuntutannya",
+        "Menghindar, karena pihak-pihak yang berkonflik memilih tidak berhadapan langsung",
+        "Kompetisi, karena salah satu pihak berusaha mendominasi pihak lain"
+      ],
+      "answer": 2,
+      "explanation": "Strategi menghindar (avoiding) ditandai oleh keengganan untuk berhadapan langsung dengan konflik, sering kali dengan menunda pembahasan atau berpura-pura masalah tidak ada, yang dalam jangka pendek mengurangi ketegangan namun tidak menyelesaikan akar permasalahan."
+    },
+    {
+      "id": 31,
+      "question": "Pengertian budaya organisasi yang paling komprehensif adalah…",
+      "options": [
+        "Sistem nilai, keyakinan, dan asumsi bersama yang dipegang oleh anggota organisasi dan membentuk cara mereka berperilaku serta memahami lingkungan",
+        "Seperangkat aturan formal dan kebijakan tertulis yang mengatur perilaku karyawan dalam organisasi",
+        "Program pelatihan dan pengembangan yang digunakan untuk membentuk kemampuan teknis karyawan",
+        "Struktur hierarki yang menentukan hubungan kewenangan antara berbagai posisi dalam organisasi"
+      ],
+      "answer": 0,
+      "explanation": "Budaya organisasi merupakan pola asumsi dasar bersama yang berkembang dalam organisasi dan menjadi panduan bagi anggota dalam memahami, berpikir, dan merasakan berbagai situasi yang dihadapi organisasi."
+    },
+    {
+      "id": 32,
+      "question": "Edgar Schein menganalisis budaya organisasi dalam tiga lapisan utama. Lapisan yang paling sulit diamati dan merupakan inti dari budaya organisasi adalah…",
+      "options": [
+        "Artefak, karena merupakan elemen budaya yang paling mudah terlihat secara fisik",
+        "Nilai-nilai yang diperjuangkan, karena dinyatakan secara eksplisit dalam dokumen resmi",
+        "Norma perilaku, karena mengatur interaksi sehari-hari antara anggota organisasi",
+        "Asumsi dasar yang tidak disadari, karena berupa keyakinan mendalam yang diterima begitu saja tanpa dipertanyakan"
+      ],
+      "answer": 3,
+      "explanation": "Dalam model tiga lapisan Schein, asumsi dasar yang tidak disadari merupakan inti terdalam budaya organisasi yang paling sulit diidentifikasi karena berupa keyakinan yang sudah begitu tertanam hingga tidak lagi dipertanyakan kebenarannya."
+    },
+    {
+      "id": 33,
+      "question": "Budaya organisasi yang kuat (strong culture) memberikan keuntungan bagi organisasi terutama karena…",
+      "options": [
+        "Mendorong anggota untuk lebih sering mengungkapkan perbedaan pendapat secara terbuka",
+        "Menciptakan keselarasan perilaku anggota sehingga mengurangi kebutuhan akan pengawasan formal",
+        "Mempermudah rekrutmen tenaga kerja dari beragam latar belakang budaya yang berbeda",
+        "Memfasilitasi perubahan strategi karena anggota terbiasa dengan rutinitas kerja yang fleksibel"
+      ],
+      "answer": 1,
+      "explanation": "Budaya organisasi yang kuat berfungsi sebagai mekanisme kontrol sosial yang efektif karena nilai-nilai yang dihayati bersama membimbing perilaku anggota secara internal, sehingga mengurangi ketergantungan pada aturan formal dan pengawasan eksternal."
+    },
+    {
+      "id": 34,
+      "question": "Proses sosialisasi organisasi merujuk pada…",
+      "options": [
+        "Program pelatihan teknis yang diberikan kepada karyawan baru agar mampu mengoperasikan peralatan",
+        "Kegiatan rekreasi dan team building yang diselenggarakan untuk meningkatkan keakraban tim",
+        "Proses di mana anggota baru mempelajari nilai, norma, dan perilaku yang diharapkan dalam organisasi",
+        "Mekanisme evaluasi kinerja tahunan yang mengukur pencapaian target individu"
+      ],
+      "answer": 2,
+      "explanation": "Sosialisasi organisasi adalah proses adaptasi di mana anggota baru menyerap budaya, nilai-nilai, dan norma perilaku organisasi sehingga dapat berfungsi sebagai anggota yang efektif dan diterima oleh anggota lainnya."
+    },
+    {
+      "id": 35,
+      "question": "Perubahan budaya organisasi merupakan proses yang sangat menantang. Hambatan utama dalam mengubah budaya organisasi adalah…",
+      "options": [
+        "Nilai dan asumsi yang sudah mengakar dalam terbentuk melalui bertahun-tahun pengalaman kolektif sehingga sangat resisten terhadap perubahan",
+        "Keterbatasan anggaran yang membatasi kemampuan organisasi untuk mengadakan program pelatihan perubahan",
+        "Kurangnya teknologi modern yang diperlukan untuk mendukung implementasi nilai-nilai baru",
+        "Peraturan pemerintah yang membatasi kebebasan organisasi dalam mengubah kebijakan internal"
+      ],
+      "answer": 0,
+      "explanation": "Budaya organisasi yang telah terbentuk selama bertahun-tahun menjadi sangat kuat dan resistan terhadap perubahan karena sudah terinternalisasi mendalam dalam keyakinan, asumsi, dan kebiasaan para anggota organisasi."
+    },
+    {
+      "id": 36,
+      "question": "Konsep “organisasi yang belajar” (learning organization) pertama kali dipopulerkan dan dikembangkan secara luas oleh…",
+      "options": [
+        "Henry Mintzberg melalui karyanya mengenai konfigurasi struktural organisasi",
+        "Peter Drucker melalui konsep manajemen berbasis pengetahuan (knowledge management)",
+        "Chris Argyris melalui konsep pembelajaran single-loop dan double-loop",
+        "Peter Senge melalui karyanya “The Fifth Discipline” yang memperkenalkan lima disiplin organisasi pembelajaran"
+      ],
+      "answer": 3,
+      "explanation": "Peter Senge mempopulerkan konsep learning organization melalui bukunya “The Fifth Discipline” yang mengemukakan lima disiplin: berpikir sistem, penguasaan pribadi, model mental, visi bersama, dan pembelajaran tim."
+    },
+    {
+      "id": 37,
+      "question": "Lima disiplin yang dikemukakan Peter Senge sebagai fondasi organisasi yang belajar mencakup salah satu disiplin yang disebut “berpikir sistem” (systems thinking). Disiplin ini dianggap sebagai disiplin kelima karena…",
+      "options": [
+        "Disiplin ini paling mudah diterapkan dibandingkan empat disiplin lainnya",
+        "Disiplin ini mengintegrasikan dan menyatukan keempat disiplin lainnya menjadi satu kesatuan yang koheren",
+        "Disiplin ini hanya relevan bagi pemimpin puncak dan tidak berlaku bagi anggota biasa",
+        "Disiplin ini dikembangkan terakhir dan merupakan tambahan atas empat disiplin yang sudah ada"
+      ],
+      "answer": 1,
+      "explanation": "Senge menyebut berpikir sistem sebagai disiplin kelima karena merupakan landasan yang menyatukan semua disiplin lainnya, memberikan kerangka konseptual untuk memahami bagaimana keempat disiplin lainnya saling berkaitan dan memperkuat satu sama lain."
+    },
+    {
+      "id": 38,
+      "question": "Organisasi yang belajar berbeda dari organisasi konvensional dalam hal pengelolaan pengetahuan. Perbedaan utama yang membedakan keduanya adalah…",
+      "options": [
+        "Organisasi yang belajar lebih mengutamakan efisiensi biaya dibandingkan pengembangan sumber daya manusia",
+        "Organisasi yang belajar mengandalkan pengetahuan individu tanpa upaya berbagi pengetahuan antar anggota",
+        "Organisasi yang belajar secara aktif menciptakan, memperoleh, dan mentransfer pengetahuan untuk memodifikasi perilaku berdasarkan wawasan baru",
+        "Organisasi yang belajar memiliki lebih banyak program pelatihan formal dibandingkan organisasi konvensional"
+      ],
+      "answer": 2,
+      "explanation": "Ciri khas learning organization adalah kemampuannya untuk secara sistematis menciptakan dan menyebarkan pengetahuan, kemudian menggunakannya untuk mengubah perilaku organisasi agar lebih adaptif terhadap perubahan lingkungan."
+    },
+    {
+      "id": 39,
+      "question": "Pembelajaran double-loop yang dikemukakan oleh Chris Argyris berbeda dari pembelajaran single-loop dalam hal…",
+      "options": [
+        "Pembelajaran double-loop hanya mengoreksi kesalahan teknis tanpa mempertanyakan tujuan yang ada",
+        "Pembelajaran double-loop dilakukan oleh dua tim yang berbeda secara bersamaan dan paralel",
+        "Pembelajaran double-loop membutuhkan waktu dua kali lebih lama dari pembelajaran single-loop",
+        "Pembelajaran double-loop mempertanyakan dan merevisi asumsi dasar, nilai, dan tujuan yang mendasari tindakan, bukan sekadar memperbaiki cara mencapai tujuan yang ada"
+      ],
+      "answer": 3,
+      "explanation": "Double-loop learning melampaui koreksi kesalahan sederhana dengan mempertanyakan apakah tujuan dan asumsi yang mendasari tindakan itu sendiri masih relevan, sementara single-loop hanya memperbaiki metode untuk mencapai tujuan yang sudah ada."
+    },
+    {
+      "id": 40,
+      "question": "Penciptaan pengetahuan dalam organisasi menurut Nonaka dan Takeuchi melibatkan konversi antara pengetahuan tacit dan eksplisit. Proses konversi dari pengetahuan tacit ke pengetahuan eksplisit disebut…",
+      "options": [
+        "Eksternalisasi, karena pengetahuan yang tersimpan dalam benak individu diubah menjadi bentuk yang dapat dikomunikasikan",
+        "Internalisasi, karena pengetahuan formal diserap dan dipraktikkan hingga menjadi keahlian intuitif",
+        "Sosialisasi, karena pengetahuan dibagikan melalui pengalaman dan interaksi langsung antarpribadi",
+        "Kombinasi, karena dua sumber pengetahuan eksplisit yang berbeda digabungkan menjadi pengetahuan baru"
+      ],
+      "answer": 0,
+      "explanation": "Eksternalisasi adalah proses mengartikulasikan pengetahuan tacit yang bersifat personal dan sulit diungkapkan menjadi konsep, metafora, atau dokumen eksplisit yang dapat dibagikan dan dipahami orang lain."
+    },
+    {
+      "id": 41,
+      "question": "Seorang manajer divisi menemukan bahwa unit kerjanya mengalami penurunan produktivitas. Setelah menganalisis situasi, ia menyadari bahwa masalahnya bukan pada metode kerja melainkan pada tujuan divisi yang sudah tidak relevan dengan kebutuhan pasar. Tindakan manajer yang tepat berdasarkan konsep pembelajaran organisasi adalah…",
+      "options": [
+        "Menerapkan pembelajaran single-loop dengan memperketat prosedur pengawasan kerja",
+        "Meningkatkan insentif finansial agar motivasi karyawan dalam mencapai target lama kembali meningkat",
+        "Menerapkan pembelajaran double-loop dengan mempertanyakan kembali asumsi dan tujuan yang mendasari operasi divisi",
+        "Mengubah susunan tim kerja tanpa mengubah tujuan dan prosedur yang berlaku saat ini"
+      ],
+      "answer": 2,
+      "explanation": "Karena masalahnya terletak pada relevansi tujuan itu sendiri, bukan pada cara mencapai tujuan, maka diperlukan pembelajaran double-loop yang mempertanyakan dan merevisi asumsi dasar serta tujuan organisasi yang sudah tidak sesuai."
+    },
+    {
+      "id": 42,
+      "question": "Dalam konteks pengukuran efektivitas organisasi, pendekatan sistem sumber daya (system resource approach) mengukur efektivitas dari sisi…",
+      "options": [
+        "Tingkat kepuasan pelanggan terhadap produk atau layanan yang dihasilkan organisasi",
+        "Kemampuan organisasi untuk memperoleh sumber daya yang berharga dan langka dari lingkungan",
+        "Sejauh mana tujuan akhir organisasi berhasil dicapai sesuai rencana yang ditetapkan",
+        "Kualitas proses internal seperti semangat kerja, komunikasi, dan pengambilan keputusan"
+      ],
+      "answer": 1,
+      "explanation": "Pendekatan sistem sumber daya memandang efektivitas dari sudut pandang input, yaitu sejauh mana organisasi mampu mengakuisisi sumber daya kritis dari lingkungannya untuk menunjang kelangsungan hidup dan perkembangan organisasi."
+    },
+    {
+      "id": 43,
+      "question": "Jika dibandingkan, perbedaan mendasar antara struktur fungsional dan struktur divisional terletak pada…",
+      "options": [
+        "Jumlah pegawai yang dimiliki oleh masing-masing jenis organisasi",
+        "Tingkat formalisasi aturan dan prosedur yang diterapkan dalam organisasi",
+        "Derajat sentralisasi kewenangan antara manajemen puncak dan unit-unit di bawahnya",
+        "Dasar pengelompokan unit kerja, yaitu berdasarkan fungsi versus berdasarkan produk, wilayah, atau pelanggan"
+      ],
+      "answer": 3,
+      "explanation": "Struktur fungsional mengelompokkan pekerjaan berdasarkan fungsi sejenis seperti produksi, pemasaran, dan keuangan, sementara struktur divisional mengelompokkannya berdasarkan output seperti jenis produk, wilayah geografis, atau segmen pelanggan."
+    },
+    {
+      "id": 44,
+      "question": "Suatu perusahaan teknologi yang beroperasi di lingkungan yang sangat dinamis dan tidak pasti lebih cocok mengadopsi struktur organik dibandingkan mekanistik. Alasan yang paling tepat untuk hal ini adalah…",
+      "options": [
+        "Struktur organik memberikan fleksibilitas dan kemampuan adaptasi yang lebih tinggi melalui komunikasi lateral dan desentralisasi keputusan",
+        "Struktur organik memiliki rantai komando yang lebih jelas sehingga tanggung jawab mudah diatribusikan",
+        "Struktur organik memungkinkan spesialisasi yang lebih tinggi karena setiap karyawan hanya mengerjakan tugas tertentu",
+        "Struktur organik lebih efisien dalam hal biaya karena standardisasi prosedur mengurangi pemborosan"
+      ],
+      "answer": 0,
+      "explanation": "Lingkungan yang dinamis membutuhkan respons cepat dan fleksibel, yang hanya dapat diwujudkan melalui struktur organik dengan formalisasi rendah, komunikasi lintas unit yang intensif, dan kewenangan pengambilan keputusan yang didistribusikan ke berbagai level."
+    },
+    {
+      "id": 45,
+      "question": "Fungsi budaya organisasi bagi anggotanya yang berkaitan dengan pembentukan identitas kolektif adalah…",
+      "options": [
+        "Memberikan panduan teknis tentang cara menyelesaikan pekerjaan dengan benar",
+        "Menetapkan standar kinerja minimum yang harus dipenuhi setiap anggota",
+        "Memberikan rasa kebersamaan dan kebanggaan dengan menciptakan perasaan “kita” di antara anggota",
+        "Menentukan besaran kompensasi yang adil berdasarkan kontribusi masing-masing anggota"
+      ],
+      "answer": 2,
+      "explanation": "Salah satu fungsi penting budaya organisasi adalah membentuk identitas bersama yang membedakan anggota organisasi dari pihak luar, menumbuhkan rasa memiliki, kebanggaan, dan solidaritas di antara para anggotanya."
+    },
+    {
+      "id": 46,
+      "question": "Ketika sebuah organisasi menghadapi krisis besar yang mengancam kelangsungan hidupnya, kondisi ini dapat menjadi peluang untuk mengubah budaya organisasi karena…",
+      "options": [
+        "Krisis membuat anggota organisasi terlalu sibuk sehingga tidak sempat mempertahankan nilai-nilai lama",
+        "Krisis mendemonstrasikan bahwa cara-cara lama tidak lagi berjalan, sehingga anggota lebih terbuka menerima nilai dan asumsi baru",
+        "Krisis memaksa pimpinan untuk mengumumkan perubahan budaya secara resmi dan terdokumentasi",
+        "Krisis menyebabkan pergantian seluruh anggota sehingga budaya baru dapat dimulai dari nol"
+      ],
+      "answer": 1,
+      "explanation": "Krisis menciptakan jendela peluang untuk perubahan budaya karena membuktikan secara nyata bahwa keyakinan dan cara kerja yang ada sudah tidak memadai, sehingga resistensi terhadap perubahan menurun dan keterbukaan terhadap alternatif baru meningkat."
+    },
+    {
+      "id": 47,
+      "question": "Ekologi populasi (population ecology) sebagai teori organisasi berpendapat bahwa faktor yang paling menentukan kelangsungan hidup organisasi adalah…",
+      "options": [
+        "Kualitas pemimpin puncak dalam membuat keputusan strategis yang tepat",
+        "Kemampuan manajer untuk merencanakan dan mengendalikan perubahan internal secara proaktif",
+        "Keunggulan teknologi yang dimiliki organisasi dibandingkan para pesaingnya",
+        "Seleksi alam oleh lingkungan yang menentukan organisasi mana yang bertahan berdasarkan kesesuaian dengan kondisi lingkungan"
+      ],
+      "answer": 3,
+      "explanation": "Teori ekologi populasi meminjam konsep seleksi alam dari biologi, berpendapat bahwa lingkungan secara otomatis “memilih” organisasi yang paling sesuai dengan kondisinya untuk bertahan, sementara yang tidak sesuai akan tergeser atau punah."
+    },
+    {
+      "id": 48,
+      "question": "Teori institusional dalam teori organisasi menjelaskan mengapa organisasi-organisasi dalam industri yang sama cenderung memiliki struktur yang serupa. Fenomena kemiripan struktural antar organisasi ini disebut…",
+      "options": [
+        "Isomorfisme, karena tekanan institusional mendorong organisasi untuk menyesuaikan diri dengan norma dan ekspektasi lingkungan sosialnya",
+        "Diferensiasi, karena organisasi berusaha menonjolkan keunikannya untuk memenangkan persaingan",
+        "Sinergi, karena organisasi bersatu untuk mengoptimalkan penggunaan sumber daya bersama",
+        "Homogenisasi, karena semua organisasi memilih strategi yang sama untuk meminimalkan risiko kegagalan"
+      ],
+      "answer": 0,
+      "explanation": "Isomorfisme institusional adalah proses di mana organisasi menjadi semakin serupa akibat tekanan koersif dari regulasi, tekanan mimetis dari peniruan organisasi sukses, dan tekanan normatif dari profesi dan pendidikan formal."
+    },
+    {
+      "id": 49,
+      "question": "Analisis antara kekuasaan koersif dan kekuasaan legitimasi dalam organisasi menunjukkan bahwa perbedaan mendasar keduanya terletak pada…",
+      "options": [
+        "Kekuasaan koersif dimiliki oleh manajer puncak, sementara kekuasaan legitimasi dimiliki oleh seluruh karyawan",
+        "Kekuasaan koersif bersifat sementara, sementara kekuasaan legitimasi bersifat permanen dalam organisasi",
+        "Kekuasaan koersif didasarkan pada ancaman hukuman, sementara kekuasaan legitimasi bersumber dari posisi formal yang diakui secara sah",
+        "Kekuasaan koersif lebih efektif dari kekuasaan legitimasi dalam situasi krisis organisasi"
+      ],
+      "answer": 2,
+      "explanation": "Kekuasaan koersif menggunakan ketakutan akan sanksi negatif sebagai mekanisme kepatuhan, sedangkan kekuasaan legitimasi (legitimate power) diterima secara sukarela karena individu mengakui hak orang yang memiliki posisi formal untuk memberikan perintah."
+    },
+    {
+      "id": 50,
+      "question": "Kajian tentang organisasi yang belajar menyimpulkan bahwa prasyarat utama bagi terciptanya learning organization adalah…",
+      "options": [
+        "Ketersediaan anggaran yang besar untuk investasi di bidang teknologi informasi terkini",
+        "Budaya yang mendukung eksperimentasi, toleransi terhadap kesalahan, dan berbagi pengetahuan secara terbuka",
+        "Struktur hierarki yang jelas dengan rantai komando yang tegas untuk memastikan implementasi pembelajaran",
+        "Kehadiran konsultan eksternal yang memandu seluruh proses transformasi organisasi menuju pembelajaran"
+      ],
+      "answer": 1,
+      "explanation": "Learning organization tidak dapat terwujud tanpa fondasi budaya yang menghargai rasa ingin tahu, memandang kesalahan sebagai peluang belajar, dan mendorong anggota untuk secara aktif berbagi pengetahuan dan pengalaman satu sama lain."
+    }
+  ]
+}

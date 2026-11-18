@@ -1,0 +1,1211 @@
+{
+  "exam": {
+    "source": "https://soalut.com/soal-ut-bing4121-basic-reading/",
+    "name": "Ujian Akhir Semester",
+    "matkul": "BING4121 Basic Reading",
+    "semester": "5",
+    "prodi": "Teknik Informatika"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "In a sentence, the phrase 'which is a type of bird' is likely to be a…",
+      "options": [
+        "example",
+        "synonym",
+        "antonym",
+        "definition"
+      ],
+      "answer": 3,
+      "explanation": "Frasa 'which is a type of bird' memberikan definisi dari kata sebelumnya, sehingga merupakan petunjuk definisi."
+    },
+    {
+      "id": 2,
+      "question": "When reading, an author writes 'An arboreal animal, meaning it lives in trees.' The clause 'meaning it lives in trees' is a…",
+      "options": [
+        "description",
+        "synonym",
+        "definition",
+        "example"
+      ],
+      "answer": 2,
+      "explanation": "Kata 'meaning' secara eksplisit menunjukkan definisi dari 'arboreal animal'."
+    },
+    {
+      "id": 3,
+      "question": "The text says 'A herbivore, that is an animal that eats only plants.' The expression 'that is' introduces a…",
+      "options": [
+        "synonym",
+        "example",
+        "definition",
+        "antonym"
+      ],
+      "answer": 2,
+      "explanation": "'That is' digunakan untuk memberikan definisi dari kata sebelumnya."
+    },
+    {
+      "id": 4,
+      "question": "In a passage, 'The boy was ecstatic, or extremely happy.' The word 'ecstatic' is closest in meaning to…",
+      "options": [
+        "sad",
+        "extremely happy",
+        "angry",
+        "calm"
+      ],
+      "answer": 1,
+      "explanation": "Kalimat memberikan sinonim 'extremely happy' untuk menjelaskan 'ecstatic'."
+    },
+    {
+      "id": 5,
+      "question": "'She felt melancholy, a synonym for sadness.' The word 'melancholy' can be replaced by…",
+      "options": [
+        "joy",
+        "anger",
+        "sadness",
+        "fear"
+      ],
+      "answer": 2,
+      "explanation": "Kata 'sadness' diberikan sebagai sinonim langsung untuk 'melancholy'."
+    },
+    {
+      "id": 6,
+      "question": "The sentence 'The aroma, or smell, of the flower was pleasant.' The word 'aroma' means…",
+      "options": [
+        "taste",
+        "smell",
+        "sight",
+        "sound"
+      ],
+      "answer": 1,
+      "explanation": "Kata 'smell' adalah sinonim yang diberikan untuk 'aroma'."
+    },
+    {
+      "id": 7,
+      "question": "In a text, 'Unlike his gregarious sister, he was shy.' The word 'gregarious' is opposite of…",
+      "options": [
+        "shy",
+        "friendly",
+        "outgoing",
+        "social"
+      ],
+      "answer": 0,
+      "explanation": "Kata 'Unlike' menunjukkan antonim; 'shy' adalah lawan dari 'gregarious'."
+    },
+    {
+      "id": 8,
+      "question": "'The weather was hot, but yesterday it was cold.' The words 'hot' and 'cold' are…",
+      "options": [
+        "antonyms",
+        "synonyms",
+        "definitions",
+        "examples"
+      ],
+      "answer": 0,
+      "explanation": "'Hot' dan 'cold' adalah kata yang berlawanan makna, yaitu antonim."
+    },
+    {
+      "id": 9,
+      "question": "'He was generous, in contrast to his stingy brother.' The word 'generous' is the opposite of…",
+      "options": [
+        "kind",
+        "stingy",
+        "mean",
+        "helpful"
+      ],
+      "answer": 1,
+      "explanation": "Frasa 'in contrast to' menunjukkan antonim; 'stingy' adalah lawan dari 'generous'."
+    },
+    {
+      "id": 10,
+      "question": "In a reading, 'Fruits, such as apples and oranges, are healthy.' The phrase 'such as' introduces…",
+      "options": [
+        "definition",
+        "synonym",
+        "antonym",
+        "example"
+      ],
+      "answer": 3,
+      "explanation": "'Such as' digunakan untuk memberikan contoh, yaitu apel dan jeruk."
+    },
+    {
+      "id": 11,
+      "question": "'Many animals, for instance, dogs and cats, are pets.' The words 'for instance' signal a…",
+      "options": [
+        "definition",
+        "antonym",
+        "synonym",
+        "example"
+      ],
+      "answer": 3,
+      "explanation": "'For instance' adalah penanda yang memperkenalkan contoh."
+    },
+    {
+      "id": 12,
+      "question": "'Transportation includes vehicles like cars and buses.' The word 'like' is used to give…",
+      "options": [
+        "example",
+        "definition",
+        "synonym",
+        "antonym"
+      ],
+      "answer": 0,
+      "explanation": "'Like' berfungsi memberikan contoh dari kata 'vehicles'."
+    },
+    {
+      "id": 13,
+      "question": "Based on the text, 'Reading extensively helps improve vocabulary.' The main idea of extensive reading is to…",
+      "options": [
+        "read quickly",
+        "read widely",
+        "read only textbooks",
+        "read difficult texts"
+      ],
+      "answer": 1,
+      "explanation": "Membaca secara ekstensif berarti membaca secara luas, bukan hanya teknis atau cepat."
+    },
+    {
+      "id": 14,
+      "question": "'Extensive reading allows learners to encounter words in context.' This suggests that extensive reading…",
+      "options": [
+        "focuses on grammar",
+        "is for beginners only",
+        "helps word recognition",
+        "skips unknown words"
+      ],
+      "answer": 2,
+      "explanation": "Membaca ekstensif membantu pengenalan kata melalui konteks."
+    },
+    {
+      "id": 15,
+      "question": "In extensive reading, learners should…",
+      "options": [
+        "stop at every new word",
+        "look up every dictionary entry",
+        "analyze all sentence structures",
+        "read for pleasure and general understanding"
+      ],
+      "answer": 3,
+      "explanation": "Membaca ekstensif menekankan kesenangan dan pemahaman umum, bukan analisis detail."
+    },
+    {
+      "id": 16,
+      "question": "The prefix 'un-' in 'unhappy' changes the meaning to…",
+      "options": [
+        "not happy",
+        "before happy",
+        "very happy",
+        "happy again"
+      ],
+      "answer": 0,
+      "explanation": "Awalan 'un-' berarti 'tidak', sehingga 'unhappy' berarti tidak bahagia."
+    },
+    {
+      "id": 17,
+      "question": "The prefix 'pre-' in 'preview' means…",
+      "options": [
+        "before",
+        "not",
+        "after",
+        "again"
+      ],
+      "answer": 0,
+      "explanation": "Awalan 'pre-' berarti 'sebelum', seperti dalam 'preview' yang berarti melihat sebelumnya."
+    },
+    {
+      "id": 18,
+      "question": "A prefix is added to the beginning of a word to change its meaning. Which of the following words uses a prefix meaning 'again'?",
+      "options": [
+        "Unhappy",
+        "Disagree",
+        "Misunderstand",
+        "Rewrite"
+      ],
+      "answer": 3,
+      "explanation": "Awalan 're-' berarti 'lagi' atau 'kembali', sehingga 'rewrite' berarti menulis lagi."
+    },
+    {
+      "id": 19,
+      "question": "The suffix '-ment' is used to form nouns from verbs. Which of the following words contains the suffix '-ment'?",
+      "options": [
+        "Happiness",
+        "Quickly",
+        "Movement",
+        "Teacher"
+      ],
+      "answer": 2,
+      "explanation": "Akhiran '-ment' pada 'movement' mengubah kata kerja 'move' menjadi kata benda 'movement'."
+    },
+    {
+      "id": 20,
+      "question": "Which of the following words has the suffix '-ous' meaning 'full of'?",
+      "options": [
+        "Famous",
+        "Various",
+        "Dangerous",
+        "Curious"
+      ],
+      "answer": 2,
+      "explanation": "Akhiran '-ous' berarti 'penuh dengan', jadi 'dangerous' berarti penuh bahaya."
+    },
+    {
+      "id": 21,
+      "question": "The suffix '-less' means 'without'. Which word means 'without hope'?",
+      "options": [
+        "Hopeless",
+        "Hopeful",
+        "Hope",
+        "Hopefully"
+      ],
+      "answer": 0,
+      "explanation": "Akhiran '-less' berarti 'tanpa', sehingga 'hopeless' berarti tanpa harapan."
+    },
+    {
+      "id": 22,
+      "question": "A root word is a basic word that can stand alone. Which of the following is a root word from the word 'unhappiness'?",
+      "options": [
+        "Un",
+        "Hap",
+        "Happy",
+        "Ness"
+      ],
+      "answer": 2,
+      "explanation": "Kata dasar dari 'unhappiness' adalah 'happy' yang dapat berdiri sendiri."
+    },
+    {
+      "id": 23,
+      "question": "The word 'transport' contains the root word 'port' which means 'to carry'. What does 'transport' mean?",
+      "options": [
+        "To carry away",
+        "To carry across",
+        "To carry in",
+        "To carry under"
+      ],
+      "answer": 1,
+      "explanation": "Kata dasar 'port' berarti 'membawa', dan 'trans-' berarti 'seberang', sehingga 'transport' berarti membawa menyeberang."
+    },
+    {
+      "id": 24,
+      "question": "Which of the following words has the root word 'aud', meaning 'to hear'?",
+      "options": [
+        "Visible",
+        "Manual",
+        "Spectacle",
+        "Audience"
+      ],
+      "answer": 3,
+      "explanation": "Kata dasar 'aud' berarti 'mendengar', dan 'audience' berarti sekelompok pendengar."
+    },
+    {
+      "id": 25,
+      "question": "In a dictionary, the abbreviation 'n.' stands for which part of speech?",
+      "options": [
+        "Verb",
+        "Adjective",
+        "Noun",
+        "Adverb"
+      ],
+      "answer": 2,
+      "explanation": "Singkatan 'n.' dalam kamus berarti 'noun' atau kata benda."
+    },
+    {
+      "id": 26,
+      "question": "What does the symbol '/' often indicate in a dictionary entry?",
+      "options": [
+        "Pronunciation",
+        "Synonym",
+        "Antonym",
+        "Example"
+      ],
+      "answer": 0,
+      "explanation": "Simbol garis miring '/' dalam entri kamus biasanya menunjukkan pengucapan atau pelafalan kata."
+    },
+    {
+      "id": 27,
+      "question": "In dictionaries, the abbreviation 'syn.' is used to indicate:",
+      "options": [
+        "Synonym",
+        "Syllable",
+        "Syntax",
+        "Symbol"
+      ],
+      "answer": 0,
+      "explanation": "Singkatan 'syn.' dalam kamus berarti 'synonym' atau sinonim."
+    },
+    {
+      "id": 28,
+      "question": "When looking up the word 'run' in a dictionary, you see multiple definitions. Which part of the entry usually lists the definitions?",
+      "options": [
+        "Etymology",
+        "Numbered meanings",
+        "Example sentences",
+        "Pronunciation guide"
+      ],
+      "answer": 1,
+      "explanation": "Dalam entri kamus, definisi biasanya ditampilkan dengan nomor untuk menunjukkan berbagai arti kata."
+    },
+    {
+      "id": 29,
+      "question": "What is the function of a dictionary entry's example sentences?",
+      "options": [
+        "To show how the word is used in context",
+        "To show the word's history",
+        "To list synonyms",
+        "To show the word's pronunciation"
+      ],
+      "answer": 0,
+      "explanation": "Contoh kalimat dalam entri kamus membantu pembaca memahami penggunaan kata dalam konteks."
+    },
+    {
+      "id": 30,
+      "question": "In a dictionary, the abbreviation 'v.' stands for:",
+      "options": [
+        "Vowel",
+        "Verb",
+        "Volume",
+        "Version"
+      ],
+      "answer": 1,
+      "explanation": "Singkatan 'v.' dalam kamus berarti 'verb' atau kata kerja."
+    },
+    {
+      "id": 31,
+      "question": "When doing extensive reading, what is the main purpose?",
+      "options": [
+        "To learn grammar rules",
+        "To analyze sentence structure",
+        "To memorize vocabulary",
+        "To read for enjoyment and general understanding"
+      ],
+      "answer": 3,
+      "explanation": "Membaca ekstensif bertujuan untuk membaca demi kesenangan dan pemahaman umum tanpa terlalu fokus pada detail."
+    },
+    {
+      "id": 32,
+      "question": "Extensive reading helps improve reading fluency by:",
+      "options": [
+        "Focusing on difficult words only",
+        "Reading short passages repeatedly",
+        "Studying grammar in detail",
+        "Reading large amounts of text at a comfortable level"
+      ],
+      "answer": 3,
+      "explanation": "Membaca ekstensif membantu kelancaran dengan membaca teks dalam jumlah besar pada tingkat yang nyaman."
+    },
+    {
+      "id": 33,
+      "question": "Which of the following is NOT a characteristic of extensive reading?",
+      "options": [
+        "Reading for pleasure",
+        "Using a dictionary for every unknown word",
+        "Focusing on meaning",
+        "Reading at a rapid pace"
+      ],
+      "answer": 1,
+      "explanation": "Membaca ekstensif tidak menganjurkan menggunakan kamus untuk setiap kata yang tidak dikenal karena dapat mengganggu aliran membaca."
+    },
+    {
+      "id": 34,
+      "question": "In the phrase 'a big red car', the noun phrase 'a big red car' contains which elements?",
+      "options": [
+        "Determiner, adjective, adjective, noun",
+        "Noun, verb, adjective",
+        "Adjective, adverb, noun",
+        "Determiner, noun, adjective"
+      ],
+      "answer": 0,
+      "explanation": "Frasa nomina 'a big red car' terdiri dari penentu (a), kata sifat (big, red), dan kata benda (car)."
+    },
+    {
+      "id": 35,
+      "question": "In the phrase 'a dark, stormy night', the words 'stormy' and 'dark' are both adjectives that modify the noun 'night'. This phrase is an example of a complex noun phrase because it contains more than one adjective. What is the head noun in this complex noun phrase?",
+      "options": [
+        "dark",
+        "stormy",
+        "and",
+        "night"
+      ],
+      "answer": 3,
+      "explanation": "The head noun is the main noun being described; in this phrase, 'night' is the head noun, while 'dark' and 'stormy' are modifiers."
+    },
+    {
+      "id": 36,
+      "question": "Which of the following contains a complex noun phrase?",
+      "options": [
+        "She runs fast.",
+        "Birds sing.",
+        "The tall, mysterious man with a hat entered the room.",
+        "He is happy."
+      ],
+      "answer": 2,
+      "explanation": "A complex noun phrase includes a noun with multiple modifiers; 'The tall, mysterious man with a hat' has adjectives and a prepositional phrase modifying 'man'."
+    },
+    {
+      "id": 37,
+      "question": "Which sentence uses a coordinating conjunction correctly?",
+      "options": [
+        "I want to go but I am tired.",
+        "She likes coffee and tea.",
+        "He studied hard for he passed the exam.",
+        "We will go or stay."
+      ],
+      "answer": 1,
+      "explanation": "Coordinating conjunctions like 'and' connect equal elements; 'coffee and tea' are two nouns, correctly joined."
+    },
+    {
+      "id": 38,
+      "question": "Choose the sentence that uses 'but' as a coordinating conjunction to show contrast.",
+      "options": [
+        "I like apples but not oranges.",
+        "He tried but failed.",
+        "She is tall but kind.",
+        "It is raining but we are inside."
+      ],
+      "answer": 1,
+      "explanation": "Coordinating conjunctions like 'but' show contrast; 'He tried but failed' contrasts the attempt with the outcome."
+    },
+    {
+      "id": 39,
+      "question": "Which sentence contains a coordinating conjunction connecting two independent clauses?",
+      "options": [
+        "I will go to the store, or I will order online.",
+        "The cat and dog are playing.",
+        "She bought bread and milk.",
+        "He is smart and hardworking."
+      ],
+      "answer": 0,
+      "explanation": "Coordinating conjunctions join independent clauses; 'I will go to the store' and 'I will order online' are both independent clauses linked by 'or'."
+    },
+    {
+      "id": 40,
+      "question": "Which sentence uses a subordinating conjunction?",
+      "options": [
+        "We stayed inside because it was raining.",
+        "I like coffee, but she prefers tea.",
+        "He is tall and strong.",
+        "She will go or stay."
+      ],
+      "answer": 0,
+      "explanation": "Subordinating conjunctions introduce dependent clauses; 'because it was raining' is a dependent clause attached to the main clause."
+    },
+    {
+      "id": 41,
+      "question": "In the sentence 'Although he was tired, he finished his homework,' the subordinating conjunction is:",
+      "options": [
+        "tired",
+        "his",
+        "finished",
+        "although"
+      ],
+      "answer": 3,
+      "explanation": "Subordinating conjunctions like 'although' introduce a dependent clause showing concession."
+    },
+    {
+      "id": 42,
+      "question": "Which sentence contains a subordinating conjunction expressing time?",
+      "options": [
+        "I will go if you come.",
+        "He is happy because he won.",
+        "She left after the movie ended.",
+        "She worked hard so that she could succeed."
+      ],
+      "answer": 2,
+      "explanation": "Subordinating conjunctions like 'after' indicate time relationships; 'after the movie ended' shows when she left."
+    },
+    {
+      "id": 43,
+      "question": "Which sentence uses a correlative conjunction correctly?",
+      "options": [
+        "Either you go or I.",
+        "He both likes cats and dogs.",
+        "She not only sings but also dances.",
+        "Neither he comes or goes."
+      ],
+      "answer": 2,
+      "explanation": "Correlative conjunctions come in pairs; 'not only…but also' correctly pairs to connect two equal ideas."
+    },
+    {
+      "id": 44,
+      "question": "Complete the sentence with the correct correlative conjunction: '______ you study hard ______ you will fail.'",
+      "options": [
+        "Whether/or",
+        "Neither/nor",
+        "Both/and",
+        "Either/or"
+      ],
+      "answer": 3,
+      "explanation": "Correlative conjunctions like 'either…or' present a choice between two alternatives; here, studying or failing."
+    },
+    {
+      "id": 45,
+      "question": "Which sentence uses 'neither…nor' correctly?",
+      "options": [
+        "Neither the cat or the dog is inside.",
+        "Neither the cat nor the dog are inside.",
+        "Neither the cat nor the dog is inside.",
+        "Neither the cat and the dog is inside."
+      ],
+      "answer": 2,
+      "explanation": "Correlative conjunctions 'neither…nor' are used with singular or plural subject-verb agreement; this sentence correctly pairs 'neither' with 'nor' and uses singular verb 'is'."
+    },
+    {
+      "id": 46,
+      "question": "In the sentence 'The woman who lives next door is a doctor,' the relative pronoun 'who' refers to:",
+      "options": [
+        "doctor",
+        "next door",
+        "lives",
+        "woman"
+      ],
+      "answer": 3,
+      "explanation": "Relative pronouns like 'who' introduce relative clauses and refer to a noun; 'who' refers to 'woman'."
+    },
+    {
+      "id": 47,
+      "question": "Which sentence uses the relative pronoun 'which' correctly?",
+      "options": [
+        "The book who I read was interesting.",
+        "The car which is red is mine.",
+        "The man which is tall is my brother.",
+        "The dog which barked is loud."
+      ],
+      "answer": 1,
+      "explanation": "Relative pronouns like 'which' are used for things; 'car' is a thing, so 'which' is correct."
+    },
+    {
+      "id": 48,
+      "question": "Choose the sentence where the relative clause is essential to the meaning.",
+      "options": [
+        "The students who passed the exam will graduate.",
+        "My brother, who lives in Jakarta, is a teacher.",
+        "The park, which is near my house, is beautiful.",
+        "My mother, who loves cooking, made dinner."
+      ],
+      "answer": 0,
+      "explanation": "Essential relative clauses (without commas) are needed to identify the noun; 'who passed the exam' specifies which students."
+    },
+    {
+      "id": 49,
+      "question": "Read the following passage: 'Reading extensively improves vocabulary and comprehension. It exposes readers to different writing styles and ideas. Students who read regularly often perform better in exams.' What is the main idea of the passage?",
+      "options": [
+        "Reading is only for exams.",
+        "Extensive reading has many benefits.",
+        "Only students should read.",
+        "Comprehension is not important."
+      ],
+      "answer": 1,
+      "explanation": "The passage lists benefits of extensive reading, such as improving vocabulary and comprehension, so the main idea is that it has many benefits."
+    },
+    {
+      "id": 50,
+      "question": "Based on the passage in question 49, what is one benefit of extensive reading mentioned?",
+      "options": [
+        "It increases vocabulary.",
+        "It reduces reading speed.",
+        "It improves writing skills.",
+        "It makes exams harder."
+      ],
+      "answer": 0,
+      "explanation": "The passage directly states 'Reading extensively improves vocabulary and comprehension', so increased vocabulary is a benefit."
+    },
+    {
+      "id": 51,
+      "question": "Which of the following best describes the tone of the passage in question 49?",
+      "options": [
+        "Informative",
+        "Sarcastic",
+        "Critical",
+        "Humorous"
+      ],
+      "answer": 0,
+      "explanation": "The passage presents facts about reading benefits without emotion or humor, making it informative in tone."
+    },
+    {
+      "id": 52,
+      "question": "Read the following sentence: 'The teacher gave a clarification on the topic, meaning she explained it in more detail.' The phrase 'meaning she explained it in more detail' serves to…",
+      "options": [
+        "Define the term clarification",
+        "Add a new idea",
+        "Contrast the previous statement",
+        "Give a reason for clarification"
+      ],
+      "answer": 0,
+      "explanation": "Frasa 'meaning she explained it in more detail' memberikan definisi dari kata 'clarification'."
+    },
+    {
+      "id": 53,
+      "question": "Which of the following sentences uses an example to support an addition of ideas?",
+      "options": [
+        "They went to the park because it was sunny.",
+        "He is tall, but his brother is short.",
+        "The book is interesting, so I read it quickly.",
+        "She likes fruits, for instance, apples and bananas."
+      ],
+      "answer": 3,
+      "explanation": "Kalimat 'for instance, apples and bananas' adalah contoh yang menambahkan ide tentang buah-buahan."
+    },
+    {
+      "id": 54,
+      "question": "In the sentence 'The meeting was postponed; in other words, it was delayed,' the phrase 'in other words' indicates a…",
+      "options": [
+        "Clarification",
+        "Contrast",
+        "Conclusion",
+        "Cause"
+      ],
+      "answer": 0,
+      "explanation": "Frasa 'in other words' digunakan untuk memperjelas pernyataan sebelumnya."
+    },
+    {
+      "id": 55,
+      "question": "Read the sentence: 'The event will be held at the main hall, which is located near the library.' The phrase 'near the library' indicates…",
+      "options": [
+        "Addition",
+        "Location",
+        "Time",
+        "Conclusion"
+      ],
+      "answer": 1,
+      "explanation": "Frasa 'near the library' menunjukkan lokasi dari main hall."
+    },
+    {
+      "id": 56,
+      "question": "Which sentence expresses a conclusion?",
+      "options": [
+        "First, we need to prepare the ingredients.",
+        "Therefore, the project was completed on time.",
+        "The train arrives at 5 PM.",
+        "She sat beside the window."
+      ],
+      "answer": 1,
+      "explanation": "Kata 'Therefore' menunjukkan kesimpulan dari suatu pernyataan sebelumnya."
+    },
+    {
+      "id": 57,
+      "question": "In the sentence 'The store opens at 9 AM and closes at 9 PM daily,' the phrase 'at 9 AM' indicates…",
+      "options": [
+        "Location",
+        "Conclusion",
+        "Time",
+        "Addition"
+      ],
+      "answer": 2,
+      "explanation": "Frasa 'at 9 AM' menunjukkan waktu pembukaan toko."
+    },
+    {
+      "id": 58,
+      "question": "Which sentence shows a contrast?",
+      "options": [
+        "He is rich, but he is not happy.",
+        "She is smart, and she works hard.",
+        "The sun sets in the west.",
+        "First, wash the vegetables."
+      ],
+      "answer": 0,
+      "explanation": "Kata 'but' menunjukkan kontras antara kekayaan dan ketidakbahagiaan."
+    },
+    {
+      "id": 59,
+      "question": "Read the sentence: 'Although it was raining, they continued the game.' This sentence expresses a…",
+      "options": [
+        "Comparison",
+        "Condition",
+        "Contrast",
+        "Concession"
+      ],
+      "answer": 3,
+      "explanation": "Kata 'Although' menunjukkan konsesi, yaitu mengakui suatu keadaan tetapi tetap melanjutkan."
+    },
+    {
+      "id": 60,
+      "question": "Which sentence indicates a condition?",
+      "options": [
+        "She runs faster than her friend.",
+        "If you study hard, you will pass the exam.",
+        "The movie was long, yet interesting.",
+        "He is as tall as his brother."
+      ],
+      "answer": 1,
+      "explanation": "Kata 'If' menunjukkan suatu kondisi yang harus dipenuhi."
+    },
+    {
+      "id": 61,
+      "question": "In the sentence 'She is more beautiful than her sister,' the relationship between the two clauses is…",
+      "options": [
+        "Contrast",
+        "Concession",
+        "Condition",
+        "Comparison"
+      ],
+      "answer": 3,
+      "explanation": "Frasa 'more beautiful than' menunjukkan perbandingan antara dua orang."
+    },
+    {
+      "id": 62,
+      "question": "Read the sentence: 'He was late because of the heavy traffic.' The phrase 'because of' indicates…",
+      "options": [
+        "Purpose",
+        "Effect",
+        "Cause",
+        "Result"
+      ],
+      "answer": 2,
+      "explanation": "Frasa 'because of' menunjukkan penyebab keterlambatan."
+    },
+    {
+      "id": 63,
+      "question": "Which sentence shows a purpose?",
+      "options": [
+        "The accident happened due to negligence.",
+        "She studied hard so that she could get a good job.",
+        "He fell, so he was injured.",
+        "The reason for his absence is illness."
+      ],
+      "answer": 1,
+      "explanation": "Frasa 'so that' menunjukkan tujuan dari belajar keras."
+    },
+    {
+      "id": 64,
+      "question": "In the sentence 'The storm caused severe damage to the city,' the phrase 'severe damage' is the…",
+      "options": [
+        "Effect",
+        "Reason",
+        "Cause",
+        "Purpose"
+      ],
+      "answer": 0,
+      "explanation": "Kerusakan parah adalah akibat dari badai."
+    },
+    {
+      "id": 65,
+      "question": "Read the following short passage and answer the question: 'Recycling is important because it reduces waste. For example, recycling paper saves trees. Additionally, it conserves energy. In conclusion, recycling benefits the environment.' What is the main purpose of the passage?",
+      "options": [
+        "To persuade readers to recycle",
+        "To explain how recycling works",
+        "To argue against recycling",
+        "To describe the history of recycling"
+      ],
+      "answer": 0,
+      "explanation": "Teks tersebut menyajikan alasan dan manfaat daur ulang untuk meyakinkan pembaca."
+    },
+    {
+      "id": 66,
+      "question": "Before reading an article titled 'The Benefits of Exercise,' what should you do to predict the content?",
+      "options": [
+        "Read the entire article carefully",
+        "Memorize all key words",
+        "Look at the title and any subtitles",
+        "Skip to the conclusion first"
+      ],
+      "answer": 2,
+      "explanation": "Previewing melibatkan melihat judul dan subjudul untuk memprediksi isi bacaan."
+    },
+    {
+      "id": 67,
+      "question": "When you preview a textbook chapter, which of the following is NOT a typical step?",
+      "options": [
+        "Reading the first and last paragraphs",
+        "Looking at headings and images",
+        "Checking the summary or review questions",
+        "Scanning for specific dates"
+      ],
+      "answer": 3,
+      "explanation": "Memindai tanggal spesifik adalah teknik scanning, bukan previewing."
+    },
+    {
+      "id": 68,
+      "question": "Read the title: 'How to Grow Organic Vegetables at Home.' Based on the title, what is the most likely topic of the text?",
+      "options": [
+        "The history of farming",
+        "Benefits of eating vegetables",
+        "Steps to grow vegetables organically",
+        "Comparison of organic and non-organic food"
+      ],
+      "answer": 2,
+      "explanation": "Judul menunjukkan teks tersebut berisi langkah-langkah menanam sayuran organik."
+    },
+    {
+      "id": 69,
+      "question": "What is the main purpose of previewing a text before reading it?",
+      "options": [
+        "To get a general idea of the content and structure",
+        "To memorize all the details",
+        "To analyze the author's writing style",
+        "To find specific information quickly"
+      ],
+      "answer": 0,
+      "explanation": "Previewing helps readers understand the main topics and organization before detailed reading."
+    },
+    {
+      "id": 70,
+      "question": "When skimming a text, what should you focus on?",
+      "options": [
+        "Headings, subheadings, and key sentences",
+        "Only the first sentence of each paragraph",
+        "Every single word",
+        "The last paragraph only"
+      ],
+      "answer": 0,
+      "explanation": "Skimming involves looking at headings and key sentences to grasp the main ideas quickly."
+    },
+    {
+      "id": 71,
+      "question": "Which of the following is an example of skimming?",
+      "options": [
+        "Reading a dictionary entry word by word",
+        "Looking at the title, images, and bolded terms in an article",
+        "Searching for a specific date in a timeline",
+        "Studying each paragraph for deep understanding"
+      ],
+      "answer": 1,
+      "explanation": "Skimming uses visual cues like titles and bolded terms to get an overview."
+    },
+    {
+      "id": 72,
+      "question": "What is the main difference between skimming and scanning?",
+      "options": [
+        "Skimming is faster than scanning",
+        "Scanning is used for fiction, skimming for non-fiction",
+        "Skimming is for general ideas, scanning is for specific information",
+        "There is no difference"
+      ],
+      "answer": 2,
+      "explanation": "Skimming aims for the big picture while scanning targets specific details."
+    },
+    {
+      "id": 73,
+      "question": "When you scan a text, you are looking for…",
+      "options": [
+        "The main argument",
+        "Every word in order",
+        "The author's opinion",
+        "A particular piece of information like a name or date"
+      ],
+      "answer": 3,
+      "explanation": "Scanning is used to locate specific data such as names or dates quickly."
+    },
+    {
+      "id": 74,
+      "question": "Which technique is best for finding the definition of a word in a long article?",
+      "options": [
+        "Scanning",
+        "Skimming",
+        "Previewing",
+        "Reading thoroughly"
+      ],
+      "answer": 0,
+      "explanation": "Scanning allows you to find a specific word or definition rapidly."
+    },
+    {
+      "id": 75,
+      "question": "In scanning, you should move your eyes…",
+      "options": [
+        "Line by line from top to bottom",
+        "Randomly without focus",
+        "Only on the margins",
+        "In a zigzag pattern across the page"
+      ],
+      "answer": 3,
+      "explanation": "A zigzag pattern helps cover more text efficiently when scanning."
+    },
+    {
+      "id": 76,
+      "question": "Which of the following is the main goal of extensive reading?",
+      "options": [
+        "To analyze sentence structure in detail",
+        "To read quickly for pleasure and overall understanding",
+        "To memorize vocabulary",
+        "To practice pronunciation"
+      ],
+      "answer": 1,
+      "explanation": "Extensive reading focuses on reading large amounts for enjoyment and general comprehension."
+    },
+    {
+      "id": 77,
+      "question": "What type of text is most suitable for extensive reading?",
+      "options": [
+        "A complex academic journal",
+        "A simple novel or short story",
+        "A legal document",
+        "A dictionary"
+      ],
+      "answer": 1,
+      "explanation": "Extensive reading works best with accessible and engaging materials like novels."
+    },
+    {
+      "id": 78,
+      "question": "How does extensive reading help improve vocabulary?",
+      "options": [
+        "By forcing you to look up every new word",
+        "By memorizing word lists",
+        "By using flashcards",
+        "By exposing you to words in context repeatedly"
+      ],
+      "answer": 3,
+      "explanation": "Repeated exposure to words in meaningful contexts helps vocabulary acquisition."
+    },
+    {
+      "id": 79,
+      "question": "What is the first step in understanding a general procedure?",
+      "options": [
+        "Memorize each step",
+        "Skip to the last step",
+        "Identify the overall goal of the procedure",
+        "Read only the warnings"
+      ],
+      "answer": 2,
+      "explanation": "Knowing the goal helps you understand why each step is necessary."
+    },
+    {
+      "id": 80,
+      "question": "In a set of instructions, what is the function of transition words like 'first', 'next', and 'finally'?",
+      "options": [
+        "To show the sequence of steps",
+        "To confuse the reader",
+        "To make the text longer",
+        "To provide examples"
+      ],
+      "answer": 0,
+      "explanation": "Transition words indicate the order in which steps should be performed."
+    },
+    {
+      "id": 81,
+      "question": "When reading exam instructions, what should you prioritize?",
+      "options": [
+        "The passing score",
+        "The teacher's name",
+        "The font size",
+        "The number of questions and time limit"
+      ],
+      "answer": 3,
+      "explanation": "Understanding the number of questions and time limit helps you plan your time."
+    },
+    {
+      "id": 82,
+      "question": "What does 'choose the best answer' in exam instructions typically mean?",
+      "options": [
+        "Any answer is acceptable",
+        "You must write your own answer",
+        "Select the answer that is most correct among the options",
+        "Skip the question if unsure"
+      ],
+      "answer": 2,
+      "explanation": "This phrase asks you to pick the option that is most accurate or appropriate."
+    },
+    {
+      "id": 83,
+      "question": "What is the purpose of the 'Read the text carefully' instruction in an exam?",
+      "options": [
+        "To encourage guessing",
+        "To ensure you have understood every detail before answering",
+        "To waste time",
+        "To ignore the text"
+      ],
+      "answer": 1,
+      "explanation": "This instruction emphasizes the need for thorough reading to answer correctly."
+    },
+    {
+      "id": 84,
+      "question": "When following a procedure, what should you do after completing all steps?",
+      "options": [
+        "Repeat the whole process",
+        "Ignore any errors",
+        "Check the result against the expected outcome",
+        "Start again from the beginning"
+      ],
+      "answer": 2,
+      "explanation": "Verifying the result ensures the procedure was executed correctly."
+    },
+    {
+      "id": 85,
+      "question": "What does a line graph primarily show?",
+      "options": [
+        "Changes over a period of time",
+        "Comparison of parts of a whole",
+        "Hierarchical structure of an organization",
+        "Geographic information of an area"
+      ],
+      "answer": 0,
+      "explanation": "A line graph uses points connected by lines to display data trends over a continuous period of time, such as days, months, or years."
+    },
+    {
+      "id": 86,
+      "question": "In a bar graph, what do the heights of the bars represent?",
+      "options": [
+        "The percentage of the whole",
+        "The frequency or value of each category",
+        "The flow of processes",
+        "The location of places"
+      ],
+      "answer": 1,
+      "explanation": "In a bar graph, the height of each bar corresponds to the frequency or value of the category it represents, making comparisons easy."
+    },
+    {
+      "id": 87,
+      "question": "Which type of chart is best for showing how a single total is divided into parts with percentages?",
+      "options": [
+        "Line graph",
+        "Pie chart",
+        "Bar graph",
+        "Flow chart"
+      ],
+      "answer": 1,
+      "explanation": "A pie chart is a circular chart divided into slices to illustrate numerical proportions, where each slice represents a percentage of the whole."
+    },
+    {
+      "id": 88,
+      "question": "What does a flow chart typically illustrate?",
+      "options": [
+        "Sequence of steps in a process",
+        "Statistical distribution of data",
+        "Comparison of different categories",
+        "Geographical features of a region"
+      ],
+      "answer": 0,
+      "explanation": "A flow chart uses symbols and arrows to show the sequence of steps or actions in a process, such as a decision-making or production flow."
+    },
+    {
+      "id": 89,
+      "question": "What is a pictograph useful for?",
+      "options": [
+        "Showing exact numerical values",
+        "Presenting data using symbols or pictures",
+        "Displaying complex mathematical formulas",
+        "Mapping the location of places"
+      ],
+      "answer": 1,
+      "explanation": "A pictograph uses symbols or pictures to represent data, making it visually appealing and easy to understand, especially for simple counts or comparisons."
+    },
+    {
+      "id": 90,
+      "question": "What kind of information is found on a map chart?",
+      "options": [
+        "Organizational hierarchy",
+        "Changes over time",
+        "Geographic locations and distributions",
+        "Percentage of parts in a whole"
+      ],
+      "answer": 2,
+      "explanation": "A map chart displays geographic information such as the location of places, routes, or the distribution of data across different regions."
+    },
+    {
+      "id": 91,
+      "question": "What should you identify first when reading an infographic?",
+      "options": [
+        "The main message or purpose",
+        "The color scheme used",
+        "The font style",
+        "The size of the graphic"
+      ],
+      "answer": 0,
+      "explanation": "When reading an infographic, it is important to first identify the main message or purpose because it guides understanding of the supporting data and visuals."
+    },
+    {
+      "id": 92,
+      "question": "Extensive reading is best defined as reading:",
+      "options": [
+        "In detail with a focus on grammar",
+        "Short texts for specific information",
+        "Long texts for overall comprehension and enjoyment",
+        "Only academic textbooks"
+      ],
+      "answer": 2,
+      "explanation": "Extensive reading involves reading large amounts of material for general understanding and pleasure, rather than focusing on every detail or grammatical structure."
+    },
+    {
+      "id": 93,
+      "question": "A simile is a figure of speech that compares two different things using:",
+      "options": [
+        "'is' or 'are'",
+        "'like' or 'as'",
+        "'but' or 'yet'",
+        "'because' or 'since'"
+      ],
+      "answer": 1,
+      "explanation": "A simile uses words such as 'like' or 'as' to make a direct comparison between two unlike things, for example, 'as brave as a lion'."
+    },
+    {
+      "id": 94,
+      "question": "Which of the following is an example of a metaphor?",
+      "options": [
+        "He swims like a fish",
+        "The baby is as cute as a button",
+        "She runs as fast as the wind",
+        "The world is a stage"
+      ],
+      "answer": 3,
+      "explanation": "A metaphor compares two things without using 'like' or 'as', stating that one thing is another. 'The world is a stage' implies that life is like a theatrical performance."
+    },
+    {
+      "id": 95,
+      "question": "Personification is a figure of speech that gives human qualities to:",
+      "options": [
+        "Only animals",
+        "All living things",
+        "Only the writer",
+        "Non-human objects or ideas"
+      ],
+      "answer": 3,
+      "explanation": "Personification attributes human characteristics or actions to non-human entities such as objects, animals, or abstract ideas, for example, 'the wind whispered'."
+    },
+    {
+      "id": 96,
+      "question": "An example of hyperbole is:",
+      "options": [
+        "The stars danced in the sky",
+        "The flowers are like angels",
+        "I've told you a million times",
+        "He is a shining star"
+      ],
+      "answer": 2,
+      "explanation": "Hyperbole is an exaggerated statement not meant to be taken literally, often used for emphasis or effect. 'I've told you a million times' exaggerates the number of times."
+    },
+    {
+      "id": 97,
+      "question": "What does irony typically involve in a statement?",
+      "options": [
+        "A contradiction between expectation and reality",
+        "A direct comparison",
+        "An exaggeration of facts",
+        "A substitution of a mild expression"
+      ],
+      "answer": 0,
+      "explanation": "Irony involves a discrepancy between what is expected or what is said and what actually happens, often creating a humorous or emphatic effect."
+    },
+    {
+      "id": 98,
+      "question": "Euphemism is used to:",
+      "options": [
+        "Make a statement more direct and harsh",
+        "Give human traits to objects",
+        "Compare two unlike things",
+        "Express ideas in a mild or indirect way"
+      ],
+      "answer": 3,
+      "explanation": "Euphemism replaces a harsh, blunt, or unpleasant expression with a milder, more polite, or indirect one, such as 'passed away' instead of 'died'."
+    },
+    {
+      "id": 99,
+      "question": "What is the goal of extensive reading in Module 9?",
+      "options": [
+        "To find the correct answer to a specific exam question",
+        "To analyze every word for grammatical structure",
+        "To memorize all figures of speech definitions",
+        "To read widely for general understanding and fluency"
+      ],
+      "answer": 3,
+      "explanation": "Extensive reading in Module 9 aims to improve reading fluency and comprehension by reading a variety of texts for general understanding, not for detailed analysis."
+    },
+    {
+      "id": 100,
+      "question": "A text says, 'It's a bit chilly today,' when it is actually freezing. This is an example of:",
+      "options": [
+        "Hyperbole",
+        "Irony",
+        "Euphemism",
+        "Metaphor"
+      ],
+      "answer": 2,
+      "explanation": "The phrase 'a bit chilly' is a milder expression used to describe freezing weather, making it an example of euphemism by understating the severity of the cold."
+    }
+  ]
+}
