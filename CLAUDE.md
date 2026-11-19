@@ -72,3 +72,9 @@ The app is 100% client-side: no backend, no API. Questions come from a static JS
 - Keep all Tailwind classes responsive (mobile-friendly).
 - Comment code clearly, especially the answer-resolution and localStorage logic.
 - Keep components focused; lift shared state into `useExamState.js`.
+
+## Materi (Notes) — Obsidian-like reader
+- Markdown notes live in `public/notes/<Matkul folder>/*.md` (one folder per mata kuliah; subfolders allowed; names starting with `.` or `_` are ignored).
+- The Vite plugin `notesAutoIndex` (in `vite.config.js`) generates `public/notes/index.json` (git-ignored) on dev start/build, and live-reloads on any `.md` change.
+- Routing is hash-based: `#/notes` (home) and `#/notes/<Folder>/<Note>`; everything else is the quiz app.
+- Code: `src/composables/useNotes.js` (state/routing), `src/components/NotesView.vue` + `NoteTree.vue` (UI), `src/utils/markdown.js` (marked + KaTeX `$…$` + highlight.js + `[[wikilinks]]`, lazy-loaded).

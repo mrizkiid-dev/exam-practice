@@ -1,5 +1,5 @@
 <script setup>
-import { ref, onMounted, computed } from 'vue'
+import { ref, onMounted, computed, defineAsyncComponent } from 'vue'
 import { useExamState } from './composables/useExamState'
 import ExamListCard from './components/ExamListCard.vue'
 import SemesterCard from './components/SemesterCard.vue'
@@ -7,6 +7,11 @@ import AddExamModal from './components/AddExamModal.vue'
 import SettingsPanel from './components/SettingsPanel.vue'
 import QuestionCard from './components/QuestionCard.vue'
 import PaginationBar from './components/PaginationBar.vue'
+import { useNotes } from './composables/useNotes'
+
+// "Materi" (markdown notes) lives under #/notes; everything else is the quiz app
+const { inNotes, goNotesHome } = useNotes()
+const NotesView = defineAsyncComponent(() => import('./components/NotesView.vue'))
 
 const {
   loadExamList,
@@ -46,7 +51,10 @@ const meta = computed(() => ({
 </script>
 
 <template>
-  <div class="min-h-screen bg-gray-50 flex flex-col">
+  <!-- Obsidian-like notes reader -->
+  <NotesView v-if="inNotes" />
+
+  <div v-else class="min-h-screen bg-gray-50 flex flex-col">
 
     <!-- ══════════════════════════════════════════════════════════════════ -->
     <!--  HOME: SEMESTER PICKER / EXAM LIST                                 -->
@@ -83,6 +91,20 @@ const meta = computed(() => ({
             <span>Tambah Matkul</span>
           </button>
         </div>
+
+        <!-- Section tabs: quiz vs. notes -->
+        <nav class="max-w-2xl mx-auto px-4 sm:px-6 flex gap-1 -mb-px">
+          <span class="px-3 py-2 text-sm font-semibold text-indigo-700 border-b-2 border-indigo-600">
+            Latihan Soal
+          </span>
+          <button
+            class="px-3 py-2 text-sm font-semibold text-gray-500 border-b-2 border-transparent
+                   hover:text-gray-800 hover:border-gray-300 transition-colors"
+            @click="goNotesHome"
+          >
+            Materi
+          </button>
+        </nav>
       </header>
 
       <main class="flex-1 max-w-2xl w-full mx-auto px-4 sm:px-6 py-6 flex flex-col gap-4">
