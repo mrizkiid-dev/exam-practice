@@ -173,17 +173,81 @@ Simpan output AI sebagai file `.json` di `public/data/semesterN/` (index dibuat 
 
 ---
 
+## Menambah Materi (Catatan ala Obsidian)
+
+Selain latihan soal, app punya bagian **Materi** untuk membaca catatan / bahan ajar per mata kuliah. Buka lewat tab **Materi** di halaman utama, atau langsung ke `http://localhost:5173/#/notes`.
+
+### Langkah-langkah
+
+1. Buat folder per mata kuliah di `public/notes/` dengan format `<KODE> <Nama Matkul>`.
+2. Taruh file `.md` di dalamnya. Nama file = judul yang tampil di sidebar.
+
+```
+public/notes/
+├── MSIM4202 Struktur Data/
+│   └── Bahan Ajar Persiapan UAS.md
+└── MSIM4308 Administrasi Server/
+    └── Bahan Ajar Persiapan UAS.md
+```
+
+Selesai — `public/notes/index.json` dibuat otomatis (jangan diedit). Saat `npm run dev` jalan, menambah atau mengedit file `.md` langsung me-refresh halaman.
+
+**Tips:**
+- Nama file pakai spasi dan huruf rapi (`Bahan Ajar Persiapan UAS.md`, bukan `bahan_ajar_uas.md`).
+- Boleh pakai subfolder (mis. `MSIM4202 Struktur Data/Modul 1/`).
+- File/folder berawalan `.` atau `_` disembunyikan dari app.
+
+### Markdown yang didukung
+
+| Fitur | Contoh |
+| :--- | :--- |
+| Tabel, list, blockquote, **bold**, *italic* | Markdown standar (GitHub-flavoured) |
+| Kode dengan warna | ` ```java `, ` ```bash `, ` ```python `, … |
+| Rumus matematika (KaTeX) | `$O(n \log n)$` atau blok `$$ ... $$` |
+| Link antar catatan | `[[Nama Catatan]]`, `[[Nama Catatan\|teks]]`, `[[Nama Catatan#Judul]]` |
+| Daftar isi otomatis | dari judul `#`, `##`, `###` |
+
+---
+
+## Pakai AI Assistant untuk Menambah Konten
+
+Project ini punya file [`AGENTS.md`](AGENTS.md) — instruksi yang otomatis dibaca oleh AI coding assistant (Claude Code, Codex, Cursor, GitHub Copilot, Windsurf, dll). Jadi kamu cukup memberi perintah singkat, dan AI tahu harus menyimpan file di mana dan dengan format apa.
+
+### Contoh perintah
+
+| Kamu ketik | Yang dilakukan AI |
+| :--- | :--- |
+| "tolong buatkan ini untuk struktur data" + tempel markdown | Simpan ke `public/notes/MSIM4202 Struktur Data/<Judul>.md` |
+| "materi ini untuk adm server" + lampirkan file `.md` | Simpan ke `public/notes/MSIM4308 Administrasi Server/<Judul>.md` |
+| "tambahkan soal ini ke komunikasi bisnis" + tempel soal | Tambahkan ke `public/data/semester5/skom4432.json` (format JSON + `answer` mulai 0) |
+
+Yang otomatis diurus AI (sesuai `AGENTS.md`):
+- Mencari kode matkul dari nama pendek ("adm server" → `MSIM4308`).
+- Menyalin isi materi apa adanya (tidak diringkas/diubah kecuali diminta).
+- Bertanya dulu sebelum menimpa file yang sudah ada.
+- Menjalankan `npm run build` untuk memastikan semuanya valid.
+
+> **Catatan:** Claude Code membaca `CLAUDE.md`, yang sudah meng-import `AGENTS.md`. Gemini CLI default-nya membaca `GEMINI.md` — set `contextFileName` ke `AGENTS.md` di setting Gemini kalau mau memakainya.
+>
+> Kalau ada matkul atau aturan baru, cukup edit **`AGENTS.md`** — semua AI ikut membaca perubahannya.
+
+---
+
 ## Struktur File
 
 ```
 public/
-└── data/
+├── data/
+│   ├── index.json        ← otomatis (jangan diedit)
+│   ├── semester4/
+│   │   ├── msim4309.json ← satu file = satu ujian
+│   │   └── ...
+│   └── semester5/
+│       └── [nama-ujian].json
+└── notes/
     ├── index.json        ← otomatis (jangan diedit)
-    ├── semester4/
-    │   ├── msim4309.json ← satu file = satu ujian
-    │   └── ...
-    └── semester5/
-        └── [nama-ujian].json
+    └── MSIM4202 Struktur Data/
+        └── Bahan Ajar Persiapan UAS.md   ← satu folder = satu matkul
 
 src/
 ├── components/
@@ -191,10 +255,18 @@ src/
 │   ├── ExamListCard.vue  ← kartu matkul per semester
 │   ├── QuestionCard.vue  ← tampilan tiap soal
 │   ├── PaginationBar.vue
-│   └── SettingsPanel.vue
+│   ├── SettingsPanel.vue
+│   ├── NotesView.vue     ← halaman Materi (sidebar, isi, daftar isi)
+│   └── NoteTree.vue      ← pohon folder/file di sidebar
 ├── composables/
-│   └── useExamState.js   ← state global
+│   ├── useExamState.js   ← state global latihan soal
+│   └── useNotes.js       ← state + routing Materi (#/notes/...)
+├── utils/
+│   └── markdown.js       ← renderer markdown (KaTeX, highlight, [[wikilink]])
 └── App.vue
+
+AGENTS.md                 ← instruksi untuk semua AI assistant
+CLAUDE.md                 ← spesifikasi project (meng-import AGENTS.md)
 ```
 
 <!-- redeploy1 -->
