@@ -5,10 +5,12 @@ import { useExamState } from '../composables/useExamState'
 const {
   answerMode,
   reasonMode,
+  columns,
   itemsPerPage,
   questions,
   setAnswerMode,
   setReasonMode,
+  setColumns,
   setItemsPerPage,
   resetAllCorrections,
   resetAllAnswers,
@@ -112,6 +114,28 @@ function toggleAll() {
             @click="setReasonMode('hide')"
           >
             Hide
+          </button>
+        </div>
+      </div>
+
+      <!-- Column layout toggle (hidden on mobile, where it's always 1 column) -->
+      <div class="hidden lg:flex items-center gap-2">
+        <span class="text-xs font-semibold text-gray-500 uppercase tracking-wide whitespace-nowrap">
+          Kolom
+        </span>
+        <div class="flex rounded-lg border border-gray-300 overflow-hidden text-sm">
+          <button
+            v-for="n in [1, 2]"
+            :key="n"
+            :class="[
+              'px-3 py-2 font-medium transition-colors',
+              n === 2 ? 'border-l border-gray-300' : '',
+              columns === n ? 'bg-indigo-600 text-white' : 'bg-white text-gray-600 active:bg-gray-100',
+            ]"
+            :title="n === 1 ? '1 kolom' : '2 kolom (1|2, 3|4, …)'"
+            @click="setColumns(n)"
+          >
+            {{ n }}
           </button>
         </div>
       </div>

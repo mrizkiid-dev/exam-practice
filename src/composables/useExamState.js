@@ -5,6 +5,7 @@ import { ref, computed } from 'vue'
 const LS_CORRECTIONS_KEY = 'exam_answer_corrections_v2'
 const LS_CUSTOM_EXAMS_KEY = 'exam_custom_exams'
 const LS_REASON_MODE_KEY = 'exam_reason_mode'
+const LS_COLUMNS_KEY = 'exam_columns'
 
 // ── state ─────────────────────────────────────────────────────────────────────
 
@@ -44,6 +45,13 @@ function loadReasonMode() {
   try { return localStorage.getItem(LS_REASON_MODE_KEY) === 'hide' ? 'hide' : 'show' } catch { return 'show' }
 }
 const reasonMode = ref(loadReasonMode())
+
+// Layout: 1 or 2 question columns (2 = questions side by side: 1|2, 3|4, …).
+// Persisted in localStorage. On small screens the grid always falls back to 1 column.
+function loadColumns() {
+  try { return localStorage.getItem(LS_COLUMNS_KEY) === '2' ? 2 : 1 } catch { return 1 }
+}
+const columns = ref(loadColumns())
 const itemsPerPage = ref('10')
 const currentPage = ref(0)
 
@@ -261,6 +269,10 @@ function setReasonMode(mode) {
   reasonMode.value = mode
   try { localStorage.setItem(LS_REASON_MODE_KEY, mode) } catch { /* storage unavailable */ }
 }
+function setColumns(n) {
+  columns.value = n === 2 ? 2 : 1
+  try { localStorage.setItem(LS_COLUMNS_KEY, String(columns.value)) } catch { /* storage unavailable */ }
+}
 function setItemsPerPage(value) { itemsPerPage.value = value; currentPage.value = 0 }
 function goToPage(index)        { currentPage.value = Math.max(0, Math.min(index, totalPages.value - 1)) }
 function nextPage()             { goToPage(currentPage.value + 1) }
@@ -280,6 +292,7 @@ export function useExamState() {
     pagedQuestions,
     answerMode,
     reasonMode,
+    columns,
     itemsPerPage,
     currentPage,
     totalPages,
@@ -299,6 +312,7 @@ export function useExamState() {
     resetAllAnswers,
     setAnswerMode,
     setReasonMode,
+    setColumns,
     setItemsPerPage,
     goToPage,
     nextPage,

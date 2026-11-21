@@ -26,7 +26,11 @@ const {
   questions,
   currentPage,
   itemsPerPage,
+  columns,
 } = useExamState()
+
+// Two-column mode widens the page; the grid itself only splits at lg+ (mobile stays 1 column)
+const twoCol = computed(() => columns.value === 2)
 
 const showAddModal = ref(false)
 const loaded = ref(false)
@@ -149,7 +153,7 @@ const meta = computed(() => ({
     <template v-else>
 
       <header class="sticky top-0 z-10 bg-white border-b border-gray-200 shadow-sm">
-        <div class="max-w-3xl mx-auto px-4 sm:px-6 py-3">
+        <div :class="['mx-auto px-4 sm:px-6 py-3', twoCol ? 'max-w-3xl lg:max-w-7xl' : 'max-w-3xl']">
           <div class="flex items-center gap-3">
             <button
               class="shrink-0 text-indigo-600 font-semibold text-sm flex items-center gap-1
@@ -180,18 +184,26 @@ const meta = computed(() => ({
 
       <SettingsPanel />
 
-      <main class="flex-1 max-w-3xl w-full mx-auto px-4 sm:px-6 py-6 flex flex-col gap-4">
+      <main
+        :class="[
+          'flex-1 w-full mx-auto px-4 sm:px-6 py-6 flex flex-col gap-4',
+          twoCol ? 'max-w-3xl lg:max-w-7xl' : 'max-w-3xl',
+        ]"
+      >
         <div v-if="questions.length === 0" class="text-center py-20 text-gray-400 text-sm">
           Memuat soal…
         </div>
 
-        <QuestionCard
-          v-for="(q, i) in pagedQuestions"
-          :key="q.id"
-          :question="q"
-          :number="pageOffset + i + 1"
-          :total="questions.length"
-        />
+        <!-- Questions grid: row-major, so 2-column mode pairs 1|2, 3|4, … -->
+        <div :class="['grid gap-4', twoCol ? 'grid-cols-1 lg:grid-cols-2' : 'grid-cols-1']">
+          <QuestionCard
+            v-for="(q, i) in pagedQuestions"
+            :key="q.id"
+            :question="q"
+            :number="pageOffset + i + 1"
+            :total="questions.length"
+          />
+        </div>
 
         <PaginationBar />
       </main>
