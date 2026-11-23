@@ -17,7 +17,13 @@
         "algoritma abstrak yang hanya ada dalam bentuk matematis"
       ],
       "answer": 2,
-      "explanation": "Perangkat keras bersifat fisik dan mengalami degradasi seiring waktu, sedangkan perangkat lunak adalah entitas logis yang tidak aus secara fisik."
+      "explanation": "Perangkat keras bersifat fisik dan mengalami degradasi seiring waktu, sedangkan perangkat lunak adalah entitas logis yang tidak aus secara fisik.",
+      "optionReasons": [
+        "Data mentah tidak dikembangkan atau diproduksi; perbandingannya tidak relevan.",
+        "Dokumen spesifikasi juga bukan produk manufaktur.",
+        "Perangkat keras bersifat fisik, diproduksi pabrik, dan bisa aus; perangkat lunak tidak.",
+        "Algoritma abstrak juga tidak diproduksi secara manufaktur."
+      ]
     },
     {
       "id": 2,
@@ -29,7 +35,13 @@
         "perangkat lunak utilitas"
       ],
       "answer": 0,
-      "explanation": "Perangkat lunak tertanam (embedded software) berjalan di dalam perangkat keras khusus dan mengendalikan fungsi spesifik perangkat tersebut, berbeda dari perangkat lunak sistem yang mengelola sumber daya komputer secara umum."
+      "explanation": "Perangkat lunak tertanam (embedded software) berjalan di dalam perangkat keras khusus dan mengendalikan fungsi spesifik perangkat tersebut, berbeda dari perangkat lunak sistem yang mengelola sumber daya komputer secara umum.",
+      "optionReasons": [
+        "Perangkat lunak tertanam (embedded) dibenamkan di hardware untuk fungsi spesifik, mis. firmware mesin cuci.",
+        "Perangkat lunak aplikasi dipakai pengguna akhir untuk tugas umum.",
+        "Perangkat lunak sistem mengelola hardware untuk program lain (mis. OS).",
+        "Perangkat lunak utilitas membantu pemeliharaan sistem."
+      ]
     },
     {
       "id": 3,
@@ -41,7 +53,13 @@
         "tidak mengalami keausan fisik meskipun dapat mengalami deteriorasi logis"
       ],
       "answer": 3,
-      "explanation": "Perangkat lunak bersifat logis sehingga tidak mengalami keausan fisik seperti produk manufaktur, tetapi dapat mengalami deteriorasi atau penurunan kualitas logis seiring perubahan kebutuhan atau akumulasi kesalahan."
+      "explanation": "Perangkat lunak bersifat logis sehingga tidak mengalami keausan fisik seperti produk manufaktur, tetapi dapat mengalami deteriorasi atau penurunan kualitas logis seiring perubahan kebutuhan atau akumulasi kesalahan.",
+      "optionReasons": [
+        "Produksi massal dengan cacat rendah juga ciri manufaktur, jadi bukan pembeda.",
+        "Pada perangkat lunak, biaya pengembangan justru jauh lebih besar daripada biaya penggandaan.",
+        "Kualitas tidak otomatis meningkat seiring usia.",
+        "Perangkat lunak tidak aus secara fisik, tetapi bisa memburuk karena perubahan (deteriorasi)."
+      ]
     },
     {
       "id": 4,
@@ -53,7 +71,13 @@
         "mengompilasi kode sumber menjadi program yang dapat dieksekusi"
       ],
       "answer": 1,
-      "explanation": "Perangkat lunak sistem seperti sistem operasi berperan sebagai penghubung antara perangkat keras dan perangkat lunak aplikasi dengan mengelola sumber daya komputasi."
+      "explanation": "Perangkat lunak sistem seperti sistem operasi berperan sebagai penghubung antara perangkat keras dan perangkat lunak aplikasi dengan mengelola sumber daya komputasi.",
+      "optionReasons": [
+        "Membantu tugas bisnis adalah fungsi perangkat lunak aplikasi.",
+        "Perangkat lunak sistem (OS, driver) menyediakan layanan dan mengelola hardware bagi program lain.",
+        "Mengendalikan mesin khusus adalah perangkat lunak tertanam.",
+        "Compiler hanya salah satu alat, bukan definisi fungsi perangkat lunak sistem."
+      ]
     },
     {
       "id": 5,
@@ -65,7 +89,13 @@
         "dapat diduplikasi dengan biaya marginal yang sangat rendah"
       ],
       "answer": 2,
-      "explanation": "Keausan fisik merupakan karakteristik produk manufaktur. Perangkat lunak tidak aus, tetapi mengalami deteriorasi logis akibat perubahan kode yang terus-menerus."
+      "explanation": "Keausan fisik merupakan karakteristik produk manufaktur. Perangkat lunak tidak aus, tetapi mengalami deteriorasi logis akibat perubahan kode yang terus-menerus.",
+      "optionReasons": [
+        "Dikembangkan melalui rekayasa adalah ciri perangkat lunak.",
+        "Bersifat logis tanpa wujud fisik adalah ciri perangkat lunak.",
+        "Perangkat lunak tidak mengalami keausan fisik, jadi ini bukan karakteristiknya.",
+        "Duplikasi berbiaya sangat rendah adalah ciri perangkat lunak."
+      ]
     },
     {
       "id": 6,
@@ -77,7 +107,13 @@
         "utilitas"
       ],
       "answer": 2,
-      "explanation": "Pengolah kata dan lembar kerja adalah perangkat lunak aplikasi karena dirancang untuk membantu pengguna akhir menyelesaikan tugas-tugas produktivitas spesifik."
+      "explanation": "Pengolah kata dan lembar kerja adalah perangkat lunak aplikasi karena dirancang untuk membantu pengguna akhir menyelesaikan tugas-tugas produktivitas spesifik.",
+      "optionReasons": [
+        "Tertanam berjalan di perangkat khusus.",
+        "Sistem mengelola hardware.",
+        "Pengolah kata dan lembar kerja dipakai pengguna akhir untuk tugas tertentu, jadi termasuk aplikasi.",
+        "Utilitas untuk pemeliharaan sistem (antivirus, backup)."
+      ]
     },
     {
       "id": 7,
@@ -89,7 +125,13 @@
         "kemacetan perangkat lunak"
       ],
       "answer": 0,
-      "explanation": "Istilah krisis perangkat lunak muncul pada akhir 1960-an untuk menggambarkan masalah kronis berupa keterlambatan, pembengkakan biaya, dan kualitas buruk dalam proyek perangkat lunak."
+      "explanation": "Istilah krisis perangkat lunak muncul pada akhir 1960-an untuk menggambarkan masalah kronis berupa keterlambatan, pembengkakan biaya, dan kualitas buruk dalam proyek perangkat lunak.",
+      "optionReasons": [
+        "Krisis perangkat lunak (1960-an) adalah istilah resmi untuk banyaknya proyek yang gagal.",
+        "Bencana perangkat lunak bukan istilah baku.",
+        "Kebangkrutan perangkat lunak bukan istilah baku.",
+        "Kemacetan perangkat lunak bukan istilah baku."
+      ]
     },
     {
       "id": 8,
@@ -101,7 +143,13 @@
         "pengadaan, instalasi, dan penghapusan sistem perangkat lunak"
       ],
       "answer": 1,
-      "explanation": "Definisi klasik dari Fritz Bauer secara eksplisit mencakup tiga fase utama: pengembangan, pengoperasian, dan pemeliharaan perangkat lunak yang dilakukan secara sistematis."
+      "explanation": "Definisi klasik dari Fritz Bauer secara eksplisit mencakup tiga fase utama: pengembangan, pengoperasian, dan pemeliharaan perangkat lunak yang dilakukan secara sistematis.",
+      "optionReasons": [
+        "Pemasaran dan distribusi bukan fokus rekayasa.",
+        "Bauer: pendekatan sistematis untuk mengembangkan, mengoperasikan, dan memelihara perangkat lunak.",
+        "Pelatihan dan sertifikasi bukan bagian definisi.",
+        "Pengadaan dan penghapusan bukan bagian definisi."
+      ]
     },
     {
       "id": 9,
@@ -113,7 +161,13 @@
         "menghasilkan perangkat lunak berkualitas tinggi, tepat waktu, dan sesuai anggaran"
       ],
       "answer": 3,
-      "explanation": "Tiga sasaran fundamental rekayasa perangkat lunak adalah kualitas produk, ketepatan jadwal, dan efisiensi biaya."
+      "explanation": "Tiga sasaran fundamental rekayasa perangkat lunak adalah kualitas produk, ketepatan jadwal, dan efisiensi biaya.",
+      "optionReasons": [
+        "Rekayasa perangkat lunak tidak memaksakan satu metodologi tunggal.",
+        "Rekayasa perangkat lunak tidak menggantikan manusia.",
+        "Banyaknya dokumentasi bukan tujuan.",
+        "Tujuannya adalah perangkat lunak berkualitas, tepat waktu, dan sesuai anggaran."
+      ]
     },
     {
       "id": 10,
@@ -125,7 +179,13 @@
         "prinsip praktis pengembangan produk yang memenuhi kebutuhan pengguna"
       ],
       "answer": 3,
-      "explanation": "Ilmu komputer menekankan teori dan fondasi komputasi, sedangkan rekayasa perangkat lunak berorientasi pada praktik pengembangan produk perangkat lunak yang berguna dan memenuhi kebutuhan nyata."
+      "explanation": "Ilmu komputer menekankan teori dan fondasi komputasi, sedangkan rekayasa perangkat lunak berorientasi pada praktik pengembangan produk perangkat lunak yang berguna dan memenuhi kebutuhan nyata.",
+      "optionReasons": [
+        "Teori komputasi adalah fokus ilmu komputer.",
+        "Bahasa pemrograman baru lebih ke riset ilmu komputer.",
+        "Batasan matematis komputasi adalah teori ilmu komputer.",
+        "Rekayasa perangkat lunak berfokus pada praktik membangun produk yang memenuhi kebutuhan pengguna."
+      ]
     },
     {
       "id": 11,
@@ -137,7 +197,13 @@
         "dominasi model waterfall yang terlalu kaku dan tidak adaptif"
       ],
       "answer": 2,
-      "explanation": "Keterlambatan, pembengkakan biaya, dan kualitas buruk adalah gejala klasik krisis perangkat lunak yang menjadi katalis lahirnya rekayasa perangkat lunak sebagai disiplin formal."
+      "explanation": "Keterlambatan, pembengkakan biaya, dan kualitas buruk adalah gejala klasik krisis perangkat lunak yang menjadi katalis lahirnya rekayasa perangkat lunak sebagai disiplin formal.",
+      "optionReasons": [
+        "Agile muncul jauh setelah krisis perangkat lunak.",
+        "Itu bisa menjadi salah satu penyebab, tetapi fenomenanya disebut krisis perangkat lunak.",
+        "Terlambat, melampaui anggaran, dan kualitas buruk adalah gejala krisis perangkat lunak.",
+        "Waterfall justru lahir sebagai respons terhadap krisis."
+      ]
     },
     {
       "id": 12,
@@ -149,7 +215,13 @@
         "penjaminan kualitas produk perangkat lunak melalui verifikasi dan validasi"
       ],
       "answer": 0,
-      "explanation": "Penelitian teoretis tentang batasan komputasi dan kompleksitas algoritma merupakan domain ilmu komputer teoretis, bukan fokus utama rekayasa perangkat lunak yang bersifat praktis dan terapan."
+      "explanation": "Penelitian teoretis tentang batasan komputasi dan kompleksitas algoritma merupakan domain ilmu komputer teoretis, bukan fokus utama rekayasa perangkat lunak yang bersifat praktis dan terapan.",
+      "optionReasons": [
+        "Penelitian teoretis batas komputasi adalah ranah ilmu komputer, bukan rekayasa perangkat lunak.",
+        "Pengelolaan biaya dan jadwal termasuk fokus RPL.",
+        "Proses yang sistematis termasuk fokus RPL.",
+        "Verifikasi dan validasi termasuk fokus RPL."
+      ]
     },
     {
       "id": 13,
@@ -161,7 +233,13 @@
         "negosiasi"
       ],
       "answer": 1,
-      "explanation": "Evolusi atau pemeliharaan merupakan aktivitas fundamental keempat yang memastikan perangkat lunak terus beradaptasi terhadap perubahan kebutuhan setelah diserahkan."
+      "explanation": "Evolusi atau pemeliharaan merupakan aktivitas fundamental keempat yang memastikan perangkat lunak terus beradaptasi terhadap perubahan kebutuhan setelah diserahkan.",
+      "optionReasons": [
+        "Instalasi adalah bagian dari deployment, bukan aktivitas fundamental.",
+        "Empat aktivitas fundamental: spesifikasi, pengembangan, validasi, dan evolusi.",
+        "Dokumentasi menyertai semua aktivitas, bukan aktivitas fundamental tersendiri.",
+        "Negosiasi bukan aktivitas fundamental."
+      ]
     },
     {
       "id": 14,
@@ -173,7 +251,13 @@
         "kontrak legal antara pengembang dan klien tentang ruang lingkup proyek"
       ],
       "answer": 0,
-      "explanation": "Model proses adalah abstraksi atau penyederhanaan dari pendekatan pengembangan perangkat lunak yang memberikan kerangka kerja terstruktur."
+      "explanation": "Model proses adalah abstraksi atau penyederhanaan dari pendekatan pengembangan perangkat lunak yang memberikan kerangka kerja terstruktur.",
+      "optionReasons": [
+        "Model proses adalah representasi sederhana (abstraksi) dari suatu pendekatan pengembangan.",
+        "Model proses bukan standar wajib.",
+        "Model proses bukan algoritma kompilasi.",
+        "Model proses bukan kontrak legal."
+      ]
     },
     {
       "id": 15,
@@ -185,7 +269,13 @@
         "merencanakan alokasi sumber daya dan anggaran proyek"
       ],
       "answer": 1,
-      "explanation": "Validasi adalah proses memeriksa apakah produk yang dihasilkan benar-benar memenuhi kebutuhan dan ekspektasi pengguna, berbeda dari verifikasi yang memeriksa kesesuaian dengan spesifikasi."
+      "explanation": "Validasi adalah proses memeriksa apakah produk yang dihasilkan benar-benar memenuhi kebutuhan dan ekspektasi pengguna, berbeda dari verifikasi yang memeriksa kesesuaian dengan spesifikasi.",
+      "optionReasons": [
+        "Menerjemahkan spesifikasi ke kode adalah aktivitas pengembangan.",
+        "Validasi memastikan perangkat lunak sesuai harapan dan kebutuhan pengguna.",
+        "Dokumentasi desain bukan tujuan validasi.",
+        "Perencanaan sumber daya adalah manajemen proyek."
+      ]
     },
     {
       "id": 16,
@@ -197,7 +287,13 @@
         "platform perangkat keras yang menjadi target deploymen perangkat lunak"
       ],
       "answer": 0,
-      "explanation": "Waterfall mengeksekusi fase secara sekuensial tanpa mundur, sedangkan model iteratif memungkinkan pengulangan dan perbaikan di setiap siklus pengembangan."
+      "explanation": "Waterfall mengeksekusi fase secara sekuensial tanpa mundur, sedangkan model iteratif memungkinkan pengulangan dan perbaikan di setiap siklus pengembangan.",
+      "optionReasons": [
+        "Waterfall berurutan dan kaku; iteratif mengulang fase secara fleksibel.",
+        "Bahasa pemrograman tidak menentukan model proses.",
+        "Ukuran tim bukan pembeda.",
+        "Platform bukan pembeda."
+      ]
     },
     {
       "id": 17,
@@ -209,7 +305,13 @@
         "mendefinisikan apa yang harus dilakukan oleh perangkat lunak"
       ],
       "answer": 3,
-      "explanation": "Spesifikasi adalah aktivitas mendefinisikan layanan dan batasan perangkat lunak secara presisi, yaitu menentukan apa yang harus dilakukan sistem tanpa membahas bagaimana implementasinya."
+      "explanation": "Spesifikasi adalah aktivitas mendefinisikan layanan dan batasan perangkat lunak secara presisi, yaitu menentukan apa yang harus dilakukan sistem tanpa membahas bagaimana implementasinya.",
+      "optionReasons": [
+        "Memperbaiki kesalahan setelah operasi adalah evolusi/pemeliharaan.",
+        "Menulis kode adalah pengembangan.",
+        "Menguji adalah validasi.",
+        "Spesifikasi mendefinisikan apa yang harus dilakukan perangkat lunak."
+      ]
     },
     {
       "id": 18,
@@ -221,7 +323,13 @@
         "Evolusi"
       ],
       "answer": 2,
-      "explanation": "Proses validasi bertujuan memastikan bahwa perangkat lunak yang dikembangkan benar-benar memenuhi kebutuhan pengguna. Aktivitas ini dilakukan melalui serangkaian pengujian terencana untuk memverifikasi bahwa produk berfungsi sesuai spesifikasi yang telah ditetapkan. Spesifikasi berkaitan dengan pendefinisian kebutuhan, pengembangan berfokus pada pembangunan perangkat lunak, dan evolusi menangani perubahan setelah perangkat lunak diserahkan."
+      "explanation": "Proses validasi bertujuan memastikan bahwa perangkat lunak yang dikembangkan benar-benar memenuhi kebutuhan pengguna. Aktivitas ini dilakukan melalui serangkaian pengujian terencana untuk memverifikasi bahwa produk berfungsi sesuai spesifikasi yang telah ditetapkan. Spesifikasi berkaitan dengan pendefinisian kebutuhan, pengembangan berfokus pada pembangunan perangkat lunak, dan evolusi menangani perubahan setelah perangkat lunak diserahkan.",
+      "optionReasons": [
+        "Spesifikasi mendefinisikan kebutuhan.",
+        "Pengembangan membangun perangkat lunak.",
+        "Validasi menguji apakah perangkat lunak memenuhi kebutuhan pengguna.",
+        "Evolusi mengubah perangkat lunak seiring waktu."
+      ]
     },
     {
       "id": 19,
@@ -233,7 +341,13 @@
         "Integrasi sistem"
       ],
       "answer": 0,
-      "explanation": "Analisis sistem adalah proses membedah sistem kompleks menjadi bagian-bagian lebih kecil guna memahami komponen, interaksi, dan batasannya."
+      "explanation": "Analisis sistem adalah proses membedah sistem kompleks menjadi bagian-bagian lebih kecil guna memahami komponen, interaksi, dan batasannya.",
+      "optionReasons": [
+        "Analisis sistem menguraikan sistem menjadi komponen untuk memahami interaksi dan batasannya.",
+        "Desain sistem merancang solusi.",
+        "Implementasi membangun sistem.",
+        "Integrasi menggabungkan komponen."
+      ]
     },
     {
       "id": 20,
@@ -245,7 +359,13 @@
         "Analisis kebutuhan"
       ],
       "answer": 3,
-      "explanation": "Analisis kebutuhan merupakan proses mengidentifikasi dan menentukan ekspektasi pengguna terhadap perangkat lunak baru maupun yang dimodifikasi."
+      "explanation": "Analisis kebutuhan merupakan proses mengidentifikasi dan menentukan ekspektasi pengguna terhadap perangkat lunak baru maupun yang dimodifikasi.",
+      "optionReasons": [
+        "Pemeliharaan korektif memperbaiki bug.",
+        "Desain arsitektur merancang struktur sistem.",
+        "Pengujian penerimaan dilakukan di akhir proyek.",
+        "Menggali apa yang diinginkan pengguna adalah analisis kebutuhan."
+      ]
     },
     {
       "id": 21,
@@ -257,7 +377,13 @@
         "Kebutuhan pengguna"
       ],
       "answer": 2,
-      "explanation": "Kebutuhan non-fungsional menetapkan atribut kualitas sistem seperti kinerja, keamanan, keandalan, dan skalabilitas, bukan apa yang dilakukan sistem."
+      "explanation": "Kebutuhan non-fungsional menetapkan atribut kualitas sistem seperti kinerja, keamanan, keandalan, dan skalabilitas, bukan apa yang dilakukan sistem.",
+      "optionReasons": [
+        "Kebutuhan fungsional menjelaskan apa yang dilakukan sistem.",
+        "Kebutuhan bisnis adalah tujuan tingkat organisasi.",
+        "Atribut kualitas (kecepatan, keamanan) adalah kebutuhan non-fungsional.",
+        "Kebutuhan pengguna adalah pernyataan kebutuhan dari sudut pandang pengguna."
+      ]
     },
     {
       "id": 22,
@@ -269,7 +395,13 @@
         "Tingkat prioritas dalam proyek"
       ],
       "answer": 2,
-      "explanation": "Kebutuhan fungsional berfokus pada perilaku atau apa yang sistem lakukan, sedangkan non-fungsional berfokus pada atribut kualitas atau bagaimana sistem melakukannya."
+      "explanation": "Kebutuhan fungsional berfokus pada perilaku atau apa yang sistem lakukan, sedangkan non-fungsional berfokus pada atribut kualitas atau bagaimana sistem melakukannya.",
+      "optionReasons": [
+        "Sumber pengajuan bisa sama untuk keduanya.",
+        "Keduanya bisa dicatat di SRS.",
+        "Fungsional = perilaku/fungsi; non-fungsional = atribut kualitas.",
+        "Prioritas bervariasi pada keduanya."
+      ]
     },
     {
       "id": 23,
@@ -281,7 +413,13 @@
         "Ketersediaan sistem 99,9%"
       ],
       "answer": 0,
-      "explanation": "Menghitung total belanja pelanggan adalah contoh kebutuhan fungsional karena menjelaskan perilaku sistem, sementara tiga opsi lain adalah atribut kualitas."
+      "explanation": "Menghitung total belanja pelanggan adalah contoh kebutuhan fungsional karena menjelaskan perilaku sistem, sementara tiga opsi lain adalah atribut kualitas.",
+      "optionReasons": [
+        "Menghitung total belanja adalah fungsi (kebutuhan fungsional).",
+        "Enkripsi adalah atribut keamanan (non-fungsional).",
+        "Waktu respons adalah atribut performa (non-fungsional).",
+        "Ketersediaan adalah atribut keandalan (non-fungsional)."
+      ]
     },
     {
       "id": 24,
@@ -293,7 +431,13 @@
         "Mengalokasikan sumber daya manusia"
       ],
       "answer": 1,
-      "explanation": "Batas sistem mendefinisikan apa yang termasuk dan tidak termasuk dalam sistem, menetapkan ruang lingkup dan konteks sistem terhadap lingkungan eksternalnya."
+      "explanation": "Batas sistem mendefinisikan apa yang termasuk dan tidak termasuk dalam sistem, menetapkan ruang lingkup dan konteks sistem terhadap lingkungan eksternalnya.",
+      "optionReasons": [
+        "Anggaran bukan fungsi system boundary.",
+        "System boundary menegaskan apa yang termasuk dan tidak termasuk dalam sistem.",
+        "Pemilihan bahasa adalah keputusan implementasi.",
+        "Alokasi SDM adalah manajemen proyek."
+      ]
     },
     {
       "id": 25,
@@ -305,7 +449,13 @@
         "Panduan pengguna"
       ],
       "answer": 0,
-      "explanation": "SRS adalah dokumen formal yang mendeskripsikan apa yang dilakukan perangkat lunak secara menyeluruh tanpa mencakup bagaimana implementasi teknisnya."
+      "explanation": "SRS adalah dokumen formal yang mendeskripsikan apa yang dilakukan perangkat lunak secara menyeluruh tanpa mencakup bagaimana implementasi teknisnya.",
+      "optionReasons": [
+        "SRS mendeskripsikan perilaku sistem secara lengkap tanpa detail implementasi.",
+        "Dokumen arsitektur sudah menyangkut desain teknis.",
+        "Desain rinci menjelaskan implementasi.",
+        "Panduan pengguna menjelaskan cara memakai sistem."
+      ]
     },
     {
       "id": 26,
@@ -317,7 +467,13 @@
         "Menyediakan artefak tertulis yang mendeskripsikan spesifikasi dan desain"
       ],
       "answer": 3,
-      "explanation": "Dokumentasi perangkat lunak menyediakan artefak tertulis atau tervisualisasi yang menggambarkan spesifikasi, desain, arsitektur, dan petunjuk penggunaan sistem."
+      "explanation": "Dokumentasi perangkat lunak menyediakan artefak tertulis atau tervisualisasi yang menggambarkan spesifikasi, desain, arsitektur, dan petunjuk penggunaan sistem.",
+      "optionReasons": [
+        "Dokumentasi tidak menggantikan pengujian.",
+        "Dokumentasi tidak memengaruhi kompilasi.",
+        "Dokumentasi tidak berkaitan dengan lisensi.",
+        "Dokumentasi adalah artefak tertulis yang mendeskripsikan spesifikasi dan desain."
+      ]
     },
     {
       "id": 27,
@@ -329,7 +485,13 @@
         "SRS menjawab 'apa' sedangkan desain menjawab 'bagaimana'"
       ],
       "answer": 3,
-      "explanation": "SRS berfokus pada apa yang sistem lakukan tanpa menjelaskan implementasi, sedangkan dokumen desain menjelaskan bagaimana sistem akan diimplementasikan secara teknis."
+      "explanation": "SRS berfokus pada apa yang sistem lakukan tanpa menjelaskan implementasi, sedangkan dokumen desain menjelaskan bagaimana sistem akan diimplementasikan secara teknis.",
+      "optionReasons": [
+        "UML bisa muncul di kedua dokumen.",
+        "Panjang dokumen bukan pembeda.",
+        "SRS ditulis sebelum desain.",
+        "SRS = apa yang dilakukan sistem; desain = bagaimana sistem dibangun."
+      ]
     },
     {
       "id": 28,
@@ -341,7 +503,13 @@
         "Dokumen rencana pengujian"
       ],
       "answer": 2,
-      "explanation": "Dokumen desain mencakup diagram arsitektur, spesifikasi modul, dan deskripsi antarmuka yang menjelaskan struktur internal sistem."
+      "explanation": "Dokumen desain mencakup diagram arsitektur, spesifikasi modul, dan deskripsi antarmuka yang menjelaskan struktur internal sistem.",
+      "optionReasons": [
+        "Kebutuhan bisnis tidak memuat diagram arsitektur.",
+        "Panduan instalasi berisi langkah instalasi.",
+        "Diagram arsitektur, spesifikasi modul, dan antarmuka internal adalah isi dokumen desain.",
+        "Rencana pengujian berisi skenario uji."
+      ]
     },
     {
       "id": 29,
@@ -353,7 +521,13 @@
         "Mengurangi ketergantungan pada individu"
       ],
       "answer": 0,
-      "explanation": "Dokumentasi tidak menjamin perangkat lunak bebas cacat karena cacat hanya dapat dideteksi melalui pengujian dan reviu, bukan dari keberadaan dokumen."
+      "explanation": "Dokumentasi tidak menjamin perangkat lunak bebas cacat karena cacat hanya dapat dideteksi melalui pengujian dan reviu, bukan dari keberadaan dokumen.",
+      "optionReasons": [
+        "Dokumentasi tidak bisa menjamin perangkat lunak bebas cacat.",
+        "Transfer pengetahuan adalah manfaat dokumentasi.",
+        "Kemudahan pemeliharaan adalah manfaat dokumentasi.",
+        "Mengurangi ketergantungan pada individu adalah manfaat dokumentasi."
+      ]
     },
     {
       "id": 30,
@@ -365,7 +539,13 @@
         "Dapat diverifikasi"
       ],
       "answer": 0,
-      "explanation": "Kriteria bebas desain mensyaratkan SRS fokus pada perilaku eksternal dan tidak mencantumkan detail teknologi atau pendekatan implementasi tertentu."
+      "explanation": "Kriteria bebas desain mensyaratkan SRS fokus pada perilaku eksternal dan tidak mencantumkan detail teknologi atau pendekatan implementasi tertentu.",
+      "optionReasons": [
+        "Bebas desain (design-independent): SRS hanya menjelaskan perilaku eksternal tanpa menyebut teknologi.",
+        "Konsisten berarti tidak ada kebutuhan yang saling bertentangan.",
+        "Lengkap berarti semua kebutuhan tercakup.",
+        "Dapat diverifikasi berarti kebutuhan bisa diuji."
+      ]
     },
     {
       "id": 31,
@@ -377,7 +557,13 @@
         "Pemeliharaan"
       ],
       "answer": 1,
-      "explanation": "Model waterfall bersifat sekuensial, dimulai dari analisis kebutuhan, dilanjutkan desain sistem, kemudian implementasi, pengujian, dan terakhir pemeliharaan."
+      "explanation": "Model waterfall bersifat sekuensial, dimulai dari analisis kebutuhan, dilanjutkan desain sistem, kemudian implementasi, pengujian, dan terakhir pemeliharaan.",
+      "optionReasons": [
+        "Implementasi dilakukan setelah desain.",
+        "Setelah analisis kebutuhan, fase berikutnya adalah desain sistem.",
+        "Pengujian dilakukan setelah implementasi.",
+        "Pemeliharaan adalah fase terakhir."
+      ]
     },
     {
       "id": 32,
@@ -389,7 +575,13 @@
         "Incremental"
       ],
       "answer": 1,
-      "explanation": "Model prototyping berfokus pada pembuatan purwarupa cepat untuk memvalidasi kebutuhan pengguna sebelum pengembangan skala penuh, cocok ketika kebutuhan belum jelas di awal."
+      "explanation": "Model prototyping berfokus pada pembuatan purwarupa cepat untuk memvalidasi kebutuhan pengguna sebelum pengembangan skala penuh, cocok ketika kebutuhan belum jelas di awal.",
+      "optionReasons": [
+        "Waterfall butuh kebutuhan yang jelas di awal.",
+        "Prototyping cocok saat kebutuhan belum jelas dan perlu purwarupa untuk validasi.",
+        "V-Model juga butuh kebutuhan yang jelas.",
+        "Incremental menyerahkan bagian sistem, bukan untuk menggali kebutuhan."
+      ]
     },
     {
       "id": 33,
@@ -401,7 +593,13 @@
         "Keterlibatan pengguna yang tinggi"
       ],
       "answer": 2,
-      "explanation": "Model waterfall memiliki kejelasan tahapan yang terdefinisi baik dan dokumentasi lengkap di setiap fase, berbeda dengan prototyping yang lebih fleksibel namun dokumentasinya lebih longgar."
+      "explanation": "Model waterfall memiliki kejelasan tahapan yang terdefinisi baik dan dokumentasi lengkap di setiap fase, berbeda dengan prototyping yang lebih fleksibel namun dokumentasinya lebih longgar.",
+      "optionReasons": [
+        "Fleksibilitas adalah kelebihan prototyping.",
+        "Waterfall lambat menghasilkan produk jadi.",
+        "Waterfall unggul dalam tahapan yang jelas dan dokumentasi lengkap.",
+        "Keterlibatan pengguna tinggi adalah kelebihan prototyping."
+      ]
     },
     {
       "id": 34,
@@ -413,7 +611,13 @@
         "Model iteratif"
       ],
       "answer": 1,
-      "explanation": "Model waterfall bersifat sekuensial linear di mana setiap fase wajib diselesaikan penuh sebelum fase berikutnya dimulai, sesuai karakteristik yang disebutkan."
+      "explanation": "Model waterfall bersifat sekuensial linear di mana setiap fase wajib diselesaikan penuh sebelum fase berikutnya dimulai, sesuai karakteristik yang disebutkan.",
+      "optionReasons": [
+        "Agile bekerja dalam iterasi pendek.",
+        "Waterfall mengharuskan fase selesai sepenuhnya sebelum lanjut.",
+        "Spiral berulang dengan analisis risiko.",
+        "Iteratif mengulang fase."
+      ]
     },
     {
       "id": 35,
@@ -425,7 +629,13 @@
         "alat untuk mengestimasi total biaya proyek"
       ],
       "answer": 1,
-      "explanation": "Model prototyping menekankan pembuatan purwarupa cepat yang diperlihatkan ke pengguna agar kebutuhan dapat divalidasi sebelum pengembangan skala penuh dimulai."
+      "explanation": "Model prototyping menekankan pembuatan purwarupa cepat yang diperlihatkan ke pengguna agar kebutuhan dapat divalidasi sebelum pengembangan skala penuh dimulai.",
+      "optionReasons": [
+        "Purwarupa bukan produk akhir.",
+        "Purwarupa dipakai untuk memvalidasi dan memperjelas kebutuhan pengguna.",
+        "Purwarupa tidak menggantikan SRS.",
+        "Purwarupa tidak dirancang untuk estimasi biaya."
+      ]
     },
     {
       "id": 36,
@@ -437,7 +647,13 @@
         "penulisan dokumen spesifikasi kebutuhan formal"
       ],
       "answer": 2,
-      "explanation": "Model spiral yang diperkenalkan Barry Boehm menjadikan analisis risiko sebagai tahap awal setiap iterasi, sehingga setiap siklus dimulai dengan identifikasi dan penanganan risiko."
+      "explanation": "Model spiral yang diperkenalkan Barry Boehm menjadikan analisis risiko sebagai tahap awal setiap iterasi, sehingga setiap siklus dimulai dengan identifikasi dan penanganan risiko.",
+      "optionReasons": [
+        "Purwarupa bisa dibuat, tetapi bukan pembeda utama spiral.",
+        "Pengiriman inkremen adalah ciri incremental.",
+        "Spiral menonjolkan analisis risiko di setiap putaran.",
+        "Spesifikasi formal bukan pembeda spiral."
+      ]
     },
     {
       "id": 37,
@@ -449,7 +665,13 @@
         "model waterfall"
       ],
       "answer": 0,
-      "explanation": "Model incremental mengirimkan perangkat lunak dalam bagian-bagian kecil yang berfungsi, sehingga divisi keuangan dapat menggunakan inkremen pertama sementara tim mengembangkan modul berikutnya."
+      "explanation": "Model incremental mengirimkan perangkat lunak dalam bagian-bagian kecil yang berfungsi, sehingga divisi keuangan dapat menggunakan inkremen pertama sementara tim mengembangkan modul berikutnya.",
+      "optionReasons": [
+        "Incremental menyerahkan sistem per bagian sehingga modul keuangan bisa dipakai lebih dulu.",
+        "Prototyping untuk menggali kebutuhan.",
+        "Spiral berfokus pada risiko.",
+        "Waterfall menyerahkan sistem utuh di akhir."
+      ]
     },
     {
       "id": 38,
@@ -461,7 +683,13 @@
         "cara perangkat lunak diserahkan ke pengguna"
       ],
       "answer": 3,
-      "explanation": "Model iteratif mengembangkan sistem penuh melalui siklus perbaikan, sedangkan model incremental mengirimkan sistem dalam bagian-bagian fungsional yang terpisah dan bertahap."
+      "explanation": "Model iteratif mengembangkan sistem penuh melalui siklus perbaikan, sedangkan model incremental mengirimkan sistem dalam bagian-bagian fungsional yang terpisah dan bertahap.",
+      "optionReasons": [
+        "Purwarupa adalah ciri prototyping.",
+        "Analisis risiko adalah ciri spiral.",
+        "Keterlibatan pelanggan ada pada keduanya.",
+        "Incremental menyerahkan potongan fungsional bertahap; iteratif menyempurnakan keseluruhan sistem berulang kali."
+      ]
     },
     {
       "id": 39,
@@ -473,7 +701,13 @@
         "pemeliharaan"
       ],
       "answer": 1,
-      "explanation": "Dalam model waterfall, desain sistem menjembatani spesifikasi kebutuhan dengan implementasi, menghasilkan rancangan arsitektur yang menjadi panduan pemrogram."
+      "explanation": "Dalam model waterfall, desain sistem menjembatani spesifikasi kebutuhan dengan implementasi, menghasilkan rancangan arsitektur yang menjadi panduan pemrogram.",
+      "optionReasons": [
+        "Analisis kebutuhan menghasilkan spesifikasi, bukan cetak biru.",
+        "Desain sistem mengubah spesifikasi menjadi cetak biru arsitektur.",
+        "Implementasi adalah penulisan kode.",
+        "Pemeliharaan dilakukan setelah sistem beroperasi."
+      ]
     },
     {
       "id": 40,
@@ -485,7 +719,13 @@
         "pengguna dapat memberikan umpan balik setelah setiap iterasi"
       ],
       "answer": 0,
-      "explanation": "Model iteratif justru tidak mensyaratkan definisi sempurna di awal; kebutuhan dapat berkembang dan diperbaiki seiring berjalannya iterasi berdasarkan umpan balik."
+      "explanation": "Model iteratif justru tidak mensyaratkan definisi sempurna di awal; kebutuhan dapat berkembang dan diperbaiki seiring berjalannya iterasi berdasarkan umpan balik.",
+      "optionReasons": [
+        "Model iteratif tidak mengharuskan kebutuhan sempurna di awal; itu ciri waterfall.",
+        "Setiap iterasi menghasilkan versi lebih lengkap: ciri iteratif.",
+        "Perbaikan bertahap: ciri iteratif.",
+        "Umpan balik setiap iterasi: ciri iteratif."
+      ]
     },
     {
       "id": 41,
@@ -497,7 +737,13 @@
         "input, proses, dan output"
       ],
       "answer": 1,
-      "explanation": "Pemrograman terstruktur hanya menggunakan sekuens (urutan), seleksi (percabangan), dan iterasi (perulangan) untuk membentuk logika program tanpa goto."
+      "explanation": "Pemrograman terstruktur hanya menggunakan sekuens (urutan), seleksi (percabangan), dan iterasi (perulangan) untuk membentuk logika program tanpa goto.",
+      "optionReasons": [
+        "Kelas, objek, dan metode adalah konsep OOP.",
+        "Tiga struktur kontrol dasar: sekuens, seleksi, dan iterasi.",
+        "Enkapsulasi, pewarisan, dan polimorfisme adalah pilar OOP.",
+        "Input-proses-output adalah model sistem, bukan struktur kontrol."
+      ]
     },
     {
       "id": 42,
@@ -509,7 +755,13 @@
         "memecah fungsi kompleks menjadi modul-modul lebih kecil"
       ],
       "answer": 3,
-      "explanation": "Dekomposisi fungsional adalah teknik memecah fungsi besar menjadi serangkaian prosedur atau modul yang lebih kecil dan mudah dikelola."
+      "explanation": "Dekomposisi fungsional adalah teknik memecah fungsi besar menjadi serangkaian prosedur atau modul yang lebih kecil dan mudah dikelola.",
+      "optionReasons": [
+        "Mengelompokkan data dan metode adalah enkapsulasi (OOP).",
+        "Pemilihan bahasa tidak terkait dekomposisi.",
+        "GUI tidak terkait dekomposisi.",
+        "Dekomposisi fungsional memecah fungsi besar menjadi modul yang lebih kecil."
+      ]
     },
     {
       "id": 43,
@@ -521,7 +773,13 @@
         "proses"
       ],
       "answer": 3,
-      "explanation": "Dalam DFD, simbol proses (biasanya lingkaran atau persegi panjang tumpul) menunjukkan aktivitas yang mengubah data masukan menjadi keluaran."
+      "explanation": "Dalam DFD, simbol proses (biasanya lingkaran atau persegi panjang tumpul) menunjukkan aktivitas yang mengubah data masukan menjadi keluaran.",
+      "optionReasons": [
+        "Entitas eksternal adalah sumber/tujuan data di luar sistem.",
+        "Penyimpanan data menyimpan data.",
+        "Aliran data menunjukkan perpindahan data.",
+        "Proses mentransformasi input menjadi output."
+      ]
     },
     {
       "id": 44,
@@ -533,7 +791,13 @@
         "aliran data antar proses"
       ],
       "answer": 0,
-      "explanation": "Entitas eksternal dalam DFD adalah pihak di luar sistem yang berinteraksi dengannya, seperti pelanggan yang mengirim atau menerima data."
+      "explanation": "Entitas eksternal dalam DFD adalah pihak di luar sistem yang berinteraksi dengannya, seperti pelanggan yang mengirim atau menerima data.",
+      "optionReasons": [
+        "Pelanggan berada di luar sistem dan bertukar data dengannya, jadi termasuk entitas eksternal.",
+        "Pelanggan bukan penyimpanan data.",
+        "Pelanggan tidak mengolah data di dalam sistem.",
+        "Pelanggan bukan aliran data."
+      ]
     },
     {
       "id": 45,
@@ -545,7 +809,13 @@
         "mengidentifikasi entitas eksternal yang berinteraksi"
       ],
       "answer": 0,
-      "explanation": "Hubungan pewarisan antar kelas dimodelkan dalam diagram berorientasi objek seperti class diagram, bukan dalam DFD yang berfokus pada aliran data."
+      "explanation": "Hubungan pewarisan antar kelas dimodelkan dalam diagram berorientasi objek seperti class diagram, bukan dalam DFD yang berfokus pada aliran data.",
+      "optionReasons": [
+        "Pewarisan antarkelas dimodelkan dengan class diagram (OOP), bukan DFD.",
+        "DFD memang menunjukkan data store.",
+        "DFD memang menggambarkan aliran data.",
+        "DFD memang mengidentifikasi entitas eksternal."
+      ]
     },
     {
       "id": 46,
@@ -557,7 +827,13 @@
         "diagram konteks"
       ],
       "answer": 3,
-      "explanation": "Diagram konteks adalah DFD level tertinggi yang merepresentasikan keseluruhan sistem sebagai satu proses dan menggambarkan interaksinya dengan semua entitas eksternal."
+      "explanation": "Diagram konteks adalah DFD level tertinggi yang merepresentasikan keseluruhan sistem sebagai satu proses dan menggambarkan interaksinya dengan semua entitas eksternal.",
+      "optionReasons": [
+        "Diagram dekomposisi memecah fungsi menjadi subfungsi.",
+        "Spesifikasi proses menjelaskan logika proses atomik.",
+        "DFD rinci memuat banyak proses.",
+        "Diagram konteks (DFD level 0) menggambarkan sistem sebagai satu proses yang berinteraksi dengan entitas luar."
+      ]
     },
     {
       "id": 47,
@@ -569,7 +845,13 @@
         "kamus data yang lengkap dan tervalidasi"
       ],
       "answer": 2,
-      "explanation": "Dekomposisi diagram konteks menghasilkan DFD level berikutnya yang memecah proses utama menjadi sub-proses, dan seterusnya hingga level yang diinginkan."
+      "explanation": "Dekomposisi diagram konteks menghasilkan DFD level berikutnya yang memecah proses utama menjadi sub-proses, dan seterusnya hingga level yang diinginkan.",
+      "optionReasons": [
+        "Spesifikasi proses dibuat untuk proses atomik di tahap akhir.",
+        "SRS final bukan hasil langsung dekomposisi.",
+        "Dekomposisi menghasilkan DFD bertingkat (level 1, 2, dst.).",
+        "Kamus data dibuat paralel, bukan hasil dekomposisi."
+      ]
     },
     {
       "id": 48,
@@ -581,7 +863,13 @@
         "hubungan antar diagram konteks dan DFD level berikutnya"
       ],
       "answer": 2,
-      "explanation": "Spesifikasi proses menjelaskan logika detail dari proses elementer (fungsi atomik) yang sudah tidak didekomposisi lebih lanjut dalam DFD."
+      "explanation": "Spesifikasi proses menjelaskan logika detail dari proses elementer (fungsi atomik) yang sudah tidak didekomposisi lebih lanjut dalam DFD.",
+      "optionReasons": [
+        "Interaksi dengan entitas eksternal digambarkan di diagram konteks.",
+        "Aliran data digambarkan di DFD.",
+        "Spesifikasi proses menjelaskan logika rinci proses primitif yang tidak bisa dipecah lagi.",
+        "Hubungan antardiagram ditunjukkan oleh penomoran/leveling DFD."
+      ]
     },
     {
       "id": 49,
@@ -593,7 +881,13 @@
         "menggambarkan hubungan antar entitas eksternal"
       ],
       "answer": 1,
-      "explanation": "Kamus data adalah repositori terpusat yang mendefinisikan setiap elemen data dalam DFD, termasuk nama, tipe, panjang, dan deskripsinya."
+      "explanation": "Kamus data adalah repositori terpusat yang mendefinisikan setiap elemen data dalam DFD, termasuk nama, tipe, panjang, dan deskripsinya.",
+      "optionReasons": [
+        "Kode sumber didokumentasikan dengan komentar/dokumen teknis.",
+        "Kamus data menyimpan metadata seluruh elemen data dalam sistem.",
+        "Perubahan kebutuhan dicatat di manajemen perubahan.",
+        "Hubungan entitas eksternal ada di diagram konteks."
+      ]
     },
     {
       "id": 50,
@@ -605,7 +899,13 @@
         "jumlah dokumentasi yang dihasilkan selama pengembangan"
       ],
       "answer": 2,
-      "explanation": "Pendekatan terstruktur mendekomposisi sistem berdasarkan fungsi, sedangkan pendekatan berorientasi objek mendekomposisi berdasarkan objek yang menggabungkan data dan perilaku."
+      "explanation": "Pendekatan terstruktur mendekomposisi sistem berdasarkan fungsi, sedangkan pendekatan berorientasi objek mendekomposisi berdasarkan objek yang menggabungkan data dan perilaku.",
+      "optionReasons": [
+        "Bahasa bukan perbedaan fundamental pendekatan.",
+        "Waktu proyek bukan perbedaan fundamental.",
+        "Terstruktur menguraikan sistem berdasarkan fungsi; OO berdasarkan objek.",
+        "Jumlah dokumentasi bukan perbedaan fundamental."
+      ]
     },
     {
       "id": 51,
@@ -617,7 +917,13 @@
         "ketergantungan antar fungsi dalam sistem"
       ],
       "answer": 0,
-      "explanation": "Kelas adalah template yang mendefinisikan struktur data (atribut) dan operasi (metode) yang dimiliki bersama oleh semua objek yang diinstansiasi dari kelas tersebut."
+      "explanation": "Kelas adalah template yang mendefinisikan struktur data (atribut) dan operasi (metode) yang dimiliki bersama oleh semua objek yang diinstansiasi dari kelas tersebut.",
+      "optionReasons": [
+        "Kelas adalah cetak biru yang mendefinisikan atribut dan perilaku (metode) sekelompok objek.",
+        "Aliran data antara proses dan penyimpanan adalah konsep DFD.",
+        "Urutan eksekusi modul adalah konsep pemrograman terstruktur.",
+        "Ketergantungan antarfungsi bukan definisi kelas."
+      ]
     },
     {
       "id": 52,
@@ -629,7 +935,13 @@
         "Abstraksi"
       ],
       "answer": 2,
-      "explanation": "Pewarisan merupakan mekanisme yang memungkinkan sebuah kelas menurunkan karakteristik ke kelas turunannya, mendukung hierarki dan reusabilitas kode."
+      "explanation": "Pewarisan merupakan mekanisme yang memungkinkan sebuah kelas menurunkan karakteristik ke kelas turunannya, mendukung hierarki dan reusabilitas kode.",
+      "optionReasons": [
+        "Enkapsulasi menyembunyikan data internal.",
+        "Polimorfisme memungkinkan satu antarmuka memiliki banyak bentuk.",
+        "Pewarisan membuat kelas anak mewarisi atribut dan metode kelas induk.",
+        "Abstraksi menonjolkan hal esensial dan menyembunyikan detail."
+      ]
     },
     {
       "id": 53,
@@ -641,7 +953,13 @@
         "Menghubungkan dua kelas melalui relasi asosiasi"
       ],
       "answer": 1,
-      "explanation": "Enkapsulasi menyembunyikan detail implementasi internal dan membatasi akses langsung ke data, sehingga integritas objek terjaga."
+      "explanation": "Enkapsulasi menyembunyikan detail implementasi internal dan membatasi akses langsung ke data, sehingga integritas objek terjaga.",
+      "optionReasons": [
+        "Banyak implementasi untuk satu metode adalah polimorfisme.",
+        "Enkapsulasi menyembunyikan detail internal dan melindungi data dari akses langsung.",
+        "Membuat objek dari kelas adalah instansiasi.",
+        "Menghubungkan dua kelas adalah asosiasi."
+      ]
     },
     {
       "id": 54,
@@ -653,7 +971,13 @@
         "Objek"
       ],
       "answer": 3,
-      "explanation": "Objek adalah representasi entitas dunia nyata dalam domain masalah yang memiliki data dan perilaku spesifik."
+      "explanation": "Objek adalah representasi entitas dunia nyata dalam domain masalah yang memiliki data dan perilaku spesifik.",
+      "optionReasons": [
+        "Atribut adalah sifat milik objek.",
+        "Fungsi adalah konsep prosedural.",
+        "Metode adalah perilaku objek.",
+        "Entitas dunia nyata dalam OOP direpresentasikan sebagai objek."
+      ]
     },
     {
       "id": 55,
@@ -665,7 +989,13 @@
         "Polimorfisme"
       ],
       "answer": 2,
-      "explanation": "Dekomposisi fungsional adalah teknik milik pendekatan terstruktur, bukan pilar utama OOP yang meliputi enkapsulasi, pewarisan, dan polimorfisme."
+      "explanation": "Dekomposisi fungsional adalah teknik milik pendekatan terstruktur, bukan pilar utama OOP yang meliputi enkapsulasi, pewarisan, dan polimorfisme.",
+      "optionReasons": [
+        "Enkapsulasi adalah pilar OOP.",
+        "Pewarisan adalah pilar OOP.",
+        "Dekomposisi fungsional adalah teknik pendekatan terstruktur, bukan pilar OOP.",
+        "Polimorfisme adalah pilar OOP."
+      ]
     },
     {
       "id": 56,
@@ -677,7 +1007,13 @@
         "Michael Fagan, Henry Gantt, dan Jim McCall"
       ],
       "answer": 0,
-      "explanation": "Booch, Jacobson, dan Rumbaugh adalah tiga tokoh yang menggabungkan metode mereka dan menciptakan UML sebagai standar pemodelan."
+      "explanation": "Booch, Jacobson, dan Rumbaugh adalah tiga tokoh yang menggabungkan metode mereka dan menciptakan UML sebagai standar pemodelan.",
+      "optionReasons": [
+        "Booch, Jacobson, dan Rumbaugh (Three Amigos) menyatukan metode mereka menjadi UML.",
+        "Dijkstra (pemrograman terstruktur), Kay (Smalltalk), dan Boehm (spiral/COCOMO) bukan pencipta UML.",
+        "Royce (waterfall), Sutherland dan Schwaber (Scrum) bukan pencipta UML.",
+        "Fagan (inspeksi), Gantt (chart), dan McCall (model kualitas) bukan pencipta UML."
+      ]
     },
     {
       "id": 57,
@@ -689,7 +1025,13 @@
         "Use case diagram"
       ],
       "answer": 3,
-      "explanation": "Use case diagram memodelkan fungsionalitas sistem dari perspektif pengguna eksternal, menunjukkan aktor dan use case yang terlibat."
+      "explanation": "Use case diagram memodelkan fungsionalitas sistem dari perspektif pengguna eksternal, menunjukkan aktor dan use case yang terlibat.",
+      "optionReasons": [
+        "Class diagram menggambarkan struktur kelas.",
+        "Sequence diagram menggambarkan urutan pesan antarobjek.",
+        "State machine diagram menggambarkan perubahan status objek.",
+        "Use case diagram menggambarkan interaksi aktor dengan sistem untuk mencapai tujuan."
+      ]
     },
     {
       "id": 58,
@@ -701,7 +1043,13 @@
         "Deployment diagram"
       ],
       "answer": 2,
-      "explanation": "Class diagram merepresentasikan struktur statis sistem, termasuk definisi kelas beserta relasi di antaranya."
+      "explanation": "Class diagram merepresentasikan struktur statis sistem, termasuk definisi kelas beserta relasi di antaranya.",
+      "optionReasons": [
+        "Use case diagram menggambarkan fungsi dari sudut pandang aktor.",
+        "Activity diagram menggambarkan alur aktivitas.",
+        "Class diagram menggambarkan struktur statis: kelas, atribut, operasi, dan relasi.",
+        "Deployment diagram menggambarkan penempatan perangkat lunak pada hardware."
+      ]
     },
     {
       "id": 59,
@@ -713,7 +1061,13 @@
         "Use case diagram hanya untuk sistem berorientasi objek, sedangkan activity diagram untuk sistem terstruktur"
       ],
       "answer": 0,
-      "explanation": "Use case diagram memberi pandangan statis tentang fungsionalitas sistem dan aktornya, sementara activity diagram memodelkan alur kerja atau aktivitas dinamis."
+      "explanation": "Use case diagram memberi pandangan statis tentang fungsionalitas sistem dan aktornya, sementara activity diagram memodelkan alur kerja atau aktivitas dinamis.",
+      "optionReasons": [
+        "Use case diagram statis (apa yang dilakukan sistem); activity diagram dinamis (alur aktivitas).",
+        "Use case diagram tidak menggambarkan struktur kode.",
+        "Keduanya dipakai di tahap analisis/desain.",
+        "Activity diagram juga bagian dari UML/OO."
+      ]
     },
     {
       "id": 60,
@@ -725,7 +1079,13 @@
         "Sebuah antarmuka yang mendefinisikan kontrak perilaku"
       ],
       "answer": 1,
-      "explanation": "Simbol kelas dalam UML digambar sebagai persegi panjang dengan tiga bagian: nama kelas, atribut, dan operasi."
+      "explanation": "Simbol kelas dalam UML digambar sebagai persegi panjang dengan tiga bagian: nama kelas, atribut, dan operasi.",
+      "optionReasons": [
+        "Objek digambar dengan nama bergaris bawah, bukan tiga kompartemen.",
+        "Kotak tiga kompartemen berisi nama kelas, atribut, dan operasi.",
+        "Paket digambar seperti map/folder.",
+        "Interface biasanya diberi stereotip «interface» atau simbol lingkaran."
+      ]
     },
     {
       "id": 61,
@@ -737,7 +1097,13 @@
         "Struktur organisasi hierarkis dan pelaporan berkala"
       ],
       "answer": 2,
-      "explanation": "Agile mengutamakan kolaborasi intens, pengiriman perangkat lunak berfungsi secara cepat, dan adaptasi terhadap perubahan kebutuhan."
+      "explanation": "Agile mengutamakan kolaborasi intens, pengiriman perangkat lunak berfungsi secara cepat, dan adaptasi terhadap perubahan kebutuhan.",
+      "optionReasons": [
+        "Dokumentasi komprehensif dan kontrak formal adalah nilai yang dinomorduakan agile.",
+        "Perencanaan menyeluruh di awal adalah ciri waterfall.",
+        "Agile menekankan kolaborasi, rilis cepat, dan respons terhadap perubahan.",
+        "Struktur hierarkis bukan fokus agile."
+      ]
     },
     {
       "id": 62,
@@ -749,7 +1115,13 @@
         "Respons terhadap perubahan"
       ],
       "answer": 1,
-      "explanation": "Empat nilai Manifesto Agile menyatakan bahwa perangkat lunak yang berfungsi lebih diutamakan daripada dokumentasi yang komprehensif."
+      "explanation": "Empat nilai Manifesto Agile menyatakan bahwa perangkat lunak yang berfungsi lebih diutamakan daripada dokumentasi yang komprehensif.",
+      "optionReasons": [
+        "Kolaborasi pelanggan diletakkan di atas negosiasi kontrak.",
+        "Manifesto: perangkat lunak yang berfungsi di atas dokumentasi yang komprehensif.",
+        "Individu dan interaksi diletakkan di atas proses dan alat.",
+        "Respons terhadap perubahan diletakkan di atas mengikuti rencana."
+      ]
     },
     {
       "id": 63,
@@ -761,7 +1133,13 @@
         "Sprint"
       ],
       "answer": 3,
-      "explanation": "Scrum membagi pekerjaan menjadi sprint, yaitu periode waktu tetap dan singkat di mana tim menyelesaikan sejumlah pekerjaan terpilih."
+      "explanation": "Scrum membagi pekerjaan menjadi sprint, yaitu periode waktu tetap dan singkat di mana tim menyelesaikan sejumlah pekerjaan terpilih.",
+      "optionReasons": [
+        "Scrum memakai siklus pendek, bukan iterasi panjang.",
+        "Milestone adalah titik pencapaian, bukan siklus.",
+        "Fase adalah istilah waterfall.",
+        "Sprint adalah siklus kerja Scrum (umumnya 1–4 minggu)."
+      ]
     },
     {
       "id": 64,
@@ -773,7 +1151,13 @@
         "Jenis perangkat lunak yang dihasilkan"
       ],
       "answer": 1,
-      "explanation": "Waterfall menolak perubahan setelah fase ditutup, sedangkan agile justru merangkul perubahan kebutuhan kapan pun selama pengembangan."
+      "explanation": "Waterfall menolak perubahan setelah fase ditutup, sedangkan agile justru merangkul perubahan kebutuhan kapan pun selama pengembangan.",
+      "optionReasons": [
+        "Bahasa pemrograman tidak membedakan keduanya.",
+        "Agile menyambut perubahan kebutuhan; waterfall menolak/menyulitkan perubahan di tengah jalan.",
+        "Jumlah tim bukan pembeda mendasar.",
+        "Jenis perangkat lunak bukan pembeda."
+      ]
     },
     {
       "id": 65,
@@ -785,7 +1169,13 @@
         "Kolaborasi pelanggan di atas negosiasi kontrak"
       ],
       "answer": 2,
-      "explanation": "Manifesto Agile justru menyatakan respons terhadap perubahan lebih diutamakan daripada mengikuti rencana, bukan sebaliknya."
+      "explanation": "Manifesto Agile justru menyatakan respons terhadap perubahan lebih diutamakan daripada mengikuti rencana, bukan sebaliknya.",
+      "optionReasons": [
+        "Ini nilai agile.",
+        "Ini nilai agile.",
+        "Nilai aslinya kebalikannya: respons terhadap perubahan di atas mengikuti rencana.",
+        "Ini nilai agile."
+      ]
     },
     {
       "id": 66,
@@ -797,7 +1187,13 @@
         "Release plan"
       ],
       "answer": 1,
-      "explanation": "Product backlog adalah daftar terpusat seluruh kebutuhan yang dikelola oleh product owner dan menjadi sumber pekerjaan tim pengembang."
+      "explanation": "Product backlog adalah daftar terpusat seluruh kebutuhan yang dikelola oleh product owner dan menjadi sumber pekerjaan tim pengembang.",
+      "optionReasons": [
+        "Sprint backlog hanya berisi item untuk satu sprint.",
+        "Product backlog adalah daftar seluruh kebutuhan produk yang diprioritaskan.",
+        "User story map adalah teknik visualisasi.",
+        "Release plan adalah rencana rilis."
+      ]
     },
     {
       "id": 67,
@@ -809,7 +1205,13 @@
         "Acceptance criteria"
       ],
       "answer": 2,
-      "explanation": "User story adalah deskripsi singkat fitur dari perspektif pengguna akhir, biasanya mengikuti format 'Sebagai…, saya ingin…, agar…'."
+      "explanation": "User story adalah deskripsi singkat fitur dari perspektif pengguna akhir, biasanya mengikuti format 'Sebagai…, saya ingin…, agar…'.",
+      "optionReasons": [
+        "Use case specification memiliki format skenario yang berbeda.",
+        "Dokumen kebutuhan fungsional bersifat formal.",
+        "Format 'Sebagai…, saya ingin…, agar…' adalah user story.",
+        "Acceptance criteria adalah syarat penerimaan sebuah story."
+      ]
     },
     {
       "id": 68,
@@ -821,7 +1223,13 @@
         "Sprint planning"
       ],
       "answer": 3,
-      "explanation": "Sprint planning adalah sesi di awal setiap sprint di mana tim merencanakan pekerjaan yang akan diselesaikan dan menetapkan tujuan sprint."
+      "explanation": "Sprint planning adalah sesi di awal setiap sprint di mana tim merencanakan pekerjaan yang akan diselesaikan dan menetapkan tujuan sprint.",
+      "optionReasons": [
+        "Daily scrum adalah sinkronisasi harian.",
+        "Sprint review mendemonstrasikan hasil di akhir sprint.",
+        "Retrospective mengevaluasi proses tim.",
+        "Sprint planning menetapkan tujuan sprint dan memilih item backlog."
+      ]
     },
     {
       "id": 69,
@@ -833,7 +1241,13 @@
         "Definition of Done"
       ],
       "answer": 2,
-      "explanation": "Product Backlog adalah daftar dinamis yang berisi seluruh kebutuhan produk yang telah diprioritaskan dan dikelola oleh Product Owner. Ketika terjadi perubahan kebutuhan atau prioritas akibat faktor eksternal, Product Backlog inilah yang harus segera diperbarui untuk memastikan tim selalu mengerjakan item dengan nilai bisnis tertinggi pada sprint berikutnya."
+      "explanation": "Product Backlog adalah daftar dinamis yang berisi seluruh kebutuhan produk yang telah diprioritaskan dan dikelola oleh Product Owner. Ketika terjadi perubahan kebutuhan atau prioritas akibat faktor eksternal, Product Backlog inilah yang harus segera diperbarui untuk memastikan tim selalu mengerjakan item dengan nilai bisnis tertinggi pada sprint berikutnya.",
+      "optionReasons": [
+        "Burndown chart hanya memvisualisasikan progres.",
+        "Sprint backlog hanya untuk sprint berjalan dan dikelola tim pengembang.",
+        "Prioritas fitur diatur Product Owner di product backlog.",
+        "Definition of Done adalah kriteria selesai, bukan prioritas."
+      ]
     },
     {
       "id": 70,
@@ -845,7 +1259,13 @@
         "mengevaluasi kinerja individu anggota tim selama sprint yang telah berjalan"
       ],
       "answer": 1,
-      "explanation": "Product backlog refinement adalah aktivitas berkelanjutan dalam Scrum di mana Product Owner dan Tim Pengembang secara kolaboratif meninjau, memecah item backlog berukuran besar menjadi lebih kecil, menambahkan detail, memperkirakan, dan menyusun ulang prioritas. Tujuannya adalah memastikan bahwa item di bagian atas product backlog siap untuk dipilih dalam sprint planning berikutnya. Aktivitas ini tidak berkaitan dengan penetapan biaya akhir, penjadwalan kaku seluruh item, maupun evaluasi kinerja individu."
+      "explanation": "Product backlog refinement adalah aktivitas berkelanjutan dalam Scrum di mana Product Owner dan Tim Pengembang secara kolaboratif meninjau, memecah item backlog berukuran besar menjadi lebih kecil, menambahkan detail, memperkirakan, dan menyusun ulang prioritas. Tujuannya adalah memastikan bahwa item di bagian atas product backlog siap untuk dipilih dalam sprint planning berikutnya. Aktivitas ini tidak berkaitan dengan penetapan biaya akhir, penjadwalan kaku seluruh item, maupun evaluasi kinerja individu.",
+      "optionReasons": [
+        "Estimasi biaya akhir bukan tujuan refinement.",
+        "Refinement memecah story besar, menambah detail, dan memperjelas prioritas.",
+        "Penjadwalan seluruh item bertentangan dengan agile.",
+        "Evaluasi kinerja individu bukan bagian Scrum."
+      ]
     },
     {
       "id": 71,
@@ -857,7 +1277,13 @@
         "Triple Constraint"
       ],
       "answer": 3,
-      "explanation": "Triple Constraint atau segitiga manajemen proyek menyatakan bahwa cakupan, waktu, dan biaya adalah tiga batasan yang saling terkait; perubahan pada salah satunya akan memengaruhi yang lain dan berdampak pada kualitas."
+      "explanation": "Triple Constraint atau segitiga manajemen proyek menyatakan bahwa cakupan, waktu, dan biaya adalah tiga batasan yang saling terkait; perubahan pada salah satunya akan memengaruhi yang lain dan berdampak pada kualitas.",
+      "optionReasons": [
+        "Project lifecycle model adalah tahapan proyek.",
+        "Quality assurance triangle bukan istilah baku.",
+        "Risk management framework adalah kerangka pengelolaan risiko.",
+        "Triple constraint: cakupan, waktu, dan biaya saling membatasi kualitas."
+      ]
     },
     {
       "id": 72,
@@ -869,7 +1295,13 @@
         "Proses Perangkat Lunak"
       ],
       "answer": 1,
-      "explanation": "Manajemen proyek perangkat lunak adalah disiplin yang menerapkan pengetahuan, keterampilan, alat, dan teknik secara terintegrasi untuk memenuhi tujuan proyek yang telah ditetapkan."
+      "explanation": "Manajemen proyek perangkat lunak adalah disiplin yang menerapkan pengetahuan, keterampilan, alat, dan teknik secara terintegrasi untuk memenuhi tujuan proyek yang telah ditetapkan.",
+      "optionReasons": [
+        "RPL adalah disiplin pengembangan perangkat lunak secara umum.",
+        "Ini definisi manajemen proyek (PMBOK) yang diterapkan pada perangkat lunak.",
+        "SQA berfokus pada kualitas.",
+        "Proses perangkat lunak adalah rangkaian aktivitas pengembangan."
+      ]
     },
     {
       "id": 73,
@@ -881,7 +1313,13 @@
         "Menutup proyek secara formal setelah semua deliverables diserahkan"
       ],
       "answer": 2,
-      "explanation": "Manajer proyek bertanggung jawab atas perencanaan, pengorganisasian, pengarahan, pengendalian, dan penutupan proyek, bukan menulis kode sumber yang merupakan tugas tim pengembang."
+      "explanation": "Manajer proyek bertanggung jawab atas perencanaan, pengorganisasian, pengarahan, pengendalian, dan penutupan proyek, bukan menulis kode sumber yang merupakan tugas tim pengembang.",
+      "optionReasons": [
+        "Perencanaan sumber daya adalah tugas manajer proyek.",
+        "Mengarahkan dan mengendalikan adalah tugas manajer proyek.",
+        "Menulis kode adalah tugas pengembang, bukan manajer proyek.",
+        "Penutupan proyek adalah tugas manajer proyek."
+      ]
     },
     {
       "id": 74,
@@ -893,7 +1331,13 @@
         "Risk mitigation"
       ],
       "answer": 2,
-      "explanation": "Penambahan fitur (cakupan) yang memperpanjang jadwal dan menaikkan biaya mencerminkan Triple Constraint: cakupan, waktu, dan biaya saling terkait sehingga perubahan pada satu sisi memengaruhi dua sisi lainnya. Kunci semula di situs soal adalah Quality trade-off, diubah karena itu bukan prinsip standar manajemen proyek dan pembahasan situs sendiri menjelaskan interaksi cakupan-waktu-biaya."
+      "explanation": "Penambahan fitur (cakupan) yang memperpanjang jadwal dan menaikkan biaya mencerminkan Triple Constraint: cakupan, waktu, dan biaya saling terkait sehingga perubahan pada satu sisi memengaruhi dua sisi lainnya. Kunci semula di situs soal adalah Quality trade-off, diubah karena itu bukan prinsip standar manajemen proyek dan pembahasan situs sendiri menjelaskan interaksi cakupan-waktu-biaya.",
+      "optionReasons": [
+        "Quality trade-off bukan istilah prinsip ini.",
+        "Scope creep adalah penambahan lingkup tanpa kendali (fenomenanya), bukan prinsip keterkaitan.",
+        "Menambah lingkup memengaruhi waktu dan biaya: inilah triple constraint.",
+        "Risk mitigation adalah pengurangan risiko."
+      ]
     },
     {
       "id": 75,
@@ -905,7 +1349,13 @@
         "Pembuatan dokumentasi teknis modul"
       ],
       "answer": 1,
-      "explanation": "Manajer proyek berfokus pada aspek manajerial seperti perencanaan, pengorganisasian, dan pengendalian proyek, sedangkan pengembang utama berfokus pada aspek teknis pengembangan perangkat lunak."
+      "explanation": "Manajer proyek berfokus pada aspek manajerial seperti perencanaan, pengorganisasian, dan pengendalian proyek, sedangkan pengembang utama berfokus pada aspek teknis pengembangan perangkat lunak.",
+      "optionReasons": [
+        "Penguasaan bahasa adalah fokus pengembang.",
+        "Manajer proyek berfokus pada perencanaan, pengorganisasian, dan pengendalian.",
+        "Pengujian adalah tugas tester/pengembang.",
+        "Dokumentasi teknis modul adalah tugas pengembang."
+      ]
     },
     {
       "id": 76,
@@ -917,7 +1367,13 @@
         "Function Point Analysis"
       ],
       "answer": 1,
-      "explanation": "Work Breakdown Structure atau WBS adalah dekomposisi hierarkis dari total lingkup pekerjaan menjadi paket-paket kerja yang lebih kecil, sehingga memudahkan perencanaan dan pengendalian proyek."
+      "explanation": "Work Breakdown Structure atau WBS adalah dekomposisi hierarkis dari total lingkup pekerjaan menjadi paket-paket kerja yang lebih kecil, sehingga memudahkan perencanaan dan pengendalian proyek.",
+      "optionReasons": [
+        "Gantt chart adalah alat penjadwalan.",
+        "WBS memecah lingkup pekerjaan secara hierarkis menjadi paket kerja.",
+        "CPM menentukan jalur kritis.",
+        "FPA mengukur ukuran fungsional perangkat lunak."
+      ]
     },
     {
       "id": 77,
@@ -929,7 +1385,13 @@
         "Fishbone Diagram"
       ],
       "answer": 0,
-      "explanation": "Gantt Chart, yang dikembangkan oleh Henry Gantt, adalah diagram batang horizontal yang menunjukkan jadwal proyek secara visual, mencakup durasi setiap tugas dan urutan pelaksanaannya."
+      "explanation": "Gantt Chart, yang dikembangkan oleh Henry Gantt, adalah diagram batang horizontal yang menunjukkan jadwal proyek secara visual, mencakup durasi setiap tugas dan urutan pelaksanaannya.",
+      "optionReasons": [
+        "Gantt chart adalah diagram batang horizontal berisi jadwal tugas.",
+        "Flowchart menggambarkan alur logika.",
+        "PERT chart berbentuk jaringan node, bukan batang.",
+        "Fishbone untuk analisis sebab-akibat."
+      ]
     },
     {
       "id": 78,
@@ -941,7 +1403,13 @@
         "Mengukur kualitas kode sumber"
       ],
       "answer": 0,
-      "explanation": "COCOMO atau Constructive Cost Model adalah model estimasi yang dikembangkan Barry Boehm untuk memprediksi upaya, biaya, dan jadwal pengembangan perangkat lunak berdasarkan ukuran dan faktor lainnya."
+      "explanation": "COCOMO atau Constructive Cost Model adalah model estimasi yang dikembangkan Barry Boehm untuk memprediksi upaya, biaya, dan jadwal pengembangan perangkat lunak berdasarkan ukuran dan faktor lainnya.",
+      "optionReasons": [
+        "COCOMO adalah model estimasi upaya dan biaya berdasarkan ukuran (KLOC).",
+        "Identifikasi risiko bukan fungsi COCOMO.",
+        "Jadwal sprint bukan fungsi COCOMO.",
+        "Kualitas kode bukan fungsi COCOMO."
+      ]
     },
     {
       "id": 79,
@@ -953,7 +1421,13 @@
         "Critical path analysis"
       ],
       "answer": 2,
-      "explanation": "Estimasi analog menggunakan data historis dari proyek sebelumnya yang serupa sebagai dasar untuk memperkirakan upaya, durasi, atau biaya proyek yang sedang direncanakan."
+      "explanation": "Estimasi analog menggunakan data historis dari proyek sebelumnya yang serupa sebagai dasar untuk memperkirakan upaya, durasi, atau biaya proyek yang sedang direncanakan.",
+      "optionReasons": [
+        "Monte Carlo adalah simulasi probabilistik.",
+        "Delphi memakai konsensus pakar.",
+        "Memakai data proyek serupa adalah analogous estimation.",
+        "Critical path analysis untuk penjadwalan."
+      ]
     },
     {
       "id": 80,
@@ -965,7 +1439,13 @@
         "Memperjelas pembagian tanggung jawab tim"
       ],
       "answer": 2,
-      "explanation": "WBS membantu estimasi, identifikasi deliverables, dan pembagian tanggung jawab, tetapi tidak menggantikan jadwal proyek. WBS dan jadwal adalah alat yang saling melengkapi dalam perencanaan."
+      "explanation": "WBS membantu estimasi, identifikasi deliverables, dan pembagian tanggung jawab, tetapi tidak menggantikan jadwal proyek. WBS dan jadwal adalah alat yang saling melengkapi dalam perencanaan.",
+      "optionReasons": [
+        "Estimasi biaya dan sumber daya adalah manfaat WBS.",
+        "Identifikasi deliverables adalah manfaat WBS.",
+        "WBS tidak menggantikan jadwal; jadwal tetap disusun dari WBS.",
+        "Pembagian tanggung jawab adalah manfaat WBS."
+      ]
     },
     {
       "id": 81,
@@ -977,7 +1457,13 @@
         "Perubahan proyek"
       ],
       "answer": 1,
-      "explanation": "Risiko adalah kondisi atau kejadian yang belum terjadi dan mengandung ketidakpastian, yang jika terjadi dapat berdampak positif atau negatif terhadap tujuan proyek."
+      "explanation": "Risiko adalah kondisi atau kejadian yang belum terjadi dan mengandung ketidakpastian, yang jika terjadi dapat berdampak positif atau negatif terhadap tujuan proyek.",
+      "optionReasons": [
+        "Isu adalah masalah yang sudah terjadi.",
+        "Risiko adalah kejadian tak pasti yang bisa berdampak negatif/positif.",
+        "Hambatan bukan istilah baku untuk ketidakpastian.",
+        "Perubahan proyek adalah modifikasi lingkup."
+      ]
     },
     {
       "id": 82,
@@ -989,7 +1475,13 @@
         "Risiko teknis"
       ],
       "answer": 3,
-      "explanation": "Risiko teknis mencakup ketidakpastian terkait teknologi, arsitektur sistem, algoritma, dan aspek teknis lain yang dapat mengganggu tercapainya tujuan fungsional dan non-fungsional perangkat lunak."
+      "explanation": "Risiko teknis mencakup ketidakpastian terkait teknologi, arsitektur sistem, algoritma, dan aspek teknis lain yang dapat mengganggu tercapainya tujuan fungsional dan non-fungsional perangkat lunak.",
+      "optionReasons": [
+        "Risiko bisnis terkait pasar/strategi.",
+        "Risiko pasar terkait permintaan pasar.",
+        "Risiko organisasi terkait struktur/SDM.",
+        "Teknologi, arsitektur, dan algoritma termasuk risiko teknis."
+      ]
     },
     {
       "id": 83,
@@ -1001,7 +1493,13 @@
         "Risiko bisnis"
       ],
       "answer": 3,
-      "explanation": "Risiko bisnis berkaitan dengan aspek komersial dan strategis, seperti perubahan kebutuhan pasar, strategi perusahaan, atau hilangnya dukungan sponsor yang dapat memengaruhi keberhasilan produk."
+      "explanation": "Risiko bisnis berkaitan dengan aspek komersial dan strategis, seperti perubahan kebutuhan pasar, strategi perusahaan, atau hilangnya dukungan sponsor yang dapat memengaruhi keberhasilan produk.",
+      "optionReasons": [
+        "Risiko proyek terkait jadwal dan sumber daya.",
+        "Risiko teknis terkait teknologi.",
+        "Risiko operasional terkait pengoperasian sistem.",
+        "Produk yang tidak sesuai pasar atau strategi termasuk risiko bisnis."
+      ]
     },
     {
       "id": 84,
@@ -1013,7 +1511,13 @@
         "Risiko selalu berkaitan dengan biaya, sedangkan isu berkaitan dengan waktu"
       ],
       "answer": 2,
-      "explanation": "Risiko adalah kejadian tak pasti yang belum terjadi, sedangkan isu adalah masalah yang sudah terjadi dan sedang memerlukan penanganan saat ini."
+      "explanation": "Risiko adalah kejadian tak pasti yang belum terjadi, sedangkan isu adalah masalah yang sudah terjadi dan sedang memerlukan penanganan saat ini.",
+      "optionReasons": [
+        "Ini terbalik.",
+        "Risiko bisa positif atau negatif.",
+        "Risiko belum terjadi dan tidak pasti; isu sudah terjadi.",
+        "Keduanya bisa terkait biaya maupun waktu."
+      ]
     },
     {
       "id": 85,
@@ -1025,7 +1529,13 @@
         "perubahan jadwal proyek akibat keterlambatan tim"
       ],
       "answer": 2,
-      "explanation": "Risiko adalah kondisi atau kejadian tak pasti yang jika terjadi akan berdampak negatif atau positif pada tujuan proyek. Opsi lain menggambarkan isu yang sudah terjadi atau penyebab spesifik, bukan definisi risiko secara umum."
+      "explanation": "Risiko adalah kondisi atau kejadian tak pasti yang jika terjadi akan berdampak negatif atau positif pada tujuan proyek. Opsi lain menggambarkan isu yang sudah terjadi atau penyebab spesifik, bukan definisi risiko secara umum.",
+      "optionReasons": [
+        "Kegagalan yang sudah terjadi adalah isu.",
+        "Spesifikasi tidak lengkap bisa menjadi sumber risiko, bukan definisinya.",
+        "Risiko adalah kondisi tak pasti yang dapat memengaruhi tujuan proyek.",
+        "Perubahan jadwal adalah dampak, bukan definisi risiko."
+      ]
     },
     {
       "id": 86,
@@ -1037,7 +1547,13 @@
         "monitoring risiko"
       ],
       "answer": 1,
-      "explanation": "Identifikasi risiko merupakan langkah awal manajemen risiko yang bertujuan mendeteksi risiko potensial secara sistematis. Analisis risiko dilakukan setelah risiko teridentifikasi, sedangkan mitigasi adalah tindakan menguranginya."
+      "explanation": "Identifikasi risiko merupakan langkah awal manajemen risiko yang bertujuan mendeteksi risiko potensial secara sistematis. Analisis risiko dilakukan setelah risiko teridentifikasi, sedangkan mitigasi adalah tindakan menguranginya.",
+      "optionReasons": [
+        "Analisis menilai probabilitas dan dampak.",
+        "Identifikasi risiko adalah proses menemukan risiko potensial.",
+        "Mitigasi mengurangi risiko.",
+        "Monitoring memantau risiko."
+      ]
     },
     {
       "id": 87,
@@ -1049,7 +1565,13 @@
         "pemantauan risiko"
       ],
       "answer": 2,
-      "explanation": "Analisis risiko menilai besarnya probabilitas dan dampak dari setiap risiko yang telah diidentifikasi. Hasilnya digunakan untuk menentukan prioritas risiko mana yang perlu ditangani terlebih dahulu."
+      "explanation": "Analisis risiko menilai besarnya probabilitas dan dampak dari setiap risiko yang telah diidentifikasi. Hasilnya digunakan untuk menentukan prioritas risiko mana yang perlu ditangani terlebih dahulu.",
+      "optionReasons": [
+        "Mitigasi adalah tindakan pengurangan risiko.",
+        "Identifikasi menemukan risiko.",
+        "Menilai probabilitas dan dampak untuk memprioritaskan risiko adalah analisis risiko.",
+        "Pemantauan dilakukan selama proyek berjalan."
+      ]
     },
     {
       "id": 88,
@@ -1061,7 +1583,13 @@
         "mitigasi risiko"
       ],
       "answer": 3,
-      "explanation": "Mitigasi adalah rencana proaktif yang disusun sebelum risiko terjadi untuk mengurangi probabilitas kemunculannya. Kontingensi adalah rencana reaktif yang dijalankan setelah risiko benar-benar terjadi."
+      "explanation": "Mitigasi adalah rencana proaktif yang disusun sebelum risiko terjadi untuk mengurangi probabilitas kemunculannya. Kontingensi adalah rencana reaktif yang dijalankan setelah risiko benar-benar terjadi.",
+      "optionReasons": [
+        "Kontingensi adalah rencana jika risiko benar-benar terjadi.",
+        "Analisis adalah penilaian risiko.",
+        "Identifikasi adalah penemuan risiko.",
+        "Mengurangi kemungkinan terjadinya risiko sebelum terjadi adalah mitigasi."
+      ]
     },
     {
       "id": 89,
@@ -1073,7 +1601,13 @@
         "waktu penyusunan dan pelaksanaannya"
       ],
       "answer": 3,
-      "explanation": "Mitigasi disusun dan dijalankan secara proaktif sebelum risiko terjadi untuk mengurangi probabilitasnya, sedangkan kontingensi adalah rencana reaktif yang dijalankan sesudah risiko benar-benar terjadi. Perbedaan mendasarnya ada pada waktu."
+      "explanation": "Mitigasi disusun dan dijalankan secara proaktif sebelum risiko terjadi untuk mengurangi probabilitasnya, sedangkan kontingensi adalah rencana reaktif yang dijalankan sesudah risiko benar-benar terjadi. Perbedaan mendasarnya ada pada waktu.",
+      "optionReasons": [
+        "Jenis risiko yang ditangani bisa sama.",
+        "Biaya bukan pembeda utama.",
+        "Penanggung jawab bisa sama.",
+        "Mitigasi dijalankan sebelum risiko terjadi; kontingensi dijalankan setelah risiko terjadi."
+      ]
     },
     {
       "id": 90,
@@ -1085,7 +1619,13 @@
         "mitigasi risiko"
       ],
       "answer": 0,
-      "explanation": "Pengujian perangkat lunak merupakan bagian dari jaminan kualitas, bukan langkah dalam proses manajemen risiko. Identifikasi, analisis, dan mitigasi adalah tahapan utama manajemen risiko."
+      "explanation": "Pengujian perangkat lunak merupakan bagian dari jaminan kualitas, bukan langkah dalam proses manajemen risiko. Identifikasi, analisis, dan mitigasi adalah tahapan utama manajemen risiko.",
+      "optionReasons": [
+        "Pengujian adalah aktivitas QA, bukan langkah manajemen risiko.",
+        "Analisis adalah langkah manajemen risiko.",
+        "Identifikasi adalah langkah manajemen risiko.",
+        "Mitigasi adalah langkah manajemen risiko."
+      ]
     },
     {
       "id": 91,
@@ -1097,7 +1637,13 @@
         "jaminan kualitas perangkat lunak"
       ],
       "answer": 3,
-      "explanation": "SQA merupakan aktivitas terencana dan sistematis untuk memastikan kepatuhan terhadap standar dan prosedur yang ditetapkan. Verifikasi, validasi, dan pengujian adalah bagian dari mekanisme SQA, bukan definisi SQA itu sendiri."
+      "explanation": "SQA merupakan aktivitas terencana dan sistematis untuk memastikan kepatuhan terhadap standar dan prosedur yang ditetapkan. Verifikasi, validasi, dan pengujian adalah bagian dari mekanisme SQA, bukan definisi SQA itu sendiri.",
+      "optionReasons": [
+        "V&V adalah bagian dari QA.",
+        "Pengujian adalah salah satu aktivitas QA.",
+        "Manajemen konfigurasi mengelola versi dan perubahan.",
+        "SQA memastikan proses dan produk mematuhi standar dan prosedur."
+      ]
     },
     {
       "id": 92,
@@ -1109,7 +1655,13 @@
         "usability"
       ],
       "answer": 2,
-      "explanation": "Correctness mengukur sejauh mana program memenuhi spesifikasi dan memenuhi tujuan/misi pengguna. Reliability berkaitan dengan ketahanan terhadap kegagalan, sedangkan maintainability adalah kemudahan perbaikan."
+      "explanation": "Correctness mengukur sejauh mana program memenuhi spesifikasi dan memenuhi tujuan/misi pengguna. Reliability berkaitan dengan ketahanan terhadap kegagalan, sedangkan maintainability adalah kemudahan perbaikan.",
+      "optionReasons": [
+        "Reliability adalah kemampuan bekerja tanpa gagal.",
+        "Maintainability adalah kemudahan pemeliharaan.",
+        "Correctness adalah kesesuaian dengan spesifikasi dan tujuan.",
+        "Usability adalah kemudahan penggunaan."
+      ]
     },
     {
       "id": 93,
@@ -1121,7 +1673,13 @@
         "perangkat lunak berjalan pada semua platform"
       ],
       "answer": 1,
-      "explanation": "Verifikasi memastikan bahwa produk dibangun dengan benar sesuai spesifikasi. Validasi yang memastikan produk memenuhi kebutuhan pengguna. Keduanya menjawab pertanyaan yang berbeda dalam proses V&V."
+      "explanation": "Verifikasi memastikan bahwa produk dibangun dengan benar sesuai spesifikasi. Validasi yang memastikan produk memenuhi kebutuhan pengguna. Keduanya menjawab pertanyaan yang berbeda dalam proses V&V.",
+      "optionReasons": [
+        "Memenuhi kebutuhan pengguna adalah validasi.",
+        "Verifikasi: apakah produk dibangun dengan benar sesuai spesifikasi.",
+        "Tidak ada proses yang menjamin bebas semua cacat.",
+        "Portabilitas bukan tujuan verifikasi."
+      ]
     },
     {
       "id": 94,
@@ -1133,7 +1691,13 @@
         "integrasi"
       ],
       "answer": 2,
-      "explanation": "Validasi memastikan perangkat lunak memenuhi kebutuhan pengguna. Jika produk sesuai spesifikasi tetapi tidak memenuhi kebutuhan pengguna, maka terjadi kegagalan validasi, bukan verifikasi."
+      "explanation": "Validasi memastikan perangkat lunak memenuhi kebutuhan pengguna. Jika produk sesuai spesifikasi tetapi tidak memenuhi kebutuhan pengguna, maka terjadi kegagalan validasi, bukan verifikasi.",
+      "optionReasons": [
+        "Verifikasi memeriksa kesesuaian dengan spesifikasi.",
+        "Spesifikasi adalah aktivitas mendefinisikan kebutuhan.",
+        "Tidak sesuai keinginan pengguna adalah kegagalan validasi.",
+        "Integrasi adalah penggabungan modul."
+      ]
     },
     {
       "id": 95,
@@ -1145,7 +1709,13 @@
         "correctness"
       ],
       "answer": 0,
-      "explanation": "Implementability bukan termasuk atribut dalam model McCall. Model McCall mencakup correctness, reliability, efficiency, integrity, usability, maintainability, flexibility, testability, portability, reusability, dan interoperability."
+      "explanation": "Implementability bukan termasuk atribut dalam model McCall. Model McCall mencakup correctness, reliability, efficiency, integrity, usability, maintainability, flexibility, testability, portability, reusability, dan interoperability.",
+      "optionReasons": [
+        "Implementability bukan faktor kualitas McCall.",
+        "Reliability adalah faktor McCall.",
+        "Portability adalah faktor McCall.",
+        "Correctness adalah faktor McCall."
+      ]
     },
     {
       "id": 96,
@@ -1157,7 +1727,13 @@
         "integrasi"
       ],
       "answer": 0,
-      "explanation": "Inspeksi yang dikembangkan Michael Fagan adalah teknik statis formal yang tidak menjalankan program, melainkan menelaah artefak secara sistematis untuk menemukan cacat. Pengujian adalah teknik dinamis yang menjalankan program."
+      "explanation": "Inspeksi yang dikembangkan Michael Fagan adalah teknik statis formal yang tidak menjalankan program, melainkan menelaah artefak secara sistematis untuk menemukan cacat. Pengujian adalah teknik dinamis yang menjalankan program.",
+      "optionReasons": [
+        "Inspeksi Fagan adalah reviu statis formal untuk menemukan cacat.",
+        "Unit testing bersifat dinamis (menjalankan kode).",
+        "Debugging memperbaiki cacat, bukan teknik reviu formal.",
+        "Integrasi adalah penggabungan modul."
+      ]
     },
     {
       "id": 97,
@@ -1169,7 +1745,13 @@
         "analisis statis"
       ],
       "answer": 1,
-      "explanation": "Pengujian adalah proses dinamis yang melibatkan eksekusi program. Inspeksi, reviu, dan analisis statis merupakan teknik statis yang tidak memerlukan eksekusi program."
+      "explanation": "Pengujian adalah proses dinamis yang melibatkan eksekusi program. Inspeksi, reviu, dan analisis statis merupakan teknik statis yang tidak memerlukan eksekusi program.",
+      "optionReasons": [
+        "Inspeksi kode bersifat statis (tanpa eksekusi).",
+        "Pengujian menjalankan program untuk menemukan kesalahan.",
+        "Reviu desain bersifat statis.",
+        "Analisis statis tidak menjalankan program."
+      ]
     },
     {
       "id": 98,
@@ -1181,7 +1763,13 @@
         "acceptance testing"
       ],
       "answer": 0,
-      "explanation": "Integration testing menguji interaksi antar modul yang telah diuji secara individual. Unit testing menguji komponen terkecil secara terpisah, sedangkan system testing menguji keseluruhan sistem yang sudah terintegrasi."
+      "explanation": "Integration testing menguji interaksi antar modul yang telah diuji secara individual. Unit testing menguji komponen terkecil secara terpisah, sedangkan system testing menguji keseluruhan sistem yang sudah terintegrasi.",
+      "optionReasons": [
+        "Integration testing menguji interaksi antarmodul yang sudah diuji tersendiri.",
+        "System testing menguji sistem utuh.",
+        "Unit testing menguji modul individual.",
+        "Acceptance testing dilakukan pengguna."
+      ]
     },
     {
       "id": 99,
@@ -1193,7 +1781,13 @@
         "system testing"
       ],
       "answer": 1,
-      "explanation": "Acceptance testing dilakukan oleh pengguna akhir untuk memvalidasi bahwa sistem memenuhi kebutuhan bisnis dan siap digunakan. Pengujian ini menjadi dasar keputusan penerimaan produk oleh pelanggan."
+      "explanation": "Acceptance testing dilakukan oleh pengguna akhir untuk memvalidasi bahwa sistem memenuhi kebutuhan bisnis dan siap digunakan. Pengujian ini menjadi dasar keputusan penerimaan produk oleh pelanggan.",
+      "optionReasons": [
+        "Unit testing dilakukan pengembang.",
+        "Acceptance testing dilakukan pengguna akhir sebelum serah terima.",
+        "Integration testing menguji antarmodul.",
+        "System testing dilakukan tim penguji internal."
+      ]
     },
     {
       "id": 100,
@@ -1205,7 +1799,13 @@
         "apakah program dieksekusi atau tidak"
       ],
       "answer": 3,
-      "explanation": "Inspeksi adalah teknik statis yang tidak mengeksekusi program, hanya menelaah artefak. Pengujian adalah teknik dinamis yang menjalankan program. Inilah perbedaan fundamental antara keduanya."
+      "explanation": "Inspeksi adalah teknik statis yang tidak mengeksekusi program, hanya menelaah artefak. Pengujian adalah teknik dinamis yang menjalankan program. Inilah perbedaan fundamental antara keduanya.",
+      "optionReasons": [
+        "Jenis cacat bisa tumpang tindih.",
+        "Pengembang bisa terlibat di keduanya.",
+        "Dokumen hasil bukan pembeda mendasar.",
+        "Inspeksi tanpa mengeksekusi program (statis); pengujian menjalankan program (dinamis)."
+      ]
     }
   ]
 }

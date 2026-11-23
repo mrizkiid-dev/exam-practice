@@ -16,7 +16,14 @@
         "Menghibur karyawan di lingkungan kerja",
         "Mempromosikan produk kepada konsumen akhir"
       ],
-      "answer": 1
+      "answer": 1,
+      "explanation": "Komunikasi bisnis adalah pertukaran informasi untuk mencapai tujuan organisasi.",
+      "optionReasons": [
+        "Mempengaruhi opini publik secara luas lebih tepat menggambarkan propaganda/komunikasi massa.",
+        "Komunikasi bisnis selalu diarahkan untuk mencapai tujuan organisasi melalui pertukaran informasi.",
+        "Menghibur karyawan bukan tujuan pokok komunikasi bisnis.",
+        "Promosi produk hanya salah satu bentuk (pemasaran), bukan tujuan dasar keseluruhan komunikasi bisnis."
+      ]
     },
     {
       "id": 2,
@@ -27,7 +34,14 @@
         "Adanya tujuan komersial dan organisasional yang mendasarinya",
         "Komunikasi bisnis tidak memerlukan umpan balik"
       ],
-      "answer": 2
+      "answer": 2,
+      "explanation": "Yang membedakan komunikasi bisnis adalah tujuan komersial dan organisasional di baliknya.",
+      "optionReasons": [
+        "Komunikasi bisnis tidak harus memakai bahasa asing.",
+        "Komunikasi bisnis bisa lewat surat, email, telepon, dll., tidak hanya tatap muka.",
+        "Komunikasi bisnis selalu memiliki tujuan komersial/organisasional, berbeda dari komunikasi sehari-hari.",
+        "Umpan balik justru penting dalam komunikasi bisnis."
+      ]
     },
     {
       "id": 3,
@@ -38,7 +52,14 @@
         "Hanya komunikasi dengan pelanggan",
         "Komunikasi antarpribadi saja"
       ],
-      "answer": 1
+      "answer": 1,
+      "explanation": "Ruang lingkup komunikasi bisnis meliputi komunikasi internal dan eksternal.",
+      "optionReasons": [
+        "Komunikasi bisnis tidak terbatas pada internal; ada juga dengan pihak luar.",
+        "Ruang lingkupnya mencakup komunikasi internal (karyawan) dan eksternal (pelanggan, pemasok, pemerintah, dll.).",
+        "Pelanggan hanya salah satu pihak eksternal.",
+        "Komunikasi antarpribadi hanya satu jenis; ada juga kelompok, organisasi, dan massa."
+      ]
     },
     {
       "id": 4,
@@ -49,7 +70,14 @@
         "Sepihak sehingga pengirim memegang kendali penuh",
         "Formal dan menggunakan istilah teknis tinggi"
       ],
-      "answer": 0
+      "answer": 0,
+      "explanation": "Pesan bisnis harus jelas, tepat, dan mudah dipahami penerima.",
+      "optionReasons": [
+        "Pesan bisnis yang baik jelas, tepat, dan dapat dipahami penerima sehingga tujuannya tercapai.",
+        "Pesan bertele-tele justru menyulitkan; prinsipnya ringkas (concise).",
+        "Komunikasi bisnis bersifat dua arah, bukan sepihak.",
+        "Istilah teknis tinggi bisa membuat penerima tidak paham."
+      ]
     },
     {
       "id": 5,
@@ -60,7 +88,14 @@
         "Komunikasi lateral",
         "Komunikasi vertikal ke bawah"
       ],
-      "answer": 3
+      "answer": 3,
+      "explanation": "Arus dari atasan ke bawahan disebut komunikasi vertikal ke bawah (downward).",
+      "optionReasons": [
+        "Horizontal terjadi antarposisi yang setara.",
+        "Diagonal terjadi antarbagian dan antartingkat yang berbeda.",
+        "Lateral adalah sebutan lain untuk komunikasi horizontal.",
+        "Atasan ke bawahan adalah komunikasi vertikal ke bawah."
+      ]
     },
     {
       "id": 6,
@@ -71,7 +106,14 @@
         "Mengumumkan kebijakan perusahaan",
         "Mendistribusikan informasi promosi"
       ],
-      "answer": 1
+      "answer": 1,
+      "explanation": "Komunikasi ke atas berisi laporan, umpan balik, dan saran bawahan kepada atasan.",
+      "optionReasons": [
+        "Instruksi kerja mengalir dari atas ke bawah.",
+        "Komunikasi ke atas dipakai bawahan untuk menyampaikan laporan, umpan balik, dan saran.",
+        "Pengumuman kebijakan berasal dari manajemen (ke bawah).",
+        "Informasi promosi biasanya komunikasi eksternal."
+      ]
     },
     {
       "id": 7,
@@ -82,7 +124,14 @@
         "Motivasi",
         "Ekspresi emosi"
       ],
-      "answer": 2
+      "answer": 2,
+      "explanation": "Fungsi motivasi mendorong karyawan mencapai target kerja.",
+      "optionReasons": [
+        "Fungsi informasi menyediakan data untuk pengambilan keputusan.",
+        "Fungsi kontrol mengatur perilaku agar sesuai aturan/hierarki.",
+        "Fungsi motivasi menjelaskan apa yang harus dilakukan, seberapa baik kinerjanya, dan mendorong pencapaian target.",
+        "Fungsi ekspresi emosi berkaitan dengan pengungkapan perasaan dan kepuasan."
+      ]
     },
     {
       "id": 8,
@@ -93,7 +142,14 @@
         "Media sosial dan blog perusahaan",
         "Memo, surat, dan laporan tertulis"
       ],
-      "answer": 3
+      "answer": 3,
+      "explanation": "Memo, surat, dan laporan tertulis adalah media cetak tradisional.",
+      "optionReasons": [
+        "Email dan pesan instan adalah media elektronik/digital.",
+        "Video conference dan webinar adalah media digital.",
+        "Media sosial dan blog adalah media online.",
+        "Memo, surat, dan laporan tertulis tercetak di kertas, jadi termasuk media cetak tradisional."
+      ]
     },
     {
       "id": 9,
@@ -104,7 +160,14 @@
         "Mempercepat dan memperluas jangkauan penyebaran informasi",
         "Membatasi komunikasi hanya di lingkup lokal"
       ],
-      "answer": 2
+      "answer": 2,
+      "explanation": "Teknologi digital mempercepat dan memperluas penyebaran informasi.",
+      "optionReasons": [
+        "Tatap muka tetap dibutuhkan; teknologi tidak menghilangkannya sepenuhnya.",
+        "Teknologi justru mempercepat pengiriman pesan.",
+        "Teknologi digital membuat informasi tersebar lebih cepat dan menjangkau lebih banyak orang.",
+        "Teknologi digital memperluas jangkauan hingga global, bukan membatasi."
+      ]
     },
     {
       "id": 10,
@@ -115,7 +178,14 @@
         "Video conference",
         "Surat elektronik"
       ],
-      "answer": 2
+      "answer": 2,
+      "explanation": "Video conference memungkinkan rapat jarak jauh real-time dengan visual.",
+      "optionReasons": [
+        "Telepon konvensional hanya suara tanpa visual.",
+        "Faksimile mengirim dokumen, tidak real-time interaktif.",
+        "Video conference menghadirkan suara dan gambar secara real-time.",
+        "Email tidak real-time dan tanpa tampilan video."
+      ]
     },
     {
       "id": 11,
@@ -126,7 +196,14 @@
         "Audiens yang luas dan heterogen melalui media massa",
         "Hanya karyawan internal perusahaan"
       ],
-      "answer": 2
+      "answer": 2,
+      "explanation": "Komunikasi massa ditujukan ke audiens luas dan heterogen melalui media massa.",
+      "optionReasons": [
+        "Satu individu adalah komunikasi interpersonal.",
+        "Kelompok kecil adalah komunikasi kelompok.",
+        "Komunikasi massa menjangkau audiens besar dan beragam melalui media massa.",
+        "Karyawan internal saja adalah komunikasi organisasi internal."
+      ]
     },
     {
       "id": 12,
@@ -137,7 +214,14 @@
         "Penggunaan teknologi terkini",
         "Jumlah pesan yang dikirimkan"
       ],
-      "answer": 1
+      "answer": 1,
+      "explanation": "Mendengar aktif dan merespons dengan tepat menentukan keberhasilan komunikasi interpersonal.",
+      "optionReasons": [
+        "Biaya rendah tidak menjamin pesan dipahami.",
+        "Mendengar aktif dan respons yang tepat memastikan saling pengertian dalam komunikasi tatap muka.",
+        "Teknologi hanya alat bantu.",
+        "Banyaknya pesan tidak menentukan kualitas komunikasi."
+      ]
     },
     {
       "id": 13,
@@ -148,7 +232,14 @@
         "Pengiriman surat resmi kepada klien",
         "Periklanan produk di media massa"
       ],
-      "answer": 0
+      "answer": 0,
+      "explanation": "Komunikasi kelompok terjadi dalam rapat tim, diskusi proyek, dan presentasi kelompok.",
+      "optionReasons": [
+        "Rapat, diskusi proyek, dan presentasi tim melibatkan beberapa orang yang berinteraksi, ciri komunikasi kelompok.",
+        "Negosiasi dua pihak termasuk komunikasi interpersonal/diadik.",
+        "Surat resmi ke klien adalah komunikasi tertulis eksternal.",
+        "Iklan di media massa adalah komunikasi massa."
+      ]
     },
     {
       "id": 14,
@@ -159,7 +250,14 @@
         "Membutuhkan waktu yang lama untuk pengiriman pesan",
         "Hanya dapat digunakan oleh perusahaan besar"
       ],
-      "answer": 1
+      "answer": 1,
+      "explanation": "Komunikasi online bersifat interaktif tinggi dan menjangkau audiens global.",
+      "optionReasons": [
+        "Media online justru memungkinkan komunikasi dua arah.",
+        "Internet memungkinkan interaksi cepat dan jangkauan global.",
+        "Pengiriman pesan online berlangsung cepat.",
+        "Media online bisa dipakai usaha kecil maupun besar."
+      ]
     },
     {
       "id": 15,
@@ -170,7 +268,14 @@
         "Simbol, gambar, dan diagram",
         "Jarak dan sentuhan fisik"
       ],
-      "answer": 1
+      "answer": 1,
+      "explanation": "Komunikasi verbal memakai kata-kata, baik lisan maupun tulisan.",
+      "optionReasons": [
+        "Ekspresi wajah dan gerakan tubuh adalah nonverbal.",
+        "Verbal berarti menggunakan kata-kata, baik diucapkan maupun ditulis.",
+        "Simbol, gambar, dan diagram termasuk komunikasi visual.",
+        "Jarak dan sentuhan adalah nonverbal (proksemik dan haptik)."
+      ]
     },
     {
       "id": 16,
@@ -181,7 +286,14 @@
         "Penggunaan kalimat yang panjang dan berbelit",
         "Penampilan dan pakaian yang profesional"
       ],
-      "answer": 2
+      "answer": 2,
+      "explanation": "Kalimat panjang dan berbelit adalah unsur verbal, bukan nonverbal, dan juga tidak efektif.",
+      "optionReasons": [
+        "Kontak mata termasuk nonverbal yang efektif.",
+        "Postur percaya diri termasuk nonverbal yang efektif.",
+        "Kalimat panjang berbelit adalah komunikasi verbal (dan tidak efektif), jadi inilah pengecualiannya.",
+        "Penampilan profesional termasuk nonverbal yang efektif."
+      ]
     },
     {
       "id": 17,
@@ -192,7 +304,14 @@
         "Kata-kata persuasif dalam negosiasi",
         "Salam pembuka dalam surat resmi"
       ],
-      "answer": 0
+      "answer": 0,
+      "explanation": "Komunikasi visual memakai grafik, tabel, infografis, dan gambar.",
+      "optionReasons": [
+        "Grafik, tabel, infografis, dan gambar adalah elemen visual untuk menyajikan data.",
+        "Intonasi dan kecepatan bicara adalah paralinguistik (vokal).",
+        "Kata-kata persuasif adalah verbal.",
+        "Salam pembuka surat adalah verbal tertulis."
+      ]
     },
     {
       "id": 18,
@@ -203,7 +322,14 @@
         "Karyawan tetap perusahaan saja",
         "Konsumen akhir produk atau jasa perusahaan"
       ],
-      "answer": 1
+      "answer": 1,
+      "explanation": "Stakeholders adalah semua pihak yang berkepentingan terhadap aktivitas perusahaan.",
+      "optionReasons": [
+        "Pemegang saham (shareholder) hanya sebagian stakeholder.",
+        "Stakeholder mencakup seluruh pihak yang memengaruhi atau dipengaruhi aktivitas bisnis.",
+        "Karyawan hanya salah satu stakeholder internal.",
+        "Konsumen hanya salah satu stakeholder eksternal."
+      ]
     },
     {
       "id": 19,
@@ -214,7 +340,14 @@
         "Komunitas lokal dan media massa",
         "Karyawan, manajemen, dan pemegang saham"
       ],
-      "answer": 3
+      "answer": 3,
+      "explanation": "Stakeholder internal meliputi karyawan, manajemen, dan pemegang saham.",
+      "optionReasons": [
+        "Pemasok dan distributor berada di luar perusahaan (eksternal).",
+        "Pemerintah dan regulator adalah pihak eksternal.",
+        "Komunitas dan media adalah pihak eksternal.",
+        "Karyawan, manajemen, dan pemilik/pemegang saham berada di dalam perusahaan."
+      ]
     },
     {
       "id": 20,
@@ -225,7 +358,14 @@
         "Mereka berada di luar perusahaan tetapi dapat mempengaruhi atau dipengaruhi oleh perusahaan",
         "Mereka hanya berinteraksi dengan perusahaan saat transaksi terjadi"
       ],
-      "answer": 2
+      "answer": 2,
+      "explanation": "Stakeholder eksternal berada di luar perusahaan tetapi saling memengaruhi dengan perusahaan.",
+      "optionReasons": [
+        "Bekerja di dalam struktur organisasi adalah ciri stakeholder internal.",
+        "Stakeholder eksternal (mis. pemerintah) bisa sangat berpengaruh.",
+        "Stakeholder eksternal di luar organisasi tetapi bisa memengaruhi atau dipengaruhi perusahaan.",
+        "Hubungan dengan stakeholder eksternal tidak hanya saat transaksi."
+      ]
     },
     {
       "id": 21,
@@ -236,7 +376,14 @@
         "Proses penyelesaian konflik antarkaryawan",
         "Upaya mempengaruhi pengambil keputusan secara tidak resmi untuk kepentingan tertentu"
       ],
-      "answer": 3
+      "answer": 3,
+      "explanation": "Lobi adalah upaya memengaruhi pengambil keputusan secara informal.",
+      "optionReasons": [
+        "Ruang tunggu adalah arti lobi secara harfiah, bukan dalam komunikasi bisnis.",
+        "Presentasi formal bukan lobi; lobi cenderung informal.",
+        "Penyelesaian konflik antarkaryawan adalah mediasi/manajemen konflik.",
+        "Lobi adalah pendekatan informal kepada pengambil keputusan demi kepentingan tertentu."
+      ]
     },
     {
       "id": 22,
@@ -247,7 +394,14 @@
         "Mencapai kesepakatan yang saling menguntungkan bagi semua pihak",
         "Menyampaikan keluhan kepada mitra bisnis"
       ],
-      "answer": 2
+      "answer": 2,
+      "explanation": "Negosiasi bertujuan mencapai kesepakatan yang saling menguntungkan.",
+      "optionReasons": [
+        "Negosiasi bukan debat untuk mengalahkan lawan.",
+        "Negosiasi membutuhkan kompromi.",
+        "Tujuan negosiasi adalah kesepakatan yang menguntungkan semua pihak.",
+        "Menyampaikan keluhan bukan tujuan negosiasi."
+      ]
     },
     {
       "id": 23,
@@ -258,7 +412,14 @@
         "Menggunakan ancaman untuk mencapai tujuan",
         "Menghindari komunikasi langsung dengan pengambil keputusan"
       ],
-      "answer": 0
+      "answer": 0,
+      "explanation": "Lobi efektif dimulai dengan membangun relasi dan kepercayaan.",
+      "optionReasons": [
+        "Relasi dan kepercayaan membuat pihak yang dilobi lebih terbuka terhadap kepentingan kita.",
+        "Memaksakan kehendak merusak hubungan.",
+        "Ancaman tidak etis dan kontraproduktif.",
+        "Lobi justru membutuhkan akses ke pengambil keputusan."
+      ]
     },
     {
       "id": 24,
@@ -269,7 +430,14 @@
         "Kedua pihak memperoleh hasil yang saling menguntungkan",
         "Pihak yang lebih kuat selalu memenangkan negosiasi"
       ],
-      "answer": 2
+      "answer": 2,
+      "explanation": "Win-win berarti kedua pihak sama-sama untung.",
+      "optionReasons": [
+        "Satu pihak untung maksimal adalah win-lose.",
+        "Tanpa kesepakatan berarti negosiasi gagal (no deal).",
+        "Win-win solution berarti kedua pihak memperoleh hasil yang saling menguntungkan.",
+        "Pihak kuat selalu menang adalah pendekatan kompetitif (win-lose)."
+      ]
     },
     {
       "id": 25,
@@ -280,7 +448,14 @@
         "Mempromosikan produk kepada pelanggan ritel",
         "Menyusun laporan keuangan perusahaan"
       ],
-      "answer": 1
+      "answer": 1,
+      "explanation": "Lobi berperan memengaruhi kebijakan/keputusan yang berdampak pada bisnis.",
+      "optionReasons": [
+        "Lobi melengkapi, bukan menggantikan negosiasi formal.",
+        "Lobi digunakan untuk memengaruhi kebijakan atau keputusan yang menyangkut kepentingan bisnis.",
+        "Promosi ke pelanggan ritel adalah pemasaran.",
+        "Laporan keuangan adalah tugas akuntansi."
+      ]
     },
     {
       "id": 26,
@@ -291,7 +466,14 @@
         "Evaluasi hasil komunikasi",
         "Perencanaan yang meliputi analisis tujuan, audiens, dan saluran komunikasi"
       ],
-      "answer": 3
+      "answer": 3,
+      "explanation": "Penyusunan pesan dimulai dari perencanaan: tujuan, audiens, dan saluran.",
+      "optionReasons": [
+        "Editing dan revisi adalah tahap akhir (penyelesaian).",
+        "Pengiriman dilakukan setelah pesan selesai disusun.",
+        "Evaluasi dilakukan setelah pesan diterima.",
+        "Tahap pertama adalah perencanaan: menganalisis tujuan, audiens, dan memilih saluran."
+      ]
     },
     {
       "id": 27,
@@ -302,7 +484,14 @@
         "Pesan disampaikan secara singkat, padat, dan tidak bertele-tele",
         "Pesan disertai bukti dan data yang kuat"
       ],
-      "answer": 2
+      "answer": 2,
+      "explanation": "Conciseness berarti singkat, padat, dan tidak bertele-tele.",
+      "optionReasons": [
+        "Pesan lengkap adalah prinsip completeness.",
+        "Bahasa sopan adalah prinsip courtesy.",
+        "Conciseness berarti ringkas dan padat tanpa kata yang tidak perlu.",
+        "Bukti dan data kuat terkait correctness/concreteness."
+      ]
     },
     {
       "id": 28,
@@ -313,7 +502,14 @@
         "Isi atau tubuh surat",
         "Tembusan"
       ],
-      "answer": 2
+      "answer": 2,
+      "explanation": "Alasan/tujuan surat dituliskan di isi atau tubuh surat.",
+      "optionReasons": [
+        "Kop surat memuat identitas perusahaan.",
+        "Salam penutup hanya basa-basi penutup.",
+        "Isi/tubuh surat memuat maksud dan tujuan penulisan.",
+        "Tembusan berisi daftar pihak lain yang menerima salinan."
+      ]
     },
     {
       "id": 29,
@@ -324,7 +520,14 @@
         "Kualifikasi dan pengalaman yang relevan",
         "Posisi yang dilamar secara jelas"
       ],
-      "answer": 1
+      "answer": 1,
+      "explanation": "Nomor rekening bank tidak relevan dicantumkan di surat lamaran.",
+      "optionReasons": [
+        "Motivasi melamar penting untuk dicantumkan.",
+        "Nomor rekening bank bersifat sensitif dan tidak relevan dengan lamaran, jadi inilah pengecualiannya.",
+        "Kualifikasi dan pengalaman wajib dicantumkan.",
+        "Posisi yang dilamar harus jelas."
+      ]
     },
     {
       "id": 30,
@@ -335,7 +538,14 @@
         "Ditulis dalam bahasa asing saja",
         "Mencantumkan seluruh riwayat hidup tanpa penyaringan"
       ],
-      "answer": 0
+      "answer": 0,
+      "explanation": "CV efektif itu ringkas, jelas, relevan, dan disesuaikan dengan posisi.",
+      "optionReasons": [
+        "CV yang baik ringkas, jelas, relevan, dan disesuaikan dengan posisi yang dilamar.",
+        "CV terlalu panjang justru tidak dibaca perekrut.",
+        "Bahasa disesuaikan kebutuhan, tidak harus bahasa asing.",
+        "Informasi perlu disaring agar relevan."
+      ]
     },
     {
       "id": 31,
@@ -346,7 +556,14 @@
         "Promosi produk kepada pelanggan potensial",
         "Keluhan konsumen kepada manajemen"
       ],
-      "answer": 1
+      "answer": 1,
+      "explanation": "Laporan bisnis berisi fakta, analisis, dan rekomendasi untuk pengambilan keputusan.",
+      "optionReasons": [
+        "Hiburan dan cerita inspirasi bukan isi laporan bisnis.",
+        "Laporan bisnis menyajikan fakta, analisis, dan rekomendasi untuk pengambil keputusan.",
+        "Promosi produk adalah materi pemasaran.",
+        "Keluhan konsumen bisa menjadi data, tetapi bukan fungsi laporan bisnis."
+      ]
     },
     {
       "id": 32,
@@ -357,7 +574,14 @@
         "Abstrak dan daftar pustaka saja",
         "Pendahuluan, isi/pembahasan, dan penutup/kesimpulan"
       ],
-      "answer": 3
+      "answer": 3,
+      "explanation": "Struktur laporan: pendahuluan, isi/pembahasan, penutup/kesimpulan.",
+      "optionReasons": [
+        "Kata pengantar, daftar isi, dan lampiran hanya pelengkap.",
+        "Kesimpulan dan rekomendasi saja belum lengkap.",
+        "Abstrak dan daftar pustaka hanya pelengkap.",
+        "Struktur inti laporan adalah pendahuluan, pembahasan, dan penutup."
+      ]
     },
     {
       "id": 33,
@@ -368,7 +592,14 @@
         "Mengandalkan improvisasi sepenuhnya tanpa persiapan",
         "Membaca langsung dari slide tanpa kontak mata"
       ],
-      "answer": 1
+      "answer": 1,
+      "explanation": "Persiapan presentasi meliputi analisis audiens, perancangan konten, dan latihan.",
+      "optionReasons": [
+        "Menghafal tanpa paham membuat presentasi kaku dan rapuh.",
+        "Analisis audiens, desain konten, dan latihan adalah persiapan presentasi yang efektif.",
+        "Improvisasi tanpa persiapan berisiko presentasi tidak terarah.",
+        "Membaca slide tanpa kontak mata membuat audiens kehilangan minat."
+      ]
     },
     {
       "id": 34,
@@ -379,7 +610,14 @@
         "Memuat seluruh teks yang akan dibacakan",
         "Mengalihkan perhatian audiens dari pembicara"
       ],
-      "answer": 1
+      "answer": 1,
+      "explanation": "Slide berfungsi mendukung dan memperkuat pesan pembicara.",
+      "optionReasons": [
+        "Slide tidak menggantikan pembicara.",
+        "Slide adalah alat bantu visual yang memperkuat pesan pembicara.",
+        "Slide penuh teks membuat audiens membaca, bukan mendengar.",
+        "Slide seharusnya tidak mengalihkan perhatian dari pembicara."
+      ]
     },
     {
       "id": 35,
@@ -390,7 +628,14 @@
         "Presentasi tahunan kepada pemegang saham",
         "Penyampaian informasi singkat dan padat kepada tim sebelum pelaksanaan tugas"
       ],
-      "answer": 3
+      "answer": 3,
+      "explanation": "Briefing adalah penyampaian informasi singkat kepada tim sebelum bertugas.",
+      "optionReasons": [
+        "Laporan panjang ke direksi bukan briefing.",
+        "Wawancara calon karyawan adalah job interview.",
+        "Presentasi tahunan ke pemegang saham adalah RUPS/presentasi formal.",
+        "Briefing berisi arahan singkat dan padat kepada tim sebelum melaksanakan tugas."
+      ]
     },
     {
       "id": 36,
@@ -401,7 +646,14 @@
         "Komunikasi interpersonal dua arah",
         "Komunikasi nonverbal"
       ],
-      "answer": 2
+      "answer": 2,
+      "explanation": "Wawancara kerja adalah komunikasi interpersonal dua arah.",
+      "optionReasons": [
+        "Komunikasi massa ditujukan kepada audiens luas.",
+        "Wawancara melibatkan tanya-jawab, jadi tidak satu arah.",
+        "Pewawancara dan pelamar saling bertanya-jawab secara langsung: interpersonal dua arah.",
+        "Wawancara terutama verbal, meski ada unsur nonverbal."
+      ]
     },
     {
       "id": 37,
@@ -412,7 +664,14 @@
         "Mempresentasikan laporan keuangan",
         "Mengundang peserta rapat"
       ],
-      "answer": 1
+      "answer": 1,
+      "explanation": "Notulis mencatat hasil pembahasan dan keputusan rapat.",
+      "optionReasons": [
+        "Memimpin diskusi adalah tugas pimpinan/moderator rapat.",
+        "Notulis bertugas membuat notulen: mencatat pembahasan dan keputusan rapat.",
+        "Presentasi laporan keuangan dilakukan bagian keuangan.",
+        "Mengundang peserta biasanya tugas sekretaris/penyelenggara."
+      ]
     },
     {
       "id": 38,
@@ -423,7 +682,14 @@
         "Kurangnya anggaran untuk komunikasi",
         "Perbedaan interpretasi makna kata antara pengirim dan penerima"
       ],
-      "answer": 3
+      "answer": 3,
+      "explanation": "Hambatan semantik muncul karena perbedaan pemaknaan kata.",
+      "optionReasons": [
+        "Gangguan perangkat adalah hambatan teknis/fisik.",
+        "Suasana ruangan adalah hambatan fisik/lingkungan.",
+        "Anggaran bukan hambatan semantik.",
+        "Semantik berkaitan dengan makna; perbedaan tafsir kata menimbulkan hambatan semantik."
+      ]
     },
     {
       "id": 39,
@@ -434,7 +700,14 @@
         "Meningkatkan koordinasi dan kerja sama antardepartemen yang setara",
         "Menyampaikan keluhan karyawan kepada HRD"
       ],
-      "answer": 2
+      "answer": 2,
+      "explanation": "Komunikasi horizontal meningkatkan koordinasi antarbagian yang setara.",
+      "optionReasons": [
+        "Instruksi dari manajemen puncak adalah komunikasi ke bawah.",
+        "Laporan ke atasan adalah komunikasi ke atas.",
+        "Komunikasi horizontal terjadi antarpihak setingkat untuk koordinasi dan kerja sama.",
+        "Keluhan ke HRD adalah komunikasi ke atas/diagonal."
+      ]
     },
     {
       "id": 40,
@@ -445,7 +718,14 @@
         "Hanya terjadi dalam rapat formal",
         "Dikendalikan sepenuhnya oleh manajemen"
       ],
-      "answer": 1
+      "answer": 1,
+      "explanation": "Grapevine cepat dan informal, tetapi rentan distorsi.",
+      "optionReasons": [
+        "Grapevine sering tidak akurat dan tidak terverifikasi.",
+        "Grapevine menyebar cepat di luar jalur formal dan rawan distorsi/gosip.",
+        "Grapevine bersifat informal, bukan dalam rapat formal.",
+        "Grapevine tidak bisa dikendalikan manajemen."
+      ]
     },
     {
       "id": 41,
@@ -456,7 +736,14 @@
         "Mengumumkan hasil akhir negosiasi",
         "Mengevaluasi pelaksanaan kesepakatan"
       ],
-      "answer": 1
+      "answer": 1,
+      "explanation": "Tahap opening membangun suasana kondusif dan menetapkan agenda.",
+      "optionReasons": [
+        "Penandatanganan kontrak adalah tahap penutupan.",
+        "Opening menciptakan suasana nyaman dan menyepakati agenda negosiasi.",
+        "Pengumuman hasil akhir adalah tahap closing.",
+        "Evaluasi pelaksanaan dilakukan setelah negosiasi."
+      ]
     },
     {
       "id": 42,
@@ -467,7 +754,14 @@
         "Tidak memerlukan strategi konten khusus",
         "Selalu menghasilkan citra positif bagi perusahaan"
       ],
-      "answer": 0
+      "answer": 0,
+      "explanation": "Media sosial memungkinkan interaksi langsung, luas, dan cepat dengan pelanggan.",
+      "optionReasons": [
+        "Media sosial memungkinkan perusahaan berinteraksi langsung dengan banyak pelanggan secara cepat.",
+        "Media sosial dipakai semua kalangan usia.",
+        "Media sosial membutuhkan strategi konten agar efektif.",
+        "Media sosial bisa juga menimbulkan citra negatif (krisis viral)."
+      ]
     },
     {
       "id": 43,
@@ -478,7 +772,14 @@
         "Menyampaikan laporan rutin kepada manajemen",
         "Mempengaruhi sikap, keyakinan, atau tindakan penerima pesan"
       ],
-      "answer": 3
+      "answer": 3,
+      "explanation": "Pesan persuasif bertujuan memengaruhi sikap, keyakinan, atau tindakan.",
+      "optionReasons": [
+        "Sekadar menginformasikan fakta adalah pesan informatif.",
+        "Instruksi teknis adalah pesan instruktif.",
+        "Laporan rutin adalah pesan informatif.",
+        "Persuasif berarti membujuk agar sikap, keyakinan, atau tindakan penerima berubah."
+      ]
     },
     {
       "id": 44,
@@ -489,7 +790,14 @@
         "Menyembunyikan informasi yang merugikan perusahaan",
         "Menggunakan teknik manipulasi untuk memenangkan negosiasi"
       ],
-      "answer": 1
+      "answer": 1,
+      "explanation": "Etika komunikasi menuntut kejujuran dan penghormatan terhadap penerima.",
+      "optionReasons": [
+        "Keuntungan sepihak bertentangan dengan etika.",
+        "Komunikasi etis itu jujur, tidak menyesatkan, dan menghormati hak penerima.",
+        "Menyembunyikan informasi penting tidak etis.",
+        "Manipulasi melanggar etika komunikasi."
+      ]
     },
     {
       "id": 45,
@@ -500,7 +808,14 @@
         "Mereka memiliki hubungan langsung dan formal serta dapat sangat mempengaruhi keberlangsungan bisnis",
         "Mereka adalah kelompok masyarakat yang tidak dikenal perusahaan"
       ],
-      "answer": 2
+      "answer": 2,
+      "explanation": "Stakeholder primer punya hubungan langsung/formal dan sangat memengaruhi kelangsungan bisnis.",
+      "optionReasons": [
+        "Tidak adanya hubungan kontraktual adalah ciri stakeholder sekunder.",
+        "Kepentingan moral saja adalah ciri stakeholder sekunder.",
+        "Stakeholder primer (karyawan, pelanggan, pemasok, pemegang saham) berhubungan langsung dan menentukan kelangsungan bisnis.",
+        "Stakeholder adalah pihak yang dikenal dan berkepentingan."
+      ]
     },
     {
       "id": 46,
@@ -511,7 +826,14 @@
         "Teknik penerjemahan dokumen resmi saja",
         "Sistem hukum negara tujuan bisnis"
       ],
-      "answer": 1
+      "answer": 1,
+      "explanation": "Komunikasi lintas budaya menuntut pemahaman perbedaan nilai, norma, dan gaya komunikasi.",
+      "optionReasons": [
+        "Bahasa verbal saja tidak cukup; nonverbal juga berbeda antarbudaya.",
+        "Komunikasi lintas budaya perlu memahami nilai, norma, dan gaya komunikasi yang berbeda.",
+        "Penerjemahan dokumen hanya sebagian kecil.",
+        "Sistem hukum penting bagi bisnis, tetapi bukan inti komunikasi lintas budaya."
+      ]
     },
     {
       "id": 47,
@@ -522,7 +844,14 @@
         "Memerlukan kop surat yang sangat lengkap",
         "Harus selalu ditandatangani oleh direktur utama"
       ],
-      "answer": 1
+      "answer": 1,
+      "explanation": "Memo dipakai untuk komunikasi internal yang singkat dan spesifik.",
+      "optionReasons": [
+        "Komunikasi eksternal memakai surat, bukan memo.",
+        "Memo adalah pesan internal yang singkat dan langsung pada pokok persoalan.",
+        "Memo justru sederhana tanpa kop lengkap.",
+        "Memo tidak harus ditandatangani direktur utama."
+      ]
     },
     {
       "id": 48,
@@ -533,7 +862,14 @@
         "Mendelegasikan penyampaian berita buruk kepada pihak ketiga",
         "Menggunakan pendekatan tidak langsung dengan memberi penjelasan sebelum menyampaikan penolakan atau berita buruk"
       ],
-      "answer": 3
+      "answer": 3,
+      "explanation": "Berita buruk sebaiknya disampaikan secara tidak langsung (penjelasan dulu, baru berita buruk).",
+      "optionReasons": [
+        "Pendekatan langsung bisa terasa kasar untuk berita buruk.",
+        "Menyembunyikan informasi tidak etis.",
+        "Berita buruk sebaiknya disampaikan sendiri, tidak dilempar ke pihak ketiga.",
+        "Pendekatan tidak langsung (buffer, penjelasan, lalu berita buruk) menjaga hubungan baik."
+      ]
     },
     {
       "id": 49,
@@ -544,7 +880,14 @@
         "Meningkatkan pemahaman, mengurangi kesalahpahaman, dan membangun hubungan kerja yang lebih baik",
         "Mempercepat proses komunikasi sehingga tidak perlu umpan balik"
       ],
-      "answer": 2
+      "answer": 2,
+      "explanation": "Active listening meningkatkan pemahaman dan hubungan kerja.",
+      "optionReasons": [
+        "Mendengar aktif bukan untuk mendominasi percakapan.",
+        "Mendengar bukan berarti setuju dengan semua hal.",
+        "Mendengar aktif meningkatkan pemahaman, mengurangi salah paham, dan membangun hubungan.",
+        "Active listening justru melibatkan umpan balik."
+      ]
     },
     {
       "id": 50,
@@ -555,7 +898,14 @@
         "Menyelesaikan masalah secara sepihak oleh pimpinan",
         "Mempertukarkan ide, menganalisis masalah, dan mencapai pemahaman atau keputusan bersama"
       ],
-      "answer": 3
+      "answer": 3,
+      "explanation": "Diskusi bertujuan bertukar ide dan mencapai pemahaman/keputusan bersama.",
+      "optionReasons": [
+        "Mengumumkan keputusan final bukan diskusi.",
+        "Diskusi bukan ajang pamer retorika.",
+        "Keputusan sepihak bertentangan dengan tujuan diskusi.",
+        "Diskusi adalah pertukaran ide untuk menganalisis masalah dan mencapai keputusan bersama."
+      ]
     }
   ]
 }

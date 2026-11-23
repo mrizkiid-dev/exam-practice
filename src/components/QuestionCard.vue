@@ -48,6 +48,12 @@ const answerRevealed = computed(() => answerMode.value === 'show' || selectedInd
 // Reason is expanded: the card's own toggle wins, otherwise the global setting
 const reasonOpen = computed(() => reasonOverride.value ?? reasonMode.value === 'show')
 
+// Optional per-option reasons (semester 5): one string per option, same order as `options`
+const hasOptionReasons = computed(() =>
+  Array.isArray(props.question.optionReasons) &&
+  props.question.optionReasons.length === props.question.options.length
+)
+
 function toggleReason() { reasonOverride.value = !reasonOpen.value }
 
 // ── option styling ────────────────────────────────────────────────────────────
@@ -216,7 +222,7 @@ const LABELS = ['A', 'B', 'C', 'D']
 
       <!-- Reason (explanation): shown below the answer once it is revealed; can be hidden/shown -->
       <div
-        v-if="question.explanation && !isEditing && answerRevealed"
+        v-if="(question.explanation || hasOptionReasons) && !isEditing && answerRevealed"
         class="flex flex-col gap-2"
       >
         <button
@@ -236,8 +242,32 @@ const LABELS = ['A', 'B', 'C', 'D']
           <p class="text-xs font-bold text-green-700">
             Jawaban: {{ LABELS[question.activeAnswer] }}
           </p>
-          <p class="text-sm text-green-900 leading-relaxed">
+          <p v-if="question.explanation" class="text-sm text-green-900 leading-relaxed">
             {{ question.explanation }}
+          </p>
+
+          <!-- Per-option reasons: why the answer is right and why each other option is wrong -->
+          <ul v-if="hasOptionReasons" class="mt-2 flex flex-col gap-2 border-t border-green-200 pt-2">
+            <li
+              v-for="(reason, index) in question.optionReasons"
+              :key="index"
+              class="flex items-start gap-2 text-sm leading-relaxed"
+              :class="index === question.activeAnswer ? 'text-green-900' : 'text-gray-700'"
+            >
+              <span
+                class="shrink-0 mt-0.5 w-5 h-5 rounded-full flex items-center justify-center text-[10px] font-bold"
+                :class="index === question.activeAnswer ? 'bg-green-600 text-white' : 'bg-red-100 text-red-700'"
+              >
+                {{ LABELS[index] }}
+              </span>
+              <span>
+                <strong>{{ index === question.activeAnswer ? 'Benar:' : 'Bukan:' }}</strong>
+                {{ reason }}
+              </span>
+            </li>
+          </ul>
+          <p v-if="hasOptionReasons && question.isCorrected" class="text-xs italic text-amber-700">
+            Catatan: alasan per pilihan ditulis berdasarkan kunci jawaban asli.
           </p>
         </div>
       </div>

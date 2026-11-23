@@ -17,7 +17,13 @@
         "Mengganti perangkat keras server setiap bulan"
       ],
       "answer": 2,
-      "explanation": "Tujuan pengelolaan server adalah memastikan layanan TI berjalan dengan ketersediaan, keandalan, dan keamanan yang optimal sesuai kebutuhan organisasi."
+      "explanation": "Tujuan pengelolaan server adalah memastikan layanan TI berjalan dengan ketersediaan, keandalan, dan keamanan yang optimal sesuai kebutuhan organisasi.",
+      "optionReasons": [
+        "Server yang terbuka ke publik tanpa batasan justru rawan serangan; pengelolaan server menekankan kontrol akses.",
+        "Hemat listrik hanya efek samping, bukan tujuan utama pengelolaan server.",
+        "Inti pengelolaan server adalah menjaga layanan TI tetap tersedia, andal, dan aman.",
+        "Mengganti hardware tiap bulan boros dan tidak ada hubungannya dengan praktik pengelolaan yang baik."
+      ]
     },
     {
       "id": 2,
@@ -29,7 +35,13 @@
         "Melakukan identifikasi dan inventarisasi aset server"
       ],
       "answer": 3,
-      "explanation": "Langkah awal pengelolaan server adalah identifikasi dan inventarisasi aset untuk mengetahui spesifikasi, fungsi, dan lokasi server sebelum menerapkan kebijakan."
+      "explanation": "Langkah awal pengelolaan server adalah identifikasi dan inventarisasi aset untuk mengetahui spesifikasi, fungsi, dan lokasi server sebelum menerapkan kebijakan.",
+      "optionReasons": [
+        "Instalasi tanpa perencanaan bertentangan dengan prinsip pengelolaan; perencanaan dimulai dari mengenali aset.",
+        "Membeli lisensi berlebihan bukan langkah awal dan tidak terkait kebijakan keamanan.",
+        "Menghubungkan ke internet sebelum aset dikenali dan diamankan justru menambah risiko.",
+        "Kebijakan keamanan hanya bisa disusun setelah tahu aset apa saja yang dimiliki, jadi inventarisasi aset adalah langkah pertama."
+      ]
     },
     {
       "id": 3,
@@ -41,7 +53,13 @@
         "Agar server dapat menjalankan aplikasi game"
       ],
       "answer": 0,
-      "explanation": "Pembaruan perangkat lunak penting untuk menambal celah keamanan dan meningkatkan stabilitas, sehingga server tetap aman dan andal."
+      "explanation": "Pembaruan perangkat lunak penting untuk menambal celah keamanan dan meningkatkan stabilitas, sehingga server tetap aman dan andal.",
+      "optionReasons": [
+        "Update/patch menutup celah keamanan yang ditemukan dan memperbaiki bug sehingga sistem lebih stabil.",
+        "Kecepatan koneksi internet ditentukan jaringan/ISP, bukan oleh pembaruan perangkat lunak server.",
+        "Tampilan antarmuka bukan alasan utama; server bahkan sering tanpa GUI.",
+        "Server bukan untuk bermain game; tujuan update adalah keamanan dan stabilitas."
+      ]
     },
     {
       "id": 4,
@@ -53,7 +71,13 @@
         "Kartu memori kamera"
       ],
       "answer": 2,
-      "explanation": "Media instalasi modern seperti CD/DVD atau USB flash drive umum digunakan karena kapasitasnya besar dan mudah dibawa."
+      "explanation": "Media instalasi modern seperti CD/DVD atau USB flash drive umum digunakan karena kapasitasnya besar dan mudah dibawa.",
+      "optionReasons": [
+        "Floppy disk sudah usang dan kapasitasnya terlalu kecil untuk installer OS modern.",
+        "Kaset pita dipakai untuk backup arsip, bukan media instalasi OS.",
+        "Installer OS kini didistribusikan sebagai ISO yang dibakar ke DVD atau ditulis ke USB flash drive.",
+        "Kartu memori kamera tidak lazim dipakai sebagai media boot instalasi server."
+      ]
     },
     {
       "id": 5,
@@ -65,7 +89,13 @@
         "Menambah kapasitas RAM secara virtual"
       ],
       "answer": 1,
-      "explanation": "Partisi hard disk bertujuan membagi ruang penyimpanan menjadi bagian logis, misalnya untuk sistem dan data, sehingga lebih terorganisir."
+      "explanation": "Partisi hard disk bertujuan membagi ruang penyimpanan menjadi bagian logis, misalnya untuk sistem dan data, sehingga lebih terorganisir.",
+      "optionReasons": [
+        "Partisi tidak dimaksudkan untuk menghapus data tanpa syarat; tujuannya membagi ruang disk.",
+        "Partisi membagi disk menjadi bagian logis (mis. /, /home, swap) agar sistem dan data terpisah.",
+        "Partisi tidak otomatis membuat OS lebih cepat.",
+        "Partisi berkaitan dengan disk, bukan menambah RAM (meski ada partisi swap, itu bukan tujuan utamanya)."
+      ]
     },
     {
       "id": 6,
@@ -77,7 +107,13 @@
         "Mematikan server secara permanen"
       ],
       "answer": 0,
-      "explanation": "Konfigurasi dasar seperti jaringan, hostname, dan pengguna awal diperlukan agar server dapat berfungsi sesuai kebutuhan."
+      "explanation": "Konfigurasi dasar seperti jaringan, hostname, dan pengguna awal diperlukan agar server dapat berfungsi sesuai kebutuhan.",
+      "optionReasons": [
+        "Setelah instalasi, server perlu dikonfigurasi dasar (jaringan, hostname, user) agar siap dipakai.",
+        "Menginstal semua aplikasi tanpa seleksi menambah beban dan celah keamanan.",
+        "Instal ulang tidak diperlukan jika instalasi sudah berhasil.",
+        "Mematikan server permanen menggagalkan tujuan instalasi."
+      ]
     },
     {
       "id": 7,
@@ -89,7 +125,13 @@
         "adduser"
       ],
       "answer": 3,
-      "explanation": "Perintah adduser digunakan untuk menambah pengguna baru di Linux, sedangkan deluser untuk menghapus."
+      "explanation": "Perintah adduser digunakan untuk menambah pengguna baru di Linux, sedangkan deluser untuk menghapus.",
+      "optionReasons": [
+        "deluser justru menghapus pengguna.",
+        "listuser bukan perintah standar Linux.",
+        "rmuser (di BSD) dipakai untuk menghapus pengguna, bukan menambah.",
+        "adduser adalah perintah untuk membuat pengguna baru di Linux."
+      ]
     },
     {
       "id": 8,
@@ -101,7 +143,13 @@
         "Membuat direktori baru"
       ],
       "answer": 0,
-      "explanation": "Perintah chmod digunakan untuk mengubah izin akses (read, write, execute) pada file atau direktori."
+      "explanation": "Perintah chmod digunakan untuk mengubah izin akses (read, write, execute) pada file atau direktori.",
+      "optionReasons": [
+        "chmod (change mode) mengubah permission baca/tulis/eksekusi file atau direktori.",
+        "Mengubah kepemilikan file adalah tugas chown.",
+        "Menghapus file memakai rm.",
+        "Membuat direktori memakai mkdir."
+      ]
     },
     {
       "id": 9,
@@ -113,7 +161,13 @@
         "passwd"
       ],
       "answer": 2,
-      "explanation": "Perintah usermod -aG digunakan untuk menambahkan pengguna ke grup tanpa menghapus keanggotaan grup lainnya."
+      "explanation": "Perintah usermod -aG digunakan untuk menambahkan pengguna ke grup tanpa menghapus keanggotaan grup lainnya.",
+      "optionReasons": [
+        "groupadd membuat grup baru, bukan memasukkan user ke grup.",
+        "useradd -g menetapkan grup utama saat membuat user baru, bukan menambah user yang sudah ada ke grup.",
+        "usermod -aG menambahkan (append) user yang sudah ada ke grup tambahan tanpa menghapus grup lamanya.",
+        "passwd dipakai untuk mengubah kata sandi."
+      ]
     },
     {
       "id": 10,
@@ -125,7 +179,13 @@
         "Dukungan volume dan file yang lebih besar serta peningkatan performa"
       ],
       "answer": 3,
-      "explanation": "Ext4 mendukung volume hingga 1 exabyte dan file hingga 16 terabyte, serta memiliki peningkatan performa dibanding ext3."
+      "explanation": "Ext4 mendukung volume hingga 1 exabyte dan file hingga 16 terabyte, serta memiliki peningkatan performa dibanding ext3.",
+      "optionReasons": [
+        "ext4 tetap mendukung journaling, sama seperti ext3.",
+        "ext4 mendukung file hingga 16 TB, jauh di atas 2 GB.",
+        "ext4 adalah sistem file Linux, bukan khusus Windows.",
+        "ext4 mendukung volume/file jauh lebih besar dan performa lebih baik (extents, delayed allocation)."
+      ]
     },
     {
       "id": 11,
@@ -137,7 +197,13 @@
         "Membuat partisi baru"
       ],
       "answer": 2,
-      "explanation": "Mount berfungsi memasang sistem file dari perangkat penyimpanan ke direktori tertentu sehingga isinya dapat diakses."
+      "explanation": "Mount berfungsi memasang sistem file dari perangkat penyimpanan ke direktori tertentu sehingga isinya dapat diakses.",
+      "optionReasons": [
+        "Menghapus sistem file bukan fungsi mount.",
+        "Memformat partisi memakai mkfs.",
+        "mount menempelkan sistem file ke sebuah direktori (mount point) agar isinya bisa diakses.",
+        "Membuat partisi memakai fdisk/parted."
+      ]
     },
     {
       "id": 12,
@@ -149,7 +215,13 @@
         "Sistem keamanan file berbasis enkripsi"
       ],
       "answer": 1,
-      "explanation": "FHS adalah standar yang mengatur tata letak direktori di Linux, seperti /bin, /etc, /home, dan /var."
+      "explanation": "FHS adalah standar yang mengatur tata letak direktori di Linux, seperti /bin, /etc, /home, dan /var.",
+      "optionReasons": [
+        "FHS tidak mengatur urutan abjad file.",
+        "FHS mendefinisikan struktur dan fungsi direktori standar Linux seperti /etc, /var, /home, /usr.",
+        "FHS bukan aturan penamaan file.",
+        "FHS bukan sistem enkripsi; itu standar tata letak direktori."
+      ]
     },
     {
       "id": 13,
@@ -161,7 +233,13 @@
         "Tidak memerlukan kabel"
       ],
       "answer": 0,
-      "explanation": "SAN menggunakan jaringan berkecepatan tinggi khusus untuk memberikan akses penyimpanan tingkat blok ke server."
+      "explanation": "SAN menggunakan jaringan berkecepatan tinggi khusus untuk memberikan akses penyimpanan tingkat blok ke server.",
+      "optionReasons": [
+        "SAN adalah jaringan khusus berkecepatan tinggi yang menghubungkan server ke storage tingkat blok.",
+        "Menyimpan data di cloud publik bukan definisi SAN.",
+        "SAN menyimpan data apa pun dalam bentuk blok, bukan hanya file teks.",
+        "SAN tetap memakai kabel (Fibre Channel/iSCSI melalui Ethernet)."
+      ]
     },
     {
       "id": 14,
@@ -173,7 +251,13 @@
         "Redundansi data karena mirroring sehingga data aman jika satu disk gagal"
       ],
       "answer": 3,
-      "explanation": "RAID 1 menggunakan mirroring, sehingga data disalin ke dua disk sekaligus, memberikan toleransi kegagalan disk."
+      "explanation": "RAID 1 menggunakan mirroring, sehingga data disalin ke dua disk sekaligus, memberikan toleransi kegagalan disk.",
+      "optionReasons": [
+        "RAID 1 justru bisa membaca dari dua disk, jadi tidak lebih lambat; ini juga bukan kelebihan.",
+        "RAID 1 minimal butuh dua disk untuk mirroring.",
+        "Kapasitas RAID 1 hanya setengah total disk; kapasitas besar adalah ciri RAID 0.",
+        "RAID 1 menyalin data ke dua disk (mirroring), jadi data tetap aman bila satu disk rusak."
+      ]
     },
     {
       "id": 15,
@@ -185,7 +269,13 @@
         "Mempercepat proses booting"
       ],
       "answer": 1,
-      "explanation": "LVM memungkinkan penggabungan, pemisahan, dan penyesuaian ukuran volume secara dinamis tanpa harus mengubah partisi fisik."
+      "explanation": "LVM memungkinkan penggabungan, pemisahan, dan penyesuaian ukuran volume secara dinamis tanpa harus mengubah partisi fisik.",
+      "optionReasons": [
+        "Membatasi akses pengguna adalah fungsi permission, bukan LVM.",
+        "LVM memungkinkan volume diperbesar/diperkecil dan digabung secara fleksibel tanpa mengubah partisi fisik.",
+        "Menghapus volume bukan fungsi utama LVM.",
+        "LVM tidak ditujukan untuk mempercepat booting."
+      ]
     },
     {
       "id": 16,
@@ -197,7 +287,13 @@
         "SSH"
       ],
       "answer": 0,
-      "explanation": "SMB/CIFS adalah protokol yang digunakan oleh Windows untuk berbagi file, dan dapat diimplementasikan di Linux melalui Samba."
+      "explanation": "SMB/CIFS adalah protokol yang digunakan oleh Windows untuk berbagi file, dan dapat diimplementasikan di Linux melalui Samba.",
+      "optionReasons": [
+        "SMB/CIFS adalah protokol berbagi file bawaan Windows; Linux mendukungnya lewat Samba.",
+        "NFS umum untuk Linux/Unix ke Linux/Unix, dukungan Windows terbatas.",
+        "HTTP adalah protokol web, bukan protokol file sharing jaringan lokal.",
+        "SSH untuk remote shell; transfer file via SSH (SFTP) bukan file sharing Windows standar."
+      ]
     },
     {
       "id": 17,
@@ -209,7 +305,13 @@
         "/home/samba/share.conf"
       ],
       "answer": 1,
-      "explanation": "Konfigurasi Samba disimpan di file /etc/samba/smb.conf, termasuk definisi direktori yang akan dibagikan dan izin aksesnya."
+      "explanation": "Konfigurasi Samba disimpan di file /etc/samba/smb.conf, termasuk definisi direktori yang akan dibagikan dan izin aksesnya.",
+      "optionReasons": [
+        "shares.conf bukan file konfigurasi bawaan Samba.",
+        "Share Samba didefinisikan di /etc/samba/smb.conf.",
+        "/var/samba/config.ini bukan lokasi konfigurasi Samba.",
+        "/home/samba/share.conf bukan lokasi konfigurasi Samba."
+      ]
     },
     {
       "id": 18,
@@ -221,7 +323,13 @@
         "HTTP"
       ],
       "answer": 0,
-      "explanation": "NFS (Network File System) menggunakan protokol NFS untuk berbagi file melalui jaringan, dengan versi seperti NFSv3 yang umum digunakan."
+      "explanation": "NFS (Network File System) menggunakan protokol NFS untuk berbagi file melalui jaringan, dengan versi seperti NFSv3 yang umum digunakan.",
+      "optionReasons": [
+        "NFSv3 adalah versi protokol NFS yang dipakai klien untuk mengakses sistem file melalui jaringan.",
+        "SMB/CIFS adalah protokol Samba/Windows, bukan NFS.",
+        "AFP adalah protokol berbagi file Apple.",
+        "HTTP adalah protokol web."
+      ]
     },
     {
       "id": 19,
@@ -233,7 +341,13 @@
         "rw-rw-rw-"
       ],
       "answer": 1,
-      "explanation": "chmod 755 menghasilkan izin rwx untuk owner, r-x untuk group, dan r-x untuk others."
+      "explanation": "chmod 755 menghasilkan izin rwx untuk owner, r-x untuk group, dan r-x untuk others.",
+      "optionReasons": [
+        "rwxrwxrwx adalah 777.",
+        "7=rwx untuk owner, 5=r-x untuk group dan others, jadi rwxr-xr-x.",
+        "r-xr-xr-x adalah 555.",
+        "rw-rw-rw- adalah 666."
+      ]
     },
     {
       "id": 20,
@@ -245,7 +359,13 @@
         "Ukuran file"
       ],
       "answer": 0,
-      "explanation": "chown (change owner) digunakan untuk mengubah pemilik dan/atau grup dari file atau direktori."
+      "explanation": "chown (change owner) digunakan untuk mengubah pemilik dan/atau grup dari file atau direktori.",
+      "optionReasons": [
+        "chown (change owner) mengubah pemilik dan/atau grup file.",
+        "Hak akses diubah dengan chmod.",
+        "Waktu modifikasi diubah dengan touch.",
+        "Ukuran file tidak diubah dengan chown (mis. truncate)."
+      ]
     },
     {
       "id": 21,
@@ -257,7 +377,13 @@
         "600"
       ],
       "answer": 0,
-      "explanation": "Umask 0022 mengurangi izin default 666 menjadi 644 untuk file dan 777 menjadi 755 untuk direktori."
+      "explanation": "Umask 0022 mengurangi izin default 666 menjadi 644 untuk file dan 777 menjadi 755 untuk direktori.",
+      "optionReasons": [
+        "File baru berbasis 666; 666 - 022 = 644 (rw-r--r--).",
+        "755 adalah hasil umask 022 untuk direktori (777-022), bukan file.",
+        "777 berarti tidak ada umask sama sekali dan file tidak mendapat izin eksekusi default.",
+        "600 adalah hasil umask 077."
+      ]
     },
     {
       "id": 22,
@@ -269,7 +395,13 @@
         "23"
       ],
       "answer": 2,
-      "explanation": "FTP menggunakan port 21 untuk koneksi kontrol (perintah) dan port 20 untuk transfer data."
+      "explanation": "FTP menggunakan port 21 untuk koneksi kontrol (perintah) dan port 20 untuk transfer data.",
+      "optionReasons": [
+        "Port 20 dipakai FTP untuk kanal data (mode aktif), bukan kontrol.",
+        "Port 22 adalah SSH/SFTP.",
+        "Port 21 adalah port kontrol (perintah) FTP.",
+        "Port 23 adalah Telnet."
+      ]
     },
     {
       "id": 23,
@@ -281,7 +413,13 @@
         "Server mengirim data melalui port 20"
       ],
       "answer": 3,
-      "explanation": "Mode aktif FTP mengharuskan server membuka port 20 untuk mengirim data ke klien."
+      "explanation": "Mode aktif FTP mengharuskan server membuka port 20 untuk mengirim data ke klien.",
+      "optionReasons": [
+        "Klien mengirim perintah lewat port 21 di server, bukan port 20.",
+        "Port 21 adalah kanal perintah, bukan data.",
+        "Pada mode aktif, klien membuka port acak tetapi yang menginisiasi koneksi data adalah server; poin kuncinya server mengirim dari port 20.",
+        "Dalam mode aktif, server membuka koneksi data dari port 20 ke port yang dibuka klien."
+      ]
     },
     {
       "id": 24,
@@ -293,7 +431,13 @@
         "Mendownload file dari server"
       ],
       "answer": 0,
-      "explanation": "Perintah ls pada klien FTP digunakan untuk menampilkan daftar file dan direktori di server remote."
+      "explanation": "Perintah ls pada klien FTP digunakan untuk menampilkan daftar file dan direktori di server remote.",
+      "optionReasons": [
+        "ls di klien FTP menampilkan daftar file di direktori server (remote).",
+        "Pindah direktori remote memakai cd.",
+        "Upload memakai put.",
+        "Download memakai get."
+      ]
     },
     {
       "id": 25,
@@ -305,7 +449,13 @@
         "Menyediakan alamat IP secara otomatis ke klien"
       ],
       "answer": 3,
-      "explanation": "DHCP (Dynamic Host Configuration Protocol) otomatis memberikan konfigurasi IP ke perangkat dalam jaringan."
+      "explanation": "DHCP (Dynamic Host Configuration Protocol) otomatis memberikan konfigurasi IP ke perangkat dalam jaringan.",
+      "optionReasons": [
+        "Menyimpan database adalah tugas server database.",
+        "Nama domain dikelola DNS.",
+        "Email diproses mail server.",
+        "DHCP membagikan alamat IP, subnet, gateway, dan DNS secara otomatis ke klien."
+      ]
     },
     {
       "id": 26,
@@ -317,7 +467,13 @@
         "Acknowledge, Discover, Offer, Request"
       ],
       "answer": 2,
-      "explanation": "Urutan DORA: Discover (klien mencari), Offer (server menawarkan), Request (klien meminta), Acknowledge (server mengakui)."
+      "explanation": "Urutan DORA: Discover (klien mencari), Offer (server menawarkan), Request (klien meminta), Acknowledge (server mengakui).",
+      "optionReasons": [
+        "Request tidak bisa dikirim sebelum klien menemukan server (Discover).",
+        "Offer dikirim sebagai jawaban atas Discover, jadi tidak bisa pertama.",
+        "Urutan DORA: Discover, Offer, Request, Acknowledge.",
+        "Acknowledge adalah konfirmasi akhir, bukan langkah pertama."
+      ]
     },
     {
       "id": 27,
@@ -329,7 +485,13 @@
         "Batas waktu klien untuk memperbarui konfigurasi"
       ],
       "answer": 2,
-      "explanation": "Lease time menentukan berapa lama alamat IP dipinjamkan kepada klien sebelum harus diperbarui."
+      "explanation": "Lease time menentukan berapa lama alamat IP dipinjamkan kepada klien sebelum harus diperbarui.",
+      "optionReasons": [
+        "Waktu pemrosesan permintaan bukan lease time.",
+        "Waktu tunggu respons bukan lease time.",
+        "Lease time adalah lama klien boleh memakai alamat IP yang dipinjamkan.",
+        "Batas perpanjangan (renewal/T1) adalah bagian dari lease, tetapi definisi lease time adalah durasi pemakaian IP."
+      ]
     },
     {
       "id": 28,
@@ -341,7 +503,13 @@
         "Mengonversi nama domain menjadi alamat IP"
       ],
       "answer": 3,
-      "explanation": "DNS (Domain Name System) menerjemahkan nama domain seperti www.example.com ke alamat IP."
+      "explanation": "DNS (Domain Name System) menerjemahkan nama domain seperti www.example.com ke alamat IP.",
+      "optionReasons": [
+        "Pembagian IP dinamis adalah DHCP.",
+        "Layanan email adalah mail server.",
+        "Akun pengguna dikelola direktori/OS.",
+        "DNS menerjemahkan nama domain menjadi alamat IP."
+      ]
     },
     {
       "id": 29,
@@ -353,7 +521,13 @@
         "MX"
       ],
       "answer": 2,
-      "explanation": "Record A (Address) menghubungkan nama domain ke alamat IPv4."
+      "explanation": "Record A (Address) menghubungkan nama domain ke alamat IPv4.",
+      "optionReasons": [
+        "AAAA memetakan domain ke IPv6.",
+        "CNAME membuat alias ke nama domain lain.",
+        "Record A memetakan nama domain ke IPv4.",
+        "MX menunjuk mail server domain."
+      ]
     },
     {
       "id": 30,
@@ -365,7 +539,13 @@
         "TIMEOUT"
       ],
       "answer": 1,
-      "explanation": "NXDOMAIN adalah kode respons DNS yang menunjukkan nama domain tidak ditemukan."
+      "explanation": "NXDOMAIN adalah kode respons DNS yang menunjukkan nama domain tidak ditemukan.",
+      "optionReasons": [
+        "SERVFAIL berarti server gagal memproses query.",
+        "NXDOMAIN (Non-Existent Domain) berarti nama domain tidak ada.",
+        "REFUSED berarti server menolak menjawab karena kebijakan.",
+        "TIMEOUT bukan kode respons DNS; itu kondisi tidak ada jawaban."
+      ]
     },
     {
       "id": 31,
@@ -377,7 +557,13 @@
         "DELETE"
       ],
       "answer": 1,
-      "explanation": "Metode GET pada HTTP digunakan untuk meminta data dari server web tanpa mengubahnya."
+      "explanation": "Metode GET pada HTTP digunakan untuk meminta data dari server web tanpa mengubahnya.",
+      "optionReasons": [
+        "POST mengirim data untuk diproses server.",
+        "GET dipakai untuk meminta/mengambil resource dari server.",
+        "PUT mengunggah atau mengganti resource.",
+        "DELETE menghapus resource."
+      ]
     },
     {
       "id": 32,
@@ -389,7 +575,13 @@
         "Direktori tempat file website disimpan"
       ],
       "answer": 3,
-      "explanation": "DocumentRoot menentukan direktori root dari konten yang akan disajikan oleh Apache."
+      "explanation": "DocumentRoot menentukan direktori root dari konten yang akan disajikan oleh Apache.",
+      "optionReasons": [
+        "Port diatur dengan direktif Listen.",
+        "Alamat IP juga diatur lewat Listen/VirtualHost.",
+        "Nama domain diatur dengan ServerName.",
+        "DocumentRoot menentukan direktori tempat file website disimpan."
+      ]
     },
     {
       "id": 33,
@@ -401,7 +593,13 @@
         "Mengatur firewall"
       ],
       "answer": 1,
-      "explanation": "Langkah awal adalah menginstal perangkat lunak web server, seperti Apache, menggunakan manajer paket."
+      "explanation": "Langkah awal adalah menginstal perangkat lunak web server, seperti Apache, menggunakan manajer paket.",
+      "optionReasons": [
+        "Virtual host baru bisa dikonfigurasi setelah web server terpasang.",
+        "Paket web server (mis. apache2/nginx) harus diinstal dulu sebelum langkah lain.",
+        "index.html dibuat setelah server terpasang.",
+        "Firewall diatur setelah layanan terpasang."
+      ]
     },
     {
       "id": 34,
@@ -413,7 +611,13 @@
         "SELECT"
       ],
       "answer": 0,
-      "explanation": "Perintah INSERT digunakan untuk menambahkan baris baru ke tabel database."
+      "explanation": "Perintah INSERT digunakan untuk menambahkan baris baru ke tabel database.",
+      "optionReasons": [
+        "INSERT menambahkan baris data baru ke tabel.",
+        "UPDATE mengubah data yang sudah ada.",
+        "DELETE menghapus baris.",
+        "SELECT membaca/mengambil data."
+      ]
     },
     {
       "id": 35,
@@ -425,7 +629,13 @@
         "Mengontrol akses ke sistem operasi server"
       ],
       "answer": 1,
-      "explanation": "DBMS berfungsi untuk mengelola penyimpanan, pengambilan, dan manipulasi data secara efisien, menyediakan mekanisme keamanan dan integritas data bagi pengguna."
+      "explanation": "DBMS berfungsi untuk mengelola penyimpanan, pengambilan, dan manipulasi data secara efisien, menyediakan mekanisme keamanan dan integritas data bagi pengguna.",
+      "optionReasons": [
+        "Antarmuka grafis bukan fungsi inti DBMS.",
+        "DBMS mengelola penyimpanan, pengambilan, dan manipulasi data secara efisien.",
+        "Routing paket adalah tugas router/jaringan.",
+        "Kontrol akses OS adalah tugas sistem operasi."
+      ]
     },
     {
       "id": 36,
@@ -437,7 +647,13 @@
         "Menghapus semua file log dari sistem"
       ],
       "answer": 2,
-      "explanation": "Langkah awal adalah memastikan sistem operasi server kompatibel dan terupdate agar instalasi DBMS berjalan lancar dan aman."
+      "explanation": "Langkah awal adalah memastikan sistem operasi server kompatibel dan terupdate agar instalasi DBMS berjalan lancar dan aman.",
+      "optionReasons": [
+        "Memblokir semua koneksi bisa dilakukan, tetapi bukan prasyarat sebelum instalasi.",
+        "User database dibuat setelah DBMS terpasang.",
+        "DBMS harus dipasang di OS yang kompatibel dan sudah diperbarui agar instalasi lancar dan aman.",
+        "Menghapus log tidak diperlukan dan malah menghilangkan jejak audit."
+      ]
     },
     {
       "id": 37,
@@ -449,7 +665,13 @@
         "HTTP (Hypertext Transfer Protocol)"
       ],
       "answer": 2,
-      "explanation": "SSH menyediakan akses command line yang aman dengan enkripsi, menjadi standar untuk remote administrasi server."
+      "explanation": "SSH menyediakan akses command line yang aman dengan enkripsi, menjadi standar untuk remote administrasi server.",
+      "optionReasons": [
+        "Telnet mengirim data tanpa enkripsi, sehingga tidak aman.",
+        "FTP untuk transfer file, bukan command line.",
+        "SSH menyediakan akses shell jarak jauh yang terenkripsi.",
+        "HTTP untuk web, bukan akses command line."
+      ]
     },
     {
       "id": 38,
@@ -461,7 +683,13 @@
         "Remote Desktop Protocol (RDP)"
       ],
       "answer": 3,
-      "explanation": "RDP memungkinkan akses desktop jarak jauh dengan antarmuka grafis, memudahkan administrasi server."
+      "explanation": "RDP memungkinkan akses desktop jarak jauh dengan antarmuka grafis, memudahkan administrasi server.",
+      "optionReasons": [
+        "DNS menerjemahkan nama domain.",
+        "SMTP mengirim email.",
+        "DHCP membagi alamat IP.",
+        "RDP menampilkan desktop grafis server dari jarak jauh."
+      ]
     },
     {
       "id": 39,
@@ -473,7 +701,13 @@
         "Menggantikan firewall server"
       ],
       "answer": 1,
-      "explanation": "Kunci publik-privat menghilangkan penggunaan password yang rentan, meningkatkan keamanan akses remote SSH."
+      "explanation": "Kunci publik-privat menghilangkan penggunaan password yang rentan, meningkatkan keamanan akses remote SSH.",
+      "optionReasons": [
+        "Kunci publik-privat tidak berfokus pada kecepatan transfer.",
+        "Autentikasi kunci menggantikan password dan jauh lebih sulit ditebak/dibobol.",
+        "Kunci SSH tidak menyederhanakan manajemen user lokal.",
+        "Autentikasi SSH tidak menggantikan fungsi firewall."
+      ]
     },
     {
       "id": 40,
@@ -485,7 +719,13 @@
         "HTTP (Hypertext Transfer Protocol)"
       ],
       "answer": 0,
-      "explanation": "SMTP digunakan untuk mengirim email dari klien ke server dan antar server email."
+      "explanation": "SMTP digunakan untuk mengirim email dari klien ke server dan antar server email.",
+      "optionReasons": [
+        "SMTP dipakai untuk mengirim email dari klien ke server dan antarserver.",
+        "IMAP untuk membaca/mengambil email.",
+        "POP3 untuk mengunduh email.",
+        "HTTP untuk webmail, bukan protokol pengiriman email."
+      ]
     },
     {
       "id": 41,
@@ -497,7 +737,13 @@
         "Mengenkripsi email pada sisi klien"
       ],
       "answer": 0,
-      "explanation": "MTA bertanggung jawab untuk meneruskan dan mengirim email antar server menggunakan SMTP."
+      "explanation": "MTA bertanggung jawab untuk meneruskan dan mengirim email antar server menggunakan SMTP.",
+      "optionReasons": [
+        "MTA (mis. Postfix) meneruskan email antar mail server menggunakan SMTP.",
+        "Penyimpanan kotak surat adalah tugas MDA/mailbox server.",
+        "Antarmuka web adalah webmail (MUA).",
+        "Enkripsi sisi klien dilakukan aplikasi klien (PGP/S/MIME)."
+      ]
     },
     {
       "id": 42,
@@ -509,7 +755,13 @@
         "DHCP (Dynamic Host Configuration Protocol)"
       ],
       "answer": 2,
-      "explanation": "POP3 dan IMAP digunakan klien untuk mengambil email dari server, dengan IMAP memungkinkan sinkronisasi antar perangkat."
+      "explanation": "POP3 dan IMAP digunakan klien untuk mengambil email dari server, dengan IMAP memungkinkan sinkronisasi antar perangkat.",
+      "optionReasons": [
+        "SMTP untuk mengirim, bukan membaca email.",
+        "DNS menerjemahkan nama domain.",
+        "POP3 dan IMAP adalah protokol untuk mengambil/membaca email dari server.",
+        "DHCP membagi alamat IP."
+      ]
     },
     {
       "id": 43,
@@ -521,7 +773,13 @@
         "Redundansi"
       ],
       "answer": 0,
-      "explanation": "Konvergensi menggabungkan sumber daya komputasi, penyimpanan, dan jaringan untuk meningkatkan efisiensi dan pengelolaan."
+      "explanation": "Konvergensi menggabungkan sumber daya komputasi, penyimpanan, dan jaringan untuk meningkatkan efisiensi dan pengelolaan.",
+      "optionReasons": [
+        "Sesuai kunci soal, konvergensi adalah konsep yang menata komputasi, storage, dan jaringan sebagai komponen terpisah namun terintegrasi untuk efisiensi.",
+        "Virtualisasi adalah abstraksi hardware menjadi mesin virtual, bukan konsep pemisahan tiga komponen ini.",
+        "Hiperkonvergensi justru menyatukan komputasi, storage, dan jaringan dalam satu node.",
+        "Redundansi adalah duplikasi untuk ketahanan, bukan pemisahan komponen."
+      ]
     },
     {
       "id": 44,
@@ -533,7 +791,13 @@
         "Kabel serat optik"
       ],
       "answer": 0,
-      "explanation": "UPS menyediakan daya cadangan sementara saat listrik padam, melindungi perangkat dari kerusakan dan downtime."
+      "explanation": "UPS menyediakan daya cadangan sementara saat listrik padam, melindungi perangkat dari kerusakan dan downtime.",
+      "optionReasons": [
+        "UPS menyuplai listrik cadangan dari baterai saat listrik padam.",
+        "Switch menghubungkan perangkat jaringan, tidak menyediakan daya.",
+        "Rack hanya tempat memasang server.",
+        "Kabel fiber optik untuk transmisi data, bukan listrik."
+      ]
     },
     {
       "id": 45,
@@ -545,7 +809,13 @@
         "Container engine"
       ],
       "answer": 1,
-      "explanation": "Hypervisor tipe 1 berjalan langsung pada hardware, memberikan efisiensi tinggi untuk virtualisasi server."
+      "explanation": "Hypervisor tipe 1 berjalan langsung pada hardware, memberikan efisiensi tinggi untuk virtualisasi server.",
+      "optionReasons": [
+        "Hypervisor tipe 2 berjalan di atas OS host (mis. VirtualBox).",
+        "Hypervisor tipe 1 (bare-metal) berjalan langsung di hardware, mis. ESXi, Hyper-V.",
+        "KVM adalah modul kernel; istilah umum untuk yang langsung di hardware tetap tipe 1.",
+        "Container engine berbagi kernel host, bukan hypervisor."
+      ]
     },
     {
       "id": 46,
@@ -557,7 +827,13 @@
         "Efisiensi penggunaan sumber daya dan isolasi antar lingkungan"
       ],
       "answer": 3,
-      "explanation": "Virtualisasi memungkinkan penggunaan sumber daya lebih efisien dan isolasi antar mesin virtual, menghemat biaya."
+      "explanation": "Virtualisasi memungkinkan penggunaan sumber daya lebih efisien dan isolasi antar mesin virtual, menghemat biaya.",
+      "optionReasons": [
+        "Virtualisasi justru mengurangi biaya hardware.",
+        "Virtualisasi mempermudah manajemen sumber daya.",
+        "Virtualisasi menambah fleksibilitas, bukan mengurangi.",
+        "Banyak VM berbagi satu server fisik secara efisien dan terisolasi satu sama lain."
+      ]
     },
     {
       "id": 47,
@@ -569,7 +845,13 @@
         "Membuat user dengan hak superuser untuk semua"
       ],
       "answer": 1,
-      "explanation": "Memperbarui sistem operasi dan patch keamanan menutup celah keamanan yang diketahui, langkah fundamental dalam keamanan TI."
+      "explanation": "Memperbarui sistem operasi dan patch keamanan menutup celah keamanan yang diketahui, langkah fundamental dalam keamanan TI.",
+      "optionReasons": [
+        "Aplikasi pihak ketiga menambah permukaan serangan.",
+        "Patch keamanan menutup celah yang sudah diketahui, sehingga menjadi langkah pertama hardening.",
+        "Membuka semua port justru memperlemah keamanan.",
+        "Memberi superuser ke semua orang melanggar least privilege."
+      ]
     },
     {
       "id": 48,
@@ -581,7 +863,13 @@
         "Least privilege (hak akses minimal)"
       ],
       "answer": 3,
-      "explanation": "Prinsip least privilege memastikan setiap pengguna hanya memiliki akses yang diperlukan, mengurangi risiko penyalahgunaan."
+      "explanation": "Prinsip least privilege memastikan setiap pengguna hanya memiliki akses yang diperlukan, mengurangi risiko penyalahgunaan.",
+      "optionReasons": [
+        "Privilege maksimum memperbesar risiko penyalahgunaan.",
+        "Logging dibutuhkan untuk audit dan deteksi insiden.",
+        "Password lemah mudah dibobol.",
+        "Least privilege: setiap user hanya diberi hak akses minimal yang dibutuhkan."
+      ]
     },
     {
       "id": 49,
@@ -593,7 +881,13 @@
         "Prosedur operasional standar (SOP)"
       ],
       "answer": 3,
-      "explanation": "SOP memberikan panduan terstruktur untuk menangani insiden, memastikan konsistensi dan efektivitas respons."
+      "explanation": "SOP memberikan panduan terstruktur untuk menangani insiden, memastikan konsistensi dan efektivitas respons.",
+      "optionReasons": [
+        "Kebijakan keamanan berisi aturan umum, bukan langkah terperinci.",
+        "Laporan keuangan tidak terkait penanganan insiden.",
+        "Rencana bisnis berisi strategi bisnis.",
+        "SOP berisi langkah-langkah terperinci yang harus diikuti, termasuk saat menangani insiden."
+      ]
     },
     {
       "id": 50,
@@ -605,7 +899,13 @@
         "Mengurangi dokumentasi"
       ],
       "answer": 2,
-      "explanation": "SOP memastikan setiap tugas dilakukan dengan cara yang seragam, meningkatkan efisiensi dan mengurangi kesalahan."
+      "explanation": "SOP memastikan setiap tugas dilakukan dengan cara yang seragam, meningkatkan efisiensi dan mengurangi kesalahan.",
+      "optionReasons": [
+        "SOP justru mengurangi kesalahan manusia.",
+        "SOP menstandarkan proses; tujuannya bukan membuat kaku.",
+        "SOP membuat pekerjaan dilakukan dengan cara yang sama dan efisien oleh siapa pun.",
+        "SOP sendiri adalah bentuk dokumentasi, jadi tidak mengurangi dokumentasi."
+      ]
     }
   ]
 }

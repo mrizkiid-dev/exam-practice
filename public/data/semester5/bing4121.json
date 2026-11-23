@@ -17,7 +17,13 @@
         "definition"
       ],
       "answer": 3,
-      "explanation": "Frasa 'which is a type of bird' memberikan definisi dari kata sebelumnya, sehingga merupakan petunjuk definisi."
+      "explanation": "Frasa 'which is a type of bird' memberikan definisi dari kata sebelumnya, sehingga merupakan petunjuk definisi.",
+      "optionReasons": [
+        "Example memakai penanda seperti 'such as' / 'for example'.",
+        "Synonym memberi kata lain yang sama artinya, bukan penjelasan.",
+        "Antonym memberi lawan kata.",
+        "'which is a type of bird' menjelaskan arti kata, jadi berfungsi sebagai definisi (context clue)."
+      ]
     },
     {
       "id": 2,
@@ -29,7 +35,13 @@
         "example"
       ],
       "answer": 2,
-      "explanation": "Kata 'meaning' secara eksplisit menunjukkan definisi dari 'arboreal animal'."
+      "explanation": "Kata 'meaning' secara eksplisit menunjukkan definisi dari 'arboreal animal'.",
+      "optionReasons": [
+        "Description menggambarkan ciri, sedangkan 'meaning' secara eksplisit memberi arti.",
+        "Synonym hanya satu kata padanan, bukan klausa penjelas.",
+        "'meaning…' menjelaskan arti kata 'arboreal', jadi termasuk definisi.",
+        "Tidak ada contoh yang diberikan."
+      ]
     },
     {
       "id": 3,
@@ -41,7 +53,13 @@
         "antonym"
       ],
       "answer": 2,
-      "explanation": "'That is' digunakan untuk memberikan definisi dari kata sebelumnya."
+      "explanation": "'That is' digunakan untuk memberikan definisi dari kata sebelumnya.",
+      "optionReasons": [
+        "Synonym hanya padanan kata.",
+        "Tidak ada contoh konkret.",
+        "'that is' memperkenalkan penjelasan arti kata 'herbivore' (definisi).",
+        "Tidak ada lawan kata."
+      ]
     },
     {
       "id": 4,
@@ -53,7 +71,13 @@
         "calm"
       ],
       "answer": 1,
-      "explanation": "Kalimat memberikan sinonim 'extremely happy' untuk menjelaskan 'ecstatic'."
+      "explanation": "Kalimat memberikan sinonim 'extremely happy' untuk menjelaskan 'ecstatic'.",
+      "optionReasons": [
+        "sad adalah lawan arti.",
+        "'or extremely happy' menjelaskan bahwa ecstatic berarti sangat bahagia.",
+        "angry tidak sesuai konteks.",
+        "calm tidak sesuai konteks."
+      ]
     },
     {
       "id": 5,
@@ -65,7 +89,13 @@
         "fear"
       ],
       "answer": 2,
-      "explanation": "Kata 'sadness' diberikan sebagai sinonim langsung untuk 'melancholy'."
+      "explanation": "Kata 'sadness' diberikan sebagai sinonim langsung untuk 'melancholy'.",
+      "optionReasons": [
+        "joy adalah lawan dari sadness.",
+        "anger tidak sesuai.",
+        "Kalimat menyebut melancholy adalah sinonim dari sadness.",
+        "fear tidak sesuai."
+      ]
     },
     {
       "id": 6,
@@ -77,7 +107,13 @@
         "sound"
       ],
       "answer": 1,
-      "explanation": "Kata 'smell' adalah sinonim yang diberikan untuk 'aroma'."
+      "explanation": "Kata 'smell' adalah sinonim yang diberikan untuk 'aroma'.",
+      "optionReasons": [
+        "taste adalah rasa (indra pengecap).",
+        "'or smell' menunjukkan aroma berarti bau/wangi.",
+        "sight adalah penglihatan.",
+        "sound adalah suara."
+      ]
     },
     {
       "id": 7,
@@ -89,7 +125,13 @@
         "social"
       ],
       "answer": 0,
-      "explanation": "Kata 'Unlike' menunjukkan antonim; 'shy' adalah lawan dari 'gregarious'."
+      "explanation": "Kata 'Unlike' menunjukkan antonim; 'shy' adalah lawan dari 'gregarious'.",
+      "optionReasons": [
+        "'Unlike' menandakan kontras; lawan gregarious (suka bergaul) adalah shy.",
+        "friendly justru mirip arti gregarious.",
+        "outgoing adalah sinonim gregarious.",
+        "social juga mirip arti gregarious."
+      ]
     },
     {
       "id": 8,
@@ -101,7 +143,13 @@
         "examples"
       ],
       "answer": 0,
-      "explanation": "'Hot' dan 'cold' adalah kata yang berlawanan makna, yaitu antonim."
+      "explanation": "'Hot' dan 'cold' adalah kata yang berlawanan makna, yaitu antonim.",
+      "optionReasons": [
+        "hot dan cold berlawanan arti (antonim), ditandai kata 'but'.",
+        "Sinonim berarti sama arti.",
+        "Tidak ada definisi.",
+        "Tidak ada contoh."
+      ]
     },
     {
       "id": 9,
@@ -113,7 +161,13 @@
         "helpful"
       ],
       "answer": 1,
-      "explanation": "Frasa 'in contrast to' menunjukkan antonim; 'stingy' adalah lawan dari 'generous'."
+      "explanation": "Frasa 'in contrast to' menunjukkan antonim; 'stingy' adalah lawan dari 'generous'.",
+      "optionReasons": [
+        "kind bersinonim dengan generous.",
+        "'in contrast to' menunjukkan stingy (pelit) adalah lawan generous.",
+        "mean bisa berarti pelit, tetapi kata yang dikontraskan di kalimat adalah stingy.",
+        "helpful mirip makna generous."
+      ]
     },
     {
       "id": 10,
@@ -125,7 +179,13 @@
         "example"
       ],
       "answer": 3,
-      "explanation": "'Such as' digunakan untuk memberikan contoh, yaitu apel dan jeruk."
+      "explanation": "'Such as' digunakan untuk memberikan contoh, yaitu apel dan jeruk.",
+      "optionReasons": [
+        "Definisi memakai penanda seperti 'means' / 'that is'.",
+        "Tidak ada sinonim.",
+        "Tidak ada antonim.",
+        "'such as' memperkenalkan contoh (apples, oranges)."
+      ]
     },
     {
       "id": 11,
@@ -137,7 +197,13 @@
         "example"
       ],
       "answer": 3,
-      "explanation": "'For instance' adalah penanda yang memperkenalkan contoh."
+      "explanation": "'For instance' adalah penanda yang memperkenalkan contoh.",
+      "optionReasons": [
+        "Bukan penjelasan arti.",
+        "Bukan lawan kata.",
+        "Bukan padanan kata.",
+        "'for instance' menandakan contoh (dogs, cats)."
+      ]
     },
     {
       "id": 12,
@@ -149,7 +215,13 @@
         "antonym"
       ],
       "answer": 0,
-      "explanation": "'Like' berfungsi memberikan contoh dari kata 'vehicles'."
+      "explanation": "'Like' berfungsi memberikan contoh dari kata 'vehicles'.",
+      "optionReasons": [
+        "'like' di sini berarti 'seperti', memberi contoh kendaraan.",
+        "Tidak menjelaskan arti transportation.",
+        "Bukan sinonim.",
+        "Bukan antonim."
+      ]
     },
     {
       "id": 13,
@@ -161,7 +233,13 @@
         "read difficult texts"
       ],
       "answer": 1,
-      "explanation": "Membaca secara ekstensif berarti membaca secara luas, bukan hanya teknis atau cepat."
+      "explanation": "Membaca secara ekstensif berarti membaca secara luas, bukan hanya teknis atau cepat.",
+      "optionReasons": [
+        "Extensive reading bukan soal kecepatan.",
+        "Extensive reading berarti membaca secara luas dan banyak.",
+        "Justru tidak terbatas pada buku teks.",
+        "Teks dipilih yang nyaman, bukan yang sulit."
+      ]
     },
     {
       "id": 14,
@@ -173,7 +251,13 @@
         "skips unknown words"
       ],
       "answer": 2,
-      "explanation": "Membaca ekstensif membantu pengenalan kata melalui konteks."
+      "explanation": "Membaca ekstensif membantu pengenalan kata melalui konteks.",
+      "optionReasons": [
+        "Fokusnya makna, bukan tata bahasa.",
+        "Bermanfaat untuk semua level.",
+        "Menemui kata dalam konteks membantu pengenalan kata.",
+        "Pernyataan ini tidak menyiratkan melewati kata."
+      ]
     },
     {
       "id": 15,
@@ -185,7 +269,13 @@
         "read for pleasure and general understanding"
       ],
       "answer": 3,
-      "explanation": "Membaca ekstensif menekankan kesenangan dan pemahaman umum, bukan analisis detail."
+      "explanation": "Membaca ekstensif menekankan kesenangan dan pemahaman umum, bukan analisis detail.",
+      "optionReasons": [
+        "Berhenti di setiap kata baru mengganggu kelancaran.",
+        "Tidak perlu membuka kamus untuk setiap kata.",
+        "Analisis struktur adalah ciri intensive reading.",
+        "Extensive reading dilakukan untuk kesenangan dan pemahaman umum."
+      ]
     },
     {
       "id": 16,
@@ -197,7 +287,13 @@
         "happy again"
       ],
       "answer": 0,
-      "explanation": "Awalan 'un-' berarti 'tidak', sehingga 'unhappy' berarti tidak bahagia."
+      "explanation": "Awalan 'un-' berarti 'tidak', sehingga 'unhappy' berarti tidak bahagia.",
+      "optionReasons": [
+        "'un-' berarti tidak, jadi unhappy = tidak bahagia.",
+        "'sebelum' adalah arti 'pre-'.",
+        "'sangat' bukan arti 'un-'.",
+        "'lagi' adalah arti 're-'."
+      ]
     },
     {
       "id": 17,
@@ -209,7 +305,13 @@
         "again"
       ],
       "answer": 0,
-      "explanation": "Awalan 'pre-' berarti 'sebelum', seperti dalam 'preview' yang berarti melihat sebelumnya."
+      "explanation": "Awalan 'pre-' berarti 'sebelum', seperti dalam 'preview' yang berarti melihat sebelumnya.",
+      "optionReasons": [
+        "'pre-' berarti sebelum; preview = melihat sebelumnya.",
+        "'not' adalah arti 'un-'/'dis-'.",
+        "'after' adalah arti 'post-'.",
+        "'again' adalah arti 're-'."
+      ]
     },
     {
       "id": 18,
@@ -221,7 +323,13 @@
         "Rewrite"
       ],
       "answer": 3,
-      "explanation": "Awalan 're-' berarti 'lagi' atau 'kembali', sehingga 'rewrite' berarti menulis lagi."
+      "explanation": "Awalan 're-' berarti 'lagi' atau 'kembali', sehingga 'rewrite' berarti menulis lagi.",
+      "optionReasons": [
+        "'un-' berarti tidak.",
+        "'dis-' berarti tidak/berlawanan.",
+        "'mis-' berarti salah.",
+        "'re-' berarti lagi; rewrite = menulis ulang."
+      ]
     },
     {
       "id": 19,
@@ -233,7 +341,13 @@
         "Teacher"
       ],
       "answer": 2,
-      "explanation": "Akhiran '-ment' pada 'movement' mengubah kata kerja 'move' menjadi kata benda 'movement'."
+      "explanation": "Akhiran '-ment' pada 'movement' mengubah kata kerja 'move' menjadi kata benda 'movement'.",
+      "optionReasons": [
+        "Happiness memakai sufiks -ness.",
+        "Quickly memakai sufiks -ly.",
+        "Movement = move + -ment.",
+        "Teacher memakai sufiks -er."
+      ]
     },
     {
       "id": 20,
@@ -245,7 +359,13 @@
         "Curious"
       ],
       "answer": 2,
-      "explanation": "Akhiran '-ous' berarti 'penuh dengan', jadi 'dangerous' berarti penuh bahaya."
+      "explanation": "Akhiran '-ous' berarti 'penuh dengan', jadi 'dangerous' berarti penuh bahaya.",
+      "optionReasons": [
+        "Famous juga berakhiran -ous, tetapi kunci soal memilih contoh paling jelas bermakna 'penuh dengan'.",
+        "Various berarti beragam, tidak tepat berarti 'penuh'.",
+        "Dangerous = danger + -ous = penuh bahaya, contoh paling jelas 'full of'.",
+        "Curious tidak dibentuk dari kata dasar 'cure' + full of."
+      ]
     },
     {
       "id": 21,
@@ -257,7 +377,13 @@
         "Hopefully"
       ],
       "answer": 0,
-      "explanation": "Akhiran '-less' berarti 'tanpa', sehingga 'hopeless' berarti tanpa harapan."
+      "explanation": "Akhiran '-less' berarti 'tanpa', sehingga 'hopeless' berarti tanpa harapan.",
+      "optionReasons": [
+        "Hopeless = tanpa harapan.",
+        "Hopeful berarti penuh harapan.",
+        "Hope adalah kata dasarnya.",
+        "Hopefully adalah adverbia 'semoga'."
+      ]
     },
     {
       "id": 22,
@@ -269,7 +395,13 @@
         "Ness"
       ],
       "answer": 2,
-      "explanation": "Kata dasar dari 'unhappiness' adalah 'happy' yang dapat berdiri sendiri."
+      "explanation": "Kata dasar dari 'unhappiness' adalah 'happy' yang dapat berdiri sendiri.",
+      "optionReasons": [
+        "'un-' adalah prefiks.",
+        "'hap' bukan kata yang berdiri sendiri dalam bahasa Inggris modern.",
+        "'happy' adalah kata dasar yang bisa berdiri sendiri.",
+        "'-ness' adalah sufiks."
+      ]
     },
     {
       "id": 23,
@@ -281,7 +413,13 @@
         "To carry under"
       ],
       "answer": 1,
-      "explanation": "Kata dasar 'port' berarti 'membawa', dan 'trans-' berarti 'seberang', sehingga 'transport' berarti membawa menyeberang."
+      "explanation": "Kata dasar 'port' berarti 'membawa', dan 'trans-' berarti 'seberang', sehingga 'transport' berarti membawa menyeberang.",
+      "optionReasons": [
+        "'away' bukan arti 'trans-'.",
+        "'trans-' berarti melintasi; transport = membawa melintasi/memindahkan.",
+        "'in' adalah arti 'im-/in-'.",
+        "'under' adalah arti 'sub-'."
+      ]
     },
     {
       "id": 24,
@@ -293,7 +431,13 @@
         "Audience"
       ],
       "answer": 3,
-      "explanation": "Kata dasar 'aud' berarti 'mendengar', dan 'audience' berarti sekelompok pendengar."
+      "explanation": "Kata dasar 'aud' berarti 'mendengar', dan 'audience' berarti sekelompok pendengar.",
+      "optionReasons": [
+        "Visible berakar 'vis' (melihat).",
+        "Manual berakar 'man' (tangan).",
+        "Spectacle berakar 'spect' (melihat).",
+        "Audience berakar 'aud' (mendengar)."
+      ]
     },
     {
       "id": 25,
@@ -305,7 +449,13 @@
         "Adverb"
       ],
       "answer": 2,
-      "explanation": "Singkatan 'n.' dalam kamus berarti 'noun' atau kata benda."
+      "explanation": "Singkatan 'n.' dalam kamus berarti 'noun' atau kata benda.",
+      "optionReasons": [
+        "Verb disingkat v.",
+        "Adjective disingkat adj.",
+        "'n.' adalah singkatan noun (kata benda).",
+        "Adverb disingkat adv."
+      ]
     },
     {
       "id": 26,
@@ -317,7 +467,13 @@
         "Example"
       ],
       "answer": 0,
-      "explanation": "Simbol garis miring '/' dalam entri kamus biasanya menunjukkan pengucapan atau pelafalan kata."
+      "explanation": "Simbol garis miring '/' dalam entri kamus biasanya menunjukkan pengucapan atau pelafalan kata.",
+      "optionReasons": [
+        "Tanda /.../ mengapit transkripsi pelafalan (pronunciation).",
+        "Sinonim biasanya ditandai 'syn.'.",
+        "Antonim ditandai 'ant.'.",
+        "Contoh biasanya dicetak miring."
+      ]
     },
     {
       "id": 27,
@@ -329,7 +485,13 @@
         "Symbol"
       ],
       "answer": 0,
-      "explanation": "Singkatan 'syn.' dalam kamus berarti 'synonym' atau sinonim."
+      "explanation": "Singkatan 'syn.' dalam kamus berarti 'synonym' atau sinonim.",
+      "optionReasons": [
+        "'syn.' adalah singkatan synonym.",
+        "Syllable ditandai dengan titik/pemenggalan.",
+        "Syntax bukan isi entri kamus.",
+        "Symbol bukan arti 'syn.'."
+      ]
     },
     {
       "id": 28,
@@ -341,7 +503,13 @@
         "Pronunciation guide"
       ],
       "answer": 1,
-      "explanation": "Dalam entri kamus, definisi biasanya ditampilkan dengan nomor untuk menunjukkan berbagai arti kata."
+      "explanation": "Dalam entri kamus, definisi biasanya ditampilkan dengan nomor untuk menunjukkan berbagai arti kata.",
+      "optionReasons": [
+        "Etymology menjelaskan asal-usul kata.",
+        "Definisi-definisi berbeda dicantumkan sebagai makna bernomor.",
+        "Contoh kalimat mendukung tiap makna, bukan daftar definisinya.",
+        "Panduan pelafalan menunjukkan cara mengucapkan."
+      ]
     },
     {
       "id": 29,
@@ -353,7 +521,13 @@
         "To show the word's pronunciation"
       ],
       "answer": 0,
-      "explanation": "Contoh kalimat dalam entri kamus membantu pembaca memahami penggunaan kata dalam konteks."
+      "explanation": "Contoh kalimat dalam entri kamus membantu pembaca memahami penggunaan kata dalam konteks.",
+      "optionReasons": [
+        "Contoh kalimat menunjukkan penggunaan kata dalam konteks.",
+        "Sejarah kata ada di etimologi.",
+        "Sinonim ditandai syn.",
+        "Pelafalan ditunjukkan transkripsi."
+      ]
     },
     {
       "id": 30,
@@ -365,7 +539,13 @@
         "Version"
       ],
       "answer": 1,
-      "explanation": "Singkatan 'v.' dalam kamus berarti 'verb' atau kata kerja."
+      "explanation": "Singkatan 'v.' dalam kamus berarti 'verb' atau kata kerja.",
+      "optionReasons": [
+        "Vowel bukan kelas kata.",
+        "'v.' adalah singkatan verb (kata kerja).",
+        "Volume tidak relevan.",
+        "Version tidak relevan."
+      ]
     },
     {
       "id": 31,
@@ -377,7 +557,13 @@
         "To read for enjoyment and general understanding"
       ],
       "answer": 3,
-      "explanation": "Membaca ekstensif bertujuan untuk membaca demi kesenangan dan pemahaman umum tanpa terlalu fokus pada detail."
+      "explanation": "Membaca ekstensif bertujuan untuk membaca demi kesenangan dan pemahaman umum tanpa terlalu fokus pada detail.",
+      "optionReasons": [
+        "Belajar tata bahasa adalah intensive reading.",
+        "Analisis struktur adalah intensive reading.",
+        "Menghafal kosakata bukan tujuan utama.",
+        "Tujuannya membaca untuk kesenangan dan pemahaman umum."
+      ]
     },
     {
       "id": 32,
@@ -389,7 +575,13 @@
         "Reading large amounts of text at a comfortable level"
       ],
       "answer": 3,
-      "explanation": "Membaca ekstensif membantu kelancaran dengan membaca teks dalam jumlah besar pada tingkat yang nyaman."
+      "explanation": "Membaca ekstensif membantu kelancaran dengan membaca teks dalam jumlah besar pada tingkat yang nyaman.",
+      "optionReasons": [
+        "Fokus pada kata sulit justru memperlambat.",
+        "Mengulang teks pendek bukan extensive reading.",
+        "Tata bahasa rinci adalah intensive reading.",
+        "Membaca banyak teks di level yang nyaman meningkatkan kelancaran."
+      ]
     },
     {
       "id": 33,
@@ -401,7 +593,13 @@
         "Reading at a rapid pace"
       ],
       "answer": 1,
-      "explanation": "Membaca ekstensif tidak menganjurkan menggunakan kamus untuk setiap kata yang tidak dikenal karena dapat mengganggu aliran membaca."
+      "explanation": "Membaca ekstensif tidak menganjurkan menggunakan kamus untuk setiap kata yang tidak dikenal karena dapat mengganggu aliran membaca.",
+      "optionReasons": [
+        "Membaca untuk kesenangan adalah ciri extensive reading.",
+        "Membuka kamus untuk setiap kata bukan ciri extensive reading.",
+        "Fokus makna adalah ciri extensive reading.",
+        "Membaca cepat adalah ciri extensive reading."
+      ]
     },
     {
       "id": 34,
@@ -413,7 +611,13 @@
         "Determiner, noun, adjective"
       ],
       "answer": 0,
-      "explanation": "Frasa nomina 'a big red car' terdiri dari penentu (a), kata sifat (big, red), dan kata benda (car)."
+      "explanation": "Frasa nomina 'a big red car' terdiri dari penentu (a), kata sifat (big, red), dan kata benda (car).",
+      "optionReasons": [
+        "a (determiner) + big (adj) + red (adj) + car (noun).",
+        "Tidak ada verba dalam frasa ini.",
+        "Tidak ada adverbia.",
+        "Urutannya salah; noun berada di akhir."
+      ]
     },
     {
       "id": 35,
@@ -425,7 +629,13 @@
         "night"
       ],
       "answer": 3,
-      "explanation": "The head noun is the main noun being described; in this phrase, 'night' is the head noun, while 'dark' and 'stormy' are modifiers."
+      "explanation": "The head noun is the main noun being described; in this phrase, 'night' is the head noun, while 'dark' and 'stormy' are modifiers.",
+      "optionReasons": [
+        "dark adalah adjektiva pewatas.",
+        "stormy adalah adjektiva pewatas.",
+        "'and' tidak ada dalam frasa.",
+        "night adalah head noun yang diterangkan adjektiva."
+      ]
     },
     {
       "id": 36,
@@ -437,7 +647,13 @@
         "He is happy."
       ],
       "answer": 2,
-      "explanation": "A complex noun phrase includes a noun with multiple modifiers; 'The tall, mysterious man with a hat' has adjectives and a prepositional phrase modifying 'man'."
+      "explanation": "A complex noun phrase includes a noun with multiple modifiers; 'The tall, mysterious man with a hat' has adjectives and a prepositional phrase modifying 'man'.",
+      "optionReasons": [
+        "Kalimat ini tanpa frasa nomina kompleks.",
+        "Birds hanya nomina tunggal.",
+        "'The tall, mysterious man with a hat' memiliki beberapa pewatas (adjektiva + frasa preposisi).",
+        "'happy' adalah adjektiva predikat."
+      ]
     },
     {
       "id": 37,
@@ -449,7 +665,13 @@
         "We will go or stay."
       ],
       "answer": 1,
-      "explanation": "Coordinating conjunctions like 'and' connect equal elements; 'coffee and tea' are two nouns, correctly joined."
+      "explanation": "Coordinating conjunctions like 'and' connect equal elements; 'coffee and tea' are two nouns, correctly joined.",
+      "optionReasons": [
+        "Dua klausa independen dengan 'but' seharusnya didahului koma.",
+        "'and' menghubungkan dua nomina setara dengan benar.",
+        "'for' sebagai konjungsi butuh koma, dan logika sebab-akibatnya terbalik.",
+        "'go or stay' kurang lazim tanpa konteks; kunci memilih B sebagai contoh paling tepat."
+      ]
     },
     {
       "id": 38,
@@ -461,7 +683,13 @@
         "It is raining but we are inside."
       ],
       "answer": 1,
-      "explanation": "Coordinating conjunctions like 'but' show contrast; 'He tried but failed' contrasts the attempt with the outcome."
+      "explanation": "Coordinating conjunctions like 'but' show contrast; 'He tried but failed' contrasts the attempt with the outcome.",
+      "optionReasons": [
+        "'but not oranges' bukan dua klausa yang dikontraskan secara utuh.",
+        "'tried but failed' menunjukkan kontras antara usaha dan hasil.",
+        "tall dan kind tidak berlawanan sehingga 'but' tidak logis.",
+        "Hujan dan berada di dalam tidak benar-benar kontras; kunci memilih B."
+      ]
     },
     {
       "id": 39,
@@ -473,7 +701,13 @@
         "He is smart and hardworking."
       ],
       "answer": 0,
-      "explanation": "Coordinating conjunctions join independent clauses; 'I will go to the store' and 'I will order online' are both independent clauses linked by 'or'."
+      "explanation": "Coordinating conjunctions join independent clauses; 'I will go to the store' and 'I will order online' are both independent clauses linked by 'or'.",
+      "optionReasons": [
+        "Dua klausa independen ('I will go…' dan 'I will order…') dihubungkan 'or' dengan koma.",
+        "'and' menghubungkan dua nomina, bukan klausa.",
+        "'and' menghubungkan dua nomina.",
+        "'and' menghubungkan dua adjektiva."
+      ]
     },
     {
       "id": 40,
@@ -485,7 +719,13 @@
         "She will go or stay."
       ],
       "answer": 0,
-      "explanation": "Subordinating conjunctions introduce dependent clauses; 'because it was raining' is a dependent clause attached to the main clause."
+      "explanation": "Subordinating conjunctions introduce dependent clauses; 'because it was raining' is a dependent clause attached to the main clause.",
+      "optionReasons": [
+        "'because' adalah konjungsi subordinatif (klausa sebab).",
+        "'but' adalah konjungsi koordinatif.",
+        "'and' adalah konjungsi koordinatif.",
+        "'or' adalah konjungsi koordinatif."
+      ]
     },
     {
       "id": 41,
@@ -497,7 +737,13 @@
         "although"
       ],
       "answer": 3,
-      "explanation": "Subordinating conjunctions like 'although' introduce a dependent clause showing concession."
+      "explanation": "Subordinating conjunctions like 'although' introduce a dependent clause showing concession.",
+      "optionReasons": [
+        "tired adalah adjektiva.",
+        "his adalah posesif.",
+        "finished adalah verba.",
+        "'Although' memulai klausa subordinatif (konsesif)."
+      ]
     },
     {
       "id": 42,
@@ -509,7 +755,13 @@
         "She worked hard so that she could succeed."
       ],
       "answer": 2,
-      "explanation": "Subordinating conjunctions like 'after' indicate time relationships; 'after the movie ended' shows when she left."
+      "explanation": "Subordinating conjunctions like 'after' indicate time relationships; 'after the movie ended' shows when she left.",
+      "optionReasons": [
+        "'if' menyatakan syarat.",
+        "'because' menyatakan sebab.",
+        "'after' menyatakan waktu.",
+        "'so that' menyatakan tujuan."
+      ]
     },
     {
       "id": 43,
@@ -521,7 +773,13 @@
         "Neither he comes or goes."
       ],
       "answer": 2,
-      "explanation": "Correlative conjunctions come in pairs; 'not only…but also' correctly pairs to connect two equal ideas."
+      "explanation": "Correlative conjunctions come in pairs; 'not only…but also' correctly pairs to connect two equal ideas.",
+      "optionReasons": [
+        "Either…or seharusnya menghubungkan unsur setara: 'Either you go or I go'.",
+        "'both' salah posisi; seharusnya 'He likes both cats and dogs'.",
+        "'not only…but also' dipakai dengan benar dan setara (sings/dances).",
+        "Neither harus berpasangan dengan nor."
+      ]
     },
     {
       "id": 44,
@@ -533,7 +791,13 @@
         "Either/or"
       ],
       "answer": 3,
-      "explanation": "Correlative conjunctions like 'either…or' present a choice between two alternatives; here, studying or failing."
+      "explanation": "Correlative conjunctions like 'either…or' present a choice between two alternatives; here, studying or failing.",
+      "optionReasons": [
+        "Whether/or menyatakan dua kemungkinan yang sama-sama berlaku.",
+        "Neither/nor menyangkal keduanya sehingga tidak logis.",
+        "Both/and tidak logis dengan 'will fail'.",
+        "Either…or: pilihan antara belajar keras atau gagal."
+      ]
     },
     {
       "id": 45,
@@ -545,7 +809,13 @@
         "Neither the cat and the dog is inside."
       ],
       "answer": 2,
-      "explanation": "Correlative conjunctions 'neither…nor' are used with singular or plural subject-verb agreement; this sentence correctly pairs 'neither' with 'nor' and uses singular verb 'is'."
+      "explanation": "Correlative conjunctions 'neither…nor' are used with singular or plural subject-verb agreement; this sentence correctly pairs 'neither' with 'nor' and uses singular verb 'is'.",
+      "optionReasons": [
+        "Neither harus berpasangan dengan nor, bukan or.",
+        "Dengan neither…nor, verba mengikuti subjek terdekat (the dog → is).",
+        "Pasangan dan kesesuaian verbanya benar.",
+        "Neither tidak dipasangkan dengan and."
+      ]
     },
     {
       "id": 46,
@@ -557,7 +827,13 @@
         "woman"
       ],
       "answer": 3,
-      "explanation": "Relative pronouns like 'who' introduce relative clauses and refer to a noun; 'who' refers to 'woman'."
+      "explanation": "Relative pronouns like 'who' introduce relative clauses and refer to a noun; 'who' refers to 'woman'.",
+      "optionReasons": [
+        "'who' tidak mengacu ke doctor (pelengkap).",
+        "next door adalah keterangan tempat.",
+        "lives adalah verba dalam klausa relatif.",
+        "'who' mengacu ke antecedent 'woman'."
+      ]
     },
     {
       "id": 47,
@@ -569,7 +845,13 @@
         "The dog which barked is loud."
       ],
       "answer": 1,
-      "explanation": "Relative pronouns like 'which' are used for things; 'car' is a thing, so 'which' is correct."
+      "explanation": "Relative pronouns like 'which' are used for things; 'car' is a thing, so 'which' is correct.",
+      "optionReasons": [
+        "'who' untuk orang, bukan benda (book).",
+        "'which' untuk benda (car) dipakai dengan benar.",
+        "Untuk orang (man) harus 'who'.",
+        "Secara tata bahasa bisa diterima, tetapi kalimatnya janggal ('the dog which barked is loud'); kunci memilih B."
+      ]
     },
     {
       "id": 48,
@@ -581,7 +863,13 @@
         "My mother, who loves cooking, made dinner."
       ],
       "answer": 0,
-      "explanation": "Essential relative clauses (without commas) are needed to identify the noun; 'who passed the exam' specifies which students."
+      "explanation": "Essential relative clauses (without commas) are needed to identify the noun; 'who passed the exam' specifies which students.",
+      "optionReasons": [
+        "Klausa 'who passed the exam' menentukan siswa mana yang lulus (defining/essential).",
+        "Klausa berkoma adalah informasi tambahan (non-defining).",
+        "Klausa berkoma adalah non-defining.",
+        "Klausa berkoma adalah non-defining."
+      ]
     },
     {
       "id": 49,
@@ -593,7 +881,13 @@
         "Comprehension is not important."
       ],
       "answer": 1,
-      "explanation": "The passage lists benefits of extensive reading, such as improving vocabulary and comprehension, so the main idea is that it has many benefits."
+      "explanation": "The passage lists benefits of extensive reading, such as improving vocabulary and comprehension, so the main idea is that it has many benefits.",
+      "optionReasons": [
+        "Teks tidak menyatakan membaca hanya untuk ujian.",
+        "Bacaan menyebut banyak manfaat extensive reading.",
+        "Teks tidak membatasi pembaca pada siswa.",
+        "Teks justru menyebut pemahaman meningkat."
+      ]
     },
     {
       "id": 50,
@@ -605,7 +899,13 @@
         "It makes exams harder."
       ],
       "answer": 0,
-      "explanation": "The passage directly states 'Reading extensively improves vocabulary and comprehension', so increased vocabulary is a benefit."
+      "explanation": "The passage directly states 'Reading extensively improves vocabulary and comprehension', so increased vocabulary is a benefit.",
+      "optionReasons": [
+        "Teks menyebut membaca ekstensif meningkatkan kosakata.",
+        "Teks tidak menyebut kecepatan membaca menurun.",
+        "Kemampuan menulis tidak disebut dalam teks.",
+        "Teks tidak menyebut ujian menjadi lebih sulit."
+      ]
     },
     {
       "id": 51,
@@ -617,7 +917,13 @@
         "Humorous"
       ],
       "answer": 0,
-      "explanation": "The passage presents facts about reading benefits without emotion or humor, making it informative in tone."
+      "explanation": "The passage presents facts about reading benefits without emotion or humor, making it informative in tone.",
+      "optionReasons": [
+        "Bacaan menyampaikan fakta tentang manfaat membaca secara netral, jadi nadanya informatif.",
+        "Tidak ada sindiran dalam teks.",
+        "Teks tidak mengkritik apa pun.",
+        "Tidak ada unsur lucu."
+      ]
     },
     {
       "id": 52,
@@ -629,7 +935,13 @@
         "Give a reason for clarification"
       ],
       "answer": 0,
-      "explanation": "Frasa 'meaning she explained it in more detail' memberikan definisi dari kata 'clarification'."
+      "explanation": "Frasa 'meaning she explained it in more detail' memberikan definisi dari kata 'clarification'.",
+      "optionReasons": [
+        "'meaning…' menjelaskan arti kata clarification (definisi).",
+        "Frasa ini tidak menambah gagasan baru, hanya menjelaskan.",
+        "Tidak ada pertentangan.",
+        "Frasa ini tidak memberi alasan."
+      ]
     },
     {
       "id": 53,
@@ -641,7 +953,13 @@
         "She likes fruits, for instance, apples and bananas."
       ],
       "answer": 3,
-      "explanation": "Kalimat 'for instance, apples and bananas' adalah contoh yang menambahkan ide tentang buah-buahan."
+      "explanation": "Kalimat 'for instance, apples and bananas' adalah contoh yang menambahkan ide tentang buah-buahan.",
+      "optionReasons": [
+        "'because' menyatakan sebab.",
+        "'but' menyatakan kontras.",
+        "'so' menyatakan akibat.",
+        "'for instance' memberi contoh (apples, bananas) untuk mendukung gagasan."
+      ]
     },
     {
       "id": 54,
@@ -653,7 +971,13 @@
         "Cause"
       ],
       "answer": 0,
-      "explanation": "Frasa 'in other words' digunakan untuk memperjelas pernyataan sebelumnya."
+      "explanation": "Frasa 'in other words' digunakan untuk memperjelas pernyataan sebelumnya.",
+      "optionReasons": [
+        "'in other words' menjelaskan ulang dengan kata lain (klarifikasi).",
+        "Tidak ada pertentangan.",
+        "Bukan kesimpulan (therefore, in conclusion).",
+        "Bukan sebab (because)."
+      ]
     },
     {
       "id": 55,
@@ -665,7 +989,13 @@
         "Conclusion"
       ],
       "answer": 1,
-      "explanation": "Frasa 'near the library' menunjukkan lokasi dari main hall."
+      "explanation": "Frasa 'near the library' menunjukkan lokasi dari main hall.",
+      "optionReasons": [
+        "Frasa ini tidak menambah gagasan.",
+        "'near the library' menunjukkan letak/lokasi.",
+        "Tidak menunjukkan waktu.",
+        "Bukan kesimpulan."
+      ]
     },
     {
       "id": 56,
@@ -677,7 +1007,13 @@
         "She sat beside the window."
       ],
       "answer": 1,
-      "explanation": "Kata 'Therefore' menunjukkan kesimpulan dari suatu pernyataan sebelumnya."
+      "explanation": "Kata 'Therefore' menunjukkan kesimpulan dari suatu pernyataan sebelumnya.",
+      "optionReasons": [
+        "'First' menandakan urutan langkah.",
+        "'Therefore' menandakan kesimpulan.",
+        "Kalimat ini hanya informasi waktu.",
+        "Kalimat ini hanya informasi tempat."
+      ]
     },
     {
       "id": 57,
@@ -689,7 +1025,13 @@
         "Addition"
       ],
       "answer": 2,
-      "explanation": "Frasa 'at 9 AM' menunjukkan waktu pembukaan toko."
+      "explanation": "Frasa 'at 9 AM' menunjukkan waktu pembukaan toko.",
+      "optionReasons": [
+        "'at 9 AM' bukan tempat.",
+        "Bukan kesimpulan.",
+        "'at 9 AM' menunjukkan waktu.",
+        "Bukan penambahan gagasan."
+      ]
     },
     {
       "id": 58,
@@ -701,7 +1043,13 @@
         "First, wash the vegetables."
       ],
       "answer": 0,
-      "explanation": "Kata 'but' menunjukkan kontras antara kekayaan dan ketidakbahagiaan."
+      "explanation": "Kata 'but' menunjukkan kontras antara kekayaan dan ketidakbahagiaan.",
+      "optionReasons": [
+        "'but' mengontraskan kaya dan tidak bahagia.",
+        "'and' menyatakan penambahan.",
+        "Kalimat ini fakta biasa.",
+        "Kalimat ini urutan langkah."
+      ]
     },
     {
       "id": 59,
@@ -713,7 +1061,13 @@
         "Concession"
       ],
       "answer": 3,
-      "explanation": "Kata 'Although' menunjukkan konsesi, yaitu mengakui suatu keadaan tetapi tetap melanjutkan."
+      "explanation": "Kata 'Although' menunjukkan konsesi, yaitu mengakui suatu keadaan tetapi tetap melanjutkan.",
+      "optionReasons": [
+        "Tidak ada perbandingan.",
+        "Kondisi memakai 'if'.",
+        "Kontras adalah kategori umum; 'although' secara spesifik disebut konsesi.",
+        "'Although' menyatakan konsesi: mengakui hal yang berlawanan tetapi hasilnya tetap terjadi."
+      ]
     },
     {
       "id": 60,
@@ -725,7 +1079,13 @@
         "He is as tall as his brother."
       ],
       "answer": 1,
-      "explanation": "Kata 'If' menunjukkan suatu kondisi yang harus dipenuhi."
+      "explanation": "Kata 'If' menunjukkan suatu kondisi yang harus dipenuhi.",
+      "optionReasons": [
+        "'faster than' adalah perbandingan.",
+        "'If…' menyatakan syarat (kondisi).",
+        "'yet' menyatakan kontras.",
+        "'as tall as' adalah perbandingan setara."
+      ]
     },
     {
       "id": 61,
@@ -737,7 +1097,13 @@
         "Comparison"
       ],
       "answer": 3,
-      "explanation": "Frasa 'more beautiful than' menunjukkan perbandingan antara dua orang."
+      "explanation": "Frasa 'more beautiful than' menunjukkan perbandingan antara dua orang.",
+      "optionReasons": [
+        "Tidak ada pertentangan.",
+        "Tidak ada konsesi.",
+        "Tidak ada syarat.",
+        "'more beautiful than' adalah perbandingan (comparative)."
+      ]
     },
     {
       "id": 62,
@@ -749,7 +1115,13 @@
         "Result"
       ],
       "answer": 2,
-      "explanation": "Frasa 'because of' menunjukkan penyebab keterlambatan."
+      "explanation": "Frasa 'because of' menunjukkan penyebab keterlambatan.",
+      "optionReasons": [
+        "Tujuan memakai 'so that' / 'to'.",
+        "Akibatnya adalah terlambat; 'because of' justru memperkenalkan penyebabnya.",
+        "'because of' menunjukkan sebab (lalu lintas padat).",
+        "Hasil memakai 'so' / 'as a result'."
+      ]
     },
     {
       "id": 63,
@@ -761,7 +1133,13 @@
         "The reason for his absence is illness."
       ],
       "answer": 1,
-      "explanation": "Frasa 'so that' menunjukkan tujuan dari belajar keras."
+      "explanation": "Frasa 'so that' menunjukkan tujuan dari belajar keras.",
+      "optionReasons": [
+        "'due to' menyatakan sebab.",
+        "'so that' menyatakan tujuan.",
+        "'so' menyatakan akibat.",
+        "'The reason for' menyatakan alasan/sebab."
+      ]
     },
     {
       "id": 64,
@@ -773,7 +1151,13 @@
         "Purpose"
       ],
       "answer": 0,
-      "explanation": "Kerusakan parah adalah akibat dari badai."
+      "explanation": "Kerusakan parah adalah akibat dari badai.",
+      "optionReasons": [
+        "'severe damage' adalah akibat dari badai.",
+        "Alasan/penyebab adalah badai.",
+        "Penyebabnya adalah 'the storm'.",
+        "Tidak ada tujuan."
+      ]
     },
     {
       "id": 65,
@@ -785,7 +1169,13 @@
         "To describe the history of recycling"
       ],
       "answer": 0,
-      "explanation": "Teks tersebut menyajikan alasan dan manfaat daur ulang untuk meyakinkan pembaca."
+      "explanation": "Teks tersebut menyajikan alasan dan manfaat daur ulang untuk meyakinkan pembaca.",
+      "optionReasons": [
+        "Teks memberi alasan dan contoh lalu menyimpulkan bahwa daur ulang bermanfaat, sehingga bertujuan membujuk.",
+        "Teks tidak menjelaskan proses daur ulang.",
+        "Teks justru mendukung daur ulang.",
+        "Tidak ada sejarah dalam teks."
+      ]
     },
     {
       "id": 66,
@@ -797,7 +1187,13 @@
         "Skip to the conclusion first"
       ],
       "answer": 2,
-      "explanation": "Previewing melibatkan melihat judul dan subjudul untuk memprediksi isi bacaan."
+      "explanation": "Previewing melibatkan melihat judul dan subjudul untuk memprediksi isi bacaan.",
+      "optionReasons": [
+        "Membaca seluruh artikel bukan memprediksi.",
+        "Menghafal kata kunci tidak relevan.",
+        "Judul dan subjudul memberi gambaran isi untuk memprediksi.",
+        "Langsung ke kesimpulan bukan teknik prediksi."
+      ]
     },
     {
       "id": 67,
@@ -809,7 +1205,13 @@
         "Scanning for specific dates"
       ],
       "answer": 3,
-      "explanation": "Memindai tanggal spesifik adalah teknik scanning, bukan previewing."
+      "explanation": "Memindai tanggal spesifik adalah teknik scanning, bukan previewing.",
+      "optionReasons": [
+        "Membaca paragraf awal dan akhir adalah langkah preview.",
+        "Melihat judul dan gambar adalah langkah preview.",
+        "Memeriksa ringkasan adalah langkah preview.",
+        "Mencari tanggal tertentu adalah scanning, bukan preview."
+      ]
     },
     {
       "id": 68,
@@ -821,7 +1223,13 @@
         "Comparison of organic and non-organic food"
       ],
       "answer": 2,
-      "explanation": "Judul menunjukkan teks tersebut berisi langkah-langkah menanam sayuran organik."
+      "explanation": "Judul menunjukkan teks tersebut berisi langkah-langkah menanam sayuran organik.",
+      "optionReasons": [
+        "Judul tidak menyebut sejarah.",
+        "Judul tidak membahas manfaat makan sayur.",
+        "'How to…' menunjukkan langkah-langkah menanam sayur organik.",
+        "Judul tidak membandingkan."
+      ]
     },
     {
       "id": 69,
@@ -833,7 +1241,13 @@
         "To find specific information quickly"
       ],
       "answer": 0,
-      "explanation": "Previewing helps readers understand the main topics and organization before detailed reading."
+      "explanation": "Previewing helps readers understand the main topics and organization before detailed reading.",
+      "optionReasons": [
+        "Preview memberi gambaran umum isi dan struktur.",
+        "Menghafal detail bukan tujuan preview.",
+        "Analisis gaya penulisan bukan tujuan preview.",
+        "Mencari info spesifik adalah scanning."
+      ]
     },
     {
       "id": 70,
@@ -845,7 +1259,13 @@
         "The last paragraph only"
       ],
       "answer": 0,
-      "explanation": "Skimming involves looking at headings and key sentences to grasp the main ideas quickly."
+      "explanation": "Skimming involves looking at headings and key sentences to grasp the main ideas quickly.",
+      "optionReasons": [
+        "Skimming fokus pada judul, subjudul, dan kalimat kunci.",
+        "Hanya kalimat pertama tidak cukup.",
+        "Membaca setiap kata adalah membaca intensif.",
+        "Hanya paragraf terakhir tidak cukup."
+      ]
     },
     {
       "id": 71,
@@ -857,7 +1277,13 @@
         "Studying each paragraph for deep understanding"
       ],
       "answer": 1,
-      "explanation": "Skimming uses visual cues like titles and bolded terms to get an overview."
+      "explanation": "Skimming uses visual cues like titles and bolded terms to get an overview.",
+      "optionReasons": [
+        "Membaca kata per kata bukan skimming.",
+        "Melihat judul, gambar, dan istilah tebal untuk gambaran umum adalah skimming.",
+        "Mencari tanggal tertentu adalah scanning.",
+        "Membaca mendalam adalah intensive reading."
+      ]
     },
     {
       "id": 72,
@@ -869,7 +1295,13 @@
         "There is no difference"
       ],
       "answer": 2,
-      "explanation": "Skimming aims for the big picture while scanning targets specific details."
+      "explanation": "Skimming aims for the big picture while scanning targets specific details.",
+      "optionReasons": [
+        "Keduanya cepat; kecepatan bukan pembeda.",
+        "Keduanya bisa untuk teks apa pun.",
+        "Skimming untuk ide umum, scanning untuk informasi spesifik.",
+        "Keduanya memang berbeda."
+      ]
     },
     {
       "id": 73,
@@ -881,7 +1313,13 @@
         "A particular piece of information like a name or date"
       ],
       "answer": 3,
-      "explanation": "Scanning is used to locate specific data such as names or dates quickly."
+      "explanation": "Scanning is used to locate specific data such as names or dates quickly.",
+      "optionReasons": [
+        "Argumen utama dicari dengan skimming.",
+        "Membaca setiap kata bukan scanning.",
+        "Opini penulis membutuhkan pembacaan cermat.",
+        "Scanning mencari informasi tertentu seperti nama atau tanggal."
+      ]
     },
     {
       "id": 74,
@@ -893,7 +1331,13 @@
         "Reading thoroughly"
       ],
       "answer": 0,
-      "explanation": "Scanning allows you to find a specific word or definition rapidly."
+      "explanation": "Scanning allows you to find a specific word or definition rapidly.",
+      "optionReasons": [
+        "Mencari definisi spesifik dilakukan dengan scanning.",
+        "Skimming untuk gambaran umum.",
+        "Preview untuk gambaran awal.",
+        "Membaca menyeluruh terlalu lambat untuk mencari satu definisi."
+      ]
     },
     {
       "id": 75,
@@ -905,7 +1349,13 @@
         "In a zigzag pattern across the page"
       ],
       "answer": 3,
-      "explanation": "A zigzag pattern helps cover more text efficiently when scanning."
+      "explanation": "A zigzag pattern helps cover more text efficiently when scanning.",
+      "optionReasons": [
+        "Baris per baris adalah membaca biasa.",
+        "Tanpa fokus tidak efektif.",
+        "Hanya margin tidak memadai.",
+        "Scanning dilakukan dengan gerakan mata zigzag cepat mencari kata kunci."
+      ]
     },
     {
       "id": 76,
@@ -917,7 +1367,13 @@
         "To practice pronunciation"
       ],
       "answer": 1,
-      "explanation": "Extensive reading focuses on reading large amounts for enjoyment and general comprehension."
+      "explanation": "Extensive reading focuses on reading large amounts for enjoyment and general comprehension.",
+      "optionReasons": [
+        "Analisis struktur adalah intensive reading.",
+        "Extensive reading: membaca cepat untuk kesenangan dan pemahaman umum.",
+        "Menghafal kosakata bukan tujuan utama.",
+        "Pelafalan bukan tujuan membaca ekstensif."
+      ]
     },
     {
       "id": 77,
@@ -929,7 +1385,13 @@
         "A dictionary"
       ],
       "answer": 1,
-      "explanation": "Extensive reading works best with accessible and engaging materials like novels."
+      "explanation": "Extensive reading works best with accessible and engaging materials like novels.",
+      "optionReasons": [
+        "Jurnal akademik kompleks terlalu sulit.",
+        "Novel atau cerpen sederhana nyaman dibaca dalam jumlah banyak.",
+        "Dokumen hukum terlalu teknis.",
+        "Kamus bukan bacaan."
+      ]
     },
     {
       "id": 78,
@@ -941,7 +1403,13 @@
         "By exposing you to words in context repeatedly"
       ],
       "answer": 3,
-      "explanation": "Repeated exposure to words in meaningful contexts helps vocabulary acquisition."
+      "explanation": "Repeated exposure to words in meaningful contexts helps vocabulary acquisition.",
+      "optionReasons": [
+        "Extensive reading tidak mewajibkan membuka kamus untuk tiap kata.",
+        "Menghafal daftar kata bukan extensive reading.",
+        "Flashcard adalah teknik lain.",
+        "Kosakata bertambah karena kata ditemui berulang dalam konteks."
+      ]
     },
     {
       "id": 79,
@@ -953,7 +1421,13 @@
         "Read only the warnings"
       ],
       "answer": 2,
-      "explanation": "Knowing the goal helps you understand why each step is necessary."
+      "explanation": "Knowing the goal helps you understand why each step is necessary.",
+      "optionReasons": [
+        "Menghafal langkah bukan langkah awal.",
+        "Melompat ke akhir bisa membuat salah paham.",
+        "Pahami dulu tujuan prosedur secara keseluruhan.",
+        "Hanya peringatan tidak cukup."
+      ]
     },
     {
       "id": 80,
@@ -965,7 +1439,13 @@
         "To provide examples"
       ],
       "answer": 0,
-      "explanation": "Transition words indicate the order in which steps should be performed."
+      "explanation": "Transition words indicate the order in which steps should be performed.",
+      "optionReasons": [
+        "'first, next, finally' menunjukkan urutan langkah.",
+        "Kata transisi justru memperjelas.",
+        "Kata transisi tidak bertujuan memperpanjang teks.",
+        "Contoh memakai 'for example'."
+      ]
     },
     {
       "id": 81,
@@ -977,7 +1457,13 @@
         "The number of questions and time limit"
       ],
       "answer": 3,
-      "explanation": "Understanding the number of questions and time limit helps you plan your time."
+      "explanation": "Understanding the number of questions and time limit helps you plan your time.",
+      "optionReasons": [
+        "Nilai lulus tidak memengaruhi cara mengerjakan.",
+        "Nama guru tidak relevan.",
+        "Ukuran huruf tidak relevan.",
+        "Jumlah soal dan batas waktu penting untuk mengatur strategi."
+      ]
     },
     {
       "id": 82,
@@ -989,7 +1475,13 @@
         "Skip the question if unsure"
       ],
       "answer": 2,
-      "explanation": "This phrase asks you to pick the option that is most accurate or appropriate."
+      "explanation": "This phrase asks you to pick the option that is most accurate or appropriate.",
+      "optionReasons": [
+        "Tidak semua jawaban diterima.",
+        "Instruksi ini untuk pilihan ganda, bukan esai.",
+        "Pilih jawaban yang paling tepat di antara pilihan yang ada.",
+        "Instruksi ini tidak menyuruh melewati soal."
+      ]
     },
     {
       "id": 83,
@@ -1001,7 +1493,13 @@
         "To ignore the text"
       ],
       "answer": 1,
-      "explanation": "This instruction emphasizes the need for thorough reading to answer correctly."
+      "explanation": "This instruction emphasizes the need for thorough reading to answer correctly.",
+      "optionReasons": [
+        "Instruksi ini justru mencegah menebak.",
+        "Membaca cermat memastikan detail dipahami sebelum menjawab.",
+        "Instruksi ini tidak bertujuan membuang waktu.",
+        "Instruksi ini justru meminta teks dibaca."
+      ]
     },
     {
       "id": 84,
@@ -1013,7 +1511,13 @@
         "Start again from the beginning"
       ],
       "answer": 2,
-      "explanation": "Verifying the result ensures the procedure was executed correctly."
+      "explanation": "Verifying the result ensures the procedure was executed correctly.",
+      "optionReasons": [
+        "Mengulang semua proses tidak perlu.",
+        "Mengabaikan kesalahan tidak tepat.",
+        "Hasil dicek terhadap hasil yang diharapkan.",
+        "Mulai dari awal tidak perlu."
+      ]
     },
     {
       "id": 85,
@@ -1025,7 +1529,13 @@
         "Geographic information of an area"
       ],
       "answer": 0,
-      "explanation": "A line graph uses points connected by lines to display data trends over a continuous period of time, such as days, months, or years."
+      "explanation": "A line graph uses points connected by lines to display data trends over a continuous period of time, such as days, months, or years.",
+      "optionReasons": [
+        "Grafik garis menunjukkan perubahan dari waktu ke waktu.",
+        "Bagian dari keseluruhan memakai pie chart.",
+        "Hierarki memakai bagan organisasi.",
+        "Informasi geografis memakai peta."
+      ]
     },
     {
       "id": 86,
@@ -1037,7 +1547,13 @@
         "The location of places"
       ],
       "answer": 1,
-      "explanation": "In a bar graph, the height of each bar corresponds to the frequency or value of the category it represents, making comparisons easy."
+      "explanation": "In a bar graph, the height of each bar corresponds to the frequency or value of the category it represents, making comparisons easy.",
+      "optionReasons": [
+        "Persentase keseluruhan memakai pie chart.",
+        "Tinggi batang menunjukkan frekuensi/nilai setiap kategori.",
+        "Alur proses memakai flow chart.",
+        "Lokasi memakai peta."
+      ]
     },
     {
       "id": 87,
@@ -1049,7 +1565,13 @@
         "Flow chart"
       ],
       "answer": 1,
-      "explanation": "A pie chart is a circular chart divided into slices to illustrate numerical proportions, where each slice represents a percentage of the whole."
+      "explanation": "A pie chart is a circular chart divided into slices to illustrate numerical proportions, where each slice represents a percentage of the whole.",
+      "optionReasons": [
+        "Grafik garis untuk tren waktu.",
+        "Pie chart menunjukkan pembagian total menjadi persentase.",
+        "Bar graph untuk membandingkan kategori.",
+        "Flow chart untuk proses."
+      ]
     },
     {
       "id": 88,
@@ -1061,7 +1583,13 @@
         "Geographical features of a region"
       ],
       "answer": 0,
-      "explanation": "A flow chart uses symbols and arrows to show the sequence of steps or actions in a process, such as a decision-making or production flow."
+      "explanation": "A flow chart uses symbols and arrows to show the sequence of steps or actions in a process, such as a decision-making or production flow.",
+      "optionReasons": [
+        "Flow chart menggambarkan urutan langkah suatu proses.",
+        "Distribusi statistik memakai histogram.",
+        "Perbandingan kategori memakai bar graph.",
+        "Geografi memakai peta."
+      ]
     },
     {
       "id": 89,
@@ -1073,7 +1601,13 @@
         "Mapping the location of places"
       ],
       "answer": 1,
-      "explanation": "A pictograph uses symbols or pictures to represent data, making it visually appealing and easy to understand, especially for simple counts or comparisons."
+      "explanation": "A pictograph uses symbols or pictures to represent data, making it visually appealing and easy to understand, especially for simple counts or comparisons.",
+      "optionReasons": [
+        "Pictograph kurang tepat untuk nilai yang persis.",
+        "Pictograph menyajikan data dengan simbol/gambar.",
+        "Pictograph tidak untuk rumus.",
+        "Lokasi memakai peta."
+      ]
     },
     {
       "id": 90,
@@ -1085,7 +1619,13 @@
         "Percentage of parts in a whole"
       ],
       "answer": 2,
-      "explanation": "A map chart displays geographic information such as the location of places, routes, or the distribution of data across different regions."
+      "explanation": "A map chart displays geographic information such as the location of places, routes, or the distribution of data across different regions.",
+      "optionReasons": [
+        "Hierarki memakai bagan organisasi.",
+        "Perubahan waktu memakai grafik garis.",
+        "Map chart menunjukkan lokasi dan sebaran geografis.",
+        "Persentase memakai pie chart."
+      ]
     },
     {
       "id": 91,
@@ -1097,7 +1637,13 @@
         "The size of the graphic"
       ],
       "answer": 0,
-      "explanation": "When reading an infographic, it is important to first identify the main message or purpose because it guides understanding of the supporting data and visuals."
+      "explanation": "When reading an infographic, it is important to first identify the main message or purpose because it guides understanding of the supporting data and visuals.",
+      "optionReasons": [
+        "Pesan utama atau tujuan infografis diidentifikasi lebih dulu.",
+        "Skema warna hanya aspek visual.",
+        "Jenis huruf tidak penting.",
+        "Ukuran grafik tidak penting."
+      ]
     },
     {
       "id": 92,
@@ -1109,7 +1655,13 @@
         "Only academic textbooks"
       ],
       "answer": 2,
-      "explanation": "Extensive reading involves reading large amounts of material for general understanding and pleasure, rather than focusing on every detail or grammatical structure."
+      "explanation": "Extensive reading involves reading large amounts of material for general understanding and pleasure, rather than focusing on every detail or grammatical structure.",
+      "optionReasons": [
+        "Fokus tata bahasa adalah intensive reading.",
+        "Mencari info spesifik adalah scanning.",
+        "Extensive reading: teks panjang untuk pemahaman umum dan kesenangan.",
+        "Tidak terbatas pada buku akademik."
+      ]
     },
     {
       "id": 93,
@@ -1121,7 +1673,13 @@
         "'because' or 'since'"
       ],
       "answer": 1,
-      "explanation": "A simile uses words such as 'like' or 'as' to make a direct comparison between two unlike things, for example, 'as brave as a lion'."
+      "explanation": "A simile uses words such as 'like' or 'as' to make a direct comparison between two unlike things, for example, 'as brave as a lion'.",
+      "optionReasons": [
+        "'is/are' dipakai dalam metafora.",
+        "Simile membandingkan dengan 'like' atau 'as'.",
+        "'but/yet' adalah konjungsi kontras.",
+        "'because/since' menyatakan sebab."
+      ]
     },
     {
       "id": 94,
@@ -1133,7 +1691,13 @@
         "The world is a stage"
       ],
       "answer": 3,
-      "explanation": "A metaphor compares two things without using 'like' or 'as', stating that one thing is another. 'The world is a stage' implies that life is like a theatrical performance."
+      "explanation": "A metaphor compares two things without using 'like' or 'as', stating that one thing is another. 'The world is a stage' implies that life is like a theatrical performance.",
+      "optionReasons": [
+        "'like a fish' adalah simile.",
+        "'as cute as' adalah simile.",
+        "'as fast as' adalah simile.",
+        "'The world is a stage' membandingkan langsung tanpa like/as, jadi metafora."
+      ]
     },
     {
       "id": 95,
@@ -1145,7 +1709,13 @@
         "Non-human objects or ideas"
       ],
       "answer": 3,
-      "explanation": "Personification attributes human characteristics or actions to non-human entities such as objects, animals, or abstract ideas, for example, 'the wind whispered'."
+      "explanation": "Personification attributes human characteristics or actions to non-human entities such as objects, animals, or abstract ideas, for example, 'the wind whispered'.",
+      "optionReasons": [
+        "Tidak hanya hewan.",
+        "Personifikasi bukan untuk semua makhluk hidup (manusia sudah manusia).",
+        "Bukan penulis.",
+        "Personifikasi memberi sifat manusia pada benda mati atau ide."
+      ]
     },
     {
       "id": 96,
@@ -1157,7 +1727,13 @@
         "He is a shining star"
       ],
       "answer": 2,
-      "explanation": "Hyperbole is an exaggerated statement not meant to be taken literally, often used for emphasis or effect. 'I've told you a million times' exaggerates the number of times."
+      "explanation": "Hyperbole is an exaggerated statement not meant to be taken literally, often used for emphasis or effect. 'I've told you a million times' exaggerates the number of times.",
+      "optionReasons": [
+        "'The stars danced' adalah personifikasi.",
+        "'like angels' adalah simile.",
+        "'a million times' adalah hiperbola (berlebihan).",
+        "'a shining star' adalah metafora."
+      ]
     },
     {
       "id": 97,
@@ -1169,7 +1745,13 @@
         "A substitution of a mild expression"
       ],
       "answer": 0,
-      "explanation": "Irony involves a discrepancy between what is expected or what is said and what actually happens, often creating a humorous or emphatic effect."
+      "explanation": "Irony involves a discrepancy between what is expected or what is said and what actually happens, often creating a humorous or emphatic effect.",
+      "optionReasons": [
+        "Ironi adalah pertentangan antara harapan dan kenyataan.",
+        "Perbandingan langsung adalah metafora.",
+        "Pelebih-lebihan adalah hiperbola.",
+        "Ungkapan halus adalah eufemisme."
+      ]
     },
     {
       "id": 98,
@@ -1181,7 +1763,13 @@
         "Express ideas in a mild or indirect way"
       ],
       "answer": 3,
-      "explanation": "Euphemism replaces a harsh, blunt, or unpleasant expression with a milder, more polite, or indirect one, such as 'passed away' instead of 'died'."
+      "explanation": "Euphemism replaces a harsh, blunt, or unpleasant expression with a milder, more polite, or indirect one, such as 'passed away' instead of 'died'.",
+      "optionReasons": [
+        "Eufemisme justru menghaluskan, bukan mengasarkan.",
+        "Sifat manusia pada benda adalah personifikasi.",
+        "Membandingkan adalah simile/metafora.",
+        "Eufemisme menyampaikan ide secara halus atau tidak langsung."
+      ]
     },
     {
       "id": 99,
@@ -1193,7 +1781,13 @@
         "To read widely for general understanding and fluency"
       ],
       "answer": 3,
-      "explanation": "Extensive reading in Module 9 aims to improve reading fluency and comprehension by reading a variety of texts for general understanding, not for detailed analysis."
+      "explanation": "Extensive reading in Module 9 aims to improve reading fluency and comprehension by reading a variety of texts for general understanding, not for detailed analysis.",
+      "optionReasons": [
+        "Mencari jawaban soal spesifik bukan tujuan extensive reading.",
+        "Analisis tiap kata adalah intensive reading.",
+        "Menghafal definisi bukan tujuan.",
+        "Tujuannya membaca luas untuk pemahaman umum dan kelancaran."
+      ]
     },
     {
       "id": 100,
@@ -1205,7 +1799,13 @@
         "Metaphor"
       ],
       "answer": 2,
-      "explanation": "The phrase 'a bit chilly' is a milder expression used to describe freezing weather, making it an example of euphemism by understating the severity of the cold."
+      "explanation": "The phrase 'a bit chilly' is a milder expression used to describe freezing weather, making it an example of euphemism by understating the severity of the cold.",
+      "optionReasons": [
+        "Hiperbola melebih-lebihkan, sedangkan ini justru mengecilkan.",
+        "Ironi berupa kebalikan makna; kunci soal mengategorikan ungkapan pelunak ini sebagai eufemisme.",
+        "Menyebut 'a bit chilly' untuk cuaca membeku adalah cara halus/meremehkan (eufemisme/understatement).",
+        "Tidak ada perbandingan langsung."
+      ]
     }
   ]
 }

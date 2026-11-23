@@ -17,7 +17,13 @@
         "Aplikasi yang hanya menggunakan komponen native tanpa web"
       ],
       "answer": 2,
-      "explanation": "Hybrid App adalah aplikasi yang menggabungkan kode native dengan teknologi web melalui WebView sehingga dapat berjalan di berbagai platform"
+      "explanation": "Hybrid App adalah aplikasi yang menggabungkan kode native dengan teknologi web melalui WebView sehingga dapat berjalan di berbagai platform",
+      "optionReasons": [
+        "Hybrid app justru lintas platform, tidak hanya Android.",
+        "Swift dipakai untuk aplikasi native iOS.",
+        "Hybrid app menggabungkan wadah native dengan kode web yang dijalankan di WebView.",
+        "Hanya komponen native tanpa web adalah aplikasi native."
+      ]
     },
     {
       "id": 2,
@@ -29,7 +35,13 @@
         "Menyediakan komponen UI berbasis web yang dapat digunakan dengan framework frontend"
       ],
       "answer": 3,
-      "explanation": "Ionic Framework menyediakan komponen UI berbasis web yang siap pakai dan dapat diintegrasikan dengan framework frontend seperti Vue"
+      "explanation": "Ionic Framework menyediakan komponen UI berbasis web yang siap pakai dan dapat diintegrasikan dengan framework frontend seperti Vue",
+      "optionReasons": [
+        "Ionic tidak menyediakan backend server.",
+        "Database lokal dikelola plugin/library lain.",
+        "Ionic tidak mengompilasi langsung ke kode native; aplikasinya berjalan di WebView via Capacitor/Cordova.",
+        "Ionic menyediakan komponen UI berbasis web yang dipakai bersama Angular/React/Vue."
+      ]
     },
     {
       "id": 3,
@@ -41,7 +53,13 @@
         "Tidak memerlukan WebView dalam eksekusinya"
       ],
       "answer": 1,
-      "explanation": "Hybrid App memungkinkan pengembangan dengan satu basis kode yang dapat digunakan di platform Android dan iOS"
+      "explanation": "Hybrid App memungkinkan pengembangan dengan satu basis kode yang dapat digunakan di platform Android dan iOS",
+      "optionReasons": [
+        "Performa hybrid umumnya di bawah native.",
+        "Satu basis kode bisa dipakai untuk Android, iOS, dan web.",
+        "Akses API perangkat pada hybrid bergantung pada plugin dan terbatas.",
+        "Hybrid app justru membutuhkan WebView."
+      ]
     },
     {
       "id": 4,
@@ -53,7 +71,13 @@
         "Mengkompilasi kode TypeScript menjadi JavaScript"
       ],
       "answer": 0,
-      "explanation": "WebView adalah komponen yang memungkinkan aplikasi native menjalankan konten web seperti HTML, CSS, dan JavaScript"
+      "explanation": "WebView adalah komponen yang memungkinkan aplikasi native menjalankan konten web seperti HTML, CSS, dan JavaScript",
+      "optionReasons": [
+        "WebView merender dan menjalankan HTML, CSS, dan JavaScript di dalam aplikasi.",
+        "Komunikasi jaringan bukan peran WebView.",
+        "Siklus hidup aplikasi dikelola OS/framework native.",
+        "Kompilasi TypeScript dilakukan tsc."
+      ]
     },
     {
       "id": 5,
@@ -65,7 +89,13 @@
         "boolean"
       ],
       "answer": 2,
-      "explanation": "Tipe any memungkinkan variabel menyimpan nilai dari tipe apa pun termasuk number dan string"
+      "explanation": "Tipe any memungkinkan variabel menyimpan nilai dari tipe apa pun termasuk number dan string",
+      "optionReasons": [
+        "number hanya untuk angka.",
+        "string hanya untuk teks.",
+        "Sesuai kunci soal, any menerima nilai bertipe apa pun termasuk angka atau string (cara yang lebih ketat adalah union number | string).",
+        "boolean hanya true/false."
+      ]
     },
     {
       "id": 6,
@@ -77,7 +107,13 @@
         "Mengubah tipe data secara otomatis"
       ],
       "answer": 2,
-      "explanation": "Interface digunakan untuk mendefinisikan struktur atau kontrak yang harus dipenuhi oleh suatu objek"
+      "explanation": "Interface digunakan untuk mendefinisikan struktur atau kontrak yang harus dipenuhi oleh suatu objek",
+      "optionReasons": [
+        "Interface tidak membuat variabel global.",
+        "Interface tidak menginisialisasi array.",
+        "Interface mendefinisikan kontrak/struktur yang harus dipenuhi objek.",
+        "Interface tidak mengubah tipe data otomatis."
+      ]
     },
     {
       "id": 7,
@@ -89,7 +125,13 @@
         "Array tidak bisa menyimpan string"
       ],
       "answer": 0,
-      "explanation": "Tuple memiliki tipe data yang ditentukan untuk setiap elemen pada posisi tertentu, sementara array memiliki tipe data yang seragam"
+      "explanation": "Tuple memiliki tipe data yang ditentukan untuk setiap elemen pada posisi tertentu, sementara array memiliki tipe data yang seragam",
+      "optionReasons": [
+        "Tuple memiliki jumlah elemen tetap dengan tipe tertentu di setiap posisi, mis. [number, string].",
+        "Array tidak berpanjang tetap.",
+        "Tuple bisa berisi tipe apa pun.",
+        "Array bisa menyimpan string."
+      ]
     },
     {
       "id": 8,
@@ -101,7 +143,13 @@
         "let x: [number, string];"
       ],
       "answer": 1,
-      "explanation": "Union tipe menggunakan operator | untuk menggabungkan dua tipe atau lebih, misalnya number | string"
+      "explanation": "Union tipe menggunakan operator | untuk menggabungkan dua tipe atau lebih, misalnya number | string",
+      "optionReasons": [
+        "number saja bukan union.",
+        "Union memakai tanda |, mis. number | string.",
+        "number[] adalah array angka.",
+        "[number, string] adalah tuple."
+      ]
     },
     {
       "id": 9,
@@ -113,7 +161,13 @@
         "never"
       ],
       "answer": 1,
-      "explanation": "Fungsi yang tidak mengembalikan nilai menggunakan tipe void sebagai tipe pengembaliannya"
+      "explanation": "Fungsi yang tidak mengembalikan nilai menggunakan tipe void sebagai tipe pengembaliannya",
+      "optionReasons": [
+        "undefined adalah nilai/tipe, bukan anotasi lazim untuk fungsi tanpa nilai kembali.",
+        "void menandakan fungsi tidak mengembalikan nilai.",
+        "null adalah nilai kosong.",
+        "never untuk fungsi yang tidak pernah selesai (selalu throw/loop)."
+      ]
     },
     {
       "id": 10,
@@ -125,7 +179,13 @@
         "Menambahkan metadata atau fungsionalitas ekstra pada kelas dan anggota kelas"
       ],
       "answer": 3,
-      "explanation": "Dekorator memungkinkan penambahan metadata dan fungsionalitas pada kelas, metode, atau properti"
+      "explanation": "Dekorator memungkinkan penambahan metadata dan fungsionalitas pada kelas, metode, atau properti",
+      "optionReasons": [
+        "Dekorator tidak mengubah tipe data variabel.",
+        "Dekorator tidak mendeklarasikan variabel global.",
+        "Impor modul memakai import.",
+        "Dekorator (@...) menambahkan metadata/fungsionalitas pada kelas dan anggotanya."
+      ]
     },
     {
       "id": 11,
@@ -137,7 +197,13 @@
         "Membatasi penggunaan tipe data tertentu"
       ],
       "answer": 0,
-      "explanation": "Generics memungkinkan pembuatan komponen yang dapat digunakan dengan berbagai tipe data tanpa mengorbankan keamanan tipe"
+      "explanation": "Generics memungkinkan pembuatan komponen yang dapat digunakan dengan berbagai tipe data tanpa mengorbankan keamanan tipe",
+      "optionReasons": [
+        "Generics (<T>) membuat komponen yang bisa bekerja dengan berbagai tipe secara type-safe.",
+        "Tipe tetap adalah kebalikan generics.",
+        "TypeScript tidak mengubah tipe saat runtime.",
+        "Generics justru memperluas, bukan membatasi (meski ada constraint)."
+      ]
     },
     {
       "id": 12,
@@ -149,7 +215,13 @@
         "Membuat properti bersifat statis"
       ],
       "answer": 2,
-      "explanation": "Readonly memastikan bahwa properti hanya dapat diberikan nilai saat inisialisasi dan tidak dapat diubah setelahnya"
+      "explanation": "Readonly memastikan bahwa properti hanya dapat diberikan nilai saat inisialisasi dan tidak dapat diubah setelahnya",
+      "optionReasons": [
+        "Ini kebalikan readonly.",
+        "Publik diatur oleh public.",
+        "readonly membuat properti tidak bisa diubah setelah diinisialisasi.",
+        "Statis diatur oleh static."
+      ]
     },
     {
       "id": 13,
@@ -161,7 +233,13 @@
         "v-bind"
       ],
       "answer": 3,
-      "explanation": "v-bind digunakan untuk mengikat data ke atribut elemen HTML secara dinamis"
+      "explanation": "v-bind digunakan untuk mengikat data ke atribut elemen HTML secara dinamis",
+      "optionReasons": [
+        "v-for untuk perulangan.",
+        "v-model untuk binding dua arah pada input.",
+        "v-if untuk render bersyarat.",
+        "v-bind (:) mengikat data ke atribut HTML."
+      ]
     },
     {
       "id": 14,
@@ -173,7 +251,13 @@
         "Menghitung nilai baru berdasarkan data reaktif yang dapat di-cache"
       ],
       "answer": 3,
-      "explanation": "Properti computed menghitung nilai yang bergantung pada data reaktif dan hasilnya di-cache hingga dependensi berubah"
+      "explanation": "Properti computed menghitung nilai yang bergantung pada data reaktif dan hasilnya di-cache hingga dependensi berubah",
+      "optionReasons": [
+        "Data statis disimpan di data/ref.",
+        "Event listener ditangani v-on/methods.",
+        "Metode didefinisikan di methods.",
+        "computed menghitung nilai turunan dari data reaktif dan hasilnya di-cache."
+      ]
     },
     {
       "id": 15,
@@ -185,7 +269,13 @@
         "beforeDestroy"
       ],
       "answer": 1,
-      "explanation": "Hook mounted dieksekusi setelah komponen berhasil dipasang ke DOM"
+      "explanation": "Hook mounted dieksekusi setelah komponen berhasil dipasang ke DOM",
+      "optionReasons": [
+        "created dijalankan sebelum mount (DOM belum ada).",
+        "mounted dijalankan setelah komponen dipasang ke DOM.",
+        "updated dijalankan setelah re-render akibat perubahan data.",
+        "beforeDestroy dijalankan sebelum komponen dihancurkan."
+      ]
     },
     {
       "id": 16,
@@ -197,7 +287,13 @@
         "v-show lebih lambat daripada v-if"
       ],
       "answer": 0,
-      "explanation": "v-if menghapus atau menambahkan elemen dari DOM, sementara v-show hanya mengubah properti display CSS"
+      "explanation": "v-if menghapus atau menambahkan elemen dari DOM, sementara v-show hanya mengubah properti display CSS",
+      "optionReasons": [
+        "v-if benar-benar menambah/menghapus elemen dari DOM; v-show hanya mengubah display CSS.",
+        "v-show tidak menghapus elemen dari DOM.",
+        "v-if bisa dipakai pada elemen apa pun.",
+        "v-show justru lebih murah untuk toggle yang sering."
+      ]
     },
     {
       "id": 17,
@@ -209,7 +305,13 @@
         "Mengelola event bus"
       ],
       "answer": 0,
-      "explanation": "provide/inject memungkinkan komponen induk menyediakan data yang dapat diinjeksi ke komponen turunan di kedalaman mana pun"
+      "explanation": "provide/inject memungkinkan komponen induk menyediakan data yang dapat diinjeksi ke komponen turunan di kedalaman mana pun",
+      "optionReasons": [
+        "provide/inject mengalirkan data dari komponen leluhur ke turunan tanpa meneruskan props berlapis.",
+        "State global dikelola Pinia/Vuex.",
+        "Route dikelola Vue Router.",
+        "Event bus adalah pola komunikasi event."
+      ]
     },
     {
       "id": 18,
@@ -221,7 +323,13 @@
         "v-model"
       ],
       "answer": 2,
-      "explanation": "v-bind digunakan untuk mengikat data ke atribut HTML seperti src atau href."
+      "explanation": "v-bind digunakan untuk mengikat data ke atribut HTML seperti src atau href.",
+      "optionReasons": [
+        "v-for untuk perulangan.",
+        "v-if untuk render bersyarat.",
+        "v-bind mengikat data ke atribut HTML.",
+        "v-model untuk binding dua arah form."
+      ]
     },
     {
       "id": 19,
@@ -233,7 +341,13 @@
         "slots"
       ],
       "answer": 1,
-      "explanation": "Props adalah mekanisme untuk mengirim data dari komponen induk ke komponen anak."
+      "explanation": "Props adalah mekanisme untuk mengirim data dari komponen induk ke komponen anak.",
+      "optionReasons": [
+        "refs untuk mengakses elemen/komponen langsung.",
+        "props adalah saluran data dari induk ke anak.",
+        "events dipakai anak untuk mengirim sinyal ke induk.",
+        "slots untuk menyisipkan konten template."
+      ]
     },
     {
       "id": 20,
@@ -245,7 +359,13 @@
         "index"
       ],
       "answer": 1,
-      "explanation": "Atribut key diperlukan oleh Vue untuk melacak perubahan pada elemen yang di-loop."
+      "explanation": "Atribut key diperlukan oleh Vue untuk melacak perubahan pada elemen yang di-loop.",
+      "optionReasons": [
+        "id adalah atribut HTML biasa.",
+        "key adalah atribut khusus agar Vue bisa melacak setiap elemen v-for.",
+        "ref untuk referensi elemen.",
+        "index hanya posisi dan bukan nama atribut khusus."
+      ]
     },
     {
       "id": 21,
@@ -257,7 +377,13 @@
         "beforeDestroy"
       ],
       "answer": 0,
-      "explanation": "Mounted dipanggil setelah komponen selesai dirender dan DOM tersedia."
+      "explanation": "Mounted dipanggil setelah komponen selesai dirender dan DOM tersedia.",
+      "optionReasons": [
+        "mounted dipanggil setelah template dirender dan dipasang ke DOM pertama kali.",
+        "created dipanggil sebelum render.",
+        "updated dipanggil pada render ulang berikutnya.",
+        "beforeDestroy dipanggil sebelum komponen dihapus."
+      ]
     },
     {
       "id": 22,
@@ -269,7 +395,13 @@
         "dihitung ulang setiap detik"
       ],
       "answer": 1,
-      "explanation": "Computed properties hanya dievaluasi ulang ketika dependensi yang digunakan berubah."
+      "explanation": "Computed properties hanya dievaluasi ulang ketika dependensi yang digunakan berubah.",
+      "optionReasons": [
+        "computed tidak dihitung ulang pada setiap perubahan yang tidak terkait.",
+        "Nilai computed hanya dihitung ulang bila dependensi reaktifnya berubah.",
+        "computed justru di-cache.",
+        "computed tidak berbasis waktu."
+      ]
     },
     {
       "id": 23,
@@ -281,7 +413,13 @@
         "membuat template dinamis"
       ],
       "answer": 2,
-      "explanation": "Watcher memungkinkan kita menjalankan kode sebagai respons terhadap perubahan properti data."
+      "explanation": "Watcher memungkinkan kita menjalankan kode sebagai respons terhadap perubahan properti data.",
+      "optionReasons": [
+        "Data reaktif dideklarasikan dengan data/ref/reactive.",
+        "Event handler diikat dengan v-on.",
+        "watch menjalankan fungsi ketika properti yang diamati berubah.",
+        "Template dinamis dibuat dengan direktif/komponen."
+      ]
     },
     {
       "id": 24,
@@ -293,7 +431,13 @@
         "menggunakan v-for dengan filter di computed"
       ],
       "answer": 3,
-      "explanation": "Sebaiknya gunakan computed property untuk memfilter data sebelum di-loop dengan v-for."
+      "explanation": "Sebaiknya gunakan computed property untuk memfilter data sebelum di-loop dengan v-for.",
+      "optionReasons": [
+        "Membungkus dengan v-if di luar bukan solusi untuk memfilter item.",
+        "v-else tidak relevan.",
+        "Tidak ada direktif gabungan v-if/v-for.",
+        "Saring data dulu di computed, lalu loop hasilnya dengan v-for."
+      ]
     },
     {
       "id": 25,
@@ -305,7 +449,13 @@
         "node file.js"
       ],
       "answer": 3,
-      "explanation": "File TypeScript dikompilasi menjadi file JavaScript, lalu dijalankan dengan node."
+      "explanation": "File TypeScript dikompilasi menjadi file JavaScript, lalu dijalankan dengan node.",
+      "optionReasons": [
+        "ts-node menjalankan file .ts langsung tanpa kompilasi terpisah.",
+        "tsc mengompilasi, bukan menjalankan.",
+        "npm start menjalankan skrip package.json, tidak spesifik.",
+        "File yang sudah dikompilasi menjadi .js dijalankan dengan node file.js."
+      ]
     },
     {
       "id": 26,
@@ -317,7 +467,13 @@
         "http"
       ],
       "answer": 0,
-      "explanation": "Modul readline menyediakan antarmuka untuk membaca input dari terminal."
+      "explanation": "Modul readline menyediakan antarmuka untuk membaca input dari terminal.",
+      "optionReasons": [
+        "Modul readline membaca input baris demi baris dari terminal.",
+        "path untuk mengolah path file.",
+        "fs untuk sistem file.",
+        "http untuk server/klien HTTP."
+      ]
     },
     {
       "id": 27,
@@ -329,7 +485,13 @@
         "union"
       ],
       "answer": 3,
-      "explanation": "Union type menggunakan simbol | untuk menggabungkan dua atau lebih tipe."
+      "explanation": "Union type menggunakan simbol | untuk menggabungkan dua atau lebih tipe.",
+      "optionReasons": [
+        "any menerima semua tipe, tidak spesifik number atau string.",
+        "enum adalah sekumpulan konstanta bernama.",
+        "tuple adalah array berpanjang tetap.",
+        "Union (number | string) membatasi nilai pada number atau string."
+      ]
     },
     {
       "id": 28,
@@ -341,7 +503,13 @@
         "Callback"
       ],
       "answer": 0,
-      "explanation": "Fungsi async selalu mengembalikan Promise, meskipun tidak ada return eksplisit."
+      "explanation": "Fungsi async selalu mengembalikan Promise, meskipun tidak ada return eksplisit.",
+      "optionReasons": [
+        "Fungsi async selalu mengembalikan Promise.",
+        "void tidak dikembalikan fungsi async.",
+        "Observable berasal dari RxJS.",
+        "Callback adalah pola lama, bukan tipe kembalian async."
+      ]
     },
     {
       "id": 29,
@@ -353,7 +521,13 @@
         "XML"
       ],
       "answer": 0,
-      "explanation": "fetch mengembalikan Promise yang mewakili respons HTTP."
+      "explanation": "fetch mengembalikan Promise yang mewakili respons HTTP.",
+      "optionReasons": [
+        "fetch mengembalikan Promise<Response>.",
+        "JSON baru didapat setelah memanggil response.json().",
+        "string didapat dari response.text().",
+        "XML bukan hasil langsung fetch."
+      ]
     },
     {
       "id": 30,
@@ -365,7 +539,13 @@
         "DELETE"
       ],
       "answer": 2,
-      "explanation": "PUT digunakan untuk mengganti seluruh sumber daya dengan data yang dikirim."
+      "explanation": "PUT digunakan untuk mengganti seluruh sumber daya dengan data yang dikirim.",
+      "optionReasons": [
+        "GET untuk membaca data.",
+        "POST untuk membuat data baru.",
+        "PUT mengganti/memperbarui data secara keseluruhan.",
+        "DELETE untuk menghapus data."
+      ]
     },
     {
       "id": 31,
@@ -377,7 +557,13 @@
         "permintaan tidak valid"
       ],
       "answer": 0,
-      "explanation": "404 Not Found berarti server tidak dapat menemukan sumber daya yang diminta."
+      "explanation": "404 Not Found berarti server tidak dapat menemukan sumber daya yang diminta.",
+      "optionReasons": [
+        "404 Not Found: resource tidak ditemukan.",
+        "Permintaan berhasil adalah 200.",
+        "Error internal server adalah 500.",
+        "Permintaan tidak valid adalah 400."
+      ]
     },
     {
       "id": 32,
@@ -389,7 +575,13 @@
         "while loop"
       ],
       "answer": 1,
-      "explanation": "async/await memudahkan penulisan kode asynchronous tanpa callback."
+      "explanation": "async/await memudahkan penulisan kode asynchronous tanpa callback.",
+      "optionReasons": [
+        "forEach bersifat sinkron.",
+        "async/await menangani operasi I/O secara non-blocking dengan sintaks yang rapi.",
+        "setInterval untuk penjadwalan berulang.",
+        "while loop bersifat blocking."
+      ]
     },
     {
       "id": 33,
@@ -401,7 +593,13 @@
         "index.html"
       ],
       "answer": 2,
-      "explanation": "tsconfig.json mengatur opsi kompilasi TypeScript untuk proyek Vue."
+      "explanation": "tsconfig.json mengatur opsi kompilasi TypeScript untuk proyek Vue.",
+      "optionReasons": [
+        "package.json mengatur dependensi dan skrip.",
+        "vue.config.js mengatur Vue CLI, bukan TypeScript.",
+        "tsconfig.json adalah konfigurasi utama TypeScript.",
+        "index.html adalah halaman HTML awal."
+      ]
     },
     {
       "id": 34,
@@ -413,7 +611,13 @@
         "menandai kelas sebagai komponen Vue"
       ],
       "answer": 3,
-      "explanation": "@Component dari vue-property-decorator mengubah kelas menjadi komponen Vue."
+      "explanation": "@Component dari vue-property-decorator mengubah kelas menjadi komponen Vue.",
+      "optionReasons": [
+        "Impor memakai import.",
+        "Properti reaktif dideklarasikan sebagai field kelas/@Prop.",
+        "Mixin dibuat dengan cara lain.",
+        "@Component (vue-class-component) menandai kelas sebagai komponen Vue."
+      ]
     },
     {
       "id": 35,
@@ -425,7 +629,13 @@
         "npm init vue@latest — –typescript"
       ],
       "answer": 3,
-      "explanation": "Perintah 'npm init vue@latest — –typescript' digunakan untuk membuat proyek Vue dengan TypeScript secara otomatis."
+      "explanation": "Perintah 'npm init vue@latest — –typescript' digunakan untuk membuat proyek Vue dengan TypeScript secara otomatis.",
+      "optionReasons": [
+        "Sintaks ini tidak memakai pemisah -- untuk meneruskan flag.",
+        "vue create adalah perintah Vue CLI lama, bukan Vite.",
+        "Tidak ada perintah 'vite create'.",
+        "npm init vue@latest -- --typescript menjalankan create-vue (berbasis Vite) dengan opsi TypeScript."
+      ]
     },
     {
       "id": 36,
@@ -437,7 +647,13 @@
         "env.d.ts"
       ],
       "answer": 0,
-      "explanation": "File tsconfig.json merupakan file konfigurasi utama untuk TypeScript dalam proyek Vue."
+      "explanation": "File tsconfig.json merupakan file konfigurasi utama untuk TypeScript dalam proyek Vue.",
+      "optionReasons": [
+        "tsconfig.json adalah file konfigurasi utama TypeScript.",
+        "package.json untuk dependensi.",
+        "vite.config.ts untuk konfigurasi Vite.",
+        "env.d.ts untuk deklarasi tipe lingkungan."
+      ]
     },
     {
       "id": 37,
@@ -449,7 +665,13 @@
         "menginstal Visual Studio Code"
       ],
       "answer": 2,
-      "explanation": "Node.js dan npm diperlukan sebagai dasar untuk menginstal Ionic Framework melalui perintah npm."
+      "explanation": "Node.js dan npm diperlukan sebagai dasar untuk menginstal Ionic Framework melalui perintah npm.",
+      "optionReasons": [
+        "Xcode hanya untuk build iOS, tidak wajib di awal.",
+        "Android Studio hanya untuk build Android.",
+        "Ionic CLI diinstal lewat npm, jadi Node.js dan npm harus ada lebih dulu.",
+        "VS Code hanya editor, bersifat opsional."
+      ]
     },
     {
       "id": 38,
@@ -461,7 +683,13 @@
         "npm install -g @ionic/cli"
       ],
       "answer": 3,
-      "explanation": "Perintah 'npm install -g @ionic/cli' menginstal Ionic CLI secara global untuk akses di seluruh sistem."
+      "explanation": "Perintah 'npm install -g @ionic/cli' menginstal Ionic CLI secara global untuk akses di seluruh sistem.",
+      "optionReasons": [
+        "Tanpa -g, paket hanya terinstal lokal di proyek.",
+        "Paket 'ionic' adalah nama lama dan tidak global.",
+        "'ionic' adalah paket lama; paket resmi sekarang @ionic/cli.",
+        "npm install -g @ionic/cli menginstal Ionic CLI resmi secara global."
+      ]
     },
     {
       "id": 39,
@@ -473,7 +701,13 @@
         "Node.js 16 atau lebih baru"
       ],
       "answer": 2,
-      "explanation": "Ionic Framework membutuhkan Node.js versi 14 atau lebih baru untuk kompatibilitas dan performa optimal."
+      "explanation": "Ionic Framework membutuhkan Node.js versi 14 atau lebih baru untuk kompatibilitas dan performa optimal.",
+      "optionReasons": [
+        "Node 12 sudah di bawah syarat minimal versi yang dirujuk soal.",
+        "Node 10 terlalu lama.",
+        "Sesuai materi, Ionic memerlukan Node.js 14 atau lebih baru.",
+        "Node 16 memenuhi syarat, tetapi bukan batas minimal yang dirujuk."
+      ]
     },
     {
       "id": 40,
@@ -485,7 +719,13 @@
         "Capacitor"
       ],
       "answer": 0,
-      "explanation": "Android Studio menyediakan emulator untuk menguji aplikasi Ionic pada platform Android. Catatan: jawaban digeser ke D karena distribusi."
+      "explanation": "Android Studio menyediakan emulator untuk menguji aplikasi Ionic pada platform Android. Catatan: jawaban digeser ke D karena distribusi.",
+      "optionReasons": [
+        "Android Studio menyediakan Android Emulator (AVD).",
+        "Cordova adalah runtime/plugin hybrid, bukan emulator.",
+        "Ionic DevApp adalah aplikasi uji di perangkat nyata (sudah dihentikan).",
+        "Capacitor adalah runtime native bridge, bukan emulator."
+      ]
     },
     {
       "id": 41,
@@ -497,7 +737,13 @@
         "Capacitor"
       ],
       "answer": 0,
-      "explanation": "Android Studio menyediakan emulator untuk menguji aplikasi Ionic pada platform Android."
+      "explanation": "Android Studio menyediakan emulator untuk menguji aplikasi Ionic pada platform Android.",
+      "optionReasons": [
+        "Android Studio menyediakan Android Emulator (AVD).",
+        "Cordova adalah runtime/plugin hybrid, bukan emulator.",
+        "Ionic DevApp adalah aplikasi uji di perangkat nyata (sudah dihentikan).",
+        "Capacitor adalah runtime native bridge, bukan emulator."
+      ]
     },
     {
       "id": 42,
@@ -509,7 +755,13 @@
         "vue create myApp –ionic"
       ],
       "answer": 2,
-      "explanation": "Perintah 'ionic start myApp tabs –type=vue' membuat proyek Ionic dengan template tabs dan menggunakan Vue."
+      "explanation": "Perintah 'ionic start myApp tabs –type=vue' membuat proyek Ionic dengan template tabs dan menggunakan Vue.",
+      "optionReasons": [
+        "Tidak ada perintah npm init ionic.",
+        "Ionic CLI memakai 'start', bukan 'create'.",
+        "ionic start <nama> <template> --type=vue membuat proyek Ionic Vue.",
+        "vue create tidak memiliki opsi --ionic."
+      ]
     },
     {
       "id": 43,
@@ -521,7 +773,13 @@
         "sidemenu, list, blank"
       ],
       "answer": 1,
-      "explanation": "Ionic menyediakan template blank, tabs, dan sidemenu sebagai pilihan awal proyek."
+      "explanation": "Ionic menyediakan template blank, tabs, dan sidemenu sebagai pilihan awal proyek.",
+      "optionReasons": [
+        "list dan grid bukan template starter Ionic.",
+        "Template starter Ionic: blank, tabs, dan sidemenu.",
+        "grid dan form bukan template starter.",
+        "list bukan template starter."
+      ]
     },
     {
       "id": 44,
@@ -533,7 +791,13 @@
         "home.vue"
       ],
       "answer": 2,
-      "explanation": "File main.ts adalah titik masuk utama aplikasi Ionic berbasis Vue."
+      "explanation": "File main.ts adalah titik masuk utama aplikasi Ionic berbasis Vue.",
+      "optionReasons": [
+        "App.vue adalah komponen root, tetapi titik masuk utamanya adalah main.ts.",
+        "index.html adalah halaman HTML, bukan titik masuk kode.",
+        "main.ts adalah entry point yang membuat aplikasi Vue dan memasang IonicVue.",
+        "home.vue bukan file utama (biasanya HomePage.vue di views)."
+      ]
     },
     {
       "id": 45,
@@ -545,7 +809,13 @@
         "ionic dev"
       ],
       "answer": 1,
-      "explanation": "Perintah 'ionic serve' menjalankan aplikasi Ionic di browser untuk pengujian cepat."
+      "explanation": "Perintah 'ionic serve' menjalankan aplikasi Ionic di browser untuk pengujian cepat.",
+      "optionReasons": [
+        "ionic run bukan perintah untuk server pengembangan browser.",
+        "ionic serve menjalankan dev server dan membuka aplikasi di browser.",
+        "npm start tidak spesifik Ionic.",
+        "ionic dev bukan perintah Ionic."
+      ]
     },
     {
       "id": 46,
@@ -557,7 +827,13 @@
         "src/layouts"
       ],
       "answer": 1,
-      "explanation": "Folder src/components digunakan untuk menyimpan komponen Vue yang dapat digunakan kembali."
+      "explanation": "Folder src/components digunakan untuk menyimpan komponen Vue yang dapat digunakan kembali.",
+      "optionReasons": [
+        "src/views untuk halaman (page).",
+        "src/components adalah tempat komponen Vue yang dapat dipakai ulang.",
+        "src/pages bukan konvensi Ionic Vue.",
+        "src/layouts bukan folder default."
+      ]
     },
     {
       "id": 47,
@@ -569,7 +845,13 @@
         "ion-tab-bar"
       ],
       "answer": 3,
-      "explanation": "Ion-tab-bar adalah komponen untuk membuat navigasi tab pada aplikasi mobile."
+      "explanation": "Ion-tab-bar adalah komponen untuk membuat navigasi tab pada aplikasi mobile.",
+      "optionReasons": [
+        "ion-menu untuk menu samping.",
+        "ion-toolbar untuk bilah atas/bawah umum.",
+        "ion-nav untuk navigasi stack.",
+        "ion-tab-bar membuat bar tab navigasi di bawah layar."
+      ]
     },
     {
       "id": 48,
@@ -581,7 +863,13 @@
         "mengimpor dan mendaftarkan di main.ts"
       ],
       "answer": 3,
-      "explanation": "Komponen Ionic diimpor dan didaftarkan di file main.ts agar dapat digunakan di seluruh aplikasi."
+      "explanation": "Komponen Ionic diimpor dan didaftarkan di file main.ts agar dapat digunakan di seluruh aplikasi.",
+      "optionReasons": [
+        "package.json hanya berisi dependensi.",
+        "App.vue bukan tempat registrasi plugin global.",
+        "Tidak ada plugin otomatis bawaan.",
+        "IonicVue diimpor dan didaftarkan di main.ts dengan app.use(IonicVue)."
+      ]
     },
     {
       "id": 49,
@@ -593,7 +881,13 @@
         "ion-router"
       ],
       "answer": 0,
-      "explanation": "Ion-app adalah komponen root yang membungkus seluruh aplikasi Ionic."
+      "explanation": "Ion-app adalah komponen root yang membungkus seluruh aplikasi Ionic.",
+      "optionReasons": [
+        "ion-app adalah wadah root seluruh aplikasi Ionic.",
+        "ion-page adalah wadah per halaman.",
+        "ion-content adalah area konten yang bisa di-scroll.",
+        "ion-router untuk routing."
+      ]
     },
     {
       "id": 50,
@@ -605,7 +899,13 @@
         "ion-flex, ion-item, ion-col"
       ],
       "answer": 1,
-      "explanation": "Ion-grid, ion-row, dan ion-col digunakan untuk membuat layout grid responsif yang menyesuaikan layar."
+      "explanation": "Ion-grid, ion-row, dan ion-col digunakan untuk membuat layout grid responsif yang menyesuaikan layar.",
+      "optionReasons": [
+        "ion-list/item/label untuk daftar.",
+        "ion-grid, ion-row, dan ion-col membentuk grid responsif.",
+        "ion-card untuk kartu.",
+        "ion-flex bukan komponen Ionic."
+      ]
     },
     {
       "id": 51,
@@ -617,7 +917,13 @@
         "size-lg"
       ],
       "answer": 0,
-      "explanation": "Atribut size-xs mengontrol lebar kolom pada ukuran layar sangat kecil (extra small)."
+      "explanation": "Atribut size-xs mengontrol lebar kolom pada ukuran layar sangat kecil (extra small).",
+      "optionReasons": [
+        "size-xs mengatur lebar kolom pada breakpoint terkecil (layar kecil/ponsel).",
+        "size-sm berlaku mulai layar ≥576px.",
+        "size-md berlaku mulai layar ≥768px (tablet).",
+        "size-lg berlaku mulai layar ≥992px."
+      ]
     },
     {
       "id": 52,
@@ -629,7 +935,13 @@
         "menggunakan template bawaan Ionic"
       ],
       "answer": 1,
-      "explanation": "Atribut size-{breakpoint} seperti size-sm, size-md memungkinkan pengaturan lebar kolom spesifik per ukuran layar."
+      "explanation": "Atribut size-{breakpoint} seperti size-sm, size-md memungkinkan pengaturan lebar kolom spesifik per ukuran layar.",
+      "optionReasons": [
+        "CSS manual di setiap komponen merepotkan dan tidak memanfaatkan grid Ionic.",
+        "Atribut size-{breakpoint} (size-sm, size-md, dst.) memberi lebar berbeda per ukuran layar.",
+        "Properti grid global tidak membedakan per kolom.",
+        "Template bawaan tidak mengatur lebar kolom per layar."
+      ]
     },
     {
       "id": 53,
@@ -641,7 +953,13 @@
         "color"
       ],
       "answer": 0,
-      "explanation": "Variable CSS custom –ion-background-color digunakan untuk mengatur warna latar belakang secara global di Ionic."
+      "explanation": "Variable CSS custom –ion-background-color digunakan untuk mengatur warna latar belakang secara global di Ionic.",
+      "optionReasons": [
+        "--ion-background-color adalah variabel Ionic untuk latar belakang aplikasi secara global.",
+        "background-color biasa tidak mengubah tema Ionic secara global.",
+        "--ion-color-primary adalah warna utama/aksen.",
+        "color mengatur warna teks."
+      ]
     },
     {
       "id": 54,
@@ -653,7 +971,13 @@
         "–ion-background-color"
       ],
       "answer": 0,
-      "explanation": "–ion-text-color adalah variable CSS yang mengatur warna teks utama pada komponen Ionic."
+      "explanation": "–ion-text-color adalah variable CSS yang mengatur warna teks utama pada komponen Ionic.",
+      "optionReasons": [
+        "--ion-text-color mengatur warna teks utama.",
+        "--ion-color-base dipakai internal untuk warna komponen.",
+        "color biasa bukan variabel tema Ionic.",
+        "--ion-background-color untuk latar belakang."
+      ]
     },
     {
       "id": 55,
@@ -665,7 +989,13 @@
         "–ion-text-color"
       ],
       "answer": 2,
-      "explanation": "–ion-color-dark digunakan untuk mengatur warna tema gelap pada komponen atau aplikasi."
+      "explanation": "–ion-color-dark digunakan untuk mengatur warna tema gelap pada komponen atau aplikasi.",
+      "optionReasons": [
+        "--ion-color-light adalah warna terang.",
+        "--ion-background-color hanya latar belakang, tidak spesifik tema gelap.",
+        "Sesuai kunci soal, warna gelap didefinisikan lewat --ion-color-dark.",
+        "--ion-text-color hanya warna teks."
+      ]
     },
     {
       "id": 56,
@@ -677,7 +1007,13 @@
         "–ion-color-success"
       ],
       "answer": 2,
-      "explanation": "–ion-color-primary adalah variable CSS untuk warna aksen utama yang konsisten di aplikasi."
+      "explanation": "–ion-color-primary adalah variable CSS untuk warna aksen utama yang konsisten di aplikasi.",
+      "optionReasons": [
+        "tertiary adalah warna ketiga.",
+        "secondary adalah warna kedua.",
+        "--ion-color-primary adalah warna utama/aksen yang dipakai konsisten di seluruh aplikasi.",
+        "success untuk status berhasil (hijau)."
+      ]
     },
     {
       "id": 57,
@@ -689,7 +1025,13 @@
         "Ion-List"
       ],
       "answer": 3,
-      "explanation": "Ion-List adalah komponen yang menyediakan daftar item dengan interaksi sentuh."
+      "explanation": "Ion-List adalah komponen yang menyediakan daftar item dengan interaksi sentuh.",
+      "optionReasons": [
+        "Ion-Card menampilkan kartu.",
+        "Ion-Item adalah baris tunggal di dalam list; yang ditanyakan adalah komponen daftarnya.",
+        "Ion-Button adalah tombol.",
+        "Ion-List adalah wadah daftar item yang bisa diklik dengan efek sentuh."
+      ]
     },
     {
       "id": 58,
@@ -701,7 +1043,13 @@
         "slot='start'"
       ],
       "answer": 3,
-      "explanation": "Slot 'start' pada Ion-Button digunakan untuk menempatkan ikon di sebelah kiri teks tombol."
+      "explanation": "Slot 'start' pada Ion-Button digunakan untuk menempatkan ikon di sebelah kiri teks tombol.",
+      "optionReasons": [
+        "icon-end bukan properti yang benar.",
+        "icon-start bukan properti; posisi ikon diatur dengan slot.",
+        "slot='end' menempatkan ikon di kanan teks.",
+        "slot='start' pada ion-icon menempatkan ikon di kiri teks."
+      ]
     },
     {
       "id": 59,
@@ -713,7 +1061,13 @@
         "Ion-Footer"
       ],
       "answer": 0,
-      "explanation": "Ion-Card adalah komponen untuk menampilkan konten dalam bentuk kartu dengan gaya visual yang khas."
+      "explanation": "Ion-Card adalah komponen untuk menampilkan konten dalam bentuk kartu dengan gaya visual yang khas.",
+      "optionReasons": [
+        "Ion-Card menampilkan konten dalam kartu dengan bayangan dan sudut melengkung.",
+        "Ion-Content adalah area konten halaman.",
+        "Ion-Header adalah bagian kepala halaman.",
+        "Ion-Footer adalah bagian kaki halaman."
+      ]
     },
     {
       "id": 60,
@@ -725,7 +1079,13 @@
         "Ion-View"
       ],
       "answer": 0,
-      "explanation": "Ion-Router digunakan untuk mengatur navigasi antar halaman di aplikasi Ionic."
+      "explanation": "Ion-Router digunakan untuk mengatur navigasi antar halaman di aplikasi Ionic.",
+      "optionReasons": [
+        "Sesuai kunci soal, navigasi antarhalaman diatur oleh router (Ion-Router / ion-router-outlet).",
+        "Ion-Nav adalah navigasi stack tanpa URL, bukan pilihan utama.",
+        "Ion-Page adalah wadah halaman.",
+        "Ion-View bukan komponen Ionic modern."
+      ]
     },
     {
       "id": 61,
@@ -737,7 +1097,13 @@
         "Membuat proyek Vue baru lalu menambahkan Ionic"
       ],
       "answer": 3,
-      "explanation": "Langkah awal adalah membuat proyek Vue baru menggunakan Vue CLI, kemudian menambahkan paket Ionic."
+      "explanation": "Langkah awal adalah membuat proyek Vue baru menggunakan Vue CLI, kemudian menambahkan paket Ionic.",
+      "optionReasons": [
+        "Kode komponen ditulis setelah proyek siap.",
+        "Node.js adalah prasyarat lingkungan, bukan langkah integrasi.",
+        "Android Studio hanya untuk build Android.",
+        "Langkah integrasi dimulai dengan membuat proyek Vue lalu menambahkan Ionic."
+      ]
     },
     {
       "id": 62,
@@ -749,7 +1115,13 @@
         "ionic start nama-app tabs"
       ],
       "answer": 1,
-      "explanation": "Perintah 'ionic start nama-app blank –type=vue' digunakan untuk membuat proyek Ionic baru dengan template blank yang menggunakan Vue."
+      "explanation": "Perintah 'ionic start nama-app blank –type=vue' digunakan untuk membuat proyek Ionic baru dengan template blank yang menggunakan Vue.",
+      "optionReasons": [
+        "vue create membuat proyek Vue biasa tanpa Ionic.",
+        "ionic start nama-app blank --type=vue membuat proyek Ionic Vue dengan template blank.",
+        "npm init ionic bukan perintah resmi.",
+        "Tanpa --type=vue, framework belum ditentukan sebagai Vue."
+      ]
     },
     {
       "id": 63,
@@ -761,7 +1133,13 @@
         "npm build"
       ],
       "answer": 2,
-      "explanation": "Perintah 'ionic serve' digunakan untuk menjalankan aplikasi Ionic di browser selama pengembangan."
+      "explanation": "Perintah 'ionic serve' digunakan untuk menjalankan aplikasi Ionic di browser selama pengembangan.",
+      "optionReasons": [
+        "ionic start membuat proyek baru.",
+        "npm run dev bisa menjalankan Vite, tetapi perintah Ionic yang dimaksud adalah ionic serve.",
+        "ionic serve menjalankan aplikasi di browser.",
+        "npm build bukan perintah valid (yang benar npm run build)."
+      ]
     },
     {
       "id": 64,
@@ -773,7 +1151,13 @@
         "style.css"
       ],
       "answer": 1,
-      "explanation": "File variables.css terletak di folder src/theme dan digunakan untuk mendefinisikan variable CSS global Ionic."
+      "explanation": "File variables.css terletak di folder src/theme dan digunakan untuk mendefinisikan variable CSS global Ionic.",
+      "optionReasons": [
+        "global.css untuk gaya global umum.",
+        "variables.css (src/theme) berisi variabel tema dan warna Ionic.",
+        "theme.css bukan file default.",
+        "style.css bukan file default Ionic."
+      ]
     },
     {
       "id": 65,
@@ -785,7 +1169,13 @@
         "Ion-Row dengan tiga ion-grid"
       ],
       "answer": 0,
-      "explanation": "Tanpa properti size, ion-col akan membagi lebar secara otomatis sama rata, sehingga tiga ion-col dalam satu ion-row menghasilkan tiga kolom sama lebar."
+      "explanation": "Tanpa properti size, ion-col akan membagi lebar secara otomatis sama rata, sehingga tiga ion-col dalam satu ion-row menghasilkan tiga kolom sama lebar.",
+      "optionReasons": [
+        "ion-col tanpa size akan membagi lebar secara rata, jadi tiga kolom sama lebar.",
+        "Ion-List membuat daftar vertikal, bukan kolom.",
+        "Tiga kartu tidak otomatis membentuk kolom sama lebar.",
+        "Urutannya salah: grid membungkus row, bukan sebaliknya."
+      ]
     },
     {
       "id": 66,
@@ -797,7 +1187,13 @@
         "global.css"
       ],
       "answer": 1,
-      "explanation": "Tema aplikasi Ionic (termasuk tema gelap) diatur dengan mengubah variable CSS di file src/theme/variables.css. Kunci semula di situs soal adalah global.css, diubah karena bertentangan dengan soal 64 dan struktur proyek Ionic Vue."
+      "explanation": "Tema aplikasi Ionic (termasuk tema gelap) diatur dengan mengubah variable CSS di file src/theme/variables.css. Kunci semula di situs soal adalah global.css, diubah karena bertentangan dengan soal 64 dan struktur proyek Ionic Vue.",
+      "optionReasons": [
+        "main.ts adalah entry point kode.",
+        "variables.css berisi variabel tema yang memengaruhi seluruh aplikasi.",
+        "App.vue adalah komponen root, bukan tempat tema global.",
+        "global.css untuk gaya umum, sedangkan variabel tema ada di variables.css."
+      ]
     },
     {
       "id": 67,
@@ -809,7 +1205,13 @@
         "Ion-Router"
       ],
       "answer": 1,
-      "explanation": "Ion-Back-Button adalah komponen khusus untuk tombol navigasi mundur yang otomatis terintegrasi dengan router."
+      "explanation": "Ion-Back-Button adalah komponen khusus untuk tombol navigasi mundur yang otomatis terintegrasi dengan router.",
+      "optionReasons": [
+        "Ion-Button adalah tombol umum.",
+        "Ion-Back-Button adalah tombol kembali otomatis di toolbar.",
+        "Ion-Nav adalah wadah navigasi.",
+        "Ion-Router mengatur rute."
+      ]
     },
     {
       "id": 68,
@@ -821,7 +1223,13 @@
         "Ion-Item dengan ion-label"
       ],
       "answer": 2,
-      "explanation": "Properti label-placement='floating' pada Ion-Input menampilkan label yang mengambang di atas input saat diisi."
+      "explanation": "Properti label-placement='floating' pada Ion-Input menampilkan label yang mengambang di atas input saat diisi.",
+      "optionReasons": [
+        "Ion-Label hanya label.",
+        "Ion-Textarea untuk teks multibaris.",
+        "Ion-Input dengan label-placement='floating' membuat label mengambang.",
+        "ion-label di dalam ion-item adalah cara lama; untuk label mengambang modern dipakai label-placement."
+      ]
     },
     {
       "id": 69,
@@ -833,7 +1241,13 @@
         "Ion-Content"
       ],
       "answer": 0,
-      "explanation": "Ion-List adalah komponen Ionic yang dirancang untuk menampilkan daftar item yang dapat digulir, sesuai dengan praktikum komponen antarmuka."
+      "explanation": "Ion-List adalah komponen Ionic yang dirancang untuk menampilkan daftar item yang dapat digulir, sesuai dengan praktikum komponen antarmuka.",
+      "optionReasons": [
+        "Ion-List adalah komponen daftar item (bisa digulir di dalam ion-content).",
+        "Ion-Card menampilkan kartu.",
+        "Ion-Item adalah satu baris item.",
+        "Ion-Content adalah area halaman yang bisa di-scroll, bukan komponen daftar."
+      ]
     },
     {
       "id": 70,
@@ -845,7 +1259,13 @@
         "Menampilkan gambar"
       ],
       "answer": 1,
-      "explanation": "Ion-button adalah komponen khusus untuk membuat tombol di aplikasi Ionic."
+      "explanation": "Ion-button adalah komponen khusus untuk membuat tombol di aplikasi Ionic.",
+      "optionReasons": [
+        "Menampilkan teks memakai ion-text/ion-label.",
+        "ion-button dipakai untuk membuat tombol.",
+        "Menyembunyikan elemen memakai CSS/v-if.",
+        "Gambar memakai ion-img."
+      ]
     },
     {
       "id": 71,
@@ -857,7 +1277,13 @@
         "expand=\"full\""
       ],
       "answer": 1,
-      "explanation": "Properti size=\"large\" digunakan untuk membuat tombol berukuran besar."
+      "explanation": "Properti size=\"large\" digunakan untuk membuat tombol berukuran besar.",
+      "optionReasons": [
+        "size='small' membuat tombol kecil.",
+        "size='large' membuat tombol besar.",
+        "expand='block' membuat tombol selebar wadah dengan sudut membulat.",
+        "expand='full' membuat tombol selebar layar tanpa sudut."
+      ]
     },
     {
       "id": 72,
@@ -869,7 +1295,13 @@
         "Menampilkan tab"
       ],
       "answer": 2,
-      "explanation": "Ion-alert digunakan untuk menampilkan dialog peringatan atau notifikasi kepada pengguna."
+      "explanation": "Ion-alert digunakan untuk menampilkan dialog peringatan atau notifikasi kepada pengguna.",
+      "optionReasons": [
+        "Menu navigasi memakai ion-menu.",
+        "Daftar memakai ion-list.",
+        "ion-alert menampilkan dialog peringatan/konfirmasi.",
+        "Tab memakai ion-tabs."
+      ]
     },
     {
       "id": 73,
@@ -881,7 +1313,13 @@
         "ionic cordova platform add android"
       ],
       "answer": 3,
-      "explanation": "Perintah yang benar untuk menambahkan platform Android di Ionic adalah ionic cordova platform add android."
+      "explanation": "Perintah yang benar untuk menambahkan platform Android di Ionic adalah ionic cordova platform add android.",
+      "optionReasons": [
+        "Perintah lama tanpa 'cordova' sudah tidak berlaku.",
+        "ionic generate untuk membuat halaman/komponen.",
+        "ionic build hanya membangun aset web.",
+        "ionic cordova platform add android menambahkan platform Android (Cordova)."
+      ]
     },
     {
       "id": 74,
@@ -893,7 +1331,13 @@
         "ionic cordova run android"
       ],
       "answer": 3,
-      "explanation": "Perintah ionic cordova run android digunakan untuk menjalankan aplikasi di emulator atau perangkat Android."
+      "explanation": "Perintah ionic cordova run android digunakan untuk menjalankan aplikasi di emulator atau perangkat Android.",
+      "optionReasons": [
+        "ionic serve menjalankan di browser.",
+        "ionic deploy bukan perintah untuk emulator.",
+        "build hanya membangun tanpa menjalankan.",
+        "ionic cordova run android membangun dan menjalankan di emulator/perangkat."
+      ]
     },
     {
       "id": 75,
@@ -905,7 +1349,13 @@
         "settings.xml"
       ],
       "answer": 1,
-      "explanation": "Config.xml adalah berkas konfigurasi utama yang mengatur pengaturan platform Android di proyek Ionic."
+      "explanation": "Config.xml adalah berkas konfigurasi utama yang mengatur pengaturan platform Android di proyek Ionic.",
+      "optionReasons": [
+        "android.json bukan konfigurasi utama.",
+        "config.xml adalah konfigurasi utama proyek Cordova (termasuk platform Android).",
+        "build.gradle adalah konfigurasi Gradle di dalam folder platform.",
+        "settings.xml bukan konfigurasi utama."
+      ]
     },
     {
       "id": 76,
@@ -917,7 +1367,13 @@
         "ionic test android"
       ],
       "answer": 2,
-      "explanation": "Perintah ionic cordova run android –device digunakan untuk menguji langsung pada perangkat Android fisik."
+      "explanation": "Perintah ionic cordova run android –device digunakan untuk menguji langsung pada perangkat Android fisik.",
+      "optionReasons": [
+        "ionic serve hanya untuk browser.",
+        "emulate menjalankan di emulator, bukan perangkat nyata.",
+        "run android --device menjalankan di perangkat Android yang terhubung.",
+        "ionic test bukan perintah untuk perangkat."
+      ]
     },
     {
       "id": 77,
@@ -929,7 +1385,13 @@
         "Native Camera API"
       ],
       "answer": 0,
-      "explanation": "Ionic Native Camera adalah plugin yang menyediakan akses ke fitur kamera perangkat."
+      "explanation": "Ionic Native Camera adalah plugin yang menyediakan akses ke fitur kamera perangkat.",
+      "optionReasons": [
+        "Ionic Native Camera adalah wrapper Ionic untuk mengakses kamera.",
+        "Ionic Camera Plugin bukan nama resmi.",
+        "Cordova Camera Plugin adalah plugin dasarnya, tetapi yang dimaksud soal adalah wrapper Ionic Native.",
+        "Native Camera API bukan nama plugin."
+      ]
     },
     {
       "id": 78,
@@ -941,7 +1403,13 @@
         "Konfigurasi file build"
       ],
       "answer": 0,
-      "explanation": "Langkah pertama adalah menginstal plugin yang diinginkan melalui npm sebelum dapat digunakan."
+      "explanation": "Langkah pertama adalah menginstal plugin yang diinginkan melalui npm sebelum dapat digunakan.",
+      "optionReasons": [
+        "Plugin harus diinstal lewat npm lebih dulu sebelum bisa dipakai.",
+        "Kode manual tidak diperlukan.",
+        "Impor modul dilakukan setelah instalasi.",
+        "Konfigurasi build tidak menjadi langkah pertama."
+      ]
     },
     {
       "id": 79,
@@ -953,7 +1421,13 @@
         "Ionic Native Geolocation"
       ],
       "answer": 3,
-      "explanation": "Ionic Native Geolocation adalah plugin resmi untuk mengakses data lokasi perangkat."
+      "explanation": "Ionic Native Geolocation adalah plugin resmi untuk mengakses data lokasi perangkat.",
+      "optionReasons": [
+        "Native Geolocation API bukan nama plugin.",
+        "Ionic Location bukan nama plugin.",
+        "Cordova GPS Plugin bukan nama resmi.",
+        "Ionic Native Geolocation memberi akses lokasi perangkat."
+      ]
     },
     {
       "id": 80,
@@ -965,7 +1439,13 @@
         "GET"
       ],
       "answer": 3,
-      "explanation": "Metode GET digunakan untuk mengambil data dari server dalam akses data RESTful API."
+      "explanation": "Metode GET digunakan untuk mengambil data dari server dalam akses data RESTful API.",
+      "optionReasons": [
+        "DELETE menghapus data.",
+        "POST mengirim/membuat data.",
+        "PUT memperbarui data.",
+        "GET mengambil data dari server."
+      ]
     },
     {
       "id": 81,
@@ -977,7 +1457,13 @@
         "LocalStorage API"
       ],
       "answer": 0,
-      "explanation": "Ionic Storage adalah plugin yang digunakan untuk menyimpan data secara lokal di perangkat."
+      "explanation": "Ionic Storage adalah plugin yang digunakan untuk menyimpan data secara lokal di perangkat.",
+      "optionReasons": [
+        "Ionic Storage adalah plugin penyimpanan key-value lokal.",
+        "Ionic Database bukan plugin resmi.",
+        "Cordova Storage bukan nama yang tepat.",
+        "LocalStorage adalah API browser, bukan plugin Ionic."
+      ]
     },
     {
       "id": 82,
@@ -989,7 +1475,13 @@
         "fetch(url, {type:'POST', data: data})"
       ],
       "answer": 2,
-      "explanation": "Metode fetch dengan parameter method:'POST' digunakan untuk mengirim permintaan POST."
+      "explanation": "Metode fetch dengan parameter method:'POST' digunakan untuk mengirim permintaan POST.",
+      "optionReasons": [
+        "HTTP.post bukan sintaks fetch.",
+        "fetch tidak punya metode .post.",
+        "fetch(url, {method: 'POST', body: data}) adalah sintaks yang benar.",
+        "Kuncinya method dan body, bukan type dan data."
+      ]
     },
     {
       "id": 83,
@@ -1001,7 +1493,13 @@
         "Memuat semua data sekaligus"
       ],
       "answer": 2,
-      "explanation": "Mengurangi penggunaan plugin yang tidak perlu dapat mengoptimalkan performa aplikasi."
+      "explanation": "Mengurangi penggunaan plugin yang tidak perlu dapat mengoptimalkan performa aplikasi.",
+      "optionReasons": [
+        "Komponen berat memperlambat aplikasi.",
+        "Animasi berlebihan membebani rendering.",
+        "Plugin yang tidak perlu menambah ukuran dan waktu muat.",
+        "Memuat semua data sekaligus memperlambat aplikasi."
+      ]
     },
     {
       "id": 84,
@@ -1013,7 +1511,13 @@
         "Full loading"
       ],
       "answer": 1,
-      "explanation": "Lazy loading memungkinkan modul dimuat hanya saat dibutuhkan, sehingga mempercepat waktu loading awal."
+      "explanation": "Lazy loading memungkinkan modul dimuat hanya saat dibutuhkan, sehingga mempercepat waktu loading awal.",
+      "optionReasons": [
+        "Eager loading memuat semua di awal sehingga lambat.",
+        "Lazy loading memuat modul/halaman hanya saat dibutuhkan.",
+        "Synchronous loading memblokir.",
+        "Full loading memuat semua sekaligus."
+      ]
     },
     {
       "id": 85,
@@ -1025,7 +1529,13 @@
         "menggunakan lazy loading pada modul"
       ],
       "answer": 3,
-      "explanation": "Lazy loading memungkinkan modul dimuat sesuai kebutuhan sehingga mengurangi waktu muat awal dan meningkatkan performa aplikasi."
+      "explanation": "Lazy loading memungkinkan modul dimuat sesuai kebutuhan sehingga mengurangi waktu muat awal dan meningkatkan performa aplikasi.",
+      "optionReasons": [
+        "Gambar resolusi tinggi memperberat aplikasi.",
+        "Memuat semua data sekaligus memperlambat.",
+        "Menonaktifkan cache memperlambat aplikasi.",
+        "Lazy loading mengurangi beban awal."
+      ]
     },
     {
       "id": 86,
@@ -1037,7 +1547,13 @@
         "mendefinisikan model data"
       ],
       "answer": 0,
-      "explanation": "HttpClientModule harus diimpor terlebih dahulu agar Angular HttpClient dapat digunakan untuk melakukan permintaan HTTP."
+      "explanation": "HttpClientModule harus diimpor terlebih dahulu agar Angular HttpClient dapat digunakan untuk melakukan permintaan HTTP.",
+      "optionReasons": [
+        "Sesuai kunci soal (konteks Angular), HttpClientModule harus diimpor di modul utama sebelum HttpClient bisa dipakai.",
+        "Service dibuat setelah modul HTTP tersedia.",
+        "Komponen Vue tidak relevan dengan HttpClientModule.",
+        "Model data bisa didefinisikan, tetapi bukan langkah pertama."
+      ]
     },
     {
       "id": 87,
@@ -1049,7 +1565,13 @@
         "this.http.send()"
       ],
       "answer": 1,
-      "explanation": "Method http.get() digunakan untuk mengambil data dari server melalui permintaan GET."
+      "explanation": "Method http.get() digunakan untuk mengambil data dari server melalui permintaan GET.",
+      "optionReasons": [
+        "request() adalah metode generik.",
+        "http.get() membuat permintaan GET.",
+        "post() untuk mengirim data.",
+        "send() bukan metode HttpClient."
+      ]
     },
     {
       "id": 88,
@@ -1061,7 +1583,13 @@
         "Promises dan async/await"
       ],
       "answer": 3,
-      "explanation": "Promises dan async/await adalah mekanisme untuk menangani operasi asinkron di Typescript."
+      "explanation": "Promises dan async/await adalah mekanisme untuk menangani operasi asinkron di Typescript.",
+      "optionReasons": [
+        "Callback adalah pola lama yang rawan callback hell.",
+        "Variabel global tidak menangani asinkron.",
+        "Loop tidak menangani asinkron.",
+        "Promise dan async/await adalah cara standar menangani operasi asinkron."
+      ]
     },
     {
       "id": 89,
@@ -1073,7 +1601,13 @@
         "this.http.delete(url, data)"
       ],
       "answer": 2,
-      "explanation": "Method http.post() digunakan untuk mengirim data ke server."
+      "explanation": "Method http.post() digunakan untuk mengirim data ke server.",
+      "optionReasons": [
+        "get() untuk mengambil data.",
+        "put() untuk memperbarui data.",
+        "post(url, data) untuk mengirim data baru.",
+        "delete() untuk menghapus data."
+      ]
     },
     {
       "id": 90,
@@ -1085,7 +1619,13 @@
         "ion-input"
       ],
       "answer": 0,
-      "explanation": "Ion-list dan ion-item digunakan untuk menampilkan data dalam bentuk daftar."
+      "explanation": "Ion-list dan ion-item digunakan untuk menampilkan data dalam bentuk daftar.",
+      "optionReasons": [
+        "ion-list dan ion-item cocok untuk menampilkan data dalam bentuk daftar.",
+        "ion-button adalah tombol.",
+        "ion-card adalah kartu, bukan daftar.",
+        "ion-input adalah input form."
+      ]
     },
     {
       "id": 91,
@@ -1097,7 +1637,13 @@
         "menggunakan catch dalam promise"
       ],
       "answer": 3,
-      "explanation": "Catch dalam promise digunakan untuk menangani error yang terjadi saat permintaan HTTP."
+      "explanation": "Catch dalam promise digunakan untuk menangani error yang terjadi saat permintaan HTTP.",
+      "optionReasons": [
+        "Mengabaikan error membuat aplikasi tidak andal.",
+        "Menghentikan aplikasi buruk bagi pengguna.",
+        "console tidak terlihat oleh pengguna.",
+        ".catch() pada promise (atau try/catch) menangani error dengan benar."
+      ]
     },
     {
       "id": 92,
@@ -1109,7 +1655,13 @@
         "cookie"
       ],
       "answer": 2,
-      "explanation": "Ionic Storage menyediakan penyimpanan lokal yang lebih aman untuk aplikasi mobile dibandingkan localStorage biasa."
+      "explanation": "Ionic Storage menyediakan penyimpanan lokal yang lebih aman untuk aplikasi mobile dibandingkan localStorage biasa.",
+      "optionReasons": [
+        "localStorage rentan dan bisa dihapus WebView.",
+        "sessionStorage hilang saat sesi berakhir.",
+        "Sesuai kunci soal, Ionic Storage dipakai untuk menyimpan token secara lokal dan persisten.",
+        "Cookie tidak ideal untuk aplikasi mobile hybrid."
+      ]
     },
     {
       "id": 93,
@@ -1121,7 +1673,13 @@
         "Postman"
       ],
       "answer": 3,
-      "explanation": "Postman adalah alat populer untuk menguji endpoint API secara lokal."
+      "explanation": "Postman adalah alat populer untuk menguji endpoint API secara lokal.",
+      "optionReasons": [
+        "Ionic Lab untuk pratinjau UI.",
+        "Android Studio untuk build/emulator Android.",
+        "Xcode untuk build iOS.",
+        "Postman dipakai untuk menguji endpoint API."
+      ]
     },
     {
       "id": 94,
@@ -1133,7 +1691,13 @@
         "server mengalami error internal"
       ],
       "answer": 0,
-      "explanation": "Status 404 menunjukkan bahwa sumber daya yang diminta tidak ditemukan di server."
+      "explanation": "Status 404 menunjukkan bahwa sumber daya yang diminta tidak ditemukan di server.",
+      "optionReasons": [
+        "404 berarti resource tidak ditemukan.",
+        "Berhasil adalah 200.",
+        "Permintaan tidak valid adalah 400.",
+        "Error internal server adalah 500."
+      ]
     },
     {
       "id": 95,
@@ -1145,7 +1709,13 @@
         "JSON.format()"
       ],
       "answer": 1,
-      "explanation": "JSON.parse() digunakan untuk mengubah string JSON menjadi objek JavaScript."
+      "explanation": "JSON.parse() digunakan untuk mengubah string JSON menjadi objek JavaScript.",
+      "optionReasons": [
+        "stringify mengubah objek menjadi string JSON (kebalikannya).",
+        "JSON.parse() mengubah string JSON menjadi objek.",
+        "JSON.convert() tidak ada.",
+        "JSON.format() tidak ada."
+      ]
     },
     {
       "id": 96,
@@ -1157,7 +1727,13 @@
         "Ionic Native Network"
       ],
       "answer": 1,
-      "explanation": "Ionic Native Camera digunakan untuk mengakses kamera perangkat mobile."
+      "explanation": "Ionic Native Camera digunakan untuk mengakses kamera perangkat mobile.",
+      "optionReasons": [
+        "Geolocation untuk lokasi.",
+        "Ionic Native Camera untuk mengakses kamera.",
+        "Storage untuk penyimpanan.",
+        "Network untuk status jaringan."
+      ]
     },
     {
       "id": 97,
@@ -1169,7 +1745,13 @@
         "mengupdate sistem operasi"
       ],
       "answer": 2,
-      "explanation": "Plugin perlu diimpor dan ditambahkan ke dalam app.module.ts agar dapat digunakan."
+      "explanation": "Plugin perlu diimpor dan ditambahkan ke dalam app.module.ts agar dapat digunakan.",
+      "optionReasons": [
+        "Restart aplikasi tidak membuat plugin aktif.",
+        "Menghapus plugin bertentangan dengan tujuan.",
+        "Plugin didaftarkan sebagai provider di app.module.ts (Angular).",
+        "Update OS tidak diperlukan."
+      ]
     },
     {
       "id": 98,
@@ -1181,7 +1763,13 @@
         "Ionic Native Vibration"
       ],
       "answer": 1,
-      "explanation": "Ionic Native Geolocation digunakan untuk mengakses koordinat lokasi pengguna."
+      "explanation": "Ionic Native Geolocation digunakan untuk mengakses koordinat lokasi pengguna.",
+      "optionReasons": [
+        "Camera untuk foto.",
+        "Geolocation memberikan koordinat lokasi pengguna.",
+        "Battery untuk status baterai.",
+        "Vibration untuk getaran."
+      ]
     },
     {
       "id": 99,
@@ -1193,7 +1781,13 @@
         "menginstal plugin"
       ],
       "answer": 0,
-      "explanation": "Merancang arsitektur aplikasi penting dilakukan sebelum implementasi agar struktur aplikasi jelas."
+      "explanation": "Merancang arsitektur aplikasi penting dilakukan sebelum implementasi agar struktur aplikasi jelas.",
+      "optionReasons": [
+        "Arsitektur aplikasi dirancang dulu sebelum menulis kode.",
+        "Halaman login dibuat setelah rancangan.",
+        "Kode ditulis setelah rancangan.",
+        "Plugin diinstal sesuai rancangan."
+      ]
     },
     {
       "id": 100,
@@ -1205,7 +1799,13 @@
         "HTML"
       ],
       "answer": 2,
-      "explanation": "Format JSON umum digunakan dalam pertukaran data antara aplikasi dan server."
+      "explanation": "Format JSON umum digunakan dalam pertukaran data antara aplikasi dan server.",
+      "optionReasons": [
+        "XML lebih jarang dipakai di REST modern.",
+        "CSV tidak cocok untuk data bertingkat.",
+        "JSON adalah format standar REST API yang ringan dan native di JavaScript.",
+        "HTML untuk tampilan, bukan pertukaran data."
+      ]
     }
   ]
 }
